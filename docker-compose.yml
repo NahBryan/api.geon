@@ -1,0 +1,216 @@
+# ============================================================
+# GEoN Risk Assessment Platform — Docker Compose
+# Services: API, PostgreSQL, Redis, Celery Worker, Flower,
+#           Prometheus, Grafana, PgAdmin
+# ============================================================
+
+version: "3.9"
+
+services:
+
+  # ── FastAPI Application ─────────────────────────────────────────────────────
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: GEoN-api
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    environment:
+      DATABASE_URL: postgresql+asyncpg://agri_user:agri_pass@postgres:5432/agri_risk_db
+      DATABASE_URL_SYNC: postgresql://agri_user:agri_pass@postgres:5432/agri_risk_db
+      REDIS_URL: redis://redis:6379/0
+      CELERY_BROKER_URL: redis://redis:6379/1
+      CELERY_RESULT_BACKEND: redis://redis:6379/2
+      SECRET_KEY: ${SECRET_KEY:-change-this-in-production-min-32-chars}
+      APP_ENV: ${APP_ENV:-production}
+      DEBUG: ${DEBUG:-false}
+      LOG_FORMAT: json
+      PROMETHEUS_ENABLED: "true"
+    volumes:
+      - ./data:/app/data
+      - ./ml_models:/app/ml_models
+      - ./reports:/app/reports
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/api/v1/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+      start_period: 60s
+    networks:
+      - GEoN-net
+
+  # ── Celery Worker ────────────────────────────────────────────────────────────
+  celery-worker:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: GEoN-celery-worker
+    restart: unless-stopped
+    command: >
+      celery -A app.workers.tasks.celery_app worker
+      --loglevel=info
+      --concurrency=4
+      -Q default,reports,maintenance
+    environment:
+      DATABASE_URL: postgresql+asyncpg://agri_user:agri_pass@postgres:5432/agri_risk_db
+      REDIS_URL: redis://redis:6379/0
+      CELERY_BROKER_URL: redis://redis:6379/1
+      CELERY_RESULT_BACKEND: redis://redis:6379/2
+      SECRET_KEY: ${SECRET_KEY:-change-this-in-production-min-32-chars}
+    volumes:
+      - ./data:/app/data
+      - ./ml_models:/app/ml_models
+      - ./reports:/app/reports
+    depends_on:
+      - redis
+      - postgres
+    networks:
+      - GEoN-net
+
+  # ── Celery Beat (Scheduler) ──────────────────────────────────────────────────
+  celery-beat:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: GEoN-celery-beat
+    restart: unless-stopped
+    command: >
+      celery -A app.workers.tasks.celery_app beat
+      --loglevel=info
+      --scheduler django_celery_beat.schedulers:DatabaseScheduler
+    environment:
+      CELERY_BROKER_URL: redis://redis:6379/1
+      CELERY_RESULT_BACKEND: redis://redis:6379/2
+    depends_on:
+      - redis
+    networks:
+      - GEoN-net
+
+  # ── Flower (Celery Dashboard) ────────────────────────────────────────────────
+  flower:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: GEoN-flower
+    restart: unless-stopped
+    command: >
+      celery -A app.workers.tasks.celery_app flower
+      --port=5555
+      --basic_auth=${FLOWER_USER:-admin}:${FLOWER_PASSWORD:-admin123}
+    ports:
+      - "5555:5555"
+    environment:
+      CELERY_BROKER_URL: redis://redis:6379/1
+    depends_on:
+      - redis
+    networks:
+      - GEoN-net
+
+  # ── PostgreSQL ───────────────────────────────────────────────────────────────
+  postgres:
+    image: postgres:16-alpine
+    container_name: GEoN-postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: agri_risk_db
+      POSTGRES_USER: agri_user
+      POSTGRES_PASSWORD: agri_pass
+      PGDATA: /var/lib/postgresql/data/pgdata
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./scripts/init_db.sql:/docker-entrypoint-initdb.d/init.sql
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U agri_user -d agri_risk_db"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+    networks:
+      - GEoN-net
+
+  # ── Redis ────────────────────────────────────────────────────────────────────
+  redis:
+    image: redis:7-alpine
+    container_name: GEoN-redis
+    restart: unless-stopped
+    command: >
+      redis-server
+      --maxmemory 512mb
+      --maxmemory-policy allkeys-lru
+      --appendonly yes
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 3s
+      retries: 5
+    networks:
+      - GEoN-net
+
+  # ── Prometheus ───────────────────────────────────────────────────────────────
+  prometheus:
+    image: prom/prometheus:v2.51.0
+    container_name: GEoN-prometheus
+    restart: unless-stopped
+    command:
+      - "--config.file=/etc/prometheus/prometheus.yml"
+      - "--storage.tsdb.path=/prometheus"
+      - "--storage.tsdb.retention.time=15d"
+      - "--web.console.libraries=/usr/share/prometheus/console_libraries"
+      - "--web.console.templates=/usr/share/prometheus/consoles"
+    ports:
+      - "9090:9090"
+    volumes:
+      - ./monitoring/prometheus.yml:/etc/prometheus/prometheus.yml:ro
+      - prometheus_data:/prometheus
+    depends_on:
+      - api
+    networks:
+      - GEoN-net
+
+  # ── PgAdmin (Database UI) ────────────────────────────────────────────────────
+  pgadmin:
+    image: dpage/pgadmin4:8
+    container_name: GEoN-pgadmin
+    restart: unless-stopped
+    environment:
+      PGADMIN_DEFAULT_EMAIL: ${PGADMIN_EMAIL:-admin@GEoN.cm}
+      PGADMIN_DEFAULT_PASSWORD: ${PGADMIN_PASSWORD:-admin123}
+    ports:
+      - "5050:80"
+    depends_on:
+      - postgres
+    networks:
+      - GEoN-net
+    profiles:
+      - dev  # Only starts with: docker-compose --profile dev up
+
+
+# ── Volumes ──────────────────────────────────────────────────────────────────
+volumes:
+  postgres_data:
+    driver: local
+  redis_data:
+    driver: local
+  prometheus_data:
+    driver: local
+
+
+# ── Networks ─────────────────────────────────────────────────────────────────
+networks:
+  GEoN-net:
+    driver: bridge
+    ipam:
+      config:
+        - subnet: 172.20.0.0/16

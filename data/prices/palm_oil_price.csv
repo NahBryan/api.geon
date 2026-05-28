@@ -1,0 +1,4161 @@
+date,price_xaf_per_kg,region,crop,year,month,week
+2016-01-01,912.0,North West,palm_oil,2016,1,53
+2016-01-01,951.0,South West,palm_oil,2016,1,53
+2016-01-01,952.0,West,palm_oil,2016,1,53
+2016-01-01,1032.0,Adamawa,palm_oil,2016,1,53
+2016-01-01,968.0,Far North,palm_oil,2016,1,53
+2016-01-01,1030.0,Centre,palm_oil,2016,1,53
+2016-01-01,1043.0,East,palm_oil,2016,1,53
+2016-01-01,1101.0,North,palm_oil,2016,1,53
+2016-01-01,1160.0,South,palm_oil,2016,1,53
+2016-01-01,1038.0,Littoral,palm_oil,2016,1,53
+2016-01-08,984.0,North West,palm_oil,2016,1,1
+2016-01-08,957.0,South West,palm_oil,2016,1,1
+2016-01-08,1060.0,West,palm_oil,2016,1,1
+2016-01-08,1144.0,Adamawa,palm_oil,2016,1,1
+2016-01-08,1095.0,Far North,palm_oil,2016,1,1
+2016-01-08,943.0,Centre,palm_oil,2016,1,1
+2016-01-08,1130.0,East,palm_oil,2016,1,1
+2016-01-08,1087.0,North,palm_oil,2016,1,1
+2016-01-08,922.0,South,palm_oil,2016,1,1
+2016-01-08,1081.0,Littoral,palm_oil,2016,1,1
+2016-01-15,982.0,North West,palm_oil,2016,1,2
+2016-01-15,923.0,South West,palm_oil,2016,1,2
+2016-01-15,1112.0,West,palm_oil,2016,1,2
+2016-01-15,1128.0,Adamawa,palm_oil,2016,1,2
+2016-01-15,963.0,Far North,palm_oil,2016,1,2
+2016-01-15,966.0,Centre,palm_oil,2016,1,2
+2016-01-15,1018.0,East,palm_oil,2016,1,2
+2016-01-15,1123.0,North,palm_oil,2016,1,2
+2016-01-15,921.0,South,palm_oil,2016,1,2
+2016-01-15,1123.0,Littoral,palm_oil,2016,1,2
+2016-01-22,1114.0,North West,palm_oil,2016,1,3
+2016-01-22,1018.0,South West,palm_oil,2016,1,3
+2016-01-22,884.0,West,palm_oil,2016,1,3
+2016-01-22,940.0,Adamawa,palm_oil,2016,1,3
+2016-01-22,898.0,Far North,palm_oil,2016,1,3
+2016-01-22,937.0,Centre,palm_oil,2016,1,3
+2016-01-22,1085.0,East,palm_oil,2016,1,3
+2016-01-22,883.0,North,palm_oil,2016,1,3
+2016-01-22,944.0,South,palm_oil,2016,1,3
+2016-01-22,1006.0,Littoral,palm_oil,2016,1,3
+2016-01-29,1091.0,North West,palm_oil,2016,1,4
+2016-01-29,1038.0,South West,palm_oil,2016,1,4
+2016-01-29,1063.0,West,palm_oil,2016,1,4
+2016-01-29,1113.0,Adamawa,palm_oil,2016,1,4
+2016-01-29,887.0,Far North,palm_oil,2016,1,4
+2016-01-29,1023.0,Centre,palm_oil,2016,1,4
+2016-01-29,1082.0,East,palm_oil,2016,1,4
+2016-01-29,1119.0,North,palm_oil,2016,1,4
+2016-01-29,916.0,South,palm_oil,2016,1,4
+2016-01-29,973.0,Littoral,palm_oil,2016,1,4
+2016-02-05,914.0,North West,palm_oil,2016,2,5
+2016-02-05,1121.0,South West,palm_oil,2016,2,5
+2016-02-05,1127.0,West,palm_oil,2016,2,5
+2016-02-05,1025.0,Adamawa,palm_oil,2016,2,5
+2016-02-05,898.0,Far North,palm_oil,2016,2,5
+2016-02-05,921.0,Centre,palm_oil,2016,2,5
+2016-02-05,1064.0,East,palm_oil,2016,2,5
+2016-02-05,1162.0,North,palm_oil,2016,2,5
+2016-02-05,1122.0,South,palm_oil,2016,2,5
+2016-02-05,1111.0,Littoral,palm_oil,2016,2,5
+2016-02-12,1122.0,North West,palm_oil,2016,2,6
+2016-02-12,987.0,South West,palm_oil,2016,2,6
+2016-02-12,1101.0,West,palm_oil,2016,2,6
+2016-02-12,1014.0,Adamawa,palm_oil,2016,2,6
+2016-02-12,1077.0,Far North,palm_oil,2016,2,6
+2016-02-12,1162.0,Centre,palm_oil,2016,2,6
+2016-02-12,963.0,East,palm_oil,2016,2,6
+2016-02-12,1113.0,North,palm_oil,2016,2,6
+2016-02-12,1057.0,South,palm_oil,2016,2,6
+2016-02-12,1156.0,Littoral,palm_oil,2016,2,6
+2016-02-19,928.0,North West,palm_oil,2016,2,7
+2016-02-19,1088.0,South West,palm_oil,2016,2,7
+2016-02-19,901.0,West,palm_oil,2016,2,7
+2016-02-19,958.0,Adamawa,palm_oil,2016,2,7
+2016-02-19,979.0,Far North,palm_oil,2016,2,7
+2016-02-19,1009.0,Centre,palm_oil,2016,2,7
+2016-02-19,1155.0,East,palm_oil,2016,2,7
+2016-02-19,909.0,North,palm_oil,2016,2,7
+2016-02-19,937.0,South,palm_oil,2016,2,7
+2016-02-19,946.0,Littoral,palm_oil,2016,2,7
+2016-02-26,1134.0,North West,palm_oil,2016,2,8
+2016-02-26,1025.0,South West,palm_oil,2016,2,8
+2016-02-26,1093.0,West,palm_oil,2016,2,8
+2016-02-26,1082.0,Adamawa,palm_oil,2016,2,8
+2016-02-26,1052.0,Far North,palm_oil,2016,2,8
+2016-02-26,1118.0,Centre,palm_oil,2016,2,8
+2016-02-26,1117.0,East,palm_oil,2016,2,8
+2016-02-26,909.0,North,palm_oil,2016,2,8
+2016-02-26,1117.0,South,palm_oil,2016,2,8
+2016-02-26,1015.0,Littoral,palm_oil,2016,2,8
+2016-03-04,930.0,North West,palm_oil,2016,3,9
+2016-03-04,1020.0,South West,palm_oil,2016,3,9
+2016-03-04,934.0,West,palm_oil,2016,3,9
+2016-03-04,986.0,Adamawa,palm_oil,2016,3,9
+2016-03-04,1075.0,Far North,palm_oil,2016,3,9
+2016-03-04,868.0,Centre,palm_oil,2016,3,9
+2016-03-04,908.0,East,palm_oil,2016,3,9
+2016-03-04,1112.0,North,palm_oil,2016,3,9
+2016-03-04,977.0,South,palm_oil,2016,3,9
+2016-03-04,940.0,Littoral,palm_oil,2016,3,9
+2016-03-11,1087.0,North West,palm_oil,2016,3,10
+2016-03-11,896.0,South West,palm_oil,2016,3,10
+2016-03-11,1000.0,West,palm_oil,2016,3,10
+2016-03-11,933.0,Adamawa,palm_oil,2016,3,10
+2016-03-11,1041.0,Far North,palm_oil,2016,3,10
+2016-03-11,890.0,Centre,palm_oil,2016,3,10
+2016-03-11,1004.0,East,palm_oil,2016,3,10
+2016-03-11,849.0,North,palm_oil,2016,3,10
+2016-03-11,915.0,South,palm_oil,2016,3,10
+2016-03-11,891.0,Littoral,palm_oil,2016,3,10
+2016-03-18,890.0,North West,palm_oil,2016,3,11
+2016-03-18,1056.0,South West,palm_oil,2016,3,11
+2016-03-18,1070.0,West,palm_oil,2016,3,11
+2016-03-18,1029.0,Adamawa,palm_oil,2016,3,11
+2016-03-18,987.0,Far North,palm_oil,2016,3,11
+2016-03-18,895.0,Centre,palm_oil,2016,3,11
+2016-03-18,906.0,East,palm_oil,2016,3,11
+2016-03-18,915.0,North,palm_oil,2016,3,11
+2016-03-18,1035.0,South,palm_oil,2016,3,11
+2016-03-18,901.0,Littoral,palm_oil,2016,3,11
+2016-03-25,952.0,North West,palm_oil,2016,3,12
+2016-03-25,1043.0,South West,palm_oil,2016,3,12
+2016-03-25,811.0,West,palm_oil,2016,3,12
+2016-03-25,874.0,Adamawa,palm_oil,2016,3,12
+2016-03-25,873.0,Far North,palm_oil,2016,3,12
+2016-03-25,1045.0,Centre,palm_oil,2016,3,12
+2016-03-25,836.0,East,palm_oil,2016,3,12
+2016-03-25,1003.0,North,palm_oil,2016,3,12
+2016-03-25,871.0,South,palm_oil,2016,3,12
+2016-03-25,1015.0,Littoral,palm_oil,2016,3,12
+2016-04-01,935.0,North West,palm_oil,2016,4,13
+2016-04-01,874.0,South West,palm_oil,2016,4,13
+2016-04-01,990.0,West,palm_oil,2016,4,13
+2016-04-01,1023.0,Adamawa,palm_oil,2016,4,13
+2016-04-01,931.0,Far North,palm_oil,2016,4,13
+2016-04-01,991.0,Centre,palm_oil,2016,4,13
+2016-04-01,859.0,East,palm_oil,2016,4,13
+2016-04-01,1047.0,North,palm_oil,2016,4,13
+2016-04-01,837.0,South,palm_oil,2016,4,13
+2016-04-01,869.0,Littoral,palm_oil,2016,4,13
+2016-04-08,892.0,North West,palm_oil,2016,4,14
+2016-04-08,905.0,South West,palm_oil,2016,4,14
+2016-04-08,919.0,West,palm_oil,2016,4,14
+2016-04-08,803.0,Adamawa,palm_oil,2016,4,14
+2016-04-08,847.0,Far North,palm_oil,2016,4,14
+2016-04-08,990.0,Centre,palm_oil,2016,4,14
+2016-04-08,991.0,East,palm_oil,2016,4,14
+2016-04-08,874.0,North,palm_oil,2016,4,14
+2016-04-08,905.0,South,palm_oil,2016,4,14
+2016-04-08,838.0,Littoral,palm_oil,2016,4,14
+2016-04-15,983.0,North West,palm_oil,2016,4,15
+2016-04-15,1016.0,South West,palm_oil,2016,4,15
+2016-04-15,855.0,West,palm_oil,2016,4,15
+2016-04-15,974.0,Adamawa,palm_oil,2016,4,15
+2016-04-15,870.0,Far North,palm_oil,2016,4,15
+2016-04-15,786.0,Centre,palm_oil,2016,4,15
+2016-04-15,930.0,East,palm_oil,2016,4,15
+2016-04-15,884.0,North,palm_oil,2016,4,15
+2016-04-15,968.0,South,palm_oil,2016,4,15
+2016-04-15,966.0,Littoral,palm_oil,2016,4,15
+2016-04-22,903.0,North West,palm_oil,2016,4,16
+2016-04-22,884.0,South West,palm_oil,2016,4,16
+2016-04-22,859.0,West,palm_oil,2016,4,16
+2016-04-22,941.0,Adamawa,palm_oil,2016,4,16
+2016-04-22,987.0,Far North,palm_oil,2016,4,16
+2016-04-22,825.0,Centre,palm_oil,2016,4,16
+2016-04-22,1024.0,East,palm_oil,2016,4,16
+2016-04-22,952.0,North,palm_oil,2016,4,16
+2016-04-22,975.0,South,palm_oil,2016,4,16
+2016-04-22,1028.0,Littoral,palm_oil,2016,4,16
+2016-04-29,926.0,North West,palm_oil,2016,4,17
+2016-04-29,820.0,South West,palm_oil,2016,4,17
+2016-04-29,997.0,West,palm_oil,2016,4,17
+2016-04-29,1017.0,Adamawa,palm_oil,2016,4,17
+2016-04-29,842.0,Far North,palm_oil,2016,4,17
+2016-04-29,808.0,Centre,palm_oil,2016,4,17
+2016-04-29,836.0,East,palm_oil,2016,4,17
+2016-04-29,882.0,North,palm_oil,2016,4,17
+2016-04-29,1030.0,South,palm_oil,2016,4,17
+2016-04-29,803.0,Littoral,palm_oil,2016,4,17
+2016-05-06,1098.0,North West,palm_oil,2016,5,18
+2016-05-06,901.0,South West,palm_oil,2016,5,18
+2016-05-06,1062.0,West,palm_oil,2016,5,18
+2016-05-06,1137.0,Adamawa,palm_oil,2016,5,18
+2016-05-06,912.0,Far North,palm_oil,2016,5,18
+2016-05-06,888.0,Centre,palm_oil,2016,5,18
+2016-05-06,1115.0,East,palm_oil,2016,5,18
+2016-05-06,1053.0,North,palm_oil,2016,5,18
+2016-05-06,1054.0,South,palm_oil,2016,5,18
+2016-05-06,1139.0,Littoral,palm_oil,2016,5,18
+2016-05-13,1060.0,North West,palm_oil,2016,5,19
+2016-05-13,962.0,South West,palm_oil,2016,5,19
+2016-05-13,972.0,West,palm_oil,2016,5,19
+2016-05-13,895.0,Adamawa,palm_oil,2016,5,19
+2016-05-13,937.0,Far North,palm_oil,2016,5,19
+2016-05-13,974.0,Centre,palm_oil,2016,5,19
+2016-05-13,926.0,East,palm_oil,2016,5,19
+2016-05-13,1098.0,North,palm_oil,2016,5,19
+2016-05-13,860.0,South,palm_oil,2016,5,19
+2016-05-13,1012.0,Littoral,palm_oil,2016,5,19
+2016-05-20,1017.0,North West,palm_oil,2016,5,20
+2016-05-20,957.0,South West,palm_oil,2016,5,20
+2016-05-20,1089.0,West,palm_oil,2016,5,20
+2016-05-20,935.0,Adamawa,palm_oil,2016,5,20
+2016-05-20,1045.0,Far North,palm_oil,2016,5,20
+2016-05-20,1091.0,Centre,palm_oil,2016,5,20
+2016-05-20,883.0,East,palm_oil,2016,5,20
+2016-05-20,1096.0,North,palm_oil,2016,5,20
+2016-05-20,1052.0,South,palm_oil,2016,5,20
+2016-05-20,1010.0,Littoral,palm_oil,2016,5,20
+2016-05-27,944.0,North West,palm_oil,2016,5,21
+2016-05-27,1082.0,South West,palm_oil,2016,5,21
+2016-05-27,858.0,West,palm_oil,2016,5,21
+2016-05-27,959.0,Adamawa,palm_oil,2016,5,21
+2016-05-27,1044.0,Far North,palm_oil,2016,5,21
+2016-05-27,1058.0,Centre,palm_oil,2016,5,21
+2016-05-27,899.0,East,palm_oil,2016,5,21
+2016-05-27,859.0,North,palm_oil,2016,5,21
+2016-05-27,1056.0,South,palm_oil,2016,5,21
+2016-05-27,957.0,Littoral,palm_oil,2016,5,21
+2016-06-03,1077.0,North West,palm_oil,2016,6,22
+2016-06-03,862.0,South West,palm_oil,2016,6,22
+2016-06-03,1081.0,West,palm_oil,2016,6,22
+2016-06-03,1086.0,Adamawa,palm_oil,2016,6,22
+2016-06-03,970.0,Far North,palm_oil,2016,6,22
+2016-06-03,874.0,Centre,palm_oil,2016,6,22
+2016-06-03,1101.0,East,palm_oil,2016,6,22
+2016-06-03,872.0,North,palm_oil,2016,6,22
+2016-06-03,1008.0,South,palm_oil,2016,6,22
+2016-06-03,983.0,Littoral,palm_oil,2016,6,22
+2016-06-10,1096.0,North West,palm_oil,2016,6,23
+2016-06-10,1007.0,South West,palm_oil,2016,6,23
+2016-06-10,998.0,West,palm_oil,2016,6,23
+2016-06-10,1108.0,Adamawa,palm_oil,2016,6,23
+2016-06-10,1131.0,Far North,palm_oil,2016,6,23
+2016-06-10,1020.0,Centre,palm_oil,2016,6,23
+2016-06-10,994.0,East,palm_oil,2016,6,23
+2016-06-10,1095.0,North,palm_oil,2016,6,23
+2016-06-10,1095.0,South,palm_oil,2016,6,23
+2016-06-10,958.0,Littoral,palm_oil,2016,6,23
+2016-06-17,991.0,North West,palm_oil,2016,6,24
+2016-06-17,1041.0,South West,palm_oil,2016,6,24
+2016-06-17,877.0,West,palm_oil,2016,6,24
+2016-06-17,911.0,Adamawa,palm_oil,2016,6,24
+2016-06-17,943.0,Far North,palm_oil,2016,6,24
+2016-06-17,1044.0,Centre,palm_oil,2016,6,24
+2016-06-17,1015.0,East,palm_oil,2016,6,24
+2016-06-17,910.0,North,palm_oil,2016,6,24
+2016-06-17,891.0,South,palm_oil,2016,6,24
+2016-06-17,1006.0,Littoral,palm_oil,2016,6,24
+2016-06-24,947.0,North West,palm_oil,2016,6,25
+2016-06-24,976.0,South West,palm_oil,2016,6,25
+2016-06-24,990.0,West,palm_oil,2016,6,25
+2016-06-24,967.0,Adamawa,palm_oil,2016,6,25
+2016-06-24,981.0,Far North,palm_oil,2016,6,25
+2016-06-24,1051.0,Centre,palm_oil,2016,6,25
+2016-06-24,1046.0,East,palm_oil,2016,6,25
+2016-06-24,864.0,North,palm_oil,2016,6,25
+2016-06-24,974.0,South,palm_oil,2016,6,25
+2016-06-24,937.0,Littoral,palm_oil,2016,6,25
+2016-07-01,981.0,North West,palm_oil,2016,7,26
+2016-07-01,1050.0,South West,palm_oil,2016,7,26
+2016-07-01,872.0,West,palm_oil,2016,7,26
+2016-07-01,927.0,Adamawa,palm_oil,2016,7,26
+2016-07-01,855.0,Far North,palm_oil,2016,7,26
+2016-07-01,1042.0,Centre,palm_oil,2016,7,26
+2016-07-01,1085.0,East,palm_oil,2016,7,26
+2016-07-01,1001.0,North,palm_oil,2016,7,26
+2016-07-01,1009.0,South,palm_oil,2016,7,26
+2016-07-01,860.0,Littoral,palm_oil,2016,7,26
+2016-07-08,944.0,North West,palm_oil,2016,7,27
+2016-07-08,950.0,South West,palm_oil,2016,7,27
+2016-07-08,827.0,West,palm_oil,2016,7,27
+2016-07-08,1014.0,Adamawa,palm_oil,2016,7,27
+2016-07-08,887.0,Far North,palm_oil,2016,7,27
+2016-07-08,999.0,Centre,palm_oil,2016,7,27
+2016-07-08,919.0,East,palm_oil,2016,7,27
+2016-07-08,1067.0,North,palm_oil,2016,7,27
+2016-07-08,871.0,South,palm_oil,2016,7,27
+2016-07-08,832.0,Littoral,palm_oil,2016,7,27
+2016-07-15,954.0,North West,palm_oil,2016,7,28
+2016-07-15,944.0,South West,palm_oil,2016,7,28
+2016-07-15,971.0,West,palm_oil,2016,7,28
+2016-07-15,802.0,Adamawa,palm_oil,2016,7,28
+2016-07-15,1002.0,Far North,palm_oil,2016,7,28
+2016-07-15,915.0,Centre,palm_oil,2016,7,28
+2016-07-15,925.0,East,palm_oil,2016,7,28
+2016-07-15,898.0,North,palm_oil,2016,7,28
+2016-07-15,1040.0,South,palm_oil,2016,7,28
+2016-07-15,994.0,Littoral,palm_oil,2016,7,28
+2016-07-22,921.0,North West,palm_oil,2016,7,29
+2016-07-22,1043.0,South West,palm_oil,2016,7,29
+2016-07-22,954.0,West,palm_oil,2016,7,29
+2016-07-22,1065.0,Adamawa,palm_oil,2016,7,29
+2016-07-22,849.0,Far North,palm_oil,2016,7,29
+2016-07-22,933.0,Centre,palm_oil,2016,7,29
+2016-07-22,952.0,East,palm_oil,2016,7,29
+2016-07-22,1033.0,North,palm_oil,2016,7,29
+2016-07-22,888.0,South,palm_oil,2016,7,29
+2016-07-22,915.0,Littoral,palm_oil,2016,7,29
+2016-07-29,886.0,North West,palm_oil,2016,7,30
+2016-07-29,1027.0,South West,palm_oil,2016,7,30
+2016-07-29,1058.0,West,palm_oil,2016,7,30
+2016-07-29,1021.0,Adamawa,palm_oil,2016,7,30
+2016-07-29,969.0,Far North,palm_oil,2016,7,30
+2016-07-29,860.0,Centre,palm_oil,2016,7,30
+2016-07-29,1046.0,East,palm_oil,2016,7,30
+2016-07-29,866.0,North,palm_oil,2016,7,30
+2016-07-29,933.0,South,palm_oil,2016,7,30
+2016-07-29,847.0,Littoral,palm_oil,2016,7,30
+2016-08-05,1044.0,North West,palm_oil,2016,8,31
+2016-08-05,990.0,South West,palm_oil,2016,8,31
+2016-08-05,1097.0,West,palm_oil,2016,8,31
+2016-08-05,894.0,Adamawa,palm_oil,2016,8,31
+2016-08-05,1073.0,Far North,palm_oil,2016,8,31
+2016-08-05,992.0,Centre,palm_oil,2016,8,31
+2016-08-05,954.0,East,palm_oil,2016,8,31
+2016-08-05,1027.0,North,palm_oil,2016,8,31
+2016-08-05,1066.0,South,palm_oil,2016,8,31
+2016-08-05,974.0,Littoral,palm_oil,2016,8,31
+2016-08-12,958.0,North West,palm_oil,2016,8,32
+2016-08-12,1142.0,South West,palm_oil,2016,8,32
+2016-08-12,1080.0,West,palm_oil,2016,8,32
+2016-08-12,1058.0,Adamawa,palm_oil,2016,8,32
+2016-08-12,877.0,Far North,palm_oil,2016,8,32
+2016-08-12,994.0,Centre,palm_oil,2016,8,32
+2016-08-12,1009.0,East,palm_oil,2016,8,32
+2016-08-12,975.0,North,palm_oil,2016,8,32
+2016-08-12,914.0,South,palm_oil,2016,8,32
+2016-08-12,972.0,Littoral,palm_oil,2016,8,32
+2016-08-19,899.0,North West,palm_oil,2016,8,33
+2016-08-19,958.0,South West,palm_oil,2016,8,33
+2016-08-19,902.0,West,palm_oil,2016,8,33
+2016-08-19,1082.0,Adamawa,palm_oil,2016,8,33
+2016-08-19,1060.0,Far North,palm_oil,2016,8,33
+2016-08-19,1133.0,Centre,palm_oil,2016,8,33
+2016-08-19,982.0,East,palm_oil,2016,8,33
+2016-08-19,1091.0,North,palm_oil,2016,8,33
+2016-08-19,1038.0,South,palm_oil,2016,8,33
+2016-08-19,1053.0,Littoral,palm_oil,2016,8,33
+2016-08-26,929.0,North West,palm_oil,2016,8,34
+2016-08-26,940.0,South West,palm_oil,2016,8,34
+2016-08-26,944.0,West,palm_oil,2016,8,34
+2016-08-26,999.0,Adamawa,palm_oil,2016,8,34
+2016-08-26,1084.0,Far North,palm_oil,2016,8,34
+2016-08-26,1099.0,Centre,palm_oil,2016,8,34
+2016-08-26,1118.0,East,palm_oil,2016,8,34
+2016-08-26,997.0,North,palm_oil,2016,8,34
+2016-08-26,1101.0,South,palm_oil,2016,8,34
+2016-08-26,951.0,Littoral,palm_oil,2016,8,34
+2016-09-02,937.0,North West,palm_oil,2016,9,35
+2016-09-02,1134.0,South West,palm_oil,2016,9,35
+2016-09-02,1140.0,West,palm_oil,2016,9,35
+2016-09-02,1113.0,Adamawa,palm_oil,2016,9,35
+2016-09-02,1009.0,Far North,palm_oil,2016,9,35
+2016-09-02,1200.0,Centre,palm_oil,2016,9,35
+2016-09-02,1185.0,East,palm_oil,2016,9,35
+2016-09-02,1082.0,North,palm_oil,2016,9,35
+2016-09-02,1218.0,South,palm_oil,2016,9,35
+2016-09-02,1020.0,Littoral,palm_oil,2016,9,35
+2016-09-09,1095.0,North West,palm_oil,2016,9,36
+2016-09-09,1097.0,South West,palm_oil,2016,9,36
+2016-09-09,982.0,West,palm_oil,2016,9,36
+2016-09-09,1021.0,Adamawa,palm_oil,2016,9,36
+2016-09-09,1005.0,Far North,palm_oil,2016,9,36
+2016-09-09,1125.0,Centre,palm_oil,2016,9,36
+2016-09-09,1052.0,East,palm_oil,2016,9,36
+2016-09-09,981.0,North,palm_oil,2016,9,36
+2016-09-09,1109.0,South,palm_oil,2016,9,36
+2016-09-09,1156.0,Littoral,palm_oil,2016,9,36
+2016-09-16,1174.0,North West,palm_oil,2016,9,37
+2016-09-16,1204.0,South West,palm_oil,2016,9,37
+2016-09-16,1099.0,West,palm_oil,2016,9,37
+2016-09-16,1072.0,Adamawa,palm_oil,2016,9,37
+2016-09-16,1159.0,Far North,palm_oil,2016,9,37
+2016-09-16,961.0,Centre,palm_oil,2016,9,37
+2016-09-16,1144.0,East,palm_oil,2016,9,37
+2016-09-16,1077.0,North,palm_oil,2016,9,37
+2016-09-16,1091.0,South,palm_oil,2016,9,37
+2016-09-16,1045.0,Littoral,palm_oil,2016,9,37
+2016-09-23,1079.0,North West,palm_oil,2016,9,38
+2016-09-23,1276.0,South West,palm_oil,2016,9,38
+2016-09-23,1271.0,West,palm_oil,2016,9,38
+2016-09-23,1181.0,Adamawa,palm_oil,2016,9,38
+2016-09-23,1259.0,Far North,palm_oil,2016,9,38
+2016-09-23,1213.0,Centre,palm_oil,2016,9,38
+2016-09-23,1091.0,East,palm_oil,2016,9,38
+2016-09-23,1169.0,North,palm_oil,2016,9,38
+2016-09-23,1053.0,South,palm_oil,2016,9,38
+2016-09-23,1194.0,Littoral,palm_oil,2016,9,38
+2016-09-30,968.0,North West,palm_oil,2016,9,39
+2016-09-30,1198.0,South West,palm_oil,2016,9,39
+2016-09-30,1126.0,West,palm_oil,2016,9,39
+2016-09-30,972.0,Adamawa,palm_oil,2016,9,39
+2016-09-30,1210.0,Far North,palm_oil,2016,9,39
+2016-09-30,1212.0,Centre,palm_oil,2016,9,39
+2016-09-30,1205.0,East,palm_oil,2016,9,39
+2016-09-30,1182.0,North,palm_oil,2016,9,39
+2016-09-30,1153.0,South,palm_oil,2016,9,39
+2016-09-30,1071.0,Littoral,palm_oil,2016,9,39
+2016-10-07,1060.0,North West,palm_oil,2016,10,40
+2016-10-07,1063.0,South West,palm_oil,2016,10,40
+2016-10-07,1124.0,West,palm_oil,2016,10,40
+2016-10-07,1019.0,Adamawa,palm_oil,2016,10,40
+2016-10-07,1013.0,Far North,palm_oil,2016,10,40
+2016-10-07,1168.0,Centre,palm_oil,2016,10,40
+2016-10-07,960.0,East,palm_oil,2016,10,40
+2016-10-07,1001.0,North,palm_oil,2016,10,40
+2016-10-07,1085.0,South,palm_oil,2016,10,40
+2016-10-07,1001.0,Littoral,palm_oil,2016,10,40
+2016-10-14,1233.0,North West,palm_oil,2016,10,41
+2016-10-14,1148.0,South West,palm_oil,2016,10,41
+2016-10-14,1079.0,West,palm_oil,2016,10,41
+2016-10-14,985.0,Adamawa,palm_oil,2016,10,41
+2016-10-14,1065.0,Far North,palm_oil,2016,10,41
+2016-10-14,1143.0,Centre,palm_oil,2016,10,41
+2016-10-14,1236.0,East,palm_oil,2016,10,41
+2016-10-14,1091.0,North,palm_oil,2016,10,41
+2016-10-14,1155.0,South,palm_oil,2016,10,41
+2016-10-14,1010.0,Littoral,palm_oil,2016,10,41
+2016-10-21,991.0,North West,palm_oil,2016,10,42
+2016-10-21,1080.0,South West,palm_oil,2016,10,42
+2016-10-21,995.0,West,palm_oil,2016,10,42
+2016-10-21,1141.0,Adamawa,palm_oil,2016,10,42
+2016-10-21,1203.0,Far North,palm_oil,2016,10,42
+2016-10-21,1047.0,Centre,palm_oil,2016,10,42
+2016-10-21,1027.0,East,palm_oil,2016,10,42
+2016-10-21,985.0,North,palm_oil,2016,10,42
+2016-10-21,1046.0,South,palm_oil,2016,10,42
+2016-10-21,1095.0,Littoral,palm_oil,2016,10,42
+2016-10-28,1080.0,North West,palm_oil,2016,10,43
+2016-10-28,1154.0,South West,palm_oil,2016,10,43
+2016-10-28,1166.0,West,palm_oil,2016,10,43
+2016-10-28,998.0,Adamawa,palm_oil,2016,10,43
+2016-10-28,1177.0,Far North,palm_oil,2016,10,43
+2016-10-28,1237.0,Centre,palm_oil,2016,10,43
+2016-10-28,977.0,East,palm_oil,2016,10,43
+2016-10-28,1133.0,North,palm_oil,2016,10,43
+2016-10-28,1149.0,South,palm_oil,2016,10,43
+2016-10-28,1180.0,Littoral,palm_oil,2016,10,43
+2016-11-04,1179.0,North West,palm_oil,2016,11,44
+2016-11-04,1138.0,South West,palm_oil,2016,11,44
+2016-11-04,1235.0,West,palm_oil,2016,11,44
+2016-11-04,1299.0,Adamawa,palm_oil,2016,11,44
+2016-11-04,1263.0,Far North,palm_oil,2016,11,44
+2016-11-04,1300.0,Centre,palm_oil,2016,11,44
+2016-11-04,1094.0,East,palm_oil,2016,11,44
+2016-11-04,1048.0,North,palm_oil,2016,11,44
+2016-11-04,1177.0,South,palm_oil,2016,11,44
+2016-11-04,1025.0,Littoral,palm_oil,2016,11,44
+2016-11-11,1210.0,North West,palm_oil,2016,11,45
+2016-11-11,1076.0,South West,palm_oil,2016,11,45
+2016-11-11,1142.0,West,palm_oil,2016,11,45
+2016-11-11,1204.0,Adamawa,palm_oil,2016,11,45
+2016-11-11,1151.0,Far North,palm_oil,2016,11,45
+2016-11-11,1075.0,Centre,palm_oil,2016,11,45
+2016-11-11,1273.0,East,palm_oil,2016,11,45
+2016-11-11,1237.0,North,palm_oil,2016,11,45
+2016-11-11,1187.0,South,palm_oil,2016,11,45
+2016-11-11,1217.0,Littoral,palm_oil,2016,11,45
+2016-11-18,1010.0,North West,palm_oil,2016,11,46
+2016-11-18,1200.0,South West,palm_oil,2016,11,46
+2016-11-18,1075.0,West,palm_oil,2016,11,46
+2016-11-18,1167.0,Adamawa,palm_oil,2016,11,46
+2016-11-18,1051.0,Far North,palm_oil,2016,11,46
+2016-11-18,1197.0,Centre,palm_oil,2016,11,46
+2016-11-18,993.0,East,palm_oil,2016,11,46
+2016-11-18,1147.0,North,palm_oil,2016,11,46
+2016-11-18,1201.0,South,palm_oil,2016,11,46
+2016-11-18,1157.0,Littoral,palm_oil,2016,11,46
+2016-11-25,1151.0,North West,palm_oil,2016,11,47
+2016-11-25,1102.0,South West,palm_oil,2016,11,47
+2016-11-25,1111.0,West,palm_oil,2016,11,47
+2016-11-25,968.0,Adamawa,palm_oil,2016,11,47
+2016-11-25,1021.0,Far North,palm_oil,2016,11,47
+2016-11-25,1159.0,Centre,palm_oil,2016,11,47
+2016-11-25,1224.0,East,palm_oil,2016,11,47
+2016-11-25,1106.0,North,palm_oil,2016,11,47
+2016-11-25,1160.0,South,palm_oil,2016,11,47
+2016-11-25,1147.0,Littoral,palm_oil,2016,11,47
+2016-12-02,1049.0,North West,palm_oil,2016,12,48
+2016-12-02,1016.0,South West,palm_oil,2016,12,48
+2016-12-02,1191.0,West,palm_oil,2016,12,48
+2016-12-02,1073.0,Adamawa,palm_oil,2016,12,48
+2016-12-02,1099.0,Far North,palm_oil,2016,12,48
+2016-12-02,1223.0,Centre,palm_oil,2016,12,48
+2016-12-02,1186.0,East,palm_oil,2016,12,48
+2016-12-02,1173.0,North,palm_oil,2016,12,48
+2016-12-02,985.0,South,palm_oil,2016,12,48
+2016-12-02,950.0,Littoral,palm_oil,2016,12,48
+2016-12-09,1006.0,North West,palm_oil,2016,12,49
+2016-12-09,1189.0,South West,palm_oil,2016,12,49
+2016-12-09,1091.0,West,palm_oil,2016,12,49
+2016-12-09,1004.0,Adamawa,palm_oil,2016,12,49
+2016-12-09,1188.0,Far North,palm_oil,2016,12,49
+2016-12-09,1026.0,Centre,palm_oil,2016,12,49
+2016-12-09,1144.0,East,palm_oil,2016,12,49
+2016-12-09,1189.0,North,palm_oil,2016,12,49
+2016-12-09,1149.0,South,palm_oil,2016,12,49
+2016-12-09,1264.0,Littoral,palm_oil,2016,12,49
+2016-12-16,993.0,North West,palm_oil,2016,12,50
+2016-12-16,1080.0,South West,palm_oil,2016,12,50
+2016-12-16,1180.0,West,palm_oil,2016,12,50
+2016-12-16,1208.0,Adamawa,palm_oil,2016,12,50
+2016-12-16,1215.0,Far North,palm_oil,2016,12,50
+2016-12-16,1088.0,Centre,palm_oil,2016,12,50
+2016-12-16,1109.0,East,palm_oil,2016,12,50
+2016-12-16,1103.0,North,palm_oil,2016,12,50
+2016-12-16,1069.0,South,palm_oil,2016,12,50
+2016-12-16,979.0,Littoral,palm_oil,2016,12,50
+2016-12-23,960.0,North West,palm_oil,2016,12,51
+2016-12-23,1067.0,South West,palm_oil,2016,12,51
+2016-12-23,995.0,West,palm_oil,2016,12,51
+2016-12-23,1197.0,Adamawa,palm_oil,2016,12,51
+2016-12-23,1161.0,Far North,palm_oil,2016,12,51
+2016-12-23,1120.0,Centre,palm_oil,2016,12,51
+2016-12-23,955.0,East,palm_oil,2016,12,51
+2016-12-23,1121.0,North,palm_oil,2016,12,51
+2016-12-23,1120.0,South,palm_oil,2016,12,51
+2016-12-23,1068.0,Littoral,palm_oil,2016,12,51
+2016-12-30,1211.0,North West,palm_oil,2016,12,52
+2016-12-30,1125.0,South West,palm_oil,2016,12,52
+2016-12-30,1061.0,West,palm_oil,2016,12,52
+2016-12-30,1126.0,Adamawa,palm_oil,2016,12,52
+2016-12-30,1267.0,Far North,palm_oil,2016,12,52
+2016-12-30,1229.0,Centre,palm_oil,2016,12,52
+2016-12-30,990.0,East,palm_oil,2016,12,52
+2016-12-30,1218.0,North,palm_oil,2016,12,52
+2016-12-30,1034.0,South,palm_oil,2016,12,52
+2016-12-30,1154.0,Littoral,palm_oil,2016,12,52
+2017-01-06,1231.0,North West,palm_oil,2017,1,1
+2017-01-06,1157.0,South West,palm_oil,2017,1,1
+2017-01-06,1109.0,West,palm_oil,2017,1,1
+2017-01-06,1084.0,Adamawa,palm_oil,2017,1,1
+2017-01-06,1079.0,Far North,palm_oil,2017,1,1
+2017-01-06,1240.0,Centre,palm_oil,2017,1,1
+2017-01-06,1236.0,East,palm_oil,2017,1,1
+2017-01-06,1236.0,North,palm_oil,2017,1,1
+2017-01-06,1072.0,South,palm_oil,2017,1,1
+2017-01-06,1229.0,Littoral,palm_oil,2017,1,1
+2017-01-13,953.0,North West,palm_oil,2017,1,2
+2017-01-13,933.0,South West,palm_oil,2017,1,2
+2017-01-13,1094.0,West,palm_oil,2017,1,2
+2017-01-13,1010.0,Adamawa,palm_oil,2017,1,2
+2017-01-13,926.0,Far North,palm_oil,2017,1,2
+2017-01-13,1043.0,Centre,palm_oil,2017,1,2
+2017-01-13,1008.0,East,palm_oil,2017,1,2
+2017-01-13,1085.0,North,palm_oil,2017,1,2
+2017-01-13,1184.0,South,palm_oil,2017,1,2
+2017-01-13,1009.0,Littoral,palm_oil,2017,1,2
+2017-01-20,1233.0,North West,palm_oil,2017,1,3
+2017-01-20,969.0,South West,palm_oil,2017,1,3
+2017-01-20,970.0,West,palm_oil,2017,1,3
+2017-01-20,1151.0,Adamawa,palm_oil,2017,1,3
+2017-01-20,1161.0,Far North,palm_oil,2017,1,3
+2017-01-20,1067.0,Centre,palm_oil,2017,1,3
+2017-01-20,1027.0,East,palm_oil,2017,1,3
+2017-01-20,1175.0,North,palm_oil,2017,1,3
+2017-01-20,1222.0,South,palm_oil,2017,1,3
+2017-01-20,1231.0,Littoral,palm_oil,2017,1,3
+2017-01-27,1231.0,North West,palm_oil,2017,1,4
+2017-01-27,1224.0,South West,palm_oil,2017,1,4
+2017-01-27,1282.0,West,palm_oil,2017,1,4
+2017-01-27,1227.0,Adamawa,palm_oil,2017,1,4
+2017-01-27,1183.0,Far North,palm_oil,2017,1,4
+2017-01-27,1096.0,Centre,palm_oil,2017,1,4
+2017-01-27,1163.0,East,palm_oil,2017,1,4
+2017-01-27,1248.0,North,palm_oil,2017,1,4
+2017-01-27,1075.0,South,palm_oil,2017,1,4
+2017-01-27,992.0,Littoral,palm_oil,2017,1,4
+2017-02-03,1077.0,North West,palm_oil,2017,2,5
+2017-02-03,1267.0,South West,palm_oil,2017,2,5
+2017-02-03,1217.0,West,palm_oil,2017,2,5
+2017-02-03,1035.0,Adamawa,palm_oil,2017,2,5
+2017-02-03,982.0,Far North,palm_oil,2017,2,5
+2017-02-03,1180.0,Centre,palm_oil,2017,2,5
+2017-02-03,1153.0,East,palm_oil,2017,2,5
+2017-02-03,1004.0,North,palm_oil,2017,2,5
+2017-02-03,1269.0,South,palm_oil,2017,2,5
+2017-02-03,1164.0,Littoral,palm_oil,2017,2,5
+2017-02-10,1081.0,North West,palm_oil,2017,2,6
+2017-02-10,1148.0,South West,palm_oil,2017,2,6
+2017-02-10,1153.0,West,palm_oil,2017,2,6
+2017-02-10,1271.0,Adamawa,palm_oil,2017,2,6
+2017-02-10,1020.0,Far North,palm_oil,2017,2,6
+2017-02-10,1208.0,Centre,palm_oil,2017,2,6
+2017-02-10,1153.0,East,palm_oil,2017,2,6
+2017-02-10,1234.0,North,palm_oil,2017,2,6
+2017-02-10,1230.0,South,palm_oil,2017,2,6
+2017-02-10,984.0,Littoral,palm_oil,2017,2,6
+2017-02-17,1046.0,North West,palm_oil,2017,2,7
+2017-02-17,1023.0,South West,palm_oil,2017,2,7
+2017-02-17,1107.0,West,palm_oil,2017,2,7
+2017-02-17,1239.0,Adamawa,palm_oil,2017,2,7
+2017-02-17,971.0,Far North,palm_oil,2017,2,7
+2017-02-17,1115.0,Centre,palm_oil,2017,2,7
+2017-02-17,1233.0,East,palm_oil,2017,2,7
+2017-02-17,1245.0,North,palm_oil,2017,2,7
+2017-02-17,1165.0,South,palm_oil,2017,2,7
+2017-02-17,1216.0,Littoral,palm_oil,2017,2,7
+2017-02-24,941.0,North West,palm_oil,2017,2,8
+2017-02-24,1070.0,South West,palm_oil,2017,2,8
+2017-02-24,1057.0,West,palm_oil,2017,2,8
+2017-02-24,1033.0,Adamawa,palm_oil,2017,2,8
+2017-02-24,959.0,Far North,palm_oil,2017,2,8
+2017-02-24,993.0,Centre,palm_oil,2017,2,8
+2017-02-24,985.0,East,palm_oil,2017,2,8
+2017-02-24,1196.0,North,palm_oil,2017,2,8
+2017-02-24,1202.0,South,palm_oil,2017,2,8
+2017-02-24,928.0,Littoral,palm_oil,2017,2,8
+2017-03-03,934.0,North West,palm_oil,2017,3,9
+2017-03-03,1129.0,South West,palm_oil,2017,3,9
+2017-03-03,898.0,West,palm_oil,2017,3,9
+2017-03-03,1144.0,Adamawa,palm_oil,2017,3,9
+2017-03-03,991.0,Far North,palm_oil,2017,3,9
+2017-03-03,1034.0,Centre,palm_oil,2017,3,9
+2017-03-03,1095.0,East,palm_oil,2017,3,9
+2017-03-03,954.0,North,palm_oil,2017,3,9
+2017-03-03,915.0,South,palm_oil,2017,3,9
+2017-03-03,1108.0,Littoral,palm_oil,2017,3,9
+2017-03-10,924.0,North West,palm_oil,2017,3,10
+2017-03-10,882.0,South West,palm_oil,2017,3,10
+2017-03-10,1060.0,West,palm_oil,2017,3,10
+2017-03-10,905.0,Adamawa,palm_oil,2017,3,10
+2017-03-10,890.0,Far North,palm_oil,2017,3,10
+2017-03-10,961.0,Centre,palm_oil,2017,3,10
+2017-03-10,882.0,East,palm_oil,2017,3,10
+2017-03-10,914.0,North,palm_oil,2017,3,10
+2017-03-10,884.0,South,palm_oil,2017,3,10
+2017-03-10,1099.0,Littoral,palm_oil,2017,3,10
+2017-03-17,1041.0,North West,palm_oil,2017,3,11
+2017-03-17,1061.0,South West,palm_oil,2017,3,11
+2017-03-17,1063.0,West,palm_oil,2017,3,11
+2017-03-17,1083.0,Adamawa,palm_oil,2017,3,11
+2017-03-17,888.0,Far North,palm_oil,2017,3,11
+2017-03-17,1072.0,Centre,palm_oil,2017,3,11
+2017-03-17,975.0,East,palm_oil,2017,3,11
+2017-03-17,883.0,North,palm_oil,2017,3,11
+2017-03-17,1009.0,South,palm_oil,2017,3,11
+2017-03-17,924.0,Littoral,palm_oil,2017,3,11
+2017-03-24,955.0,North West,palm_oil,2017,3,12
+2017-03-24,1077.0,South West,palm_oil,2017,3,12
+2017-03-24,887.0,West,palm_oil,2017,3,12
+2017-03-24,978.0,Adamawa,palm_oil,2017,3,12
+2017-03-24,906.0,Far North,palm_oil,2017,3,12
+2017-03-24,1103.0,Centre,palm_oil,2017,3,12
+2017-03-24,1131.0,East,palm_oil,2017,3,12
+2017-03-24,959.0,North,palm_oil,2017,3,12
+2017-03-24,1137.0,South,palm_oil,2017,3,12
+2017-03-24,1074.0,Littoral,palm_oil,2017,3,12
+2017-03-31,864.0,North West,palm_oil,2017,3,13
+2017-03-31,992.0,South West,palm_oil,2017,3,13
+2017-03-31,1085.0,West,palm_oil,2017,3,13
+2017-03-31,1005.0,Adamawa,palm_oil,2017,3,13
+2017-03-31,1009.0,Far North,palm_oil,2017,3,13
+2017-03-31,982.0,Centre,palm_oil,2017,3,13
+2017-03-31,968.0,East,palm_oil,2017,3,13
+2017-03-31,871.0,North,palm_oil,2017,3,13
+2017-03-31,1028.0,South,palm_oil,2017,3,13
+2017-03-31,1067.0,Littoral,palm_oil,2017,3,13
+2017-04-07,953.0,North West,palm_oil,2017,4,14
+2017-04-07,868.0,South West,palm_oil,2017,4,14
+2017-04-07,1099.0,West,palm_oil,2017,4,14
+2017-04-07,976.0,Adamawa,palm_oil,2017,4,14
+2017-04-07,1021.0,Far North,palm_oil,2017,4,14
+2017-04-07,914.0,Centre,palm_oil,2017,4,14
+2017-04-07,900.0,East,palm_oil,2017,4,14
+2017-04-07,885.0,North,palm_oil,2017,4,14
+2017-04-07,1074.0,South,palm_oil,2017,4,14
+2017-04-07,1033.0,Littoral,palm_oil,2017,4,14
+2017-04-14,1042.0,North West,palm_oil,2017,4,15
+2017-04-14,1122.0,South West,palm_oil,2017,4,15
+2017-04-14,918.0,West,palm_oil,2017,4,15
+2017-04-14,921.0,Adamawa,palm_oil,2017,4,15
+2017-04-14,926.0,Far North,palm_oil,2017,4,15
+2017-04-14,989.0,Centre,palm_oil,2017,4,15
+2017-04-14,1110.0,East,palm_oil,2017,4,15
+2017-04-14,1112.0,North,palm_oil,2017,4,15
+2017-04-14,1034.0,South,palm_oil,2017,4,15
+2017-04-14,1052.0,Littoral,palm_oil,2017,4,15
+2017-04-21,926.0,North West,palm_oil,2017,4,16
+2017-04-21,1052.0,South West,palm_oil,2017,4,16
+2017-04-21,1070.0,West,palm_oil,2017,4,16
+2017-04-21,1034.0,Adamawa,palm_oil,2017,4,16
+2017-04-21,938.0,Far North,palm_oil,2017,4,16
+2017-04-21,972.0,Centre,palm_oil,2017,4,16
+2017-04-21,990.0,East,palm_oil,2017,4,16
+2017-04-21,904.0,North,palm_oil,2017,4,16
+2017-04-21,985.0,South,palm_oil,2017,4,16
+2017-04-21,908.0,Littoral,palm_oil,2017,4,16
+2017-04-28,1003.0,North West,palm_oil,2017,4,17
+2017-04-28,883.0,South West,palm_oil,2017,4,17
+2017-04-28,1123.0,West,palm_oil,2017,4,17
+2017-04-28,935.0,Adamawa,palm_oil,2017,4,17
+2017-04-28,994.0,Far North,palm_oil,2017,4,17
+2017-04-28,878.0,Centre,palm_oil,2017,4,17
+2017-04-28,921.0,East,palm_oil,2017,4,17
+2017-04-28,1054.0,North,palm_oil,2017,4,17
+2017-04-28,899.0,South,palm_oil,2017,4,17
+2017-04-28,1037.0,Littoral,palm_oil,2017,4,17
+2017-05-05,1040.0,North West,palm_oil,2017,5,18
+2017-05-05,1094.0,South West,palm_oil,2017,5,18
+2017-05-05,981.0,West,palm_oil,2017,5,18
+2017-05-05,1072.0,Adamawa,palm_oil,2017,5,18
+2017-05-05,1062.0,Far North,palm_oil,2017,5,18
+2017-05-05,929.0,Centre,palm_oil,2017,5,18
+2017-05-05,1080.0,East,palm_oil,2017,5,18
+2017-05-05,1019.0,North,palm_oil,2017,5,18
+2017-05-05,879.0,South,palm_oil,2017,5,18
+2017-05-05,1097.0,Littoral,palm_oil,2017,5,18
+2017-05-12,884.0,North West,palm_oil,2017,5,19
+2017-05-12,959.0,South West,palm_oil,2017,5,19
+2017-05-12,958.0,West,palm_oil,2017,5,19
+2017-05-12,999.0,Adamawa,palm_oil,2017,5,19
+2017-05-12,1009.0,Far North,palm_oil,2017,5,19
+2017-05-12,898.0,Centre,palm_oil,2017,5,19
+2017-05-12,929.0,East,palm_oil,2017,5,19
+2017-05-12,875.0,North,palm_oil,2017,5,19
+2017-05-12,871.0,South,palm_oil,2017,5,19
+2017-05-12,1050.0,Littoral,palm_oil,2017,5,19
+2017-05-19,848.0,North West,palm_oil,2017,5,20
+2017-05-19,937.0,South West,palm_oil,2017,5,20
+2017-05-19,898.0,West,palm_oil,2017,5,20
+2017-05-19,1020.0,Adamawa,palm_oil,2017,5,20
+2017-05-19,848.0,Far North,palm_oil,2017,5,20
+2017-05-19,937.0,Centre,palm_oil,2017,5,20
+2017-05-19,973.0,East,palm_oil,2017,5,20
+2017-05-19,1072.0,North,palm_oil,2017,5,20
+2017-05-19,846.0,South,palm_oil,2017,5,20
+2017-05-19,852.0,Littoral,palm_oil,2017,5,20
+2017-05-26,1109.0,North West,palm_oil,2017,5,21
+2017-05-26,957.0,South West,palm_oil,2017,5,21
+2017-05-26,1045.0,West,palm_oil,2017,5,21
+2017-05-26,1056.0,Adamawa,palm_oil,2017,5,21
+2017-05-26,933.0,Far North,palm_oil,2017,5,21
+2017-05-26,907.0,Centre,palm_oil,2017,5,21
+2017-05-26,923.0,East,palm_oil,2017,5,21
+2017-05-26,1051.0,North,palm_oil,2017,5,21
+2017-05-26,1071.0,South,palm_oil,2017,5,21
+2017-05-26,1034.0,Littoral,palm_oil,2017,5,21
+2017-06-02,918.0,North West,palm_oil,2017,6,22
+2017-06-02,1039.0,South West,palm_oil,2017,6,22
+2017-06-02,1027.0,West,palm_oil,2017,6,22
+2017-06-02,892.0,Adamawa,palm_oil,2017,6,22
+2017-06-02,893.0,Far North,palm_oil,2017,6,22
+2017-06-02,1006.0,Centre,palm_oil,2017,6,22
+2017-06-02,918.0,East,palm_oil,2017,6,22
+2017-06-02,954.0,North,palm_oil,2017,6,22
+2017-06-02,917.0,South,palm_oil,2017,6,22
+2017-06-02,872.0,Littoral,palm_oil,2017,6,22
+2017-06-09,855.0,North West,palm_oil,2017,6,23
+2017-06-09,843.0,South West,palm_oil,2017,6,23
+2017-06-09,811.0,West,palm_oil,2017,6,23
+2017-06-09,878.0,Adamawa,palm_oil,2017,6,23
+2017-06-09,851.0,Far North,palm_oil,2017,6,23
+2017-06-09,873.0,Centre,palm_oil,2017,6,23
+2017-06-09,827.0,East,palm_oil,2017,6,23
+2017-06-09,893.0,North,palm_oil,2017,6,23
+2017-06-09,938.0,South,palm_oil,2017,6,23
+2017-06-09,1043.0,Littoral,palm_oil,2017,6,23
+2017-06-16,901.0,North West,palm_oil,2017,6,24
+2017-06-16,1014.0,South West,palm_oil,2017,6,24
+2017-06-16,895.0,West,palm_oil,2017,6,24
+2017-06-16,883.0,Adamawa,palm_oil,2017,6,24
+2017-06-16,1039.0,Far North,palm_oil,2017,6,24
+2017-06-16,884.0,Centre,palm_oil,2017,6,24
+2017-06-16,1052.0,East,palm_oil,2017,6,24
+2017-06-16,1017.0,North,palm_oil,2017,6,24
+2017-06-16,981.0,South,palm_oil,2017,6,24
+2017-06-16,959.0,Littoral,palm_oil,2017,6,24
+2017-06-23,871.0,North West,palm_oil,2017,6,25
+2017-06-23,997.0,South West,palm_oil,2017,6,25
+2017-06-23,902.0,West,palm_oil,2017,6,25
+2017-06-23,936.0,Adamawa,palm_oil,2017,6,25
+2017-06-23,841.0,Far North,palm_oil,2017,6,25
+2017-06-23,889.0,Centre,palm_oil,2017,6,25
+2017-06-23,947.0,East,palm_oil,2017,6,25
+2017-06-23,932.0,North,palm_oil,2017,6,25
+2017-06-23,901.0,South,palm_oil,2017,6,25
+2017-06-23,933.0,Littoral,palm_oil,2017,6,25
+2017-06-30,940.0,North West,palm_oil,2017,6,26
+2017-06-30,989.0,South West,palm_oil,2017,6,26
+2017-06-30,1024.0,West,palm_oil,2017,6,26
+2017-06-30,946.0,Adamawa,palm_oil,2017,6,26
+2017-06-30,1051.0,Far North,palm_oil,2017,6,26
+2017-06-30,902.0,Centre,palm_oil,2017,6,26
+2017-06-30,877.0,East,palm_oil,2017,6,26
+2017-06-30,987.0,North,palm_oil,2017,6,26
+2017-06-30,858.0,South,palm_oil,2017,6,26
+2017-06-30,1039.0,Littoral,palm_oil,2017,6,26
+2017-07-07,968.0,North West,palm_oil,2017,7,27
+2017-07-07,1051.0,South West,palm_oil,2017,7,27
+2017-07-07,1017.0,West,palm_oil,2017,7,27
+2017-07-07,880.0,Adamawa,palm_oil,2017,7,27
+2017-07-07,1054.0,Far North,palm_oil,2017,7,27
+2017-07-07,1076.0,Centre,palm_oil,2017,7,27
+2017-07-07,1127.0,East,palm_oil,2017,7,27
+2017-07-07,976.0,North,palm_oil,2017,7,27
+2017-07-07,999.0,South,palm_oil,2017,7,27
+2017-07-07,1098.0,Littoral,palm_oil,2017,7,27
+2017-07-14,885.0,North West,palm_oil,2017,7,28
+2017-07-14,1106.0,South West,palm_oil,2017,7,28
+2017-07-14,921.0,West,palm_oil,2017,7,28
+2017-07-14,1048.0,Adamawa,palm_oil,2017,7,28
+2017-07-14,968.0,Far North,palm_oil,2017,7,28
+2017-07-14,913.0,Centre,palm_oil,2017,7,28
+2017-07-14,1089.0,East,palm_oil,2017,7,28
+2017-07-14,972.0,North,palm_oil,2017,7,28
+2017-07-14,998.0,South,palm_oil,2017,7,28
+2017-07-14,909.0,Littoral,palm_oil,2017,7,28
+2017-07-21,929.0,North West,palm_oil,2017,7,29
+2017-07-21,1038.0,South West,palm_oil,2017,7,29
+2017-07-21,934.0,West,palm_oil,2017,7,29
+2017-07-21,976.0,Adamawa,palm_oil,2017,7,29
+2017-07-21,874.0,Far North,palm_oil,2017,7,29
+2017-07-21,1065.0,Centre,palm_oil,2017,7,29
+2017-07-21,1036.0,East,palm_oil,2017,7,29
+2017-07-21,1042.0,North,palm_oil,2017,7,29
+2017-07-21,891.0,South,palm_oil,2017,7,29
+2017-07-21,973.0,Littoral,palm_oil,2017,7,29
+2017-07-28,1131.0,North West,palm_oil,2017,7,30
+2017-07-28,1032.0,South West,palm_oil,2017,7,30
+2017-07-28,1005.0,West,palm_oil,2017,7,30
+2017-07-28,984.0,Adamawa,palm_oil,2017,7,30
+2017-07-28,872.0,Far North,palm_oil,2017,7,30
+2017-07-28,1080.0,Centre,palm_oil,2017,7,30
+2017-07-28,1046.0,East,palm_oil,2017,7,30
+2017-07-28,1040.0,North,palm_oil,2017,7,30
+2017-07-28,1083.0,South,palm_oil,2017,7,30
+2017-07-28,1114.0,Littoral,palm_oil,2017,7,30
+2017-08-04,986.0,North West,palm_oil,2017,8,31
+2017-08-04,996.0,South West,palm_oil,2017,8,31
+2017-08-04,1144.0,West,palm_oil,2017,8,31
+2017-08-04,1060.0,Adamawa,palm_oil,2017,8,31
+2017-08-04,1111.0,Far North,palm_oil,2017,8,31
+2017-08-04,940.0,Centre,palm_oil,2017,8,31
+2017-08-04,966.0,East,palm_oil,2017,8,31
+2017-08-04,986.0,North,palm_oil,2017,8,31
+2017-08-04,966.0,South,palm_oil,2017,8,31
+2017-08-04,1119.0,Littoral,palm_oil,2017,8,31
+2017-08-11,999.0,North West,palm_oil,2017,8,32
+2017-08-11,920.0,South West,palm_oil,2017,8,32
+2017-08-11,948.0,West,palm_oil,2017,8,32
+2017-08-11,970.0,Adamawa,palm_oil,2017,8,32
+2017-08-11,1088.0,Far North,palm_oil,2017,8,32
+2017-08-11,960.0,Centre,palm_oil,2017,8,32
+2017-08-11,1016.0,East,palm_oil,2017,8,32
+2017-08-11,1131.0,North,palm_oil,2017,8,32
+2017-08-11,944.0,South,palm_oil,2017,8,32
+2017-08-11,932.0,Littoral,palm_oil,2017,8,32
+2017-08-18,1068.0,North West,palm_oil,2017,8,33
+2017-08-18,1112.0,South West,palm_oil,2017,8,33
+2017-08-18,1172.0,West,palm_oil,2017,8,33
+2017-08-18,1102.0,Adamawa,palm_oil,2017,8,33
+2017-08-18,1182.0,Far North,palm_oil,2017,8,33
+2017-08-18,985.0,Centre,palm_oil,2017,8,33
+2017-08-18,1012.0,East,palm_oil,2017,8,33
+2017-08-18,1152.0,North,palm_oil,2017,8,33
+2017-08-18,1144.0,South,palm_oil,2017,8,33
+2017-08-18,1103.0,Littoral,palm_oil,2017,8,33
+2017-08-25,991.0,North West,palm_oil,2017,8,34
+2017-08-25,957.0,South West,palm_oil,2017,8,34
+2017-08-25,927.0,West,palm_oil,2017,8,34
+2017-08-25,1130.0,Adamawa,palm_oil,2017,8,34
+2017-08-25,949.0,Far North,palm_oil,2017,8,34
+2017-08-25,1012.0,Centre,palm_oil,2017,8,34
+2017-08-25,1186.0,East,palm_oil,2017,8,34
+2017-08-25,1027.0,North,palm_oil,2017,8,34
+2017-08-25,952.0,South,palm_oil,2017,8,34
+2017-08-25,1105.0,Littoral,palm_oil,2017,8,34
+2017-09-01,1168.0,North West,palm_oil,2017,9,35
+2017-09-01,1015.0,South West,palm_oil,2017,9,35
+2017-09-01,1167.0,West,palm_oil,2017,9,35
+2017-09-01,1013.0,Adamawa,palm_oil,2017,9,35
+2017-09-01,1134.0,Far North,palm_oil,2017,9,35
+2017-09-01,971.0,Centre,palm_oil,2017,9,35
+2017-09-01,1058.0,East,palm_oil,2017,9,35
+2017-09-01,1084.0,North,palm_oil,2017,9,35
+2017-09-01,1143.0,South,palm_oil,2017,9,35
+2017-09-01,1122.0,Littoral,palm_oil,2017,9,35
+2017-09-08,1135.0,North West,palm_oil,2017,9,36
+2017-09-08,981.0,South West,palm_oil,2017,9,36
+2017-09-08,1082.0,West,palm_oil,2017,9,36
+2017-09-08,1096.0,Adamawa,palm_oil,2017,9,36
+2017-09-08,952.0,Far North,palm_oil,2017,9,36
+2017-09-08,964.0,Centre,palm_oil,2017,9,36
+2017-09-08,1187.0,East,palm_oil,2017,9,36
+2017-09-08,1027.0,North,palm_oil,2017,9,36
+2017-09-08,1044.0,South,palm_oil,2017,9,36
+2017-09-08,1129.0,Littoral,palm_oil,2017,9,36
+2017-09-15,1031.0,North West,palm_oil,2017,9,37
+2017-09-15,1023.0,South West,palm_oil,2017,9,37
+2017-09-15,1091.0,West,palm_oil,2017,9,37
+2017-09-15,983.0,Adamawa,palm_oil,2017,9,37
+2017-09-15,1237.0,Far North,palm_oil,2017,9,37
+2017-09-15,1244.0,Centre,palm_oil,2017,9,37
+2017-09-15,1099.0,East,palm_oil,2017,9,37
+2017-09-15,1028.0,North,palm_oil,2017,9,37
+2017-09-15,1105.0,South,palm_oil,2017,9,37
+2017-09-15,995.0,Littoral,palm_oil,2017,9,37
+2017-09-22,1163.0,North West,palm_oil,2017,9,38
+2017-09-22,1037.0,South West,palm_oil,2017,9,38
+2017-09-22,1109.0,West,palm_oil,2017,9,38
+2017-09-22,960.0,Adamawa,palm_oil,2017,9,38
+2017-09-22,1110.0,Far North,palm_oil,2017,9,38
+2017-09-22,957.0,Centre,palm_oil,2017,9,38
+2017-09-22,1228.0,East,palm_oil,2017,9,38
+2017-09-22,1103.0,North,palm_oil,2017,9,38
+2017-09-22,986.0,South,palm_oil,2017,9,38
+2017-09-22,1056.0,Littoral,palm_oil,2017,9,38
+2017-09-29,976.0,North West,palm_oil,2017,9,39
+2017-09-29,1119.0,South West,palm_oil,2017,9,39
+2017-09-29,999.0,West,palm_oil,2017,9,39
+2017-09-29,1102.0,Adamawa,palm_oil,2017,9,39
+2017-09-29,1053.0,Far North,palm_oil,2017,9,39
+2017-09-29,1187.0,Centre,palm_oil,2017,9,39
+2017-09-29,1105.0,East,palm_oil,2017,9,39
+2017-09-29,1213.0,North,palm_oil,2017,9,39
+2017-09-29,1241.0,South,palm_oil,2017,9,39
+2017-09-29,1249.0,Littoral,palm_oil,2017,9,39
+2017-10-06,1140.0,North West,palm_oil,2017,10,40
+2017-10-06,1136.0,South West,palm_oil,2017,10,40
+2017-10-06,1272.0,West,palm_oil,2017,10,40
+2017-10-06,1050.0,Adamawa,palm_oil,2017,10,40
+2017-10-06,1152.0,Far North,palm_oil,2017,10,40
+2017-10-06,1188.0,Centre,palm_oil,2017,10,40
+2017-10-06,1025.0,East,palm_oil,2017,10,40
+2017-10-06,1271.0,North,palm_oil,2017,10,40
+2017-10-06,1102.0,South,palm_oil,2017,10,40
+2017-10-06,1207.0,Littoral,palm_oil,2017,10,40
+2017-10-13,1277.0,North West,palm_oil,2017,10,41
+2017-10-13,1214.0,South West,palm_oil,2017,10,41
+2017-10-13,1264.0,West,palm_oil,2017,10,41
+2017-10-13,1015.0,Adamawa,palm_oil,2017,10,41
+2017-10-13,1145.0,Far North,palm_oil,2017,10,41
+2017-10-13,1167.0,Centre,palm_oil,2017,10,41
+2017-10-13,1204.0,East,palm_oil,2017,10,41
+2017-10-13,1030.0,North,palm_oil,2017,10,41
+2017-10-13,1195.0,South,palm_oil,2017,10,41
+2017-10-13,1039.0,Littoral,palm_oil,2017,10,41
+2017-10-20,1190.0,North West,palm_oil,2017,10,42
+2017-10-20,1300.0,South West,palm_oil,2017,10,42
+2017-10-20,1220.0,West,palm_oil,2017,10,42
+2017-10-20,1187.0,Adamawa,palm_oil,2017,10,42
+2017-10-20,1071.0,Far North,palm_oil,2017,10,42
+2017-10-20,1052.0,Centre,palm_oil,2017,10,42
+2017-10-20,1192.0,East,palm_oil,2017,10,42
+2017-10-20,1073.0,North,palm_oil,2017,10,42
+2017-10-20,1223.0,South,palm_oil,2017,10,42
+2017-10-20,1040.0,Littoral,palm_oil,2017,10,42
+2017-10-27,1099.0,North West,palm_oil,2017,10,43
+2017-10-27,1231.0,South West,palm_oil,2017,10,43
+2017-10-27,1249.0,West,palm_oil,2017,10,43
+2017-10-27,1100.0,Adamawa,palm_oil,2017,10,43
+2017-10-27,1058.0,Far North,palm_oil,2017,10,43
+2017-10-27,1287.0,Centre,palm_oil,2017,10,43
+2017-10-27,1227.0,East,palm_oil,2017,10,43
+2017-10-27,1241.0,North,palm_oil,2017,10,43
+2017-10-27,1063.0,South,palm_oil,2017,10,43
+2017-10-27,1125.0,Littoral,palm_oil,2017,10,43
+2017-11-03,1298.0,North West,palm_oil,2017,11,44
+2017-11-03,1122.0,South West,palm_oil,2017,11,44
+2017-11-03,1206.0,West,palm_oil,2017,11,44
+2017-11-03,1269.0,Adamawa,palm_oil,2017,11,44
+2017-11-03,1069.0,Far North,palm_oil,2017,11,44
+2017-11-03,1038.0,Centre,palm_oil,2017,11,44
+2017-11-03,1068.0,East,palm_oil,2017,11,44
+2017-11-03,1263.0,North,palm_oil,2017,11,44
+2017-11-03,1197.0,South,palm_oil,2017,11,44
+2017-11-03,1131.0,Littoral,palm_oil,2017,11,44
+2017-11-10,1233.0,North West,palm_oil,2017,11,45
+2017-11-10,1057.0,South West,palm_oil,2017,11,45
+2017-11-10,1058.0,West,palm_oil,2017,11,45
+2017-11-10,1157.0,Adamawa,palm_oil,2017,11,45
+2017-11-10,1224.0,Far North,palm_oil,2017,11,45
+2017-11-10,1064.0,Centre,palm_oil,2017,11,45
+2017-11-10,1049.0,East,palm_oil,2017,11,45
+2017-11-10,1129.0,North,palm_oil,2017,11,45
+2017-11-10,1026.0,South,palm_oil,2017,11,45
+2017-11-10,1211.0,Littoral,palm_oil,2017,11,45
+2017-11-17,1288.0,North West,palm_oil,2017,11,46
+2017-11-17,1245.0,South West,palm_oil,2017,11,46
+2017-11-17,1063.0,West,palm_oil,2017,11,46
+2017-11-17,1147.0,Adamawa,palm_oil,2017,11,46
+2017-11-17,1116.0,Far North,palm_oil,2017,11,46
+2017-11-17,1266.0,Centre,palm_oil,2017,11,46
+2017-11-17,1240.0,East,palm_oil,2017,11,46
+2017-11-17,1163.0,North,palm_oil,2017,11,46
+2017-11-17,1273.0,South,palm_oil,2017,11,46
+2017-11-17,1144.0,Littoral,palm_oil,2017,11,46
+2017-11-24,1365.0,North West,palm_oil,2017,11,47
+2017-11-24,1106.0,South West,palm_oil,2017,11,47
+2017-11-24,1140.0,West,palm_oil,2017,11,47
+2017-11-24,1349.0,Adamawa,palm_oil,2017,11,47
+2017-11-24,1133.0,Far North,palm_oil,2017,11,47
+2017-11-24,1325.0,Centre,palm_oil,2017,11,47
+2017-11-24,1338.0,East,palm_oil,2017,11,47
+2017-11-24,1317.0,North,palm_oil,2017,11,47
+2017-11-24,1370.0,South,palm_oil,2017,11,47
+2017-11-24,1267.0,Littoral,palm_oil,2017,11,47
+2017-12-01,1250.0,North West,palm_oil,2017,12,48
+2017-12-01,1251.0,South West,palm_oil,2017,12,48
+2017-12-01,1385.0,West,palm_oil,2017,12,48
+2017-12-01,1163.0,Adamawa,palm_oil,2017,12,48
+2017-12-01,1313.0,Far North,palm_oil,2017,12,48
+2017-12-01,1162.0,Centre,palm_oil,2017,12,48
+2017-12-01,1112.0,East,palm_oil,2017,12,48
+2017-12-01,1398.0,North,palm_oil,2017,12,48
+2017-12-01,1125.0,South,palm_oil,2017,12,48
+2017-12-01,1310.0,Littoral,palm_oil,2017,12,48
+2017-12-08,1234.0,North West,palm_oil,2017,12,49
+2017-12-08,1372.0,South West,palm_oil,2017,12,49
+2017-12-08,1351.0,West,palm_oil,2017,12,49
+2017-12-08,1140.0,Adamawa,palm_oil,2017,12,49
+2017-12-08,1248.0,Far North,palm_oil,2017,12,49
+2017-12-08,1101.0,Centre,palm_oil,2017,12,49
+2017-12-08,1235.0,East,palm_oil,2017,12,49
+2017-12-08,1326.0,North,palm_oil,2017,12,49
+2017-12-08,1169.0,South,palm_oil,2017,12,49
+2017-12-08,1363.0,Littoral,palm_oil,2017,12,49
+2017-12-15,1373.0,North West,palm_oil,2017,12,50
+2017-12-15,1374.0,South West,palm_oil,2017,12,50
+2017-12-15,1219.0,West,palm_oil,2017,12,50
+2017-12-15,1235.0,Adamawa,palm_oil,2017,12,50
+2017-12-15,1351.0,Far North,palm_oil,2017,12,50
+2017-12-15,1300.0,Centre,palm_oil,2017,12,50
+2017-12-15,1106.0,East,palm_oil,2017,12,50
+2017-12-15,1307.0,North,palm_oil,2017,12,50
+2017-12-15,1126.0,South,palm_oil,2017,12,50
+2017-12-15,1190.0,Littoral,palm_oil,2017,12,50
+2017-12-22,1217.0,North West,palm_oil,2017,12,51
+2017-12-22,1276.0,South West,palm_oil,2017,12,51
+2017-12-22,1094.0,West,palm_oil,2017,12,51
+2017-12-22,1071.0,Adamawa,palm_oil,2017,12,51
+2017-12-22,1324.0,Far North,palm_oil,2017,12,51
+2017-12-22,1311.0,Centre,palm_oil,2017,12,51
+2017-12-22,1214.0,East,palm_oil,2017,12,51
+2017-12-22,1259.0,North,palm_oil,2017,12,51
+2017-12-22,1277.0,South,palm_oil,2017,12,51
+2017-12-22,1199.0,Littoral,palm_oil,2017,12,51
+2017-12-29,1345.0,North West,palm_oil,2017,12,52
+2017-12-29,1309.0,South West,palm_oil,2017,12,52
+2017-12-29,1190.0,West,palm_oil,2017,12,52
+2017-12-29,1113.0,Adamawa,palm_oil,2017,12,52
+2017-12-29,1325.0,Far North,palm_oil,2017,12,52
+2017-12-29,1245.0,Centre,palm_oil,2017,12,52
+2017-12-29,1171.0,East,palm_oil,2017,12,52
+2017-12-29,1077.0,North,palm_oil,2017,12,52
+2017-12-29,1281.0,South,palm_oil,2017,12,52
+2017-12-29,1142.0,Littoral,palm_oil,2017,12,52
+2018-01-05,1172.0,North West,palm_oil,2018,1,1
+2018-01-05,1161.0,South West,palm_oil,2018,1,1
+2018-01-05,1200.0,West,palm_oil,2018,1,1
+2018-01-05,1151.0,Adamawa,palm_oil,2018,1,1
+2018-01-05,1179.0,Far North,palm_oil,2018,1,1
+2018-01-05,1013.0,Centre,palm_oil,2018,1,1
+2018-01-05,1190.0,East,palm_oil,2018,1,1
+2018-01-05,1047.0,North,palm_oil,2018,1,1
+2018-01-05,1107.0,South,palm_oil,2018,1,1
+2018-01-05,1144.0,Littoral,palm_oil,2018,1,1
+2018-01-12,1239.0,North West,palm_oil,2018,1,2
+2018-01-12,1048.0,South West,palm_oil,2018,1,2
+2018-01-12,1139.0,West,palm_oil,2018,1,2
+2018-01-12,1106.0,Adamawa,palm_oil,2018,1,2
+2018-01-12,1143.0,Far North,palm_oil,2018,1,2
+2018-01-12,1221.0,Centre,palm_oil,2018,1,2
+2018-01-12,1079.0,East,palm_oil,2018,1,2
+2018-01-12,1175.0,North,palm_oil,2018,1,2
+2018-01-12,1295.0,South,palm_oil,2018,1,2
+2018-01-12,1247.0,Littoral,palm_oil,2018,1,2
+2018-01-19,1264.0,North West,palm_oil,2018,1,3
+2018-01-19,1303.0,South West,palm_oil,2018,1,3
+2018-01-19,1161.0,West,palm_oil,2018,1,3
+2018-01-19,1275.0,Adamawa,palm_oil,2018,1,3
+2018-01-19,1053.0,Far North,palm_oil,2018,1,3
+2018-01-19,1052.0,Centre,palm_oil,2018,1,3
+2018-01-19,1139.0,East,palm_oil,2018,1,3
+2018-01-19,1096.0,North,palm_oil,2018,1,3
+2018-01-19,1198.0,South,palm_oil,2018,1,3
+2018-01-19,1092.0,Littoral,palm_oil,2018,1,3
+2018-01-26,1177.0,North West,palm_oil,2018,1,4
+2018-01-26,1096.0,South West,palm_oil,2018,1,4
+2018-01-26,1220.0,West,palm_oil,2018,1,4
+2018-01-26,1268.0,Adamawa,palm_oil,2018,1,4
+2018-01-26,1177.0,Far North,palm_oil,2018,1,4
+2018-01-26,1114.0,Centre,palm_oil,2018,1,4
+2018-01-26,1180.0,East,palm_oil,2018,1,4
+2018-01-26,1041.0,North,palm_oil,2018,1,4
+2018-01-26,1247.0,South,palm_oil,2018,1,4
+2018-01-26,1162.0,Littoral,palm_oil,2018,1,4
+2018-02-02,1287.0,North West,palm_oil,2018,2,5
+2018-02-02,1295.0,South West,palm_oil,2018,2,5
+2018-02-02,1048.0,West,palm_oil,2018,2,5
+2018-02-02,1318.0,Adamawa,palm_oil,2018,2,5
+2018-02-02,1310.0,Far North,palm_oil,2018,2,5
+2018-02-02,1203.0,Centre,palm_oil,2018,2,5
+2018-02-02,1265.0,East,palm_oil,2018,2,5
+2018-02-02,1015.0,North,palm_oil,2018,2,5
+2018-02-02,1310.0,South,palm_oil,2018,2,5
+2018-02-02,1151.0,Littoral,palm_oil,2018,2,5
+2018-02-09,1224.0,North West,palm_oil,2018,2,6
+2018-02-09,1112.0,South West,palm_oil,2018,2,6
+2018-02-09,1095.0,West,palm_oil,2018,2,6
+2018-02-09,1272.0,Adamawa,palm_oil,2018,2,6
+2018-02-09,1197.0,Far North,palm_oil,2018,2,6
+2018-02-09,1239.0,Centre,palm_oil,2018,2,6
+2018-02-09,1150.0,East,palm_oil,2018,2,6
+2018-02-09,1263.0,North,palm_oil,2018,2,6
+2018-02-09,1209.0,South,palm_oil,2018,2,6
+2018-02-09,1007.0,Littoral,palm_oil,2018,2,6
+2018-02-16,1225.0,North West,palm_oil,2018,2,7
+2018-02-16,997.0,South West,palm_oil,2018,2,7
+2018-02-16,1244.0,West,palm_oil,2018,2,7
+2018-02-16,1092.0,Adamawa,palm_oil,2018,2,7
+2018-02-16,1174.0,Far North,palm_oil,2018,2,7
+2018-02-16,1220.0,Centre,palm_oil,2018,2,7
+2018-02-16,1185.0,East,palm_oil,2018,2,7
+2018-02-16,1196.0,North,palm_oil,2018,2,7
+2018-02-16,1263.0,South,palm_oil,2018,2,7
+2018-02-16,1105.0,Littoral,palm_oil,2018,2,7
+2018-02-23,1085.0,North West,palm_oil,2018,2,8
+2018-02-23,993.0,South West,palm_oil,2018,2,8
+2018-02-23,1134.0,West,palm_oil,2018,2,8
+2018-02-23,1044.0,Adamawa,palm_oil,2018,2,8
+2018-02-23,1199.0,Far North,palm_oil,2018,2,8
+2018-02-23,1049.0,Centre,palm_oil,2018,2,8
+2018-02-23,1033.0,East,palm_oil,2018,2,8
+2018-02-23,1092.0,North,palm_oil,2018,2,8
+2018-02-23,1000.0,South,palm_oil,2018,2,8
+2018-02-23,1009.0,Littoral,palm_oil,2018,2,8
+2018-03-02,1161.0,North West,palm_oil,2018,3,9
+2018-03-02,1079.0,South West,palm_oil,2018,3,9
+2018-03-02,995.0,West,palm_oil,2018,3,9
+2018-03-02,945.0,Adamawa,palm_oil,2018,3,9
+2018-03-02,1070.0,Far North,palm_oil,2018,3,9
+2018-03-02,1149.0,Centre,palm_oil,2018,3,9
+2018-03-02,1037.0,East,palm_oil,2018,3,9
+2018-03-02,1007.0,North,palm_oil,2018,3,9
+2018-03-02,1050.0,South,palm_oil,2018,3,9
+2018-03-02,1211.0,Littoral,palm_oil,2018,3,9
+2018-03-09,1044.0,North West,palm_oil,2018,3,10
+2018-03-09,1110.0,South West,palm_oil,2018,3,10
+2018-03-09,895.0,West,palm_oil,2018,3,10
+2018-03-09,1041.0,Adamawa,palm_oil,2018,3,10
+2018-03-09,1117.0,Far North,palm_oil,2018,3,10
+2018-03-09,948.0,Centre,palm_oil,2018,3,10
+2018-03-09,1140.0,East,palm_oil,2018,3,10
+2018-03-09,1047.0,North,palm_oil,2018,3,10
+2018-03-09,1030.0,South,palm_oil,2018,3,10
+2018-03-09,1152.0,Littoral,palm_oil,2018,3,10
+2018-03-16,914.0,North West,palm_oil,2018,3,11
+2018-03-16,1079.0,South West,palm_oil,2018,3,11
+2018-03-16,1100.0,West,palm_oil,2018,3,11
+2018-03-16,1011.0,Adamawa,palm_oil,2018,3,11
+2018-03-16,881.0,Far North,palm_oil,2018,3,11
+2018-03-16,1021.0,Centre,palm_oil,2018,3,11
+2018-03-16,921.0,East,palm_oil,2018,3,11
+2018-03-16,1031.0,North,palm_oil,2018,3,11
+2018-03-16,1079.0,South,palm_oil,2018,3,11
+2018-03-16,1023.0,Littoral,palm_oil,2018,3,11
+2018-03-23,892.0,North West,palm_oil,2018,3,12
+2018-03-23,1092.0,South West,palm_oil,2018,3,12
+2018-03-23,879.0,West,palm_oil,2018,3,12
+2018-03-23,942.0,Adamawa,palm_oil,2018,3,12
+2018-03-23,1115.0,Far North,palm_oil,2018,3,12
+2018-03-23,988.0,Centre,palm_oil,2018,3,12
+2018-03-23,1045.0,East,palm_oil,2018,3,12
+2018-03-23,925.0,North,palm_oil,2018,3,12
+2018-03-23,938.0,South,palm_oil,2018,3,12
+2018-03-23,1001.0,Littoral,palm_oil,2018,3,12
+2018-03-30,1052.0,North West,palm_oil,2018,3,13
+2018-03-30,1139.0,South West,palm_oil,2018,3,13
+2018-03-30,1035.0,West,palm_oil,2018,3,13
+2018-03-30,906.0,Adamawa,palm_oil,2018,3,13
+2018-03-30,979.0,Far North,palm_oil,2018,3,13
+2018-03-30,946.0,Centre,palm_oil,2018,3,13
+2018-03-30,949.0,East,palm_oil,2018,3,13
+2018-03-30,1017.0,North,palm_oil,2018,3,13
+2018-03-30,966.0,South,palm_oil,2018,3,13
+2018-03-30,958.0,Littoral,palm_oil,2018,3,13
+2018-04-06,944.0,North West,palm_oil,2018,4,14
+2018-04-06,947.0,South West,palm_oil,2018,4,14
+2018-04-06,1091.0,West,palm_oil,2018,4,14
+2018-04-06,1111.0,Adamawa,palm_oil,2018,4,14
+2018-04-06,1055.0,Far North,palm_oil,2018,4,14
+2018-04-06,989.0,Centre,palm_oil,2018,4,14
+2018-04-06,1078.0,East,palm_oil,2018,4,14
+2018-04-06,1125.0,North,palm_oil,2018,4,14
+2018-04-06,918.0,South,palm_oil,2018,4,14
+2018-04-06,1104.0,Littoral,palm_oil,2018,4,14
+2018-04-13,1105.0,North West,palm_oil,2018,4,15
+2018-04-13,975.0,South West,palm_oil,2018,4,15
+2018-04-13,955.0,West,palm_oil,2018,4,15
+2018-04-13,1028.0,Adamawa,palm_oil,2018,4,15
+2018-04-13,950.0,Far North,palm_oil,2018,4,15
+2018-04-13,916.0,Centre,palm_oil,2018,4,15
+2018-04-13,1133.0,East,palm_oil,2018,4,15
+2018-04-13,1009.0,North,palm_oil,2018,4,15
+2018-04-13,1003.0,South,palm_oil,2018,4,15
+2018-04-13,910.0,Littoral,palm_oil,2018,4,15
+2018-04-20,973.0,North West,palm_oil,2018,4,16
+2018-04-20,1007.0,South West,palm_oil,2018,4,16
+2018-04-20,954.0,West,palm_oil,2018,4,16
+2018-04-20,1003.0,Adamawa,palm_oil,2018,4,16
+2018-04-20,1143.0,Far North,palm_oil,2018,4,16
+2018-04-20,970.0,Centre,palm_oil,2018,4,16
+2018-04-20,913.0,East,palm_oil,2018,4,16
+2018-04-20,1053.0,North,palm_oil,2018,4,16
+2018-04-20,1065.0,South,palm_oil,2018,4,16
+2018-04-20,996.0,Littoral,palm_oil,2018,4,16
+2018-04-27,1065.0,North West,palm_oil,2018,4,17
+2018-04-27,900.0,South West,palm_oil,2018,4,17
+2018-04-27,983.0,West,palm_oil,2018,4,17
+2018-04-27,929.0,Adamawa,palm_oil,2018,4,17
+2018-04-27,953.0,Far North,palm_oil,2018,4,17
+2018-04-27,994.0,Centre,palm_oil,2018,4,17
+2018-04-27,1025.0,East,palm_oil,2018,4,17
+2018-04-27,915.0,North,palm_oil,2018,4,17
+2018-04-27,918.0,South,palm_oil,2018,4,17
+2018-04-27,1074.0,Littoral,palm_oil,2018,4,17
+2018-05-04,912.0,North West,palm_oil,2018,5,18
+2018-05-04,1039.0,South West,palm_oil,2018,5,18
+2018-05-04,864.0,West,palm_oil,2018,5,18
+2018-05-04,983.0,Adamawa,palm_oil,2018,5,18
+2018-05-04,945.0,Far North,palm_oil,2018,5,18
+2018-05-04,1062.0,Centre,palm_oil,2018,5,18
+2018-05-04,1057.0,East,palm_oil,2018,5,18
+2018-05-04,1030.0,North,palm_oil,2018,5,18
+2018-05-04,951.0,South,palm_oil,2018,5,18
+2018-05-04,1015.0,Littoral,palm_oil,2018,5,18
+2018-05-11,1005.0,North West,palm_oil,2018,5,19
+2018-05-11,926.0,South West,palm_oil,2018,5,19
+2018-05-11,1067.0,West,palm_oil,2018,5,19
+2018-05-11,1094.0,Adamawa,palm_oil,2018,5,19
+2018-05-11,921.0,Far North,palm_oil,2018,5,19
+2018-05-11,1047.0,Centre,palm_oil,2018,5,19
+2018-05-11,969.0,East,palm_oil,2018,5,19
+2018-05-11,960.0,North,palm_oil,2018,5,19
+2018-05-11,940.0,South,palm_oil,2018,5,19
+2018-05-11,916.0,Littoral,palm_oil,2018,5,19
+2018-05-18,958.0,North West,palm_oil,2018,5,20
+2018-05-18,1039.0,South West,palm_oil,2018,5,20
+2018-05-18,1030.0,West,palm_oil,2018,5,20
+2018-05-18,913.0,Adamawa,palm_oil,2018,5,20
+2018-05-18,890.0,Far North,palm_oil,2018,5,20
+2018-05-18,1061.0,Centre,palm_oil,2018,5,20
+2018-05-18,1054.0,East,palm_oil,2018,5,20
+2018-05-18,1102.0,North,palm_oil,2018,5,20
+2018-05-18,849.0,South,palm_oil,2018,5,20
+2018-05-18,984.0,Littoral,palm_oil,2018,5,20
+2018-05-25,1032.0,North West,palm_oil,2018,5,21
+2018-05-25,1001.0,South West,palm_oil,2018,5,21
+2018-05-25,1035.0,West,palm_oil,2018,5,21
+2018-05-25,885.0,Adamawa,palm_oil,2018,5,21
+2018-05-25,850.0,Far North,palm_oil,2018,5,21
+2018-05-25,874.0,Centre,palm_oil,2018,5,21
+2018-05-25,949.0,East,palm_oil,2018,5,21
+2018-05-25,935.0,North,palm_oil,2018,5,21
+2018-05-25,1077.0,South,palm_oil,2018,5,21
+2018-05-25,871.0,Littoral,palm_oil,2018,5,21
+2018-06-01,997.0,North West,palm_oil,2018,6,22
+2018-06-01,898.0,South West,palm_oil,2018,6,22
+2018-06-01,941.0,West,palm_oil,2018,6,22
+2018-06-01,1029.0,Adamawa,palm_oil,2018,6,22
+2018-06-01,867.0,Far North,palm_oil,2018,6,22
+2018-06-01,1120.0,Centre,palm_oil,2018,6,22
+2018-06-01,1014.0,East,palm_oil,2018,6,22
+2018-06-01,1050.0,North,palm_oil,2018,6,22
+2018-06-01,996.0,South,palm_oil,2018,6,22
+2018-06-01,1117.0,Littoral,palm_oil,2018,6,22
+2018-06-08,1016.0,North West,palm_oil,2018,6,23
+2018-06-08,1035.0,South West,palm_oil,2018,6,23
+2018-06-08,1087.0,West,palm_oil,2018,6,23
+2018-06-08,1088.0,Adamawa,palm_oil,2018,6,23
+2018-06-08,868.0,Far North,palm_oil,2018,6,23
+2018-06-08,935.0,Centre,palm_oil,2018,6,23
+2018-06-08,925.0,East,palm_oil,2018,6,23
+2018-06-08,862.0,North,palm_oil,2018,6,23
+2018-06-08,1092.0,South,palm_oil,2018,6,23
+2018-06-08,944.0,Littoral,palm_oil,2018,6,23
+2018-06-15,1101.0,North West,palm_oil,2018,6,24
+2018-06-15,1059.0,South West,palm_oil,2018,6,24
+2018-06-15,993.0,West,palm_oil,2018,6,24
+2018-06-15,1045.0,Adamawa,palm_oil,2018,6,24
+2018-06-15,1046.0,Far North,palm_oil,2018,6,24
+2018-06-15,1015.0,Centre,palm_oil,2018,6,24
+2018-06-15,890.0,East,palm_oil,2018,6,24
+2018-06-15,1031.0,North,palm_oil,2018,6,24
+2018-06-15,992.0,South,palm_oil,2018,6,24
+2018-06-15,1032.0,Littoral,palm_oil,2018,6,24
+2018-06-22,984.0,North West,palm_oil,2018,6,25
+2018-06-22,1090.0,South West,palm_oil,2018,6,25
+2018-06-22,1005.0,West,palm_oil,2018,6,25
+2018-06-22,991.0,Adamawa,palm_oil,2018,6,25
+2018-06-22,1061.0,Far North,palm_oil,2018,6,25
+2018-06-22,941.0,Centre,palm_oil,2018,6,25
+2018-06-22,925.0,East,palm_oil,2018,6,25
+2018-06-22,973.0,North,palm_oil,2018,6,25
+2018-06-22,994.0,South,palm_oil,2018,6,25
+2018-06-22,900.0,Littoral,palm_oil,2018,6,25
+2018-06-29,1023.0,North West,palm_oil,2018,6,26
+2018-06-29,1008.0,South West,palm_oil,2018,6,26
+2018-06-29,947.0,West,palm_oil,2018,6,26
+2018-06-29,1111.0,Adamawa,palm_oil,2018,6,26
+2018-06-29,1070.0,Far North,palm_oil,2018,6,26
+2018-06-29,997.0,Centre,palm_oil,2018,6,26
+2018-06-29,1044.0,East,palm_oil,2018,6,26
+2018-06-29,959.0,North,palm_oil,2018,6,26
+2018-06-29,885.0,South,palm_oil,2018,6,26
+2018-06-29,923.0,Littoral,palm_oil,2018,6,26
+2018-07-06,914.0,North West,palm_oil,2018,7,27
+2018-07-06,1031.0,South West,palm_oil,2018,7,27
+2018-07-06,1062.0,West,palm_oil,2018,7,27
+2018-07-06,996.0,Adamawa,palm_oil,2018,7,27
+2018-07-06,1037.0,Far North,palm_oil,2018,7,27
+2018-07-06,915.0,Centre,palm_oil,2018,7,27
+2018-07-06,1103.0,East,palm_oil,2018,7,27
+2018-07-06,901.0,North,palm_oil,2018,7,27
+2018-07-06,1066.0,South,palm_oil,2018,7,27
+2018-07-06,1011.0,Littoral,palm_oil,2018,7,27
+2018-07-13,1112.0,North West,palm_oil,2018,7,28
+2018-07-13,1011.0,South West,palm_oil,2018,7,28
+2018-07-13,999.0,West,palm_oil,2018,7,28
+2018-07-13,937.0,Adamawa,palm_oil,2018,7,28
+2018-07-13,1061.0,Far North,palm_oil,2018,7,28
+2018-07-13,1125.0,Centre,palm_oil,2018,7,28
+2018-07-13,1052.0,East,palm_oil,2018,7,28
+2018-07-13,943.0,North,palm_oil,2018,7,28
+2018-07-13,1079.0,South,palm_oil,2018,7,28
+2018-07-13,906.0,Littoral,palm_oil,2018,7,28
+2018-07-20,1094.0,North West,palm_oil,2018,7,29
+2018-07-20,1116.0,South West,palm_oil,2018,7,29
+2018-07-20,1029.0,West,palm_oil,2018,7,29
+2018-07-20,1105.0,Adamawa,palm_oil,2018,7,29
+2018-07-20,892.0,Far North,palm_oil,2018,7,29
+2018-07-20,931.0,Centre,palm_oil,2018,7,29
+2018-07-20,955.0,East,palm_oil,2018,7,29
+2018-07-20,1076.0,North,palm_oil,2018,7,29
+2018-07-20,999.0,South,palm_oil,2018,7,29
+2018-07-20,963.0,Littoral,palm_oil,2018,7,29
+2018-07-27,894.0,North West,palm_oil,2018,7,30
+2018-07-27,980.0,South West,palm_oil,2018,7,30
+2018-07-27,954.0,West,palm_oil,2018,7,30
+2018-07-27,923.0,Adamawa,palm_oil,2018,7,30
+2018-07-27,935.0,Far North,palm_oil,2018,7,30
+2018-07-27,1023.0,Centre,palm_oil,2018,7,30
+2018-07-27,1004.0,East,palm_oil,2018,7,30
+2018-07-27,1030.0,North,palm_oil,2018,7,30
+2018-07-27,1087.0,South,palm_oil,2018,7,30
+2018-07-27,1132.0,Littoral,palm_oil,2018,7,30
+2018-08-03,934.0,North West,palm_oil,2018,8,31
+2018-08-03,924.0,South West,palm_oil,2018,8,31
+2018-08-03,989.0,West,palm_oil,2018,8,31
+2018-08-03,1052.0,Adamawa,palm_oil,2018,8,31
+2018-08-03,928.0,Far North,palm_oil,2018,8,31
+2018-08-03,1099.0,Centre,palm_oil,2018,8,31
+2018-08-03,1055.0,East,palm_oil,2018,8,31
+2018-08-03,1108.0,North,palm_oil,2018,8,31
+2018-08-03,1000.0,South,palm_oil,2018,8,31
+2018-08-03,1012.0,Littoral,palm_oil,2018,8,31
+2018-08-10,1011.0,North West,palm_oil,2018,8,32
+2018-08-10,909.0,South West,palm_oil,2018,8,32
+2018-08-10,1059.0,West,palm_oil,2018,8,32
+2018-08-10,1142.0,Adamawa,palm_oil,2018,8,32
+2018-08-10,913.0,Far North,palm_oil,2018,8,32
+2018-08-10,1076.0,Centre,palm_oil,2018,8,32
+2018-08-10,1140.0,East,palm_oil,2018,8,32
+2018-08-10,1042.0,North,palm_oil,2018,8,32
+2018-08-10,992.0,South,palm_oil,2018,8,32
+2018-08-10,1182.0,Littoral,palm_oil,2018,8,32
+2018-08-17,960.0,North West,palm_oil,2018,8,33
+2018-08-17,1002.0,South West,palm_oil,2018,8,33
+2018-08-17,1197.0,West,palm_oil,2018,8,33
+2018-08-17,1027.0,Adamawa,palm_oil,2018,8,33
+2018-08-17,1178.0,Far North,palm_oil,2018,8,33
+2018-08-17,1038.0,Centre,palm_oil,2018,8,33
+2018-08-17,1176.0,East,palm_oil,2018,8,33
+2018-08-17,1140.0,North,palm_oil,2018,8,33
+2018-08-17,1077.0,South,palm_oil,2018,8,33
+2018-08-17,1093.0,Littoral,palm_oil,2018,8,33
+2018-08-24,1180.0,North West,palm_oil,2018,8,34
+2018-08-24,1236.0,South West,palm_oil,2018,8,34
+2018-08-24,1229.0,West,palm_oil,2018,8,34
+2018-08-24,1196.0,Adamawa,palm_oil,2018,8,34
+2018-08-24,1232.0,Far North,palm_oil,2018,8,34
+2018-08-24,1015.0,Centre,palm_oil,2018,8,34
+2018-08-24,1182.0,East,palm_oil,2018,8,34
+2018-08-24,1189.0,North,palm_oil,2018,8,34
+2018-08-24,1011.0,South,palm_oil,2018,8,34
+2018-08-24,1235.0,Littoral,palm_oil,2018,8,34
+2018-08-31,979.0,North West,palm_oil,2018,8,35
+2018-08-31,1106.0,South West,palm_oil,2018,8,35
+2018-08-31,983.0,West,palm_oil,2018,8,35
+2018-08-31,1133.0,Adamawa,palm_oil,2018,8,35
+2018-08-31,1100.0,Far North,palm_oil,2018,8,35
+2018-08-31,1163.0,Centre,palm_oil,2018,8,35
+2018-08-31,1206.0,East,palm_oil,2018,8,35
+2018-08-31,1207.0,North,palm_oil,2018,8,35
+2018-08-31,1193.0,South,palm_oil,2018,8,35
+2018-08-31,1007.0,Littoral,palm_oil,2018,8,35
+2018-09-07,1226.0,North West,palm_oil,2018,9,36
+2018-09-07,1235.0,South West,palm_oil,2018,9,36
+2018-09-07,1093.0,West,palm_oil,2018,9,36
+2018-09-07,1123.0,Adamawa,palm_oil,2018,9,36
+2018-09-07,1321.0,Far North,palm_oil,2018,9,36
+2018-09-07,1287.0,Centre,palm_oil,2018,9,36
+2018-09-07,1073.0,East,palm_oil,2018,9,36
+2018-09-07,1192.0,North,palm_oil,2018,9,36
+2018-09-07,1175.0,South,palm_oil,2018,9,36
+2018-09-07,1160.0,Littoral,palm_oil,2018,9,36
+2018-09-14,1161.0,North West,palm_oil,2018,9,37
+2018-09-14,1214.0,South West,palm_oil,2018,9,37
+2018-09-14,1315.0,West,palm_oil,2018,9,37
+2018-09-14,1286.0,Adamawa,palm_oil,2018,9,37
+2018-09-14,1286.0,Far North,palm_oil,2018,9,37
+2018-09-14,1233.0,Centre,palm_oil,2018,9,37
+2018-09-14,1020.0,East,palm_oil,2018,9,37
+2018-09-14,1151.0,North,palm_oil,2018,9,37
+2018-09-14,1173.0,South,palm_oil,2018,9,37
+2018-09-14,1276.0,Littoral,palm_oil,2018,9,37
+2018-09-21,1055.0,North West,palm_oil,2018,9,38
+2018-09-21,1066.0,South West,palm_oil,2018,9,38
+2018-09-21,1137.0,West,palm_oil,2018,9,38
+2018-09-21,1047.0,Adamawa,palm_oil,2018,9,38
+2018-09-21,1235.0,Far North,palm_oil,2018,9,38
+2018-09-21,1090.0,Centre,palm_oil,2018,9,38
+2018-09-21,1259.0,East,palm_oil,2018,9,38
+2018-09-21,998.0,North,palm_oil,2018,9,38
+2018-09-21,1021.0,South,palm_oil,2018,9,38
+2018-09-21,1117.0,Littoral,palm_oil,2018,9,38
+2018-09-28,1270.0,North West,palm_oil,2018,9,39
+2018-09-28,1112.0,South West,palm_oil,2018,9,39
+2018-09-28,1261.0,West,palm_oil,2018,9,39
+2018-09-28,1134.0,Adamawa,palm_oil,2018,9,39
+2018-09-28,1266.0,Far North,palm_oil,2018,9,39
+2018-09-28,1089.0,Centre,palm_oil,2018,9,39
+2018-09-28,1148.0,East,palm_oil,2018,9,39
+2018-09-28,1089.0,North,palm_oil,2018,9,39
+2018-09-28,1069.0,South,palm_oil,2018,9,39
+2018-09-28,1133.0,Littoral,palm_oil,2018,9,39
+2018-10-05,1292.0,North West,palm_oil,2018,10,40
+2018-10-05,1167.0,South West,palm_oil,2018,10,40
+2018-10-05,1371.0,West,palm_oil,2018,10,40
+2018-10-05,1365.0,Adamawa,palm_oil,2018,10,40
+2018-10-05,1347.0,Far North,palm_oil,2018,10,40
+2018-10-05,1240.0,Centre,palm_oil,2018,10,40
+2018-10-05,1184.0,East,palm_oil,2018,10,40
+2018-10-05,1152.0,North,palm_oil,2018,10,40
+2018-10-05,1056.0,South,palm_oil,2018,10,40
+2018-10-05,1255.0,Littoral,palm_oil,2018,10,40
+2018-10-12,1217.0,North West,palm_oil,2018,10,41
+2018-10-12,1241.0,South West,palm_oil,2018,10,41
+2018-10-12,1224.0,West,palm_oil,2018,10,41
+2018-10-12,1084.0,Adamawa,palm_oil,2018,10,41
+2018-10-12,1262.0,Far North,palm_oil,2018,10,41
+2018-10-12,1155.0,Centre,palm_oil,2018,10,41
+2018-10-12,1205.0,East,palm_oil,2018,10,41
+2018-10-12,1157.0,North,palm_oil,2018,10,41
+2018-10-12,1047.0,South,palm_oil,2018,10,41
+2018-10-12,1320.0,Littoral,palm_oil,2018,10,41
+2018-10-19,1342.0,North West,palm_oil,2018,10,42
+2018-10-19,1128.0,South West,palm_oil,2018,10,42
+2018-10-19,1189.0,West,palm_oil,2018,10,42
+2018-10-19,1178.0,Adamawa,palm_oil,2018,10,42
+2018-10-19,1085.0,Far North,palm_oil,2018,10,42
+2018-10-19,1193.0,Centre,palm_oil,2018,10,42
+2018-10-19,1211.0,East,palm_oil,2018,10,42
+2018-10-19,1064.0,North,palm_oil,2018,10,42
+2018-10-19,1214.0,South,palm_oil,2018,10,42
+2018-10-19,1086.0,Littoral,palm_oil,2018,10,42
+2018-10-26,1314.0,North West,palm_oil,2018,10,43
+2018-10-26,1238.0,South West,palm_oil,2018,10,43
+2018-10-26,1050.0,West,palm_oil,2018,10,43
+2018-10-26,1294.0,Adamawa,palm_oil,2018,10,43
+2018-10-26,1146.0,Far North,palm_oil,2018,10,43
+2018-10-26,1103.0,Centre,palm_oil,2018,10,43
+2018-10-26,1112.0,East,palm_oil,2018,10,43
+2018-10-26,1221.0,North,palm_oil,2018,10,43
+2018-10-26,1058.0,South,palm_oil,2018,10,43
+2018-10-26,1050.0,Littoral,palm_oil,2018,10,43
+2018-11-02,1207.0,North West,palm_oil,2018,11,44
+2018-11-02,1184.0,South West,palm_oil,2018,11,44
+2018-11-02,1357.0,West,palm_oil,2018,11,44
+2018-11-02,1129.0,Adamawa,palm_oil,2018,11,44
+2018-11-02,1129.0,Far North,palm_oil,2018,11,44
+2018-11-02,1343.0,Centre,palm_oil,2018,11,44
+2018-11-02,1260.0,East,palm_oil,2018,11,44
+2018-11-02,1068.0,North,palm_oil,2018,11,44
+2018-11-02,1268.0,South,palm_oil,2018,11,44
+2018-11-02,1316.0,Littoral,palm_oil,2018,11,44
+2018-11-09,1152.0,North West,palm_oil,2018,11,45
+2018-11-09,1188.0,South West,palm_oil,2018,11,45
+2018-11-09,1127.0,West,palm_oil,2018,11,45
+2018-11-09,1269.0,Adamawa,palm_oil,2018,11,45
+2018-11-09,1279.0,Far North,palm_oil,2018,11,45
+2018-11-09,1085.0,Centre,palm_oil,2018,11,45
+2018-11-09,1284.0,East,palm_oil,2018,11,45
+2018-11-09,1277.0,North,palm_oil,2018,11,45
+2018-11-09,1074.0,South,palm_oil,2018,11,45
+2018-11-09,1244.0,Littoral,palm_oil,2018,11,45
+2018-11-16,1326.0,North West,palm_oil,2018,11,46
+2018-11-16,1144.0,South West,palm_oil,2018,11,46
+2018-11-16,1061.0,West,palm_oil,2018,11,46
+2018-11-16,1253.0,Adamawa,palm_oil,2018,11,46
+2018-11-16,1232.0,Far North,palm_oil,2018,11,46
+2018-11-16,1354.0,Centre,palm_oil,2018,11,46
+2018-11-16,1113.0,East,palm_oil,2018,11,46
+2018-11-16,1165.0,North,palm_oil,2018,11,46
+2018-11-16,1186.0,South,palm_oil,2018,11,46
+2018-11-16,1314.0,Littoral,palm_oil,2018,11,46
+2018-11-23,1246.0,North West,palm_oil,2018,11,47
+2018-11-23,1367.0,South West,palm_oil,2018,11,47
+2018-11-23,1159.0,West,palm_oil,2018,11,47
+2018-11-23,1244.0,Adamawa,palm_oil,2018,11,47
+2018-11-23,1158.0,Far North,palm_oil,2018,11,47
+2018-11-23,1427.0,Centre,palm_oil,2018,11,47
+2018-11-23,1166.0,East,palm_oil,2018,11,47
+2018-11-23,1247.0,North,palm_oil,2018,11,47
+2018-11-23,1133.0,South,palm_oil,2018,11,47
+2018-11-23,1418.0,Littoral,palm_oil,2018,11,47
+2018-11-30,1126.0,North West,palm_oil,2018,11,48
+2018-11-30,1171.0,South West,palm_oil,2018,11,48
+2018-11-30,1241.0,West,palm_oil,2018,11,48
+2018-11-30,1323.0,Adamawa,palm_oil,2018,11,48
+2018-11-30,1224.0,Far North,palm_oil,2018,11,48
+2018-11-30,1354.0,Centre,palm_oil,2018,11,48
+2018-11-30,1168.0,East,palm_oil,2018,11,48
+2018-11-30,1316.0,North,palm_oil,2018,11,48
+2018-11-30,1247.0,South,palm_oil,2018,11,48
+2018-11-30,1284.0,Littoral,palm_oil,2018,11,48
+2018-12-07,1296.0,North West,palm_oil,2018,12,49
+2018-12-07,1123.0,South West,palm_oil,2018,12,49
+2018-12-07,1416.0,West,palm_oil,2018,12,49
+2018-12-07,1369.0,Adamawa,palm_oil,2018,12,49
+2018-12-07,1253.0,Far North,palm_oil,2018,12,49
+2018-12-07,1288.0,Centre,palm_oil,2018,12,49
+2018-12-07,1114.0,East,palm_oil,2018,12,49
+2018-12-07,1272.0,North,palm_oil,2018,12,49
+2018-12-07,1247.0,South,palm_oil,2018,12,49
+2018-12-07,1230.0,Littoral,palm_oil,2018,12,49
+2018-12-14,1141.0,North West,palm_oil,2018,12,50
+2018-12-14,1256.0,South West,palm_oil,2018,12,50
+2018-12-14,1311.0,West,palm_oil,2018,12,50
+2018-12-14,1090.0,Adamawa,palm_oil,2018,12,50
+2018-12-14,1264.0,Far North,palm_oil,2018,12,50
+2018-12-14,1182.0,Centre,palm_oil,2018,12,50
+2018-12-14,1334.0,East,palm_oil,2018,12,50
+2018-12-14,1238.0,North,palm_oil,2018,12,50
+2018-12-14,1360.0,South,palm_oil,2018,12,50
+2018-12-14,1215.0,Littoral,palm_oil,2018,12,50
+2018-12-21,1370.0,North West,palm_oil,2018,12,51
+2018-12-21,1333.0,South West,palm_oil,2018,12,51
+2018-12-21,1371.0,West,palm_oil,2018,12,51
+2018-12-21,1365.0,Adamawa,palm_oil,2018,12,51
+2018-12-21,1256.0,Far North,palm_oil,2018,12,51
+2018-12-21,1216.0,Centre,palm_oil,2018,12,51
+2018-12-21,1349.0,East,palm_oil,2018,12,51
+2018-12-21,1214.0,North,palm_oil,2018,12,51
+2018-12-21,1123.0,South,palm_oil,2018,12,51
+2018-12-21,1381.0,Littoral,palm_oil,2018,12,51
+2018-12-28,1273.0,North West,palm_oil,2018,12,52
+2018-12-28,1352.0,South West,palm_oil,2018,12,52
+2018-12-28,1343.0,West,palm_oil,2018,12,52
+2018-12-28,1243.0,Adamawa,palm_oil,2018,12,52
+2018-12-28,1091.0,Far North,palm_oil,2018,12,52
+2018-12-28,1289.0,Centre,palm_oil,2018,12,52
+2018-12-28,1261.0,East,palm_oil,2018,12,52
+2018-12-28,1131.0,North,palm_oil,2018,12,52
+2018-12-28,1356.0,South,palm_oil,2018,12,52
+2018-12-28,1090.0,Littoral,palm_oil,2018,12,52
+2019-01-04,1167.0,North West,palm_oil,2019,1,1
+2019-01-04,1077.0,South West,palm_oil,2019,1,1
+2019-01-04,1340.0,West,palm_oil,2019,1,1
+2019-01-04,1058.0,Adamawa,palm_oil,2019,1,1
+2019-01-04,1184.0,Far North,palm_oil,2019,1,1
+2019-01-04,1324.0,Centre,palm_oil,2019,1,1
+2019-01-04,1128.0,East,palm_oil,2019,1,1
+2019-01-04,1081.0,North,palm_oil,2019,1,1
+2019-01-04,1088.0,South,palm_oil,2019,1,1
+2019-01-04,1177.0,Littoral,palm_oil,2019,1,1
+2019-01-11,1294.0,North West,palm_oil,2019,1,2
+2019-01-11,1465.0,South West,palm_oil,2019,1,2
+2019-01-11,1575.0,West,palm_oil,2019,1,2
+2019-01-11,1526.0,Adamawa,palm_oil,2019,1,2
+2019-01-11,1441.0,Far North,palm_oil,2019,1,2
+2019-01-11,1553.0,Centre,palm_oil,2019,1,2
+2019-01-11,1572.0,East,palm_oil,2019,1,2
+2019-01-11,1417.0,North,palm_oil,2019,1,2
+2019-01-11,1307.0,South,palm_oil,2019,1,2
+2019-01-11,1544.0,Littoral,palm_oil,2019,1,2
+2019-01-18,1437.0,North West,palm_oil,2019,1,3
+2019-01-18,1171.0,South West,palm_oil,2019,1,3
+2019-01-18,1469.0,West,palm_oil,2019,1,3
+2019-01-18,1269.0,Adamawa,palm_oil,2019,1,3
+2019-01-18,1254.0,Far North,palm_oil,2019,1,3
+2019-01-18,1261.0,Centre,palm_oil,2019,1,3
+2019-01-18,1253.0,East,palm_oil,2019,1,3
+2019-01-18,1322.0,North,palm_oil,2019,1,3
+2019-01-18,1344.0,South,palm_oil,2019,1,3
+2019-01-18,1290.0,Littoral,palm_oil,2019,1,3
+2019-01-25,1150.0,North West,palm_oil,2019,1,4
+2019-01-25,1482.0,South West,palm_oil,2019,1,4
+2019-01-25,1400.0,West,palm_oil,2019,1,4
+2019-01-25,1398.0,Adamawa,palm_oil,2019,1,4
+2019-01-25,1297.0,Far North,palm_oil,2019,1,4
+2019-01-25,1489.0,Centre,palm_oil,2019,1,4
+2019-01-25,1149.0,East,palm_oil,2019,1,4
+2019-01-25,1175.0,North,palm_oil,2019,1,4
+2019-01-25,1432.0,South,palm_oil,2019,1,4
+2019-01-25,1409.0,Littoral,palm_oil,2019,1,4
+2019-02-01,1174.0,North West,palm_oil,2019,2,5
+2019-02-01,1282.0,South West,palm_oil,2019,2,5
+2019-02-01,1261.0,West,palm_oil,2019,2,5
+2019-02-01,1260.0,Adamawa,palm_oil,2019,2,5
+2019-02-01,1282.0,Far North,palm_oil,2019,2,5
+2019-02-01,1415.0,Centre,palm_oil,2019,2,5
+2019-02-01,1413.0,East,palm_oil,2019,2,5
+2019-02-01,1411.0,North,palm_oil,2019,2,5
+2019-02-01,1267.0,South,palm_oil,2019,2,5
+2019-02-01,1190.0,Littoral,palm_oil,2019,2,5
+2019-02-08,1206.0,North West,palm_oil,2019,2,6
+2019-02-08,1315.0,South West,palm_oil,2019,2,6
+2019-02-08,1311.0,West,palm_oil,2019,2,6
+2019-02-08,1406.0,Adamawa,palm_oil,2019,2,6
+2019-02-08,1181.0,Far North,palm_oil,2019,2,6
+2019-02-08,1337.0,Centre,palm_oil,2019,2,6
+2019-02-08,1253.0,East,palm_oil,2019,2,6
+2019-02-08,1145.0,North,palm_oil,2019,2,6
+2019-02-08,1208.0,South,palm_oil,2019,2,6
+2019-02-08,1120.0,Littoral,palm_oil,2019,2,6
+2019-02-15,1195.0,North West,palm_oil,2019,2,7
+2019-02-15,1111.0,South West,palm_oil,2019,2,7
+2019-02-15,1397.0,West,palm_oil,2019,2,7
+2019-02-15,1122.0,Adamawa,palm_oil,2019,2,7
+2019-02-15,1361.0,Far North,palm_oil,2019,2,7
+2019-02-15,1391.0,Centre,palm_oil,2019,2,7
+2019-02-15,1244.0,East,palm_oil,2019,2,7
+2019-02-15,1106.0,North,palm_oil,2019,2,7
+2019-02-15,1287.0,South,palm_oil,2019,2,7
+2019-02-15,1167.0,Littoral,palm_oil,2019,2,7
+2019-02-22,1178.0,North West,palm_oil,2019,2,8
+2019-02-22,1300.0,South West,palm_oil,2019,2,8
+2019-02-22,1255.0,West,palm_oil,2019,2,8
+2019-02-22,1332.0,Adamawa,palm_oil,2019,2,8
+2019-02-22,1081.0,Far North,palm_oil,2019,2,8
+2019-02-22,1139.0,Centre,palm_oil,2019,2,8
+2019-02-22,1247.0,East,palm_oil,2019,2,8
+2019-02-22,1349.0,North,palm_oil,2019,2,8
+2019-02-22,1327.0,South,palm_oil,2019,2,8
+2019-02-22,1284.0,Littoral,palm_oil,2019,2,8
+2019-03-01,1167.0,North West,palm_oil,2019,3,9
+2019-03-01,1185.0,South West,palm_oil,2019,3,9
+2019-03-01,1057.0,West,palm_oil,2019,3,9
+2019-03-01,1174.0,Adamawa,palm_oil,2019,3,9
+2019-03-01,1143.0,Far North,palm_oil,2019,3,9
+2019-03-01,1109.0,Centre,palm_oil,2019,3,9
+2019-03-01,1263.0,East,palm_oil,2019,3,9
+2019-03-01,1245.0,North,palm_oil,2019,3,9
+2019-03-01,1016.0,South,palm_oil,2019,3,9
+2019-03-01,1293.0,Littoral,palm_oil,2019,3,9
+2019-03-08,1233.0,North West,palm_oil,2019,3,10
+2019-03-08,1086.0,South West,palm_oil,2019,3,10
+2019-03-08,1192.0,West,palm_oil,2019,3,10
+2019-03-08,1040.0,Adamawa,palm_oil,2019,3,10
+2019-03-08,1212.0,Far North,palm_oil,2019,3,10
+2019-03-08,1200.0,Centre,palm_oil,2019,3,10
+2019-03-08,1108.0,East,palm_oil,2019,3,10
+2019-03-08,1163.0,North,palm_oil,2019,3,10
+2019-03-08,1239.0,South,palm_oil,2019,3,10
+2019-03-08,1088.0,Littoral,palm_oil,2019,3,10
+2019-03-15,1072.0,North West,palm_oil,2019,3,11
+2019-03-15,1138.0,South West,palm_oil,2019,3,11
+2019-03-15,1042.0,West,palm_oil,2019,3,11
+2019-03-15,1206.0,Adamawa,palm_oil,2019,3,11
+2019-03-15,943.0,Far North,palm_oil,2019,3,11
+2019-03-15,1046.0,Centre,palm_oil,2019,3,11
+2019-03-15,1135.0,East,palm_oil,2019,3,11
+2019-03-15,1054.0,North,palm_oil,2019,3,11
+2019-03-15,1005.0,South,palm_oil,2019,3,11
+2019-03-15,1049.0,Littoral,palm_oil,2019,3,11
+2019-03-22,1028.0,North West,palm_oil,2019,3,12
+2019-03-22,1124.0,South West,palm_oil,2019,3,12
+2019-03-22,1107.0,West,palm_oil,2019,3,12
+2019-03-22,1092.0,Adamawa,palm_oil,2019,3,12
+2019-03-22,1044.0,Far North,palm_oil,2019,3,12
+2019-03-22,953.0,Centre,palm_oil,2019,3,12
+2019-03-22,1109.0,East,palm_oil,2019,3,12
+2019-03-22,1052.0,North,palm_oil,2019,3,12
+2019-03-22,1055.0,South,palm_oil,2019,3,12
+2019-03-22,999.0,Littoral,palm_oil,2019,3,12
+2019-03-29,1025.0,North West,palm_oil,2019,3,13
+2019-03-29,1183.0,South West,palm_oil,2019,3,13
+2019-03-29,1093.0,West,palm_oil,2019,3,13
+2019-03-29,984.0,Adamawa,palm_oil,2019,3,13
+2019-03-29,966.0,Far North,palm_oil,2019,3,13
+2019-03-29,1018.0,Centre,palm_oil,2019,3,13
+2019-03-29,1095.0,East,palm_oil,2019,3,13
+2019-03-29,1133.0,North,palm_oil,2019,3,13
+2019-03-29,994.0,South,palm_oil,2019,3,13
+2019-03-29,1079.0,Littoral,palm_oil,2019,3,13
+2019-04-05,1165.0,North West,palm_oil,2019,4,14
+2019-04-05,992.0,South West,palm_oil,2019,4,14
+2019-04-05,1032.0,West,palm_oil,2019,4,14
+2019-04-05,1068.0,Adamawa,palm_oil,2019,4,14
+2019-04-05,1129.0,Far North,palm_oil,2019,4,14
+2019-04-05,1094.0,Centre,palm_oil,2019,4,14
+2019-04-05,1099.0,East,palm_oil,2019,4,14
+2019-04-05,985.0,North,palm_oil,2019,4,14
+2019-04-05,1076.0,South,palm_oil,2019,4,14
+2019-04-05,1177.0,Littoral,palm_oil,2019,4,14
+2019-04-12,1088.0,North West,palm_oil,2019,4,15
+2019-04-12,999.0,South West,palm_oil,2019,4,15
+2019-04-12,1061.0,West,palm_oil,2019,4,15
+2019-04-12,1159.0,Adamawa,palm_oil,2019,4,15
+2019-04-12,980.0,Far North,palm_oil,2019,4,15
+2019-04-12,1109.0,Centre,palm_oil,2019,4,15
+2019-04-12,1220.0,East,palm_oil,2019,4,15
+2019-04-12,1051.0,North,palm_oil,2019,4,15
+2019-04-12,954.0,South,palm_oil,2019,4,15
+2019-04-12,1124.0,Littoral,palm_oil,2019,4,15
+2019-04-19,1031.0,North West,palm_oil,2019,4,16
+2019-04-19,1190.0,South West,palm_oil,2019,4,16
+2019-04-19,1124.0,West,palm_oil,2019,4,16
+2019-04-19,1062.0,Adamawa,palm_oil,2019,4,16
+2019-04-19,953.0,Far North,palm_oil,2019,4,16
+2019-04-19,1143.0,Centre,palm_oil,2019,4,16
+2019-04-19,1041.0,East,palm_oil,2019,4,16
+2019-04-19,1020.0,North,palm_oil,2019,4,16
+2019-04-19,1016.0,South,palm_oil,2019,4,16
+2019-04-19,936.0,Littoral,palm_oil,2019,4,16
+2019-04-26,1145.0,North West,palm_oil,2019,4,17
+2019-04-26,974.0,South West,palm_oil,2019,4,17
+2019-04-26,1082.0,West,palm_oil,2019,4,17
+2019-04-26,937.0,Adamawa,palm_oil,2019,4,17
+2019-04-26,1113.0,Far North,palm_oil,2019,4,17
+2019-04-26,1039.0,Centre,palm_oil,2019,4,17
+2019-04-26,1113.0,East,palm_oil,2019,4,17
+2019-04-26,959.0,North,palm_oil,2019,4,17
+2019-04-26,1009.0,South,palm_oil,2019,4,17
+2019-04-26,964.0,Littoral,palm_oil,2019,4,17
+2019-05-03,1067.0,North West,palm_oil,2019,5,18
+2019-05-03,934.0,South West,palm_oil,2019,5,18
+2019-05-03,1157.0,West,palm_oil,2019,5,18
+2019-05-03,1012.0,Adamawa,palm_oil,2019,5,18
+2019-05-03,932.0,Far North,palm_oil,2019,5,18
+2019-05-03,909.0,Centre,palm_oil,2019,5,18
+2019-05-03,988.0,East,palm_oil,2019,5,18
+2019-05-03,1142.0,North,palm_oil,2019,5,18
+2019-05-03,937.0,South,palm_oil,2019,5,18
+2019-05-03,1115.0,Littoral,palm_oil,2019,5,18
+2019-05-10,1010.0,North West,palm_oil,2019,5,19
+2019-05-10,1115.0,South West,palm_oil,2019,5,19
+2019-05-10,1135.0,West,palm_oil,2019,5,19
+2019-05-10,1169.0,Adamawa,palm_oil,2019,5,19
+2019-05-10,914.0,Far North,palm_oil,2019,5,19
+2019-05-10,1114.0,Centre,palm_oil,2019,5,19
+2019-05-10,914.0,East,palm_oil,2019,5,19
+2019-05-10,981.0,North,palm_oil,2019,5,19
+2019-05-10,1072.0,South,palm_oil,2019,5,19
+2019-05-10,1018.0,Littoral,palm_oil,2019,5,19
+2019-05-17,1123.0,North West,palm_oil,2019,5,20
+2019-05-17,998.0,South West,palm_oil,2019,5,20
+2019-05-17,1063.0,West,palm_oil,2019,5,20
+2019-05-17,911.0,Adamawa,palm_oil,2019,5,20
+2019-05-17,1022.0,Far North,palm_oil,2019,5,20
+2019-05-17,1065.0,Centre,palm_oil,2019,5,20
+2019-05-17,1095.0,East,palm_oil,2019,5,20
+2019-05-17,1146.0,North,palm_oil,2019,5,20
+2019-05-17,976.0,South,palm_oil,2019,5,20
+2019-05-17,1146.0,Littoral,palm_oil,2019,5,20
+2019-05-24,1072.0,North West,palm_oil,2019,5,21
+2019-05-24,912.0,South West,palm_oil,2019,5,21
+2019-05-24,995.0,West,palm_oil,2019,5,21
+2019-05-24,1021.0,Adamawa,palm_oil,2019,5,21
+2019-05-24,987.0,Far North,palm_oil,2019,5,21
+2019-05-24,923.0,Centre,palm_oil,2019,5,21
+2019-05-24,1042.0,East,palm_oil,2019,5,21
+2019-05-24,927.0,North,palm_oil,2019,5,21
+2019-05-24,1141.0,South,palm_oil,2019,5,21
+2019-05-24,1127.0,Littoral,palm_oil,2019,5,21
+2019-05-31,1016.0,North West,palm_oil,2019,5,22
+2019-05-31,1027.0,South West,palm_oil,2019,5,22
+2019-05-31,1106.0,West,palm_oil,2019,5,22
+2019-05-31,887.0,Adamawa,palm_oil,2019,5,22
+2019-05-31,1054.0,Far North,palm_oil,2019,5,22
+2019-05-31,1019.0,Centre,palm_oil,2019,5,22
+2019-05-31,916.0,East,palm_oil,2019,5,22
+2019-05-31,902.0,North,palm_oil,2019,5,22
+2019-05-31,1054.0,South,palm_oil,2019,5,22
+2019-05-31,960.0,Littoral,palm_oil,2019,5,22
+2019-06-07,1142.0,North West,palm_oil,2019,6,23
+2019-06-07,1113.0,South West,palm_oil,2019,6,23
+2019-06-07,1025.0,West,palm_oil,2019,6,23
+2019-06-07,1046.0,Adamawa,palm_oil,2019,6,23
+2019-06-07,916.0,Far North,palm_oil,2019,6,23
+2019-06-07,1113.0,Centre,palm_oil,2019,6,23
+2019-06-07,997.0,East,palm_oil,2019,6,23
+2019-06-07,1014.0,North,palm_oil,2019,6,23
+2019-06-07,1108.0,South,palm_oil,2019,6,23
+2019-06-07,875.0,Littoral,palm_oil,2019,6,23
+2019-06-14,973.0,North West,palm_oil,2019,6,24
+2019-06-14,947.0,South West,palm_oil,2019,6,24
+2019-06-14,1080.0,West,palm_oil,2019,6,24
+2019-06-14,1084.0,Adamawa,palm_oil,2019,6,24
+2019-06-14,1022.0,Far North,palm_oil,2019,6,24
+2019-06-14,1179.0,Centre,palm_oil,2019,6,24
+2019-06-14,1014.0,East,palm_oil,2019,6,24
+2019-06-14,1075.0,North,palm_oil,2019,6,24
+2019-06-14,981.0,South,palm_oil,2019,6,24
+2019-06-14,931.0,Littoral,palm_oil,2019,6,24
+2019-06-21,1034.0,North West,palm_oil,2019,6,25
+2019-06-21,1062.0,South West,palm_oil,2019,6,25
+2019-06-21,1129.0,West,palm_oil,2019,6,25
+2019-06-21,1040.0,Adamawa,palm_oil,2019,6,25
+2019-06-21,992.0,Far North,palm_oil,2019,6,25
+2019-06-21,1084.0,Centre,palm_oil,2019,6,25
+2019-06-21,1021.0,East,palm_oil,2019,6,25
+2019-06-21,980.0,North,palm_oil,2019,6,25
+2019-06-21,1169.0,South,palm_oil,2019,6,25
+2019-06-21,1065.0,Littoral,palm_oil,2019,6,25
+2019-06-28,1146.0,North West,palm_oil,2019,6,26
+2019-06-28,1134.0,South West,palm_oil,2019,6,26
+2019-06-28,1089.0,West,palm_oil,2019,6,26
+2019-06-28,1066.0,Adamawa,palm_oil,2019,6,26
+2019-06-28,1139.0,Far North,palm_oil,2019,6,26
+2019-06-28,1119.0,Centre,palm_oil,2019,6,26
+2019-06-28,1081.0,East,palm_oil,2019,6,26
+2019-06-28,1105.0,North,palm_oil,2019,6,26
+2019-06-28,967.0,South,palm_oil,2019,6,26
+2019-06-28,925.0,Littoral,palm_oil,2019,6,26
+2019-07-05,1157.0,North West,palm_oil,2019,7,27
+2019-07-05,1158.0,South West,palm_oil,2019,7,27
+2019-07-05,1118.0,West,palm_oil,2019,7,27
+2019-07-05,1003.0,Adamawa,palm_oil,2019,7,27
+2019-07-05,942.0,Far North,palm_oil,2019,7,27
+2019-07-05,999.0,Centre,palm_oil,2019,7,27
+2019-07-05,1101.0,East,palm_oil,2019,7,27
+2019-07-05,993.0,North,palm_oil,2019,7,27
+2019-07-05,1120.0,South,palm_oil,2019,7,27
+2019-07-05,1086.0,Littoral,palm_oil,2019,7,27
+2019-07-12,1178.0,North West,palm_oil,2019,7,28
+2019-07-12,1126.0,South West,palm_oil,2019,7,28
+2019-07-12,981.0,West,palm_oil,2019,7,28
+2019-07-12,1191.0,Adamawa,palm_oil,2019,7,28
+2019-07-12,989.0,Far North,palm_oil,2019,7,28
+2019-07-12,1030.0,Centre,palm_oil,2019,7,28
+2019-07-12,1159.0,East,palm_oil,2019,7,28
+2019-07-12,984.0,North,palm_oil,2019,7,28
+2019-07-12,1105.0,South,palm_oil,2019,7,28
+2019-07-12,1054.0,Littoral,palm_oil,2019,7,28
+2019-07-19,1110.0,North West,palm_oil,2019,7,29
+2019-07-19,1206.0,South West,palm_oil,2019,7,29
+2019-07-19,1163.0,West,palm_oil,2019,7,29
+2019-07-19,1016.0,Adamawa,palm_oil,2019,7,29
+2019-07-19,948.0,Far North,palm_oil,2019,7,29
+2019-07-19,1208.0,Centre,palm_oil,2019,7,29
+2019-07-19,1099.0,East,palm_oil,2019,7,29
+2019-07-19,981.0,North,palm_oil,2019,7,29
+2019-07-19,1111.0,South,palm_oil,2019,7,29
+2019-07-19,944.0,Littoral,palm_oil,2019,7,29
+2019-07-26,1060.0,North West,palm_oil,2019,7,30
+2019-07-26,1038.0,South West,palm_oil,2019,7,30
+2019-07-26,1134.0,West,palm_oil,2019,7,30
+2019-07-26,1195.0,Adamawa,palm_oil,2019,7,30
+2019-07-26,1140.0,Far North,palm_oil,2019,7,30
+2019-07-26,1078.0,Centre,palm_oil,2019,7,30
+2019-07-26,1135.0,East,palm_oil,2019,7,30
+2019-07-26,1145.0,North,palm_oil,2019,7,30
+2019-07-26,1168.0,South,palm_oil,2019,7,30
+2019-07-26,1033.0,Littoral,palm_oil,2019,7,30
+2019-08-02,965.0,North West,palm_oil,2019,8,31
+2019-08-02,1127.0,South West,palm_oil,2019,8,31
+2019-08-02,967.0,West,palm_oil,2019,8,31
+2019-08-02,1064.0,Adamawa,palm_oil,2019,8,31
+2019-08-02,998.0,Far North,palm_oil,2019,8,31
+2019-08-02,1027.0,Centre,palm_oil,2019,8,31
+2019-08-02,1067.0,East,palm_oil,2019,8,31
+2019-08-02,1188.0,North,palm_oil,2019,8,31
+2019-08-02,1127.0,South,palm_oil,2019,8,31
+2019-08-02,981.0,Littoral,palm_oil,2019,8,31
+2019-08-09,1069.0,North West,palm_oil,2019,8,32
+2019-08-09,1169.0,South West,palm_oil,2019,8,32
+2019-08-09,1065.0,West,palm_oil,2019,8,32
+2019-08-09,1119.0,Adamawa,palm_oil,2019,8,32
+2019-08-09,1255.0,Far North,palm_oil,2019,8,32
+2019-08-09,1209.0,Centre,palm_oil,2019,8,32
+2019-08-09,1154.0,East,palm_oil,2019,8,32
+2019-08-09,1076.0,North,palm_oil,2019,8,32
+2019-08-09,1093.0,South,palm_oil,2019,8,32
+2019-08-09,1308.0,Littoral,palm_oil,2019,8,32
+2019-08-16,1137.0,North West,palm_oil,2019,8,33
+2019-08-16,1223.0,South West,palm_oil,2019,8,33
+2019-08-16,1186.0,West,palm_oil,2019,8,33
+2019-08-16,1036.0,Adamawa,palm_oil,2019,8,33
+2019-08-16,1327.0,Far North,palm_oil,2019,8,33
+2019-08-16,1056.0,Centre,palm_oil,2019,8,33
+2019-08-16,1236.0,East,palm_oil,2019,8,33
+2019-08-16,1285.0,North,palm_oil,2019,8,33
+2019-08-16,1265.0,South,palm_oil,2019,8,33
+2019-08-16,1284.0,Littoral,palm_oil,2019,8,33
+2019-08-23,1288.0,North West,palm_oil,2019,8,34
+2019-08-23,1293.0,South West,palm_oil,2019,8,34
+2019-08-23,1146.0,West,palm_oil,2019,8,34
+2019-08-23,1161.0,Adamawa,palm_oil,2019,8,34
+2019-08-23,1161.0,Far North,palm_oil,2019,8,34
+2019-08-23,1097.0,Centre,palm_oil,2019,8,34
+2019-08-23,1046.0,East,palm_oil,2019,8,34
+2019-08-23,1092.0,North,palm_oil,2019,8,34
+2019-08-23,1272.0,South,palm_oil,2019,8,34
+2019-08-23,1179.0,Littoral,palm_oil,2019,8,34
+2019-08-30,1319.0,North West,palm_oil,2019,8,35
+2019-08-30,1285.0,South West,palm_oil,2019,8,35
+2019-08-30,1158.0,West,palm_oil,2019,8,35
+2019-08-30,1106.0,Adamawa,palm_oil,2019,8,35
+2019-08-30,1228.0,Far North,palm_oil,2019,8,35
+2019-08-30,1347.0,Centre,palm_oil,2019,8,35
+2019-08-30,1316.0,East,palm_oil,2019,8,35
+2019-08-30,1291.0,North,palm_oil,2019,8,35
+2019-08-30,1292.0,South,palm_oil,2019,8,35
+2019-08-30,1216.0,Littoral,palm_oil,2019,8,35
+2019-09-06,1220.0,North West,palm_oil,2019,9,36
+2019-09-06,1137.0,South West,palm_oil,2019,9,36
+2019-09-06,1285.0,West,palm_oil,2019,9,36
+2019-09-06,1155.0,Adamawa,palm_oil,2019,9,36
+2019-09-06,1073.0,Far North,palm_oil,2019,9,36
+2019-09-06,1285.0,Centre,palm_oil,2019,9,36
+2019-09-06,1259.0,East,palm_oil,2019,9,36
+2019-09-06,1117.0,North,palm_oil,2019,9,36
+2019-09-06,1349.0,South,palm_oil,2019,9,36
+2019-09-06,1165.0,Littoral,palm_oil,2019,9,36
+2019-09-13,1236.0,North West,palm_oil,2019,9,37
+2019-09-13,1308.0,South West,palm_oil,2019,9,37
+2019-09-13,1072.0,West,palm_oil,2019,9,37
+2019-09-13,1299.0,Adamawa,palm_oil,2019,9,37
+2019-09-13,1244.0,Far North,palm_oil,2019,9,37
+2019-09-13,1075.0,Centre,palm_oil,2019,9,37
+2019-09-13,1231.0,East,palm_oil,2019,9,37
+2019-09-13,1297.0,North,palm_oil,2019,9,37
+2019-09-13,1273.0,South,palm_oil,2019,9,37
+2019-09-13,1261.0,Littoral,palm_oil,2019,9,37
+2019-09-20,1196.0,North West,palm_oil,2019,9,38
+2019-09-20,1206.0,South West,palm_oil,2019,9,38
+2019-09-20,1320.0,West,palm_oil,2019,9,38
+2019-09-20,1171.0,Adamawa,palm_oil,2019,9,38
+2019-09-20,1119.0,Far North,palm_oil,2019,9,38
+2019-09-20,1084.0,Centre,palm_oil,2019,9,38
+2019-09-20,1041.0,East,palm_oil,2019,9,38
+2019-09-20,1046.0,North,palm_oil,2019,9,38
+2019-09-20,1204.0,South,palm_oil,2019,9,38
+2019-09-20,1079.0,Littoral,palm_oil,2019,9,38
+2019-09-27,1292.0,North West,palm_oil,2019,9,39
+2019-09-27,1212.0,South West,palm_oil,2019,9,39
+2019-09-27,1296.0,West,palm_oil,2019,9,39
+2019-09-27,1158.0,Adamawa,palm_oil,2019,9,39
+2019-09-27,1211.0,Far North,palm_oil,2019,9,39
+2019-09-27,1189.0,Centre,palm_oil,2019,9,39
+2019-09-27,1334.0,East,palm_oil,2019,9,39
+2019-09-27,1275.0,North,palm_oil,2019,9,39
+2019-09-27,1211.0,South,palm_oil,2019,9,39
+2019-09-27,1215.0,Littoral,palm_oil,2019,9,39
+2019-10-04,1394.0,North West,palm_oil,2019,10,40
+2019-10-04,1113.0,South West,palm_oil,2019,10,40
+2019-10-04,1280.0,West,palm_oil,2019,10,40
+2019-10-04,1241.0,Adamawa,palm_oil,2019,10,40
+2019-10-04,1350.0,Far North,palm_oil,2019,10,40
+2019-10-04,1071.0,Centre,palm_oil,2019,10,40
+2019-10-04,1116.0,East,palm_oil,2019,10,40
+2019-10-04,1083.0,North,palm_oil,2019,10,40
+2019-10-04,1124.0,South,palm_oil,2019,10,40
+2019-10-04,1303.0,Littoral,palm_oil,2019,10,40
+2019-10-11,1103.0,North West,palm_oil,2019,10,41
+2019-10-11,1260.0,South West,palm_oil,2019,10,41
+2019-10-11,1340.0,West,palm_oil,2019,10,41
+2019-10-11,1069.0,Adamawa,palm_oil,2019,10,41
+2019-10-11,1067.0,Far North,palm_oil,2019,10,41
+2019-10-11,1379.0,Centre,palm_oil,2019,10,41
+2019-10-11,1276.0,East,palm_oil,2019,10,41
+2019-10-11,1104.0,North,palm_oil,2019,10,41
+2019-10-11,1157.0,South,palm_oil,2019,10,41
+2019-10-11,1378.0,Littoral,palm_oil,2019,10,41
+2019-10-18,1173.0,North West,palm_oil,2019,10,42
+2019-10-18,1226.0,South West,palm_oil,2019,10,42
+2019-10-18,1388.0,West,palm_oil,2019,10,42
+2019-10-18,1102.0,Adamawa,palm_oil,2019,10,42
+2019-10-18,1195.0,Far North,palm_oil,2019,10,42
+2019-10-18,1256.0,Centre,palm_oil,2019,10,42
+2019-10-18,1302.0,East,palm_oil,2019,10,42
+2019-10-18,1102.0,North,palm_oil,2019,10,42
+2019-10-18,1230.0,South,palm_oil,2019,10,42
+2019-10-18,1208.0,Littoral,palm_oil,2019,10,42
+2019-10-25,1085.0,North West,palm_oil,2019,10,43
+2019-10-25,1193.0,South West,palm_oil,2019,10,43
+2019-10-25,1383.0,West,palm_oil,2019,10,43
+2019-10-25,1167.0,Adamawa,palm_oil,2019,10,43
+2019-10-25,1269.0,Far North,palm_oil,2019,10,43
+2019-10-25,1174.0,Centre,palm_oil,2019,10,43
+2019-10-25,1111.0,East,palm_oil,2019,10,43
+2019-10-25,1172.0,North,palm_oil,2019,10,43
+2019-10-25,1231.0,South,palm_oil,2019,10,43
+2019-10-25,1174.0,Littoral,palm_oil,2019,10,43
+2019-11-01,1128.0,North West,palm_oil,2019,11,44
+2019-11-01,1347.0,South West,palm_oil,2019,11,44
+2019-11-01,1105.0,West,palm_oil,2019,11,44
+2019-11-01,1105.0,Adamawa,palm_oil,2019,11,44
+2019-11-01,1149.0,Far North,palm_oil,2019,11,44
+2019-11-01,1267.0,Centre,palm_oil,2019,11,44
+2019-11-01,1121.0,East,palm_oil,2019,11,44
+2019-11-01,1349.0,North,palm_oil,2019,11,44
+2019-11-01,1114.0,South,palm_oil,2019,11,44
+2019-11-01,1272.0,Littoral,palm_oil,2019,11,44
+2019-11-08,1346.0,North West,palm_oil,2019,11,45
+2019-11-08,1196.0,South West,palm_oil,2019,11,45
+2019-11-08,1313.0,West,palm_oil,2019,11,45
+2019-11-08,1204.0,Adamawa,palm_oil,2019,11,45
+2019-11-08,1188.0,Far North,palm_oil,2019,11,45
+2019-11-08,1395.0,Centre,palm_oil,2019,11,45
+2019-11-08,1229.0,East,palm_oil,2019,11,45
+2019-11-08,1393.0,North,palm_oil,2019,11,45
+2019-11-08,1189.0,South,palm_oil,2019,11,45
+2019-11-08,1236.0,Littoral,palm_oil,2019,11,45
+2019-11-15,1249.0,North West,palm_oil,2019,11,46
+2019-11-15,1120.0,South West,palm_oil,2019,11,46
+2019-11-15,1277.0,West,palm_oil,2019,11,46
+2019-11-15,1144.0,Adamawa,palm_oil,2019,11,46
+2019-11-15,1405.0,Far North,palm_oil,2019,11,46
+2019-11-15,1287.0,Centre,palm_oil,2019,11,46
+2019-11-15,1355.0,East,palm_oil,2019,11,46
+2019-11-15,1400.0,North,palm_oil,2019,11,46
+2019-11-15,1136.0,South,palm_oil,2019,11,46
+2019-11-15,1234.0,Littoral,palm_oil,2019,11,46
+2019-11-22,1103.0,North West,palm_oil,2019,11,47
+2019-11-22,1112.0,South West,palm_oil,2019,11,47
+2019-11-22,1108.0,West,palm_oil,2019,11,47
+2019-11-22,1255.0,Adamawa,palm_oil,2019,11,47
+2019-11-22,1246.0,Far North,palm_oil,2019,11,47
+2019-11-22,1115.0,Centre,palm_oil,2019,11,47
+2019-11-22,1183.0,East,palm_oil,2019,11,47
+2019-11-22,1177.0,North,palm_oil,2019,11,47
+2019-11-22,1194.0,South,palm_oil,2019,11,47
+2019-11-22,1310.0,Littoral,palm_oil,2019,11,47
+2019-11-29,1337.0,North West,palm_oil,2019,11,48
+2019-11-29,1215.0,South West,palm_oil,2019,11,48
+2019-11-29,1249.0,West,palm_oil,2019,11,48
+2019-11-29,1125.0,Adamawa,palm_oil,2019,11,48
+2019-11-29,1154.0,Far North,palm_oil,2019,11,48
+2019-11-29,1317.0,Centre,palm_oil,2019,11,48
+2019-11-29,1399.0,East,palm_oil,2019,11,48
+2019-11-29,1309.0,North,palm_oil,2019,11,48
+2019-11-29,1095.0,South,palm_oil,2019,11,48
+2019-11-29,1124.0,Littoral,palm_oil,2019,11,48
+2019-12-06,1275.0,North West,palm_oil,2019,12,49
+2019-12-06,1373.0,South West,palm_oil,2019,12,49
+2019-12-06,1179.0,West,palm_oil,2019,12,49
+2019-12-06,1380.0,Adamawa,palm_oil,2019,12,49
+2019-12-06,1313.0,Far North,palm_oil,2019,12,49
+2019-12-06,1388.0,Centre,palm_oil,2019,12,49
+2019-12-06,1313.0,East,palm_oil,2019,12,49
+2019-12-06,1329.0,North,palm_oil,2019,12,49
+2019-12-06,1207.0,South,palm_oil,2019,12,49
+2019-12-06,1369.0,Littoral,palm_oil,2019,12,49
+2019-12-13,1462.0,North West,palm_oil,2019,12,50
+2019-12-13,1323.0,South West,palm_oil,2019,12,50
+2019-12-13,1180.0,West,palm_oil,2019,12,50
+2019-12-13,1423.0,Adamawa,palm_oil,2019,12,50
+2019-12-13,1212.0,Far North,palm_oil,2019,12,50
+2019-12-13,1137.0,Centre,palm_oil,2019,12,50
+2019-12-13,1269.0,East,palm_oil,2019,12,50
+2019-12-13,1156.0,North,palm_oil,2019,12,50
+2019-12-13,1161.0,South,palm_oil,2019,12,50
+2019-12-13,1281.0,Littoral,palm_oil,2019,12,50
+2019-12-20,1319.0,North West,palm_oil,2019,12,51
+2019-12-20,1419.0,South West,palm_oil,2019,12,51
+2019-12-20,1351.0,West,palm_oil,2019,12,51
+2019-12-20,1398.0,Adamawa,palm_oil,2019,12,51
+2019-12-20,1251.0,Far North,palm_oil,2019,12,51
+2019-12-20,1219.0,Centre,palm_oil,2019,12,51
+2019-12-20,1313.0,East,palm_oil,2019,12,51
+2019-12-20,1348.0,North,palm_oil,2019,12,51
+2019-12-20,1304.0,South,palm_oil,2019,12,51
+2019-12-20,1201.0,Littoral,palm_oil,2019,12,51
+2019-12-27,1094.0,North West,palm_oil,2019,12,52
+2019-12-27,1384.0,South West,palm_oil,2019,12,52
+2019-12-27,1261.0,West,palm_oil,2019,12,52
+2019-12-27,1341.0,Adamawa,palm_oil,2019,12,52
+2019-12-27,1147.0,Far North,palm_oil,2019,12,52
+2019-12-27,1276.0,Centre,palm_oil,2019,12,52
+2019-12-27,1399.0,East,palm_oil,2019,12,52
+2019-12-27,1161.0,North,palm_oil,2019,12,52
+2019-12-27,1205.0,South,palm_oil,2019,12,52
+2019-12-27,1219.0,Littoral,palm_oil,2019,12,52
+2020-01-03,1151.0,North West,palm_oil,2020,1,1
+2020-01-03,1220.0,South West,palm_oil,2020,1,1
+2020-01-03,1155.0,West,palm_oil,2020,1,1
+2020-01-03,1243.0,Adamawa,palm_oil,2020,1,1
+2020-01-03,1183.0,Far North,palm_oil,2020,1,1
+2020-01-03,1080.0,Centre,palm_oil,2020,1,1
+2020-01-03,1330.0,East,palm_oil,2020,1,1
+2020-01-03,1106.0,North,palm_oil,2020,1,1
+2020-01-03,1208.0,South,palm_oil,2020,1,1
+2020-01-03,1049.0,Littoral,palm_oil,2020,1,1
+2020-01-10,1261.0,North West,palm_oil,2020,1,2
+2020-01-10,1102.0,South West,palm_oil,2020,1,2
+2020-01-10,1239.0,West,palm_oil,2020,1,2
+2020-01-10,1307.0,Adamawa,palm_oil,2020,1,2
+2020-01-10,1205.0,Far North,palm_oil,2020,1,2
+2020-01-10,1290.0,Centre,palm_oil,2020,1,2
+2020-01-10,1090.0,East,palm_oil,2020,1,2
+2020-01-10,1305.0,North,palm_oil,2020,1,2
+2020-01-10,1091.0,South,palm_oil,2020,1,2
+2020-01-10,1091.0,Littoral,palm_oil,2020,1,2
+2020-01-17,1305.0,North West,palm_oil,2020,1,3
+2020-01-17,1203.0,South West,palm_oil,2020,1,3
+2020-01-17,1280.0,West,palm_oil,2020,1,3
+2020-01-17,1281.0,Adamawa,palm_oil,2020,1,3
+2020-01-17,1232.0,Far North,palm_oil,2020,1,3
+2020-01-17,1087.0,Centre,palm_oil,2020,1,3
+2020-01-17,1246.0,East,palm_oil,2020,1,3
+2020-01-17,1048.0,North,palm_oil,2020,1,3
+2020-01-17,1091.0,South,palm_oil,2020,1,3
+2020-01-17,1230.0,Littoral,palm_oil,2020,1,3
+2020-01-24,1152.0,North West,palm_oil,2020,1,4
+2020-01-24,1310.0,South West,palm_oil,2020,1,4
+2020-01-24,1356.0,West,palm_oil,2020,1,4
+2020-01-24,1152.0,Adamawa,palm_oil,2020,1,4
+2020-01-24,1105.0,Far North,palm_oil,2020,1,4
+2020-01-24,1109.0,Centre,palm_oil,2020,1,4
+2020-01-24,1174.0,East,palm_oil,2020,1,4
+2020-01-24,1062.0,North,palm_oil,2020,1,4
+2020-01-24,1202.0,South,palm_oil,2020,1,4
+2020-01-24,1280.0,Littoral,palm_oil,2020,1,4
+2020-01-31,1233.0,North West,palm_oil,2020,1,5
+2020-01-31,1376.0,South West,palm_oil,2020,1,5
+2020-01-31,1210.0,West,palm_oil,2020,1,5
+2020-01-31,1064.0,Adamawa,palm_oil,2020,1,5
+2020-01-31,1213.0,Far North,palm_oil,2020,1,5
+2020-01-31,1363.0,Centre,palm_oil,2020,1,5
+2020-01-31,1091.0,East,palm_oil,2020,1,5
+2020-01-31,1133.0,North,palm_oil,2020,1,5
+2020-01-31,1293.0,South,palm_oil,2020,1,5
+2020-01-31,1156.0,Littoral,palm_oil,2020,1,5
+2020-02-07,1288.0,North West,palm_oil,2020,2,6
+2020-02-07,1211.0,South West,palm_oil,2020,2,6
+2020-02-07,1062.0,West,palm_oil,2020,2,6
+2020-02-07,1158.0,Adamawa,palm_oil,2020,2,6
+2020-02-07,1141.0,Far North,palm_oil,2020,2,6
+2020-02-07,1293.0,Centre,palm_oil,2020,2,6
+2020-02-07,1234.0,East,palm_oil,2020,2,6
+2020-02-07,1282.0,North,palm_oil,2020,2,6
+2020-02-07,1154.0,South,palm_oil,2020,2,6
+2020-02-07,1255.0,Littoral,palm_oil,2020,2,6
+2020-02-14,1086.0,North West,palm_oil,2020,2,7
+2020-02-14,1077.0,South West,palm_oil,2020,2,7
+2020-02-14,1159.0,West,palm_oil,2020,2,7
+2020-02-14,1318.0,Adamawa,palm_oil,2020,2,7
+2020-02-14,1239.0,Far North,palm_oil,2020,2,7
+2020-02-14,1198.0,Centre,palm_oil,2020,2,7
+2020-02-14,1358.0,East,palm_oil,2020,2,7
+2020-02-14,1227.0,North,palm_oil,2020,2,7
+2020-02-14,1265.0,South,palm_oil,2020,2,7
+2020-02-14,1387.0,Littoral,palm_oil,2020,2,7
+2020-02-21,1224.0,North West,palm_oil,2020,2,8
+2020-02-21,1099.0,South West,palm_oil,2020,2,8
+2020-02-21,1365.0,West,palm_oil,2020,2,8
+2020-02-21,1401.0,Adamawa,palm_oil,2020,2,8
+2020-02-21,1231.0,Far North,palm_oil,2020,2,8
+2020-02-21,1254.0,Centre,palm_oil,2020,2,8
+2020-02-21,1228.0,East,palm_oil,2020,2,8
+2020-02-21,1419.0,North,palm_oil,2020,2,8
+2020-02-21,1388.0,South,palm_oil,2020,2,8
+2020-02-21,1100.0,Littoral,palm_oil,2020,2,8
+2020-02-28,1323.0,North West,palm_oil,2020,2,9
+2020-02-28,1265.0,South West,palm_oil,2020,2,9
+2020-02-28,1076.0,West,palm_oil,2020,2,9
+2020-02-28,1214.0,Adamawa,palm_oil,2020,2,9
+2020-02-28,1117.0,Far North,palm_oil,2020,2,9
+2020-02-28,1354.0,Centre,palm_oil,2020,2,9
+2020-02-28,1072.0,East,palm_oil,2020,2,9
+2020-02-28,1354.0,North,palm_oil,2020,2,9
+2020-02-28,1376.0,South,palm_oil,2020,2,9
+2020-02-28,1092.0,Littoral,palm_oil,2020,2,9
+2020-03-06,1349.0,North West,palm_oil,2020,3,10
+2020-03-06,1299.0,South West,palm_oil,2020,3,10
+2020-03-06,1266.0,West,palm_oil,2020,3,10
+2020-03-06,1340.0,Adamawa,palm_oil,2020,3,10
+2020-03-06,1095.0,Far North,palm_oil,2020,3,10
+2020-03-06,1164.0,Centre,palm_oil,2020,3,10
+2020-03-06,1313.0,East,palm_oil,2020,3,10
+2020-03-06,1076.0,North,palm_oil,2020,3,10
+2020-03-06,1343.0,South,palm_oil,2020,3,10
+2020-03-06,1282.0,Littoral,palm_oil,2020,3,10
+2020-03-13,1200.0,North West,palm_oil,2020,3,11
+2020-03-13,1167.0,South West,palm_oil,2020,3,11
+2020-03-13,1105.0,West,palm_oil,2020,3,11
+2020-03-13,1088.0,Adamawa,palm_oil,2020,3,11
+2020-03-13,1195.0,Far North,palm_oil,2020,3,11
+2020-03-13,1331.0,Centre,palm_oil,2020,3,11
+2020-03-13,1230.0,East,palm_oil,2020,3,11
+2020-03-13,1203.0,North,palm_oil,2020,3,11
+2020-03-13,1161.0,South,palm_oil,2020,3,11
+2020-03-13,1108.0,Littoral,palm_oil,2020,3,11
+2020-03-20,1219.0,North West,palm_oil,2020,3,12
+2020-03-20,1153.0,South West,palm_oil,2020,3,12
+2020-03-20,1372.0,West,palm_oil,2020,3,12
+2020-03-20,1251.0,Adamawa,palm_oil,2020,3,12
+2020-03-20,1147.0,Far North,palm_oil,2020,3,12
+2020-03-20,1325.0,Centre,palm_oil,2020,3,12
+2020-03-20,1100.0,East,palm_oil,2020,3,12
+2020-03-20,1201.0,North,palm_oil,2020,3,12
+2020-03-20,1322.0,South,palm_oil,2020,3,12
+2020-03-20,1369.0,Littoral,palm_oil,2020,3,12
+2020-03-27,1124.0,North West,palm_oil,2020,3,13
+2020-03-27,1049.0,South West,palm_oil,2020,3,13
+2020-03-27,1181.0,West,palm_oil,2020,3,13
+2020-03-27,1298.0,Adamawa,palm_oil,2020,3,13
+2020-03-27,1212.0,Far North,palm_oil,2020,3,13
+2020-03-27,1192.0,Centre,palm_oil,2020,3,13
+2020-03-27,1102.0,East,palm_oil,2020,3,13
+2020-03-27,1193.0,North,palm_oil,2020,3,13
+2020-03-27,1279.0,South,palm_oil,2020,3,13
+2020-03-27,1122.0,Littoral,palm_oil,2020,3,13
+2020-04-03,1088.0,North West,palm_oil,2020,4,14
+2020-04-03,1116.0,South West,palm_oil,2020,4,14
+2020-04-03,1004.0,West,palm_oil,2020,4,14
+2020-04-03,1076.0,Adamawa,palm_oil,2020,4,14
+2020-04-03,1223.0,Far North,palm_oil,2020,4,14
+2020-04-03,1096.0,Centre,palm_oil,2020,4,14
+2020-04-03,1265.0,East,palm_oil,2020,4,14
+2020-04-03,1188.0,North,palm_oil,2020,4,14
+2020-04-03,1085.0,South,palm_oil,2020,4,14
+2020-04-03,1051.0,Littoral,palm_oil,2020,4,14
+2020-04-10,1115.0,North West,palm_oil,2020,4,15
+2020-04-10,1007.0,South West,palm_oil,2020,4,15
+2020-04-10,1184.0,West,palm_oil,2020,4,15
+2020-04-10,955.0,Adamawa,palm_oil,2020,4,15
+2020-04-10,930.0,Far North,palm_oil,2020,4,15
+2020-04-10,984.0,Centre,palm_oil,2020,4,15
+2020-04-10,1093.0,East,palm_oil,2020,4,15
+2020-04-10,1158.0,North,palm_oil,2020,4,15
+2020-04-10,970.0,South,palm_oil,2020,4,15
+2020-04-10,1087.0,Littoral,palm_oil,2020,4,15
+2020-04-17,929.0,North West,palm_oil,2020,4,16
+2020-04-17,1082.0,South West,palm_oil,2020,4,16
+2020-04-17,1072.0,West,palm_oil,2020,4,16
+2020-04-17,936.0,Adamawa,palm_oil,2020,4,16
+2020-04-17,1119.0,Far North,palm_oil,2020,4,16
+2020-04-17,1086.0,Centre,palm_oil,2020,4,16
+2020-04-17,1100.0,East,palm_oil,2020,4,16
+2020-04-17,1074.0,North,palm_oil,2020,4,16
+2020-04-17,1129.0,South,palm_oil,2020,4,16
+2020-04-17,1073.0,Littoral,palm_oil,2020,4,16
+2020-04-24,1150.0,North West,palm_oil,2020,4,17
+2020-04-24,1156.0,South West,palm_oil,2020,4,17
+2020-04-24,1097.0,West,palm_oil,2020,4,17
+2020-04-24,1147.0,Adamawa,palm_oil,2020,4,17
+2020-04-24,1151.0,Far North,palm_oil,2020,4,17
+2020-04-24,969.0,Centre,palm_oil,2020,4,17
+2020-04-24,1170.0,East,palm_oil,2020,4,17
+2020-04-24,970.0,North,palm_oil,2020,4,17
+2020-04-24,902.0,South,palm_oil,2020,4,17
+2020-04-24,1161.0,Littoral,palm_oil,2020,4,17
+2020-05-01,1177.0,North West,palm_oil,2020,5,18
+2020-05-01,920.0,South West,palm_oil,2020,5,18
+2020-05-01,982.0,West,palm_oil,2020,5,18
+2020-05-01,1076.0,Adamawa,palm_oil,2020,5,18
+2020-05-01,1119.0,Far North,palm_oil,2020,5,18
+2020-05-01,1131.0,Centre,palm_oil,2020,5,18
+2020-05-01,1153.0,East,palm_oil,2020,5,18
+2020-05-01,954.0,North,palm_oil,2020,5,18
+2020-05-01,1010.0,South,palm_oil,2020,5,18
+2020-05-01,1105.0,Littoral,palm_oil,2020,5,18
+2020-05-08,1066.0,North West,palm_oil,2020,5,19
+2020-05-08,957.0,South West,palm_oil,2020,5,19
+2020-05-08,956.0,West,palm_oil,2020,5,19
+2020-05-08,960.0,Adamawa,palm_oil,2020,5,19
+2020-05-08,1113.0,Far North,palm_oil,2020,5,19
+2020-05-08,1118.0,Centre,palm_oil,2020,5,19
+2020-05-08,878.0,East,palm_oil,2020,5,19
+2020-05-08,961.0,North,palm_oil,2020,5,19
+2020-05-08,979.0,South,palm_oil,2020,5,19
+2020-05-08,1138.0,Littoral,palm_oil,2020,5,19
+2020-05-15,898.0,North West,palm_oil,2020,5,20
+2020-05-15,937.0,South West,palm_oil,2020,5,20
+2020-05-15,1003.0,West,palm_oil,2020,5,20
+2020-05-15,1146.0,Adamawa,palm_oil,2020,5,20
+2020-05-15,911.0,Far North,palm_oil,2020,5,20
+2020-05-15,1100.0,Centre,palm_oil,2020,5,20
+2020-05-15,937.0,East,palm_oil,2020,5,20
+2020-05-15,1023.0,North,palm_oil,2020,5,20
+2020-05-15,1094.0,South,palm_oil,2020,5,20
+2020-05-15,1073.0,Littoral,palm_oil,2020,5,20
+2020-05-22,1116.0,North West,palm_oil,2020,5,21
+2020-05-22,1127.0,South West,palm_oil,2020,5,21
+2020-05-22,986.0,West,palm_oil,2020,5,21
+2020-05-22,1002.0,Adamawa,palm_oil,2020,5,21
+2020-05-22,1127.0,Far North,palm_oil,2020,5,21
+2020-05-22,912.0,Centre,palm_oil,2020,5,21
+2020-05-22,1044.0,East,palm_oil,2020,5,21
+2020-05-22,1156.0,North,palm_oil,2020,5,21
+2020-05-22,1147.0,South,palm_oil,2020,5,21
+2020-05-22,1124.0,Littoral,palm_oil,2020,5,21
+2020-05-29,990.0,North West,palm_oil,2020,5,22
+2020-05-29,1044.0,South West,palm_oil,2020,5,22
+2020-05-29,1120.0,West,palm_oil,2020,5,22
+2020-05-29,1134.0,Adamawa,palm_oil,2020,5,22
+2020-05-29,1003.0,Far North,palm_oil,2020,5,22
+2020-05-29,998.0,Centre,palm_oil,2020,5,22
+2020-05-29,1112.0,East,palm_oil,2020,5,22
+2020-05-29,1098.0,North,palm_oil,2020,5,22
+2020-05-29,1050.0,South,palm_oil,2020,5,22
+2020-05-29,1024.0,Littoral,palm_oil,2020,5,22
+2020-06-05,1111.0,North West,palm_oil,2020,6,23
+2020-06-05,934.0,South West,palm_oil,2020,6,23
+2020-06-05,946.0,West,palm_oil,2020,6,23
+2020-06-05,1088.0,Adamawa,palm_oil,2020,6,23
+2020-06-05,985.0,Far North,palm_oil,2020,6,23
+2020-06-05,1145.0,Centre,palm_oil,2020,6,23
+2020-06-05,1144.0,East,palm_oil,2020,6,23
+2020-06-05,1126.0,North,palm_oil,2020,6,23
+2020-06-05,1181.0,South,palm_oil,2020,6,23
+2020-06-05,965.0,Littoral,palm_oil,2020,6,23
+2020-06-12,1121.0,North West,palm_oil,2020,6,24
+2020-06-12,1049.0,South West,palm_oil,2020,6,24
+2020-06-12,974.0,West,palm_oil,2020,6,24
+2020-06-12,942.0,Adamawa,palm_oil,2020,6,24
+2020-06-12,1152.0,Far North,palm_oil,2020,6,24
+2020-06-12,1096.0,Centre,palm_oil,2020,6,24
+2020-06-12,1051.0,East,palm_oil,2020,6,24
+2020-06-12,1172.0,North,palm_oil,2020,6,24
+2020-06-12,1140.0,South,palm_oil,2020,6,24
+2020-06-12,953.0,Littoral,palm_oil,2020,6,24
+2020-06-19,1029.0,North West,palm_oil,2020,6,25
+2020-06-19,1023.0,South West,palm_oil,2020,6,25
+2020-06-19,1121.0,West,palm_oil,2020,6,25
+2020-06-19,931.0,Adamawa,palm_oil,2020,6,25
+2020-06-19,1013.0,Far North,palm_oil,2020,6,25
+2020-06-19,1064.0,Centre,palm_oil,2020,6,25
+2020-06-19,1148.0,East,palm_oil,2020,6,25
+2020-06-19,1136.0,North,palm_oil,2020,6,25
+2020-06-19,1036.0,South,palm_oil,2020,6,25
+2020-06-19,1056.0,Littoral,palm_oil,2020,6,25
+2020-06-26,1154.0,North West,palm_oil,2020,6,26
+2020-06-26,1159.0,South West,palm_oil,2020,6,26
+2020-06-26,1141.0,West,palm_oil,2020,6,26
+2020-06-26,912.0,Adamawa,palm_oil,2020,6,26
+2020-06-26,996.0,Far North,palm_oil,2020,6,26
+2020-06-26,1022.0,Centre,palm_oil,2020,6,26
+2020-06-26,1098.0,East,palm_oil,2020,6,26
+2020-06-26,995.0,North,palm_oil,2020,6,26
+2020-06-26,999.0,South,palm_oil,2020,6,26
+2020-06-26,1021.0,Littoral,palm_oil,2020,6,26
+2020-07-03,1217.0,North West,palm_oil,2020,7,27
+2020-07-03,1067.0,South West,palm_oil,2020,7,27
+2020-07-03,982.0,West,palm_oil,2020,7,27
+2020-07-03,943.0,Adamawa,palm_oil,2020,7,27
+2020-07-03,1010.0,Far North,palm_oil,2020,7,27
+2020-07-03,1212.0,Centre,palm_oil,2020,7,27
+2020-07-03,1217.0,East,palm_oil,2020,7,27
+2020-07-03,1094.0,North,palm_oil,2020,7,27
+2020-07-03,1128.0,South,palm_oil,2020,7,27
+2020-07-03,1171.0,Littoral,palm_oil,2020,7,27
+2020-07-10,1132.0,North West,palm_oil,2020,7,28
+2020-07-10,1206.0,South West,palm_oil,2020,7,28
+2020-07-10,1156.0,West,palm_oil,2020,7,28
+2020-07-10,1047.0,Adamawa,palm_oil,2020,7,28
+2020-07-10,1209.0,Far North,palm_oil,2020,7,28
+2020-07-10,1138.0,Centre,palm_oil,2020,7,28
+2020-07-10,1186.0,East,palm_oil,2020,7,28
+2020-07-10,1057.0,North,palm_oil,2020,7,28
+2020-07-10,946.0,South,palm_oil,2020,7,28
+2020-07-10,994.0,Littoral,palm_oil,2020,7,28
+2020-07-17,1207.0,North West,palm_oil,2020,7,29
+2020-07-17,949.0,South West,palm_oil,2020,7,29
+2020-07-17,1111.0,West,palm_oil,2020,7,29
+2020-07-17,1057.0,Adamawa,palm_oil,2020,7,29
+2020-07-17,1063.0,Far North,palm_oil,2020,7,29
+2020-07-17,1055.0,Centre,palm_oil,2020,7,29
+2020-07-17,959.0,East,palm_oil,2020,7,29
+2020-07-17,975.0,North,palm_oil,2020,7,29
+2020-07-17,958.0,South,palm_oil,2020,7,29
+2020-07-17,955.0,Littoral,palm_oil,2020,7,29
+2020-07-24,987.0,North West,palm_oil,2020,7,30
+2020-07-24,1030.0,South West,palm_oil,2020,7,30
+2020-07-24,1146.0,West,palm_oil,2020,7,30
+2020-07-24,987.0,Adamawa,palm_oil,2020,7,30
+2020-07-24,1220.0,Far North,palm_oil,2020,7,30
+2020-07-24,1094.0,Centre,palm_oil,2020,7,30
+2020-07-24,1236.0,East,palm_oil,2020,7,30
+2020-07-24,1010.0,North,palm_oil,2020,7,30
+2020-07-24,963.0,South,palm_oil,2020,7,30
+2020-07-24,1127.0,Littoral,palm_oil,2020,7,30
+2020-07-31,1041.0,North West,palm_oil,2020,7,31
+2020-07-31,1112.0,South West,palm_oil,2020,7,31
+2020-07-31,1084.0,West,palm_oil,2020,7,31
+2020-07-31,1079.0,Adamawa,palm_oil,2020,7,31
+2020-07-31,1193.0,Far North,palm_oil,2020,7,31
+2020-07-31,1002.0,Centre,palm_oil,2020,7,31
+2020-07-31,1091.0,East,palm_oil,2020,7,31
+2020-07-31,1067.0,North,palm_oil,2020,7,31
+2020-07-31,1142.0,South,palm_oil,2020,7,31
+2020-07-31,961.0,Littoral,palm_oil,2020,7,31
+2020-08-07,1201.0,North West,palm_oil,2020,8,32
+2020-08-07,1139.0,South West,palm_oil,2020,8,32
+2020-08-07,968.0,West,palm_oil,2020,8,32
+2020-08-07,1069.0,Adamawa,palm_oil,2020,8,32
+2020-08-07,1147.0,Far North,palm_oil,2020,8,32
+2020-08-07,1073.0,Centre,palm_oil,2020,8,32
+2020-08-07,1026.0,East,palm_oil,2020,8,32
+2020-08-07,1031.0,North,palm_oil,2020,8,32
+2020-08-07,1029.0,South,palm_oil,2020,8,32
+2020-08-07,930.0,Littoral,palm_oil,2020,8,32
+2020-08-14,1251.0,North West,palm_oil,2020,8,33
+2020-08-14,1213.0,South West,palm_oil,2020,8,33
+2020-08-14,1106.0,West,palm_oil,2020,8,33
+2020-08-14,1219.0,Adamawa,palm_oil,2020,8,33
+2020-08-14,1118.0,Far North,palm_oil,2020,8,33
+2020-08-14,1098.0,Centre,palm_oil,2020,8,33
+2020-08-14,1254.0,East,palm_oil,2020,8,33
+2020-08-14,1275.0,North,palm_oil,2020,8,33
+2020-08-14,1218.0,South,palm_oil,2020,8,33
+2020-08-14,1267.0,Littoral,palm_oil,2020,8,33
+2020-08-21,1197.0,North West,palm_oil,2020,8,34
+2020-08-21,1089.0,South West,palm_oil,2020,8,34
+2020-08-21,1250.0,West,palm_oil,2020,8,34
+2020-08-21,1120.0,Adamawa,palm_oil,2020,8,34
+2020-08-21,1217.0,Far North,palm_oil,2020,8,34
+2020-08-21,1181.0,Centre,palm_oil,2020,8,34
+2020-08-21,1263.0,East,palm_oil,2020,8,34
+2020-08-21,1267.0,North,palm_oil,2020,8,34
+2020-08-21,1031.0,South,palm_oil,2020,8,34
+2020-08-21,1101.0,Littoral,palm_oil,2020,8,34
+2020-08-28,1282.0,North West,palm_oil,2020,8,35
+2020-08-28,1137.0,South West,palm_oil,2020,8,35
+2020-08-28,1172.0,West,palm_oil,2020,8,35
+2020-08-28,1069.0,Adamawa,palm_oil,2020,8,35
+2020-08-28,1183.0,Far North,palm_oil,2020,8,35
+2020-08-28,1094.0,Centre,palm_oil,2020,8,35
+2020-08-28,1269.0,East,palm_oil,2020,8,35
+2020-08-28,1074.0,North,palm_oil,2020,8,35
+2020-08-28,1123.0,South,palm_oil,2020,8,35
+2020-08-28,1041.0,Littoral,palm_oil,2020,8,35
+2020-09-04,1110.0,North West,palm_oil,2020,9,36
+2020-09-04,1060.0,South West,palm_oil,2020,9,36
+2020-09-04,1190.0,West,palm_oil,2020,9,36
+2020-09-04,1296.0,Adamawa,palm_oil,2020,9,36
+2020-09-04,1369.0,Far North,palm_oil,2020,9,36
+2020-09-04,1070.0,Centre,palm_oil,2020,9,36
+2020-09-04,1308.0,East,palm_oil,2020,9,36
+2020-09-04,1173.0,North,palm_oil,2020,9,36
+2020-09-04,1103.0,South,palm_oil,2020,9,36
+2020-09-04,1116.0,Littoral,palm_oil,2020,9,36
+2020-09-11,1373.0,North West,palm_oil,2020,9,37
+2020-09-11,1336.0,South West,palm_oil,2020,9,37
+2020-09-11,1172.0,West,palm_oil,2020,9,37
+2020-09-11,1379.0,Adamawa,palm_oil,2020,9,37
+2020-09-11,1105.0,Far North,palm_oil,2020,9,37
+2020-09-11,1176.0,Centre,palm_oil,2020,9,37
+2020-09-11,1284.0,East,palm_oil,2020,9,37
+2020-09-11,1398.0,North,palm_oil,2020,9,37
+2020-09-11,1223.0,South,palm_oil,2020,9,37
+2020-09-11,1336.0,Littoral,palm_oil,2020,9,37
+2020-09-18,1317.0,North West,palm_oil,2020,9,38
+2020-09-18,1249.0,South West,palm_oil,2020,9,38
+2020-09-18,1095.0,West,palm_oil,2020,9,38
+2020-09-18,1201.0,Adamawa,palm_oil,2020,9,38
+2020-09-18,1231.0,Far North,palm_oil,2020,9,38
+2020-09-18,1291.0,Centre,palm_oil,2020,9,38
+2020-09-18,1318.0,East,palm_oil,2020,9,38
+2020-09-18,1092.0,North,palm_oil,2020,9,38
+2020-09-18,1223.0,South,palm_oil,2020,9,38
+2020-09-18,1116.0,Littoral,palm_oil,2020,9,38
+2020-09-25,1313.0,North West,palm_oil,2020,9,39
+2020-09-25,1281.0,South West,palm_oil,2020,9,39
+2020-09-25,1303.0,West,palm_oil,2020,9,39
+2020-09-25,1091.0,Adamawa,palm_oil,2020,9,39
+2020-09-25,1233.0,Far North,palm_oil,2020,9,39
+2020-09-25,1341.0,Centre,palm_oil,2020,9,39
+2020-09-25,1299.0,East,palm_oil,2020,9,39
+2020-09-25,1348.0,North,palm_oil,2020,9,39
+2020-09-25,1134.0,South,palm_oil,2020,9,39
+2020-09-25,1160.0,Littoral,palm_oil,2020,9,39
+2020-10-02,1205.0,North West,palm_oil,2020,10,40
+2020-10-02,1250.0,South West,palm_oil,2020,10,40
+2020-10-02,1355.0,West,palm_oil,2020,10,40
+2020-10-02,1340.0,Adamawa,palm_oil,2020,10,40
+2020-10-02,1157.0,Far North,palm_oil,2020,10,40
+2020-10-02,1457.0,Centre,palm_oil,2020,10,40
+2020-10-02,1312.0,East,palm_oil,2020,10,40
+2020-10-02,1285.0,North,palm_oil,2020,10,40
+2020-10-02,1451.0,South,palm_oil,2020,10,40
+2020-10-02,1167.0,Littoral,palm_oil,2020,10,40
+2020-10-09,1229.0,North West,palm_oil,2020,10,41
+2020-10-09,1313.0,South West,palm_oil,2020,10,41
+2020-10-09,1182.0,West,palm_oil,2020,10,41
+2020-10-09,1291.0,Adamawa,palm_oil,2020,10,41
+2020-10-09,1344.0,Far North,palm_oil,2020,10,41
+2020-10-09,1138.0,Centre,palm_oil,2020,10,41
+2020-10-09,1131.0,East,palm_oil,2020,10,41
+2020-10-09,1170.0,North,palm_oil,2020,10,41
+2020-10-09,1188.0,South,palm_oil,2020,10,41
+2020-10-09,1089.0,Littoral,palm_oil,2020,10,41
+2020-10-16,1284.0,North West,palm_oil,2020,10,42
+2020-10-16,1184.0,South West,palm_oil,2020,10,42
+2020-10-16,1411.0,West,palm_oil,2020,10,42
+2020-10-16,1354.0,Adamawa,palm_oil,2020,10,42
+2020-10-16,1216.0,Far North,palm_oil,2020,10,42
+2020-10-16,1351.0,Centre,palm_oil,2020,10,42
+2020-10-16,1294.0,East,palm_oil,2020,10,42
+2020-10-16,1324.0,North,palm_oil,2020,10,42
+2020-10-16,1202.0,South,palm_oil,2020,10,42
+2020-10-16,1164.0,Littoral,palm_oil,2020,10,42
+2020-10-23,1186.0,North West,palm_oil,2020,10,43
+2020-10-23,1129.0,South West,palm_oil,2020,10,43
+2020-10-23,1260.0,West,palm_oil,2020,10,43
+2020-10-23,1238.0,Adamawa,palm_oil,2020,10,43
+2020-10-23,1101.0,Far North,palm_oil,2020,10,43
+2020-10-23,1390.0,Centre,palm_oil,2020,10,43
+2020-10-23,1331.0,East,palm_oil,2020,10,43
+2020-10-23,1251.0,North,palm_oil,2020,10,43
+2020-10-23,1427.0,South,palm_oil,2020,10,43
+2020-10-23,1418.0,Littoral,palm_oil,2020,10,43
+2020-10-30,1402.0,North West,palm_oil,2020,10,44
+2020-10-30,1180.0,South West,palm_oil,2020,10,44
+2020-10-30,1165.0,West,palm_oil,2020,10,44
+2020-10-30,1210.0,Adamawa,palm_oil,2020,10,44
+2020-10-30,1217.0,Far North,palm_oil,2020,10,44
+2020-10-30,1453.0,Centre,palm_oil,2020,10,44
+2020-10-30,1389.0,East,palm_oil,2020,10,44
+2020-10-30,1142.0,North,palm_oil,2020,10,44
+2020-10-30,1391.0,South,palm_oil,2020,10,44
+2020-10-30,1179.0,Littoral,palm_oil,2020,10,44
+2020-11-06,1234.0,North West,palm_oil,2020,11,45
+2020-11-06,1221.0,South West,palm_oil,2020,11,45
+2020-11-06,1205.0,West,palm_oil,2020,11,45
+2020-11-06,1217.0,Adamawa,palm_oil,2020,11,45
+2020-11-06,1369.0,Far North,palm_oil,2020,11,45
+2020-11-06,1203.0,Centre,palm_oil,2020,11,45
+2020-11-06,1385.0,East,palm_oil,2020,11,45
+2020-11-06,1143.0,North,palm_oil,2020,11,45
+2020-11-06,1315.0,South,palm_oil,2020,11,45
+2020-11-06,1406.0,Littoral,palm_oil,2020,11,45
+2020-11-13,1312.0,North West,palm_oil,2020,11,46
+2020-11-13,1250.0,South West,palm_oil,2020,11,46
+2020-11-13,1169.0,West,palm_oil,2020,11,46
+2020-11-13,1370.0,Adamawa,palm_oil,2020,11,46
+2020-11-13,1242.0,Far North,palm_oil,2020,11,46
+2020-11-13,1252.0,Centre,palm_oil,2020,11,46
+2020-11-13,1384.0,East,palm_oil,2020,11,46
+2020-11-13,1463.0,North,palm_oil,2020,11,46
+2020-11-13,1250.0,South,palm_oil,2020,11,46
+2020-11-13,1394.0,Littoral,palm_oil,2020,11,46
+2020-11-20,1455.0,North West,palm_oil,2020,11,47
+2020-11-20,1159.0,South West,palm_oil,2020,11,47
+2020-11-20,1308.0,West,palm_oil,2020,11,47
+2020-11-20,1129.0,Adamawa,palm_oil,2020,11,47
+2020-11-20,1410.0,Far North,palm_oil,2020,11,47
+2020-11-20,1224.0,Centre,palm_oil,2020,11,47
+2020-11-20,1240.0,East,palm_oil,2020,11,47
+2020-11-20,1362.0,North,palm_oil,2020,11,47
+2020-11-20,1398.0,South,palm_oil,2020,11,47
+2020-11-20,1263.0,Littoral,palm_oil,2020,11,47
+2020-11-27,1459.0,North West,palm_oil,2020,11,48
+2020-11-27,1394.0,South West,palm_oil,2020,11,48
+2020-11-27,1479.0,West,palm_oil,2020,11,48
+2020-11-27,1455.0,Adamawa,palm_oil,2020,11,48
+2020-11-27,1403.0,Far North,palm_oil,2020,11,48
+2020-11-27,1470.0,Centre,palm_oil,2020,11,48
+2020-11-27,1435.0,East,palm_oil,2020,11,48
+2020-11-27,1324.0,North,palm_oil,2020,11,48
+2020-11-27,1324.0,South,palm_oil,2020,11,48
+2020-11-27,1150.0,Littoral,palm_oil,2020,11,48
+2020-12-04,1162.0,North West,palm_oil,2020,12,49
+2020-12-04,1415.0,South West,palm_oil,2020,12,49
+2020-12-04,1348.0,West,palm_oil,2020,12,49
+2020-12-04,1420.0,Adamawa,palm_oil,2020,12,49
+2020-12-04,1487.0,Far North,palm_oil,2020,12,49
+2020-12-04,1311.0,Centre,palm_oil,2020,12,49
+2020-12-04,1183.0,East,palm_oil,2020,12,49
+2020-12-04,1373.0,North,palm_oil,2020,12,49
+2020-12-04,1187.0,South,palm_oil,2020,12,49
+2020-12-04,1371.0,Littoral,palm_oil,2020,12,49
+2020-12-11,1332.0,North West,palm_oil,2020,12,50
+2020-12-11,1255.0,South West,palm_oil,2020,12,50
+2020-12-11,1289.0,West,palm_oil,2020,12,50
+2020-12-11,1454.0,Adamawa,palm_oil,2020,12,50
+2020-12-11,1379.0,Far North,palm_oil,2020,12,50
+2020-12-11,1402.0,Centre,palm_oil,2020,12,50
+2020-12-11,1321.0,East,palm_oil,2020,12,50
+2020-12-11,1511.0,North,palm_oil,2020,12,50
+2020-12-11,1571.0,South,palm_oil,2020,12,50
+2020-12-11,1317.0,Littoral,palm_oil,2020,12,50
+2020-12-18,1457.0,North West,palm_oil,2020,12,51
+2020-12-18,1257.0,South West,palm_oil,2020,12,51
+2020-12-18,1466.0,West,palm_oil,2020,12,51
+2020-12-18,1352.0,Adamawa,palm_oil,2020,12,51
+2020-12-18,1416.0,Far North,palm_oil,2020,12,51
+2020-12-18,1281.0,Centre,palm_oil,2020,12,51
+2020-12-18,1506.0,East,palm_oil,2020,12,51
+2020-12-18,1258.0,North,palm_oil,2020,12,51
+2020-12-18,1534.0,South,palm_oil,2020,12,51
+2020-12-18,1217.0,Littoral,palm_oil,2020,12,51
+2020-12-25,1511.0,North West,palm_oil,2020,12,52
+2020-12-25,1408.0,South West,palm_oil,2020,12,52
+2020-12-25,1276.0,West,palm_oil,2020,12,52
+2020-12-25,1512.0,Adamawa,palm_oil,2020,12,52
+2020-12-25,1415.0,Far North,palm_oil,2020,12,52
+2020-12-25,1282.0,Centre,palm_oil,2020,12,52
+2020-12-25,1402.0,East,palm_oil,2020,12,52
+2020-12-25,1444.0,North,palm_oil,2020,12,52
+2020-12-25,1446.0,South,palm_oil,2020,12,52
+2020-12-25,1462.0,Littoral,palm_oil,2020,12,52
+2021-01-01,1433.0,North West,palm_oil,2021,1,53
+2021-01-01,1408.0,South West,palm_oil,2021,1,53
+2021-01-01,1333.0,West,palm_oil,2021,1,53
+2021-01-01,1135.0,Adamawa,palm_oil,2021,1,53
+2021-01-01,1382.0,Far North,palm_oil,2021,1,53
+2021-01-01,1460.0,Centre,palm_oil,2021,1,53
+2021-01-01,1229.0,East,palm_oil,2021,1,53
+2021-01-01,1333.0,North,palm_oil,2021,1,53
+2021-01-01,1389.0,South,palm_oil,2021,1,53
+2021-01-01,1344.0,Littoral,palm_oil,2021,1,53
+2021-01-08,1301.0,North West,palm_oil,2021,1,1
+2021-01-08,1131.0,South West,palm_oil,2021,1,1
+2021-01-08,1427.0,West,palm_oil,2021,1,1
+2021-01-08,1208.0,Adamawa,palm_oil,2021,1,1
+2021-01-08,1454.0,Far North,palm_oil,2021,1,1
+2021-01-08,1187.0,Centre,palm_oil,2021,1,1
+2021-01-08,1205.0,East,palm_oil,2021,1,1
+2021-01-08,1284.0,North,palm_oil,2021,1,1
+2021-01-08,1345.0,South,palm_oil,2021,1,1
+2021-01-08,1269.0,Littoral,palm_oil,2021,1,1
+2021-01-15,1260.0,North West,palm_oil,2021,1,2
+2021-01-15,1326.0,South West,palm_oil,2021,1,2
+2021-01-15,1472.0,West,palm_oil,2021,1,2
+2021-01-15,1473.0,Adamawa,palm_oil,2021,1,2
+2021-01-15,1252.0,Far North,palm_oil,2021,1,2
+2021-01-15,1375.0,Centre,palm_oil,2021,1,2
+2021-01-15,1389.0,East,palm_oil,2021,1,2
+2021-01-15,1365.0,North,palm_oil,2021,1,2
+2021-01-15,1177.0,South,palm_oil,2021,1,2
+2021-01-15,1326.0,Littoral,palm_oil,2021,1,2
+2021-01-22,1229.0,North West,palm_oil,2021,1,3
+2021-01-22,1180.0,South West,palm_oil,2021,1,3
+2021-01-22,1413.0,West,palm_oil,2021,1,3
+2021-01-22,1403.0,Adamawa,palm_oil,2021,1,3
+2021-01-22,1168.0,Far North,palm_oil,2021,1,3
+2021-01-22,1369.0,Centre,palm_oil,2021,1,3
+2021-01-22,1234.0,East,palm_oil,2021,1,3
+2021-01-22,1344.0,North,palm_oil,2021,1,3
+2021-01-22,1278.0,South,palm_oil,2021,1,3
+2021-01-22,1271.0,Littoral,palm_oil,2021,1,3
+2021-01-29,1432.0,North West,palm_oil,2021,1,4
+2021-01-29,1348.0,South West,palm_oil,2021,1,4
+2021-01-29,1209.0,West,palm_oil,2021,1,4
+2021-01-29,1166.0,Adamawa,palm_oil,2021,1,4
+2021-01-29,1450.0,Far North,palm_oil,2021,1,4
+2021-01-29,1181.0,Centre,palm_oil,2021,1,4
+2021-01-29,1381.0,East,palm_oil,2021,1,4
+2021-01-29,1299.0,North,palm_oil,2021,1,4
+2021-01-29,1176.0,South,palm_oil,2021,1,4
+2021-01-29,1396.0,Littoral,palm_oil,2021,1,4
+2021-02-05,1236.0,North West,palm_oil,2021,2,5
+2021-02-05,1226.0,South West,palm_oil,2021,2,5
+2021-02-05,1189.0,West,palm_oil,2021,2,5
+2021-02-05,1277.0,Adamawa,palm_oil,2021,2,5
+2021-02-05,1142.0,Far North,palm_oil,2021,2,5
+2021-02-05,1328.0,Centre,palm_oil,2021,2,5
+2021-02-05,1272.0,East,palm_oil,2021,2,5
+2021-02-05,1372.0,North,palm_oil,2021,2,5
+2021-02-05,1396.0,South,palm_oil,2021,2,5
+2021-02-05,1389.0,Littoral,palm_oil,2021,2,5
+2021-02-12,1276.0,North West,palm_oil,2021,2,6
+2021-02-12,1183.0,South West,palm_oil,2021,2,6
+2021-02-12,1195.0,West,palm_oil,2021,2,6
+2021-02-12,1293.0,Adamawa,palm_oil,2021,2,6
+2021-02-12,1313.0,Far North,palm_oil,2021,2,6
+2021-02-12,1131.0,Centre,palm_oil,2021,2,6
+2021-02-12,1407.0,East,palm_oil,2021,2,6
+2021-02-12,1113.0,North,palm_oil,2021,2,6
+2021-02-12,1278.0,South,palm_oil,2021,2,6
+2021-02-12,1253.0,Littoral,palm_oil,2021,2,6
+2021-02-19,1111.0,North West,palm_oil,2021,2,7
+2021-02-19,1425.0,South West,palm_oil,2021,2,7
+2021-02-19,1421.0,West,palm_oil,2021,2,7
+2021-02-19,1267.0,Adamawa,palm_oil,2021,2,7
+2021-02-19,1162.0,Far North,palm_oil,2021,2,7
+2021-02-19,1153.0,Centre,palm_oil,2021,2,7
+2021-02-19,1111.0,East,palm_oil,2021,2,7
+2021-02-19,1297.0,North,palm_oil,2021,2,7
+2021-02-19,1252.0,South,palm_oil,2021,2,7
+2021-02-19,1231.0,Littoral,palm_oil,2021,2,7
+2021-02-26,1324.0,North West,palm_oil,2021,2,8
+2021-02-26,1446.0,South West,palm_oil,2021,2,8
+2021-02-26,1165.0,West,palm_oil,2021,2,8
+2021-02-26,1331.0,Adamawa,palm_oil,2021,2,8
+2021-02-26,1386.0,Far North,palm_oil,2021,2,8
+2021-02-26,1480.0,Centre,palm_oil,2021,2,8
+2021-02-26,1399.0,East,palm_oil,2021,2,8
+2021-02-26,1332.0,North,palm_oil,2021,2,8
+2021-02-26,1409.0,South,palm_oil,2021,2,8
+2021-02-26,1489.0,Littoral,palm_oil,2021,2,8
+2021-03-05,1361.0,North West,palm_oil,2021,3,9
+2021-03-05,1272.0,South West,palm_oil,2021,3,9
+2021-03-05,1240.0,West,palm_oil,2021,3,9
+2021-03-05,1345.0,Adamawa,palm_oil,2021,3,9
+2021-03-05,1271.0,Far North,palm_oil,2021,3,9
+2021-03-05,1264.0,Centre,palm_oil,2021,3,9
+2021-03-05,1418.0,East,palm_oil,2021,3,9
+2021-03-05,1237.0,North,palm_oil,2021,3,9
+2021-03-05,1351.0,South,palm_oil,2021,3,9
+2021-03-05,1430.0,Littoral,palm_oil,2021,3,9
+2021-03-12,1304.0,North West,palm_oil,2021,3,10
+2021-03-12,1261.0,South West,palm_oil,2021,3,10
+2021-03-12,1107.0,West,palm_oil,2021,3,10
+2021-03-12,1324.0,Adamawa,palm_oil,2021,3,10
+2021-03-12,1430.0,Far North,palm_oil,2021,3,10
+2021-03-12,1367.0,Centre,palm_oil,2021,3,10
+2021-03-12,1308.0,East,palm_oil,2021,3,10
+2021-03-12,1253.0,North,palm_oil,2021,3,10
+2021-03-12,1171.0,South,palm_oil,2021,3,10
+2021-03-12,1328.0,Littoral,palm_oil,2021,3,10
+2021-03-19,1105.0,North West,palm_oil,2021,3,11
+2021-03-19,1190.0,South West,palm_oil,2021,3,11
+2021-03-19,1253.0,West,palm_oil,2021,3,11
+2021-03-19,1133.0,Adamawa,palm_oil,2021,3,11
+2021-03-19,1260.0,Far North,palm_oil,2021,3,11
+2021-03-19,1234.0,Centre,palm_oil,2021,3,11
+2021-03-19,1155.0,East,palm_oil,2021,3,11
+2021-03-19,1136.0,North,palm_oil,2021,3,11
+2021-03-19,1310.0,South,palm_oil,2021,3,11
+2021-03-19,1040.0,Littoral,palm_oil,2021,3,11
+2021-03-26,1199.0,North West,palm_oil,2021,3,12
+2021-03-26,1109.0,South West,palm_oil,2021,3,12
+2021-03-26,1199.0,West,palm_oil,2021,3,12
+2021-03-26,1136.0,Adamawa,palm_oil,2021,3,12
+2021-03-26,1008.0,Far North,palm_oil,2021,3,12
+2021-03-26,1279.0,Centre,palm_oil,2021,3,12
+2021-03-26,1009.0,East,palm_oil,2021,3,12
+2021-03-26,1031.0,North,palm_oil,2021,3,12
+2021-03-26,1110.0,South,palm_oil,2021,3,12
+2021-03-26,1268.0,Littoral,palm_oil,2021,3,12
+2021-04-02,1142.0,North West,palm_oil,2021,4,13
+2021-04-02,1084.0,South West,palm_oil,2021,4,13
+2021-04-02,1195.0,West,palm_oil,2021,4,13
+2021-04-02,1136.0,Adamawa,palm_oil,2021,4,13
+2021-04-02,1159.0,Far North,palm_oil,2021,4,13
+2021-04-02,1048.0,Centre,palm_oil,2021,4,13
+2021-04-02,1264.0,East,palm_oil,2021,4,13
+2021-04-02,1018.0,North,palm_oil,2021,4,13
+2021-04-02,1193.0,South,palm_oil,2021,4,13
+2021-04-02,1252.0,Littoral,palm_oil,2021,4,13
+2021-04-09,958.0,North West,palm_oil,2021,4,14
+2021-04-09,942.0,South West,palm_oil,2021,4,14
+2021-04-09,1029.0,West,palm_oil,2021,4,14
+2021-04-09,1160.0,Adamawa,palm_oil,2021,4,14
+2021-04-09,1139.0,Far North,palm_oil,2021,4,14
+2021-04-09,1169.0,Centre,palm_oil,2021,4,14
+2021-04-09,1048.0,East,palm_oil,2021,4,14
+2021-04-09,1218.0,North,palm_oil,2021,4,14
+2021-04-09,1039.0,South,palm_oil,2021,4,14
+2021-04-09,1164.0,Littoral,palm_oil,2021,4,14
+2021-04-16,1005.0,North West,palm_oil,2021,4,15
+2021-04-16,964.0,South West,palm_oil,2021,4,15
+2021-04-16,947.0,West,palm_oil,2021,4,15
+2021-04-16,1012.0,Adamawa,palm_oil,2021,4,15
+2021-04-16,952.0,Far North,palm_oil,2021,4,15
+2021-04-16,1051.0,Centre,palm_oil,2021,4,15
+2021-04-16,920.0,East,palm_oil,2021,4,15
+2021-04-16,1031.0,North,palm_oil,2021,4,15
+2021-04-16,1178.0,South,palm_oil,2021,4,15
+2021-04-16,1011.0,Littoral,palm_oil,2021,4,15
+2021-04-23,946.0,North West,palm_oil,2021,4,16
+2021-04-23,992.0,South West,palm_oil,2021,4,16
+2021-04-23,1128.0,West,palm_oil,2021,4,16
+2021-04-23,995.0,Adamawa,palm_oil,2021,4,16
+2021-04-23,1014.0,Far North,palm_oil,2021,4,16
+2021-04-23,1127.0,Centre,palm_oil,2021,4,16
+2021-04-23,980.0,East,palm_oil,2021,4,16
+2021-04-23,1040.0,North,palm_oil,2021,4,16
+2021-04-23,925.0,South,palm_oil,2021,4,16
+2021-04-23,956.0,Littoral,palm_oil,2021,4,16
+2021-04-30,1146.0,North West,palm_oil,2021,4,17
+2021-04-30,1015.0,South West,palm_oil,2021,4,17
+2021-04-30,1022.0,West,palm_oil,2021,4,17
+2021-04-30,1000.0,Adamawa,palm_oil,2021,4,17
+2021-04-30,1005.0,Far North,palm_oil,2021,4,17
+2021-04-30,1029.0,Centre,palm_oil,2021,4,17
+2021-04-30,1168.0,East,palm_oil,2021,4,17
+2021-04-30,922.0,North,palm_oil,2021,4,17
+2021-04-30,1091.0,South,palm_oil,2021,4,17
+2021-04-30,1165.0,Littoral,palm_oil,2021,4,17
+2021-05-07,1001.0,North West,palm_oil,2021,5,18
+2021-05-07,1065.0,South West,palm_oil,2021,5,18
+2021-05-07,1047.0,West,palm_oil,2021,5,18
+2021-05-07,980.0,Adamawa,palm_oil,2021,5,18
+2021-05-07,925.0,Far North,palm_oil,2021,5,18
+2021-05-07,947.0,Centre,palm_oil,2021,5,18
+2021-05-07,903.0,East,palm_oil,2021,5,18
+2021-05-07,1096.0,North,palm_oil,2021,5,18
+2021-05-07,1033.0,South,palm_oil,2021,5,18
+2021-05-07,1102.0,Littoral,palm_oil,2021,5,18
+2021-05-14,1009.0,North West,palm_oil,2021,5,19
+2021-05-14,955.0,South West,palm_oil,2021,5,19
+2021-05-14,1072.0,West,palm_oil,2021,5,19
+2021-05-14,1188.0,Adamawa,palm_oil,2021,5,19
+2021-05-14,1038.0,Far North,palm_oil,2021,5,19
+2021-05-14,1067.0,Centre,palm_oil,2021,5,19
+2021-05-14,1049.0,East,palm_oil,2021,5,19
+2021-05-14,1050.0,North,palm_oil,2021,5,19
+2021-05-14,982.0,South,palm_oil,2021,5,19
+2021-05-14,1041.0,Littoral,palm_oil,2021,5,19
+2021-05-21,1050.0,North West,palm_oil,2021,5,20
+2021-05-21,1119.0,South West,palm_oil,2021,5,20
+2021-05-21,950.0,West,palm_oil,2021,5,20
+2021-05-21,1070.0,Adamawa,palm_oil,2021,5,20
+2021-05-21,1096.0,Far North,palm_oil,2021,5,20
+2021-05-21,1018.0,Centre,palm_oil,2021,5,20
+2021-05-21,1064.0,East,palm_oil,2021,5,20
+2021-05-21,1109.0,North,palm_oil,2021,5,20
+2021-05-21,1041.0,South,palm_oil,2021,5,20
+2021-05-21,1004.0,Littoral,palm_oil,2021,5,20
+2021-05-28,1079.0,North West,palm_oil,2021,5,21
+2021-05-28,1052.0,South West,palm_oil,2021,5,21
+2021-05-28,1178.0,West,palm_oil,2021,5,21
+2021-05-28,1183.0,Adamawa,palm_oil,2021,5,21
+2021-05-28,1002.0,Far North,palm_oil,2021,5,21
+2021-05-28,1026.0,Centre,palm_oil,2021,5,21
+2021-05-28,1166.0,East,palm_oil,2021,5,21
+2021-05-28,1064.0,North,palm_oil,2021,5,21
+2021-05-28,1006.0,South,palm_oil,2021,5,21
+2021-05-28,1197.0,Littoral,palm_oil,2021,5,21
+2021-06-04,989.0,North West,palm_oil,2021,6,22
+2021-06-04,1101.0,South West,palm_oil,2021,6,22
+2021-06-04,1049.0,West,palm_oil,2021,6,22
+2021-06-04,1056.0,Adamawa,palm_oil,2021,6,22
+2021-06-04,957.0,Far North,palm_oil,2021,6,22
+2021-06-04,1000.0,Centre,palm_oil,2021,6,22
+2021-06-04,975.0,East,palm_oil,2021,6,22
+2021-06-04,1140.0,North,palm_oil,2021,6,22
+2021-06-04,1126.0,South,palm_oil,2021,6,22
+2021-06-04,1153.0,Littoral,palm_oil,2021,6,22
+2021-06-11,1193.0,North West,palm_oil,2021,6,23
+2021-06-11,971.0,South West,palm_oil,2021,6,23
+2021-06-11,1017.0,West,palm_oil,2021,6,23
+2021-06-11,1117.0,Adamawa,palm_oil,2021,6,23
+2021-06-11,957.0,Far North,palm_oil,2021,6,23
+2021-06-11,966.0,Centre,palm_oil,2021,6,23
+2021-06-11,1165.0,East,palm_oil,2021,6,23
+2021-06-11,1011.0,North,palm_oil,2021,6,23
+2021-06-11,1105.0,South,palm_oil,2021,6,23
+2021-06-11,1160.0,Littoral,palm_oil,2021,6,23
+2021-06-18,1217.0,North West,palm_oil,2021,6,24
+2021-06-18,998.0,South West,palm_oil,2021,6,24
+2021-06-18,972.0,West,palm_oil,2021,6,24
+2021-06-18,1150.0,Adamawa,palm_oil,2021,6,24
+2021-06-18,991.0,Far North,palm_oil,2021,6,24
+2021-06-18,1104.0,Centre,palm_oil,2021,6,24
+2021-06-18,1090.0,East,palm_oil,2021,6,24
+2021-06-18,1098.0,North,palm_oil,2021,6,24
+2021-06-18,1124.0,South,palm_oil,2021,6,24
+2021-06-18,1182.0,Littoral,palm_oil,2021,6,24
+2021-06-25,1049.0,North West,palm_oil,2021,6,25
+2021-06-25,1044.0,South West,palm_oil,2021,6,25
+2021-06-25,957.0,West,palm_oil,2021,6,25
+2021-06-25,1126.0,Adamawa,palm_oil,2021,6,25
+2021-06-25,1235.0,Far North,palm_oil,2021,6,25
+2021-06-25,1173.0,Centre,palm_oil,2021,6,25
+2021-06-25,1022.0,East,palm_oil,2021,6,25
+2021-06-25,1160.0,North,palm_oil,2021,6,25
+2021-06-25,1038.0,South,palm_oil,2021,6,25
+2021-06-25,1171.0,Littoral,palm_oil,2021,6,25
+2021-07-02,1168.0,North West,palm_oil,2021,7,26
+2021-07-02,1020.0,South West,palm_oil,2021,7,26
+2021-07-02,926.0,West,palm_oil,2021,7,26
+2021-07-02,1012.0,Adamawa,palm_oil,2021,7,26
+2021-07-02,984.0,Far North,palm_oil,2021,7,26
+2021-07-02,1101.0,Centre,palm_oil,2021,7,26
+2021-07-02,1008.0,East,palm_oil,2021,7,26
+2021-07-02,936.0,North,palm_oil,2021,7,26
+2021-07-02,1076.0,South,palm_oil,2021,7,26
+2021-07-02,1174.0,Littoral,palm_oil,2021,7,26
+2021-07-09,946.0,North West,palm_oil,2021,7,27
+2021-07-09,1003.0,South West,palm_oil,2021,7,27
+2021-07-09,988.0,West,palm_oil,2021,7,27
+2021-07-09,1170.0,Adamawa,palm_oil,2021,7,27
+2021-07-09,905.0,Far North,palm_oil,2021,7,27
+2021-07-09,962.0,Centre,palm_oil,2021,7,27
+2021-07-09,915.0,East,palm_oil,2021,7,27
+2021-07-09,1132.0,North,palm_oil,2021,7,27
+2021-07-09,1011.0,South,palm_oil,2021,7,27
+2021-07-09,1116.0,Littoral,palm_oil,2021,7,27
+2021-07-16,1101.0,North West,palm_oil,2021,7,28
+2021-07-16,1166.0,South West,palm_oil,2021,7,28
+2021-07-16,914.0,West,palm_oil,2021,7,28
+2021-07-16,965.0,Adamawa,palm_oil,2021,7,28
+2021-07-16,1103.0,Far North,palm_oil,2021,7,28
+2021-07-16,1071.0,Centre,palm_oil,2021,7,28
+2021-07-16,1101.0,East,palm_oil,2021,7,28
+2021-07-16,1068.0,North,palm_oil,2021,7,28
+2021-07-16,1070.0,South,palm_oil,2021,7,28
+2021-07-16,1167.0,Littoral,palm_oil,2021,7,28
+2021-07-23,1047.0,North West,palm_oil,2021,7,29
+2021-07-23,958.0,South West,palm_oil,2021,7,29
+2021-07-23,1081.0,West,palm_oil,2021,7,29
+2021-07-23,1226.0,Adamawa,palm_oil,2021,7,29
+2021-07-23,965.0,Far North,palm_oil,2021,7,29
+2021-07-23,1180.0,Centre,palm_oil,2021,7,29
+2021-07-23,1000.0,East,palm_oil,2021,7,29
+2021-07-23,1111.0,North,palm_oil,2021,7,29
+2021-07-23,1056.0,South,palm_oil,2021,7,29
+2021-07-23,1045.0,Littoral,palm_oil,2021,7,29
+2021-07-30,1138.0,North West,palm_oil,2021,7,30
+2021-07-30,1167.0,South West,palm_oil,2021,7,30
+2021-07-30,1005.0,West,palm_oil,2021,7,30
+2021-07-30,1075.0,Adamawa,palm_oil,2021,7,30
+2021-07-30,1052.0,Far North,palm_oil,2021,7,30
+2021-07-30,920.0,Centre,palm_oil,2021,7,30
+2021-07-30,910.0,East,palm_oil,2021,7,30
+2021-07-30,1111.0,North,palm_oil,2021,7,30
+2021-07-30,1007.0,South,palm_oil,2021,7,30
+2021-07-30,983.0,Littoral,palm_oil,2021,7,30
+2021-08-06,1089.0,North West,palm_oil,2021,8,31
+2021-08-06,1140.0,South West,palm_oil,2021,8,31
+2021-08-06,981.0,West,palm_oil,2021,8,31
+2021-08-06,1239.0,Adamawa,palm_oil,2021,8,31
+2021-08-06,1007.0,Far North,palm_oil,2021,8,31
+2021-08-06,1030.0,Centre,palm_oil,2021,8,31
+2021-08-06,1013.0,East,palm_oil,2021,8,31
+2021-08-06,1114.0,North,palm_oil,2021,8,31
+2021-08-06,1209.0,South,palm_oil,2021,8,31
+2021-08-06,1046.0,Littoral,palm_oil,2021,8,31
+2021-08-13,1029.0,North West,palm_oil,2021,8,32
+2021-08-13,1110.0,South West,palm_oil,2021,8,32
+2021-08-13,1283.0,West,palm_oil,2021,8,32
+2021-08-13,989.0,Adamawa,palm_oil,2021,8,32
+2021-08-13,1138.0,Far North,palm_oil,2021,8,32
+2021-08-13,1188.0,Centre,palm_oil,2021,8,32
+2021-08-13,1230.0,East,palm_oil,2021,8,32
+2021-08-13,1211.0,North,palm_oil,2021,8,32
+2021-08-13,1008.0,South,palm_oil,2021,8,32
+2021-08-13,1125.0,Littoral,palm_oil,2021,8,32
+2021-08-20,1040.0,North West,palm_oil,2021,8,33
+2021-08-20,1031.0,South West,palm_oil,2021,8,33
+2021-08-20,1111.0,West,palm_oil,2021,8,33
+2021-08-20,1308.0,Adamawa,palm_oil,2021,8,33
+2021-08-20,1237.0,Far North,palm_oil,2021,8,33
+2021-08-20,1017.0,Centre,palm_oil,2021,8,33
+2021-08-20,1105.0,East,palm_oil,2021,8,33
+2021-08-20,1021.0,North,palm_oil,2021,8,33
+2021-08-20,1108.0,South,palm_oil,2021,8,33
+2021-08-20,1229.0,Littoral,palm_oil,2021,8,33
+2021-08-27,1250.0,North West,palm_oil,2021,8,34
+2021-08-27,1264.0,South West,palm_oil,2021,8,34
+2021-08-27,1297.0,West,palm_oil,2021,8,34
+2021-08-27,1128.0,Adamawa,palm_oil,2021,8,34
+2021-08-27,1282.0,Far North,palm_oil,2021,8,34
+2021-08-27,1240.0,Centre,palm_oil,2021,8,34
+2021-08-27,1181.0,East,palm_oil,2021,8,34
+2021-08-27,1311.0,North,palm_oil,2021,8,34
+2021-08-27,1309.0,South,palm_oil,2021,8,34
+2021-08-27,1293.0,Littoral,palm_oil,2021,8,34
+2021-09-03,1320.0,North West,palm_oil,2021,9,35
+2021-09-03,1160.0,South West,palm_oil,2021,9,35
+2021-09-03,1287.0,West,palm_oil,2021,9,35
+2021-09-03,1252.0,Adamawa,palm_oil,2021,9,35
+2021-09-03,1276.0,Far North,palm_oil,2021,9,35
+2021-09-03,1042.0,Centre,palm_oil,2021,9,35
+2021-09-03,1170.0,East,palm_oil,2021,9,35
+2021-09-03,1306.0,North,palm_oil,2021,9,35
+2021-09-03,1189.0,South,palm_oil,2021,9,35
+2021-09-03,1253.0,Littoral,palm_oil,2021,9,35
+2021-09-10,1291.0,North West,palm_oil,2021,9,36
+2021-09-10,1087.0,South West,palm_oil,2021,9,36
+2021-09-10,1098.0,West,palm_oil,2021,9,36
+2021-09-10,1281.0,Adamawa,palm_oil,2021,9,36
+2021-09-10,1065.0,Far North,palm_oil,2021,9,36
+2021-09-10,1158.0,Centre,palm_oil,2021,9,36
+2021-09-10,1343.0,East,palm_oil,2021,9,36
+2021-09-10,1232.0,North,palm_oil,2021,9,36
+2021-09-10,1340.0,South,palm_oil,2021,9,36
+2021-09-10,1147.0,Littoral,palm_oil,2021,9,36
+2021-09-17,1072.0,North West,palm_oil,2021,9,37
+2021-09-17,1351.0,South West,palm_oil,2021,9,37
+2021-09-17,1092.0,West,palm_oil,2021,9,37
+2021-09-17,1096.0,Adamawa,palm_oil,2021,9,37
+2021-09-17,1304.0,Far North,palm_oil,2021,9,37
+2021-09-17,1292.0,Centre,palm_oil,2021,9,37
+2021-09-17,1347.0,East,palm_oil,2021,9,37
+2021-09-17,1059.0,North,palm_oil,2021,9,37
+2021-09-17,1066.0,South,palm_oil,2021,9,37
+2021-09-17,1179.0,Littoral,palm_oil,2021,9,37
+2021-09-24,1289.0,North West,palm_oil,2021,9,38
+2021-09-24,1104.0,South West,palm_oil,2021,9,38
+2021-09-24,1144.0,West,palm_oil,2021,9,38
+2021-09-24,1326.0,Adamawa,palm_oil,2021,9,38
+2021-09-24,1315.0,Far North,palm_oil,2021,9,38
+2021-09-24,1121.0,Centre,palm_oil,2021,9,38
+2021-09-24,1403.0,East,palm_oil,2021,9,38
+2021-09-24,1176.0,North,palm_oil,2021,9,38
+2021-09-24,1388.0,South,palm_oil,2021,9,38
+2021-09-24,1400.0,Littoral,palm_oil,2021,9,38
+2021-10-01,1134.0,North West,palm_oil,2021,10,39
+2021-10-01,1303.0,South West,palm_oil,2021,10,39
+2021-10-01,1108.0,West,palm_oil,2021,10,39
+2021-10-01,1244.0,Adamawa,palm_oil,2021,10,39
+2021-10-01,1226.0,Far North,palm_oil,2021,10,39
+2021-10-01,1124.0,Centre,palm_oil,2021,10,39
+2021-10-01,1360.0,East,palm_oil,2021,10,39
+2021-10-01,1316.0,North,palm_oil,2021,10,39
+2021-10-01,1051.0,South,palm_oil,2021,10,39
+2021-10-01,1180.0,Littoral,palm_oil,2021,10,39
+2021-10-08,1197.0,North West,palm_oil,2021,10,40
+2021-10-08,1371.0,South West,palm_oil,2021,10,40
+2021-10-08,1166.0,West,palm_oil,2021,10,40
+2021-10-08,1409.0,Adamawa,palm_oil,2021,10,40
+2021-10-08,1145.0,Far North,palm_oil,2021,10,40
+2021-10-08,1159.0,Centre,palm_oil,2021,10,40
+2021-10-08,1299.0,East,palm_oil,2021,10,40
+2021-10-08,1132.0,North,palm_oil,2021,10,40
+2021-10-08,1373.0,South,palm_oil,2021,10,40
+2021-10-08,1115.0,Littoral,palm_oil,2021,10,40
+2021-10-15,1276.0,North West,palm_oil,2021,10,41
+2021-10-15,1256.0,South West,palm_oil,2021,10,41
+2021-10-15,1436.0,West,palm_oil,2021,10,41
+2021-10-15,1114.0,Adamawa,palm_oil,2021,10,41
+2021-10-15,1231.0,Far North,palm_oil,2021,10,41
+2021-10-15,1429.0,Centre,palm_oil,2021,10,41
+2021-10-15,1227.0,East,palm_oil,2021,10,41
+2021-10-15,1237.0,North,palm_oil,2021,10,41
+2021-10-15,1315.0,South,palm_oil,2021,10,41
+2021-10-15,1409.0,Littoral,palm_oil,2021,10,41
+2021-10-22,1265.0,North West,palm_oil,2021,10,42
+2021-10-22,1497.0,South West,palm_oil,2021,10,42
+2021-10-22,1261.0,West,palm_oil,2021,10,42
+2021-10-22,1450.0,Adamawa,palm_oil,2021,10,42
+2021-10-22,1258.0,Far North,palm_oil,2021,10,42
+2021-10-22,1186.0,Centre,palm_oil,2021,10,42
+2021-10-22,1449.0,East,palm_oil,2021,10,42
+2021-10-22,1320.0,North,palm_oil,2021,10,42
+2021-10-22,1299.0,South,palm_oil,2021,10,42
+2021-10-22,1313.0,Littoral,palm_oil,2021,10,42
+2021-10-29,1209.0,North West,palm_oil,2021,10,43
+2021-10-29,1294.0,South West,palm_oil,2021,10,43
+2021-10-29,1139.0,West,palm_oil,2021,10,43
+2021-10-29,1349.0,Adamawa,palm_oil,2021,10,43
+2021-10-29,1411.0,Far North,palm_oil,2021,10,43
+2021-10-29,1378.0,Centre,palm_oil,2021,10,43
+2021-10-29,1289.0,East,palm_oil,2021,10,43
+2021-10-29,1322.0,North,palm_oil,2021,10,43
+2021-10-29,1136.0,South,palm_oil,2021,10,43
+2021-10-29,1442.0,Littoral,palm_oil,2021,10,43
+2021-11-05,1508.0,North West,palm_oil,2021,11,44
+2021-11-05,1412.0,South West,palm_oil,2021,11,44
+2021-11-05,1403.0,West,palm_oil,2021,11,44
+2021-11-05,1548.0,Adamawa,palm_oil,2021,11,44
+2021-11-05,1518.0,Far North,palm_oil,2021,11,44
+2021-11-05,1362.0,Centre,palm_oil,2021,11,44
+2021-11-05,1449.0,East,palm_oil,2021,11,44
+2021-11-05,1554.0,North,palm_oil,2021,11,44
+2021-11-05,1405.0,South,palm_oil,2021,11,44
+2021-11-05,1488.0,Littoral,palm_oil,2021,11,44
+2021-11-12,1407.0,North West,palm_oil,2021,11,45
+2021-11-12,1540.0,South West,palm_oil,2021,11,45
+2021-11-12,1340.0,West,palm_oil,2021,11,45
+2021-11-12,1548.0,Adamawa,palm_oil,2021,11,45
+2021-11-12,1516.0,Far North,palm_oil,2021,11,45
+2021-11-12,1453.0,Centre,palm_oil,2021,11,45
+2021-11-12,1632.0,East,palm_oil,2021,11,45
+2021-11-12,1598.0,North,palm_oil,2021,11,45
+2021-11-12,1475.0,South,palm_oil,2021,11,45
+2021-11-12,1473.0,Littoral,palm_oil,2021,11,45
+2021-11-19,1345.0,North West,palm_oil,2021,11,46
+2021-11-19,1589.0,South West,palm_oil,2021,11,46
+2021-11-19,1580.0,West,palm_oil,2021,11,46
+2021-11-19,1521.0,Adamawa,palm_oil,2021,11,46
+2021-11-19,1288.0,Far North,palm_oil,2021,11,46
+2021-11-19,1507.0,Centre,palm_oil,2021,11,46
+2021-11-19,1335.0,East,palm_oil,2021,11,46
+2021-11-19,1311.0,North,palm_oil,2021,11,46
+2021-11-19,1528.0,South,palm_oil,2021,11,46
+2021-11-19,1604.0,Littoral,palm_oil,2021,11,46
+2021-11-26,1456.0,North West,palm_oil,2021,11,47
+2021-11-26,1469.0,South West,palm_oil,2021,11,47
+2021-11-26,1373.0,West,palm_oil,2021,11,47
+2021-11-26,1321.0,Adamawa,palm_oil,2021,11,47
+2021-11-26,1563.0,Far North,palm_oil,2021,11,47
+2021-11-26,1443.0,Centre,palm_oil,2021,11,47
+2021-11-26,1360.0,East,palm_oil,2021,11,47
+2021-11-26,1506.0,North,palm_oil,2021,11,47
+2021-11-26,1342.0,South,palm_oil,2021,11,47
+2021-11-26,1450.0,Littoral,palm_oil,2021,11,47
+2021-12-03,1348.0,North West,palm_oil,2021,12,48
+2021-12-03,1571.0,South West,palm_oil,2021,12,48
+2021-12-03,1399.0,West,palm_oil,2021,12,48
+2021-12-03,1447.0,Adamawa,palm_oil,2021,12,48
+2021-12-03,1569.0,Far North,palm_oil,2021,12,48
+2021-12-03,1532.0,Centre,palm_oil,2021,12,48
+2021-12-03,1430.0,East,palm_oil,2021,12,48
+2021-12-03,1302.0,North,palm_oil,2021,12,48
+2021-12-03,1634.0,South,palm_oil,2021,12,48
+2021-12-03,1277.0,Littoral,palm_oil,2021,12,48
+2021-12-10,1330.0,North West,palm_oil,2021,12,49
+2021-12-10,1355.0,South West,palm_oil,2021,12,49
+2021-12-10,1407.0,West,palm_oil,2021,12,49
+2021-12-10,1435.0,Adamawa,palm_oil,2021,12,49
+2021-12-10,1511.0,Far North,palm_oil,2021,12,49
+2021-12-10,1577.0,Centre,palm_oil,2021,12,49
+2021-12-10,1412.0,East,palm_oil,2021,12,49
+2021-12-10,1519.0,North,palm_oil,2021,12,49
+2021-12-10,1284.0,South,palm_oil,2021,12,49
+2021-12-10,1360.0,Littoral,palm_oil,2021,12,49
+2021-12-17,1261.0,North West,palm_oil,2021,12,50
+2021-12-17,1475.0,South West,palm_oil,2021,12,50
+2021-12-17,1556.0,West,palm_oil,2021,12,50
+2021-12-17,1549.0,Adamawa,palm_oil,2021,12,50
+2021-12-17,1339.0,Far North,palm_oil,2021,12,50
+2021-12-17,1304.0,Centre,palm_oil,2021,12,50
+2021-12-17,1319.0,East,palm_oil,2021,12,50
+2021-12-17,1324.0,North,palm_oil,2021,12,50
+2021-12-17,1248.0,South,palm_oil,2021,12,50
+2021-12-17,1267.0,Littoral,palm_oil,2021,12,50
+2021-12-24,1443.0,North West,palm_oil,2021,12,51
+2021-12-24,1564.0,South West,palm_oil,2021,12,51
+2021-12-24,1362.0,West,palm_oil,2021,12,51
+2021-12-24,1378.0,Adamawa,palm_oil,2021,12,51
+2021-12-24,1238.0,Far North,palm_oil,2021,12,51
+2021-12-24,1269.0,Centre,palm_oil,2021,12,51
+2021-12-24,1470.0,East,palm_oil,2021,12,51
+2021-12-24,1300.0,North,palm_oil,2021,12,51
+2021-12-24,1500.0,South,palm_oil,2021,12,51
+2021-12-24,1475.0,Littoral,palm_oil,2021,12,51
+2021-12-31,1477.0,North West,palm_oil,2021,12,52
+2021-12-31,1456.0,South West,palm_oil,2021,12,52
+2021-12-31,1463.0,West,palm_oil,2021,12,52
+2021-12-31,1403.0,Adamawa,palm_oil,2021,12,52
+2021-12-31,1452.0,Far North,palm_oil,2021,12,52
+2021-12-31,1396.0,Centre,palm_oil,2021,12,52
+2021-12-31,1278.0,East,palm_oil,2021,12,52
+2021-12-31,1282.0,North,palm_oil,2021,12,52
+2021-12-31,1351.0,South,palm_oil,2021,12,52
+2021-12-31,1207.0,Littoral,palm_oil,2021,12,52
+2022-01-07,1195.0,North West,palm_oil,2022,1,1
+2022-01-07,1330.0,South West,palm_oil,2022,1,1
+2022-01-07,1471.0,West,palm_oil,2022,1,1
+2022-01-07,1320.0,Adamawa,palm_oil,2022,1,1
+2022-01-07,1272.0,Far North,palm_oil,2022,1,1
+2022-01-07,1373.0,Centre,palm_oil,2022,1,1
+2022-01-07,1384.0,East,palm_oil,2022,1,1
+2022-01-07,1451.0,North,palm_oil,2022,1,1
+2022-01-07,1465.0,South,palm_oil,2022,1,1
+2022-01-07,1432.0,Littoral,palm_oil,2022,1,1
+2022-01-14,1185.0,North West,palm_oil,2022,1,2
+2022-01-14,1184.0,South West,palm_oil,2022,1,2
+2022-01-14,1538.0,West,palm_oil,2022,1,2
+2022-01-14,1279.0,Adamawa,palm_oil,2022,1,2
+2022-01-14,1286.0,Far North,palm_oil,2022,1,2
+2022-01-14,1449.0,Centre,palm_oil,2022,1,2
+2022-01-14,1394.0,East,palm_oil,2022,1,2
+2022-01-14,1352.0,North,palm_oil,2022,1,2
+2022-01-14,1226.0,South,palm_oil,2022,1,2
+2022-01-14,1213.0,Littoral,palm_oil,2022,1,2
+2022-01-21,1308.0,North West,palm_oil,2022,1,3
+2022-01-21,1415.0,South West,palm_oil,2022,1,3
+2022-01-21,1481.0,West,palm_oil,2022,1,3
+2022-01-21,1463.0,Adamawa,palm_oil,2022,1,3
+2022-01-21,1460.0,Far North,palm_oil,2022,1,3
+2022-01-21,1281.0,Centre,palm_oil,2022,1,3
+2022-01-21,1482.0,East,palm_oil,2022,1,3
+2022-01-21,1396.0,North,palm_oil,2022,1,3
+2022-01-21,1468.0,South,palm_oil,2022,1,3
+2022-01-21,1185.0,Littoral,palm_oil,2022,1,3
+2022-01-28,1177.0,North West,palm_oil,2022,1,4
+2022-01-28,1317.0,South West,palm_oil,2022,1,4
+2022-01-28,1459.0,West,palm_oil,2022,1,4
+2022-01-28,1309.0,Adamawa,palm_oil,2022,1,4
+2022-01-28,1479.0,Far North,palm_oil,2022,1,4
+2022-01-28,1247.0,Centre,palm_oil,2022,1,4
+2022-01-28,1177.0,East,palm_oil,2022,1,4
+2022-01-28,1435.0,North,palm_oil,2022,1,4
+2022-01-28,1387.0,South,palm_oil,2022,1,4
+2022-01-28,1320.0,Littoral,palm_oil,2022,1,4
+2022-02-04,1263.0,North West,palm_oil,2022,2,5
+2022-02-04,1444.0,South West,palm_oil,2022,2,5
+2022-02-04,1270.0,West,palm_oil,2022,2,5
+2022-02-04,1368.0,Adamawa,palm_oil,2022,2,5
+2022-02-04,1216.0,Far North,palm_oil,2022,2,5
+2022-02-04,1242.0,Centre,palm_oil,2022,2,5
+2022-02-04,1306.0,East,palm_oil,2022,2,5
+2022-02-04,1259.0,North,palm_oil,2022,2,5
+2022-02-04,1194.0,South,palm_oil,2022,2,5
+2022-02-04,1318.0,Littoral,palm_oil,2022,2,5
+2022-02-11,1317.0,North West,palm_oil,2022,2,6
+2022-02-11,1194.0,South West,palm_oil,2022,2,6
+2022-02-11,1200.0,West,palm_oil,2022,2,6
+2022-02-11,1149.0,Adamawa,palm_oil,2022,2,6
+2022-02-11,1149.0,Far North,palm_oil,2022,2,6
+2022-02-11,1264.0,Centre,palm_oil,2022,2,6
+2022-02-11,1190.0,East,palm_oil,2022,2,6
+2022-02-11,1460.0,North,palm_oil,2022,2,6
+2022-02-11,1208.0,South,palm_oil,2022,2,6
+2022-02-11,1162.0,Littoral,palm_oil,2022,2,6
+2022-02-18,1111.0,North West,palm_oil,2022,2,7
+2022-02-18,1342.0,South West,palm_oil,2022,2,7
+2022-02-18,1277.0,West,palm_oil,2022,2,7
+2022-02-18,1109.0,Adamawa,palm_oil,2022,2,7
+2022-02-18,1247.0,Far North,palm_oil,2022,2,7
+2022-02-18,1103.0,Centre,palm_oil,2022,2,7
+2022-02-18,1209.0,East,palm_oil,2022,2,7
+2022-02-18,1212.0,North,palm_oil,2022,2,7
+2022-02-18,1366.0,South,palm_oil,2022,2,7
+2022-02-18,1336.0,Littoral,palm_oil,2022,2,7
+2022-02-25,1376.0,North West,palm_oil,2022,2,8
+2022-02-25,1126.0,South West,palm_oil,2022,2,8
+2022-02-25,1256.0,West,palm_oil,2022,2,8
+2022-02-25,1086.0,Adamawa,palm_oil,2022,2,8
+2022-02-25,1353.0,Far North,palm_oil,2022,2,8
+2022-02-25,1201.0,Centre,palm_oil,2022,2,8
+2022-02-25,1102.0,East,palm_oil,2022,2,8
+2022-02-25,1187.0,North,palm_oil,2022,2,8
+2022-02-25,1174.0,South,palm_oil,2022,2,8
+2022-02-25,1333.0,Littoral,palm_oil,2022,2,8
+2022-03-04,1326.0,North West,palm_oil,2022,3,9
+2022-03-04,1309.0,South West,palm_oil,2022,3,9
+2022-03-04,1373.0,West,palm_oil,2022,3,9
+2022-03-04,1067.0,Adamawa,palm_oil,2022,3,9
+2022-03-04,1182.0,Far North,palm_oil,2022,3,9
+2022-03-04,1187.0,Centre,palm_oil,2022,3,9
+2022-03-04,1077.0,East,palm_oil,2022,3,9
+2022-03-04,1334.0,North,palm_oil,2022,3,9
+2022-03-04,1292.0,South,palm_oil,2022,3,9
+2022-03-04,1239.0,Littoral,palm_oil,2022,3,9
+2022-03-11,1156.0,North West,palm_oil,2022,3,10
+2022-03-11,1311.0,South West,palm_oil,2022,3,10
+2022-03-11,1111.0,West,palm_oil,2022,3,10
+2022-03-11,1134.0,Adamawa,palm_oil,2022,3,10
+2022-03-11,1329.0,Far North,palm_oil,2022,3,10
+2022-03-11,1048.0,Centre,palm_oil,2022,3,10
+2022-03-11,1274.0,East,palm_oil,2022,3,10
+2022-03-11,1255.0,North,palm_oil,2022,3,10
+2022-03-11,1313.0,South,palm_oil,2022,3,10
+2022-03-11,1057.0,Littoral,palm_oil,2022,3,10
+2022-03-18,1027.0,North West,palm_oil,2022,3,11
+2022-03-18,1311.0,South West,palm_oil,2022,3,11
+2022-03-18,1235.0,West,palm_oil,2022,3,11
+2022-03-18,1169.0,Adamawa,palm_oil,2022,3,11
+2022-03-18,1045.0,Far North,palm_oil,2022,3,11
+2022-03-18,1175.0,Centre,palm_oil,2022,3,11
+2022-03-18,1111.0,East,palm_oil,2022,3,11
+2022-03-18,1096.0,North,palm_oil,2022,3,11
+2022-03-18,1203.0,South,palm_oil,2022,3,11
+2022-03-18,1257.0,Littoral,palm_oil,2022,3,11
+2022-03-25,1147.0,North West,palm_oil,2022,3,12
+2022-03-25,1163.0,South West,palm_oil,2022,3,12
+2022-03-25,1212.0,West,palm_oil,2022,3,12
+2022-03-25,1048.0,Adamawa,palm_oil,2022,3,12
+2022-03-25,1266.0,Far North,palm_oil,2022,3,12
+2022-03-25,1269.0,Centre,palm_oil,2022,3,12
+2022-03-25,1177.0,East,palm_oil,2022,3,12
+2022-03-25,1068.0,North,palm_oil,2022,3,12
+2022-03-25,1165.0,South,palm_oil,2022,3,12
+2022-03-25,1043.0,Littoral,palm_oil,2022,3,12
+2022-04-01,1076.0,North West,palm_oil,2022,4,13
+2022-04-01,1267.0,South West,palm_oil,2022,4,13
+2022-04-01,1109.0,West,palm_oil,2022,4,13
+2022-04-01,1220.0,Adamawa,palm_oil,2022,4,13
+2022-04-01,1174.0,Far North,palm_oil,2022,4,13
+2022-04-01,1078.0,Centre,palm_oil,2022,4,13
+2022-04-01,1020.0,East,palm_oil,2022,4,13
+2022-04-01,1223.0,North,palm_oil,2022,4,13
+2022-04-01,1212.0,South,palm_oil,2022,4,13
+2022-04-01,1033.0,Littoral,palm_oil,2022,4,13
+2022-04-08,1083.0,North West,palm_oil,2022,4,14
+2022-04-08,1243.0,South West,palm_oil,2022,4,14
+2022-04-08,1310.0,West,palm_oil,2022,4,14
+2022-04-08,1267.0,Adamawa,palm_oil,2022,4,14
+2022-04-08,1218.0,Far North,palm_oil,2022,4,14
+2022-04-08,1289.0,Centre,palm_oil,2022,4,14
+2022-04-08,1095.0,East,palm_oil,2022,4,14
+2022-04-08,1009.0,North,palm_oil,2022,4,14
+2022-04-08,1106.0,South,palm_oil,2022,4,14
+2022-04-08,1307.0,Littoral,palm_oil,2022,4,14
+2022-04-15,1216.0,North West,palm_oil,2022,4,15
+2022-04-15,1091.0,South West,palm_oil,2022,4,15
+2022-04-15,1253.0,West,palm_oil,2022,4,15
+2022-04-15,995.0,Adamawa,palm_oil,2022,4,15
+2022-04-15,1199.0,Far North,palm_oil,2022,4,15
+2022-04-15,1099.0,Centre,palm_oil,2022,4,15
+2022-04-15,1059.0,East,palm_oil,2022,4,15
+2022-04-15,1134.0,North,palm_oil,2022,4,15
+2022-04-15,1125.0,South,palm_oil,2022,4,15
+2022-04-15,1084.0,Littoral,palm_oil,2022,4,15
+2022-04-22,1174.0,North West,palm_oil,2022,4,16
+2022-04-22,1178.0,South West,palm_oil,2022,4,16
+2022-04-22,1003.0,West,palm_oil,2022,4,16
+2022-04-22,1158.0,Adamawa,palm_oil,2022,4,16
+2022-04-22,1193.0,Far North,palm_oil,2022,4,16
+2022-04-22,1002.0,Centre,palm_oil,2022,4,16
+2022-04-22,1177.0,East,palm_oil,2022,4,16
+2022-04-22,1221.0,North,palm_oil,2022,4,16
+2022-04-22,1229.0,South,palm_oil,2022,4,16
+2022-04-22,992.0,Littoral,palm_oil,2022,4,16
+2022-04-29,1125.0,North West,palm_oil,2022,4,17
+2022-04-29,1170.0,South West,palm_oil,2022,4,17
+2022-04-29,1084.0,West,palm_oil,2022,4,17
+2022-04-29,1098.0,Adamawa,palm_oil,2022,4,17
+2022-04-29,1157.0,Far North,palm_oil,2022,4,17
+2022-04-29,1049.0,Centre,palm_oil,2022,4,17
+2022-04-29,1117.0,East,palm_oil,2022,4,17
+2022-04-29,1095.0,North,palm_oil,2022,4,17
+2022-04-29,1076.0,South,palm_oil,2022,4,17
+2022-04-29,1152.0,Littoral,palm_oil,2022,4,17
+2022-05-06,1265.0,North West,palm_oil,2022,5,18
+2022-05-06,1081.0,South West,palm_oil,2022,5,18
+2022-05-06,1210.0,West,palm_oil,2022,5,18
+2022-05-06,1084.0,Adamawa,palm_oil,2022,5,18
+2022-05-06,1050.0,Far North,palm_oil,2022,5,18
+2022-05-06,1297.0,Centre,palm_oil,2022,5,18
+2022-05-06,1201.0,East,palm_oil,2022,5,18
+2022-05-06,1038.0,North,palm_oil,2022,5,18
+2022-05-06,1201.0,South,palm_oil,2022,5,18
+2022-05-06,1060.0,Littoral,palm_oil,2022,5,18
+2022-05-13,1231.0,North West,palm_oil,2022,5,19
+2022-05-13,1047.0,South West,palm_oil,2022,5,19
+2022-05-13,1156.0,West,palm_oil,2022,5,19
+2022-05-13,1263.0,Adamawa,palm_oil,2022,5,19
+2022-05-13,1076.0,Far North,palm_oil,2022,5,19
+2022-05-13,1011.0,Centre,palm_oil,2022,5,19
+2022-05-13,1154.0,East,palm_oil,2022,5,19
+2022-05-13,1039.0,North,palm_oil,2022,5,19
+2022-05-13,1207.0,South,palm_oil,2022,5,19
+2022-05-13,1165.0,Littoral,palm_oil,2022,5,19
+2022-05-20,1033.0,North West,palm_oil,2022,5,20
+2022-05-20,1136.0,South West,palm_oil,2022,5,20
+2022-05-20,1002.0,West,palm_oil,2022,5,20
+2022-05-20,1196.0,Adamawa,palm_oil,2022,5,20
+2022-05-20,1033.0,Far North,palm_oil,2022,5,20
+2022-05-20,1152.0,Centre,palm_oil,2022,5,20
+2022-05-20,1007.0,East,palm_oil,2022,5,20
+2022-05-20,1138.0,North,palm_oil,2022,5,20
+2022-05-20,942.0,South,palm_oil,2022,5,20
+2022-05-20,1018.0,Littoral,palm_oil,2022,5,20
+2022-05-27,1066.0,North West,palm_oil,2022,5,21
+2022-05-27,1044.0,South West,palm_oil,2022,5,21
+2022-05-27,1224.0,West,palm_oil,2022,5,21
+2022-05-27,1011.0,Adamawa,palm_oil,2022,5,21
+2022-05-27,1169.0,Far North,palm_oil,2022,5,21
+2022-05-27,1070.0,Centre,palm_oil,2022,5,21
+2022-05-27,1037.0,East,palm_oil,2022,5,21
+2022-05-27,999.0,North,palm_oil,2022,5,21
+2022-05-27,1124.0,South,palm_oil,2022,5,21
+2022-05-27,1037.0,Littoral,palm_oil,2022,5,21
+2022-06-03,1166.0,North West,palm_oil,2022,6,22
+2022-06-03,1210.0,South West,palm_oil,2022,6,22
+2022-06-03,998.0,West,palm_oil,2022,6,22
+2022-06-03,970.0,Adamawa,palm_oil,2022,6,22
+2022-06-03,1023.0,Far North,palm_oil,2022,6,22
+2022-06-03,1067.0,Centre,palm_oil,2022,6,22
+2022-06-03,1019.0,East,palm_oil,2022,6,22
+2022-06-03,1211.0,North,palm_oil,2022,6,22
+2022-06-03,1156.0,South,palm_oil,2022,6,22
+2022-06-03,1209.0,Littoral,palm_oil,2022,6,22
+2022-06-10,1028.0,North West,palm_oil,2022,6,23
+2022-06-10,1060.0,South West,palm_oil,2022,6,23
+2022-06-10,1122.0,West,palm_oil,2022,6,23
+2022-06-10,1161.0,Adamawa,palm_oil,2022,6,23
+2022-06-10,1044.0,Far North,palm_oil,2022,6,23
+2022-06-10,995.0,Centre,palm_oil,2022,6,23
+2022-06-10,1003.0,East,palm_oil,2022,6,23
+2022-06-10,1109.0,North,palm_oil,2022,6,23
+2022-06-10,1073.0,South,palm_oil,2022,6,23
+2022-06-10,1050.0,Littoral,palm_oil,2022,6,23
+2022-06-17,970.0,North West,palm_oil,2022,6,24
+2022-06-17,1158.0,South West,palm_oil,2022,6,24
+2022-06-17,1132.0,West,palm_oil,2022,6,24
+2022-06-17,952.0,Adamawa,palm_oil,2022,6,24
+2022-06-17,1016.0,Far North,palm_oil,2022,6,24
+2022-06-17,1065.0,Centre,palm_oil,2022,6,24
+2022-06-17,1040.0,East,palm_oil,2022,6,24
+2022-06-17,1024.0,North,palm_oil,2022,6,24
+2022-06-17,1114.0,South,palm_oil,2022,6,24
+2022-06-17,928.0,Littoral,palm_oil,2022,6,24
+2022-06-24,918.0,North West,palm_oil,2022,6,25
+2022-06-24,1022.0,South West,palm_oil,2022,6,25
+2022-06-24,942.0,West,palm_oil,2022,6,25
+2022-06-24,965.0,Adamawa,palm_oil,2022,6,25
+2022-06-24,1034.0,Far North,palm_oil,2022,6,25
+2022-06-24,1162.0,Centre,palm_oil,2022,6,25
+2022-06-24,1082.0,East,palm_oil,2022,6,25
+2022-06-24,971.0,North,palm_oil,2022,6,25
+2022-06-24,999.0,South,palm_oil,2022,6,25
+2022-06-24,1006.0,Littoral,palm_oil,2022,6,25
+2022-07-01,976.0,North West,palm_oil,2022,7,26
+2022-07-01,978.0,South West,palm_oil,2022,7,26
+2022-07-01,974.0,West,palm_oil,2022,7,26
+2022-07-01,1081.0,Adamawa,palm_oil,2022,7,26
+2022-07-01,1124.0,Far North,palm_oil,2022,7,26
+2022-07-01,1100.0,Centre,palm_oil,2022,7,26
+2022-07-01,1211.0,East,palm_oil,2022,7,26
+2022-07-01,968.0,North,palm_oil,2022,7,26
+2022-07-01,1214.0,South,palm_oil,2022,7,26
+2022-07-01,1065.0,Littoral,palm_oil,2022,7,26
+2022-07-08,970.0,North West,palm_oil,2022,7,27
+2022-07-08,985.0,South West,palm_oil,2022,7,27
+2022-07-08,1184.0,West,palm_oil,2022,7,27
+2022-07-08,995.0,Adamawa,palm_oil,2022,7,27
+2022-07-08,1183.0,Far North,palm_oil,2022,7,27
+2022-07-08,1003.0,Centre,palm_oil,2022,7,27
+2022-07-08,975.0,East,palm_oil,2022,7,27
+2022-07-08,962.0,North,palm_oil,2022,7,27
+2022-07-08,1025.0,South,palm_oil,2022,7,27
+2022-07-08,976.0,Littoral,palm_oil,2022,7,27
+2022-07-15,1138.0,North West,palm_oil,2022,7,28
+2022-07-15,1006.0,South West,palm_oil,2022,7,28
+2022-07-15,1178.0,West,palm_oil,2022,7,28
+2022-07-15,1177.0,Adamawa,palm_oil,2022,7,28
+2022-07-15,1019.0,Far North,palm_oil,2022,7,28
+2022-07-15,1154.0,Centre,palm_oil,2022,7,28
+2022-07-15,1184.0,East,palm_oil,2022,7,28
+2022-07-15,1107.0,North,palm_oil,2022,7,28
+2022-07-15,1043.0,South,palm_oil,2022,7,28
+2022-07-15,1064.0,Littoral,palm_oil,2022,7,28
+2022-07-22,1048.0,North West,palm_oil,2022,7,29
+2022-07-22,997.0,South West,palm_oil,2022,7,29
+2022-07-22,1066.0,West,palm_oil,2022,7,29
+2022-07-22,975.0,Adamawa,palm_oil,2022,7,29
+2022-07-22,1044.0,Far North,palm_oil,2022,7,29
+2022-07-22,1059.0,Centre,palm_oil,2022,7,29
+2022-07-22,1025.0,East,palm_oil,2022,7,29
+2022-07-22,980.0,North,palm_oil,2022,7,29
+2022-07-22,1102.0,South,palm_oil,2022,7,29
+2022-07-22,1202.0,Littoral,palm_oil,2022,7,29
+2022-07-29,1103.0,North West,palm_oil,2022,7,30
+2022-07-29,1073.0,South West,palm_oil,2022,7,30
+2022-07-29,1088.0,West,palm_oil,2022,7,30
+2022-07-29,1265.0,Adamawa,palm_oil,2022,7,30
+2022-07-29,1162.0,Far North,palm_oil,2022,7,30
+2022-07-29,1040.0,Centre,palm_oil,2022,7,30
+2022-07-29,1218.0,East,palm_oil,2022,7,30
+2022-07-29,1048.0,North,palm_oil,2022,7,30
+2022-07-29,1019.0,South,palm_oil,2022,7,30
+2022-07-29,1079.0,Littoral,palm_oil,2022,7,30
+2022-08-05,1196.0,North West,palm_oil,2022,8,31
+2022-08-05,1273.0,South West,palm_oil,2022,8,31
+2022-08-05,1205.0,West,palm_oil,2022,8,31
+2022-08-05,1175.0,Adamawa,palm_oil,2022,8,31
+2022-08-05,1209.0,Far North,palm_oil,2022,8,31
+2022-08-05,1180.0,Centre,palm_oil,2022,8,31
+2022-08-05,1053.0,East,palm_oil,2022,8,31
+2022-08-05,1259.0,North,palm_oil,2022,8,31
+2022-08-05,1349.0,South,palm_oil,2022,8,31
+2022-08-05,1176.0,Littoral,palm_oil,2022,8,31
+2022-08-12,1164.0,North West,palm_oil,2022,8,32
+2022-08-12,1045.0,South West,palm_oil,2022,8,32
+2022-08-12,1312.0,West,palm_oil,2022,8,32
+2022-08-12,1324.0,Adamawa,palm_oil,2022,8,32
+2022-08-12,1287.0,Far North,palm_oil,2022,8,32
+2022-08-12,1064.0,Centre,palm_oil,2022,8,32
+2022-08-12,1315.0,East,palm_oil,2022,8,32
+2022-08-12,1038.0,North,palm_oil,2022,8,32
+2022-08-12,1171.0,South,palm_oil,2022,8,32
+2022-08-12,1188.0,Littoral,palm_oil,2022,8,32
+2022-08-19,1327.0,North West,palm_oil,2022,8,33
+2022-08-19,1351.0,South West,palm_oil,2022,8,33
+2022-08-19,1222.0,West,palm_oil,2022,8,33
+2022-08-19,1322.0,Adamawa,palm_oil,2022,8,33
+2022-08-19,1089.0,Far North,palm_oil,2022,8,33
+2022-08-19,1212.0,Centre,palm_oil,2022,8,33
+2022-08-19,1076.0,East,palm_oil,2022,8,33
+2022-08-19,1366.0,North,palm_oil,2022,8,33
+2022-08-19,1380.0,South,palm_oil,2022,8,33
+2022-08-19,1094.0,Littoral,palm_oil,2022,8,33
+2022-08-26,1276.0,North West,palm_oil,2022,8,34
+2022-08-26,1206.0,South West,palm_oil,2022,8,34
+2022-08-26,1212.0,West,palm_oil,2022,8,34
+2022-08-26,1248.0,Adamawa,palm_oil,2022,8,34
+2022-08-26,1139.0,Far North,palm_oil,2022,8,34
+2022-08-26,1158.0,Centre,palm_oil,2022,8,34
+2022-08-26,1291.0,East,palm_oil,2022,8,34
+2022-08-26,1103.0,North,palm_oil,2022,8,34
+2022-08-26,1299.0,South,palm_oil,2022,8,34
+2022-08-26,1204.0,Littoral,palm_oil,2022,8,34
+2022-09-02,1375.0,North West,palm_oil,2022,9,35
+2022-09-02,1169.0,South West,palm_oil,2022,9,35
+2022-09-02,1222.0,West,palm_oil,2022,9,35
+2022-09-02,1475.0,Adamawa,palm_oil,2022,9,35
+2022-09-02,1280.0,Far North,palm_oil,2022,9,35
+2022-09-02,1254.0,Centre,palm_oil,2022,9,35
+2022-09-02,1433.0,East,palm_oil,2022,9,35
+2022-09-02,1141.0,North,palm_oil,2022,9,35
+2022-09-02,1315.0,South,palm_oil,2022,9,35
+2022-09-02,1203.0,Littoral,palm_oil,2022,9,35
+2022-09-09,1309.0,North West,palm_oil,2022,9,36
+2022-09-09,1248.0,South West,palm_oil,2022,9,36
+2022-09-09,1190.0,West,palm_oil,2022,9,36
+2022-09-09,1326.0,Adamawa,palm_oil,2022,9,36
+2022-09-09,1461.0,Far North,palm_oil,2022,9,36
+2022-09-09,1520.0,Centre,palm_oil,2022,9,36
+2022-09-09,1401.0,East,palm_oil,2022,9,36
+2022-09-09,1316.0,North,palm_oil,2022,9,36
+2022-09-09,1454.0,South,palm_oil,2022,9,36
+2022-09-09,1358.0,Littoral,palm_oil,2022,9,36
+2022-09-16,1424.0,North West,palm_oil,2022,9,37
+2022-09-16,1320.0,South West,palm_oil,2022,9,37
+2022-09-16,1483.0,West,palm_oil,2022,9,37
+2022-09-16,1426.0,Adamawa,palm_oil,2022,9,37
+2022-09-16,1292.0,Far North,palm_oil,2022,9,37
+2022-09-16,1405.0,Centre,palm_oil,2022,9,37
+2022-09-16,1304.0,East,palm_oil,2022,9,37
+2022-09-16,1173.0,North,palm_oil,2022,9,37
+2022-09-16,1326.0,South,palm_oil,2022,9,37
+2022-09-16,1448.0,Littoral,palm_oil,2022,9,37
+2022-09-23,1441.0,North West,palm_oil,2022,9,38
+2022-09-23,1342.0,South West,palm_oil,2022,9,38
+2022-09-23,1274.0,West,palm_oil,2022,9,38
+2022-09-23,1145.0,Adamawa,palm_oil,2022,9,38
+2022-09-23,1250.0,Far North,palm_oil,2022,9,38
+2022-09-23,1488.0,Centre,palm_oil,2022,9,38
+2022-09-23,1395.0,East,palm_oil,2022,9,38
+2022-09-23,1392.0,North,palm_oil,2022,9,38
+2022-09-23,1408.0,South,palm_oil,2022,9,38
+2022-09-23,1358.0,Littoral,palm_oil,2022,9,38
+2022-09-30,1270.0,North West,palm_oil,2022,9,39
+2022-09-30,1416.0,South West,palm_oil,2022,9,39
+2022-09-30,1253.0,West,palm_oil,2022,9,39
+2022-09-30,1406.0,Adamawa,palm_oil,2022,9,39
+2022-09-30,1405.0,Far North,palm_oil,2022,9,39
+2022-09-30,1382.0,Centre,palm_oil,2022,9,39
+2022-09-30,1131.0,East,palm_oil,2022,9,39
+2022-09-30,1168.0,North,palm_oil,2022,9,39
+2022-09-30,1226.0,South,palm_oil,2022,9,39
+2022-09-30,1408.0,Littoral,palm_oil,2022,9,39
+2022-10-07,1543.0,North West,palm_oil,2022,10,40
+2022-10-07,1232.0,South West,palm_oil,2022,10,40
+2022-10-07,1338.0,West,palm_oil,2022,10,40
+2022-10-07,1534.0,Adamawa,palm_oil,2022,10,40
+2022-10-07,1310.0,Far North,palm_oil,2022,10,40
+2022-10-07,1581.0,Centre,palm_oil,2022,10,40
+2022-10-07,1399.0,East,palm_oil,2022,10,40
+2022-10-07,1567.0,North,palm_oil,2022,10,40
+2022-10-07,1377.0,South,palm_oil,2022,10,40
+2022-10-07,1338.0,Littoral,palm_oil,2022,10,40
+2022-10-14,1371.0,North West,palm_oil,2022,10,41
+2022-10-14,1501.0,South West,palm_oil,2022,10,41
+2022-10-14,1424.0,West,palm_oil,2022,10,41
+2022-10-14,1605.0,Adamawa,palm_oil,2022,10,41
+2022-10-14,1306.0,Far North,palm_oil,2022,10,41
+2022-10-14,1409.0,Centre,palm_oil,2022,10,41
+2022-10-14,1293.0,East,palm_oil,2022,10,41
+2022-10-14,1466.0,North,palm_oil,2022,10,41
+2022-10-14,1399.0,South,palm_oil,2022,10,41
+2022-10-14,1268.0,Littoral,palm_oil,2022,10,41
+2022-10-21,1552.0,North West,palm_oil,2022,10,42
+2022-10-21,1373.0,South West,palm_oil,2022,10,42
+2022-10-21,1418.0,West,palm_oil,2022,10,42
+2022-10-21,1385.0,Adamawa,palm_oil,2022,10,42
+2022-10-21,1416.0,Far North,palm_oil,2022,10,42
+2022-10-21,1237.0,Centre,palm_oil,2022,10,42
+2022-10-21,1539.0,East,palm_oil,2022,10,42
+2022-10-21,1357.0,North,palm_oil,2022,10,42
+2022-10-21,1505.0,South,palm_oil,2022,10,42
+2022-10-21,1256.0,Littoral,palm_oil,2022,10,42
+2022-10-28,1411.0,North West,palm_oil,2022,10,43
+2022-10-28,1333.0,South West,palm_oil,2022,10,43
+2022-10-28,1295.0,West,palm_oil,2022,10,43
+2022-10-28,1588.0,Adamawa,palm_oil,2022,10,43
+2022-10-28,1349.0,Far North,palm_oil,2022,10,43
+2022-10-28,1633.0,Centre,palm_oil,2022,10,43
+2022-10-28,1353.0,East,palm_oil,2022,10,43
+2022-10-28,1442.0,North,palm_oil,2022,10,43
+2022-10-28,1434.0,South,palm_oil,2022,10,43
+2022-10-28,1281.0,Littoral,palm_oil,2022,10,43
+2022-11-04,1461.0,North West,palm_oil,2022,11,44
+2022-11-04,1515.0,South West,palm_oil,2022,11,44
+2022-11-04,1542.0,West,palm_oil,2022,11,44
+2022-11-04,1457.0,Adamawa,palm_oil,2022,11,44
+2022-11-04,1569.0,Far North,palm_oil,2022,11,44
+2022-11-04,1546.0,Centre,palm_oil,2022,11,44
+2022-11-04,1331.0,East,palm_oil,2022,11,44
+2022-11-04,1411.0,North,palm_oil,2022,11,44
+2022-11-04,1311.0,South,palm_oil,2022,11,44
+2022-11-04,1307.0,Littoral,palm_oil,2022,11,44
+2022-11-11,1494.0,North West,palm_oil,2022,11,45
+2022-11-11,1545.0,South West,palm_oil,2022,11,45
+2022-11-11,1369.0,West,palm_oil,2022,11,45
+2022-11-11,1417.0,Adamawa,palm_oil,2022,11,45
+2022-11-11,1497.0,Far North,palm_oil,2022,11,45
+2022-11-11,1299.0,Centre,palm_oil,2022,11,45
+2022-11-11,1584.0,East,palm_oil,2022,11,45
+2022-11-11,1395.0,North,palm_oil,2022,11,45
+2022-11-11,1517.0,South,palm_oil,2022,11,45
+2022-11-11,1647.0,Littoral,palm_oil,2022,11,45
+2022-11-18,1504.0,North West,palm_oil,2022,11,46
+2022-11-18,1399.0,South West,palm_oil,2022,11,46
+2022-11-18,1400.0,West,palm_oil,2022,11,46
+2022-11-18,1337.0,Adamawa,palm_oil,2022,11,46
+2022-11-18,1622.0,Far North,palm_oil,2022,11,46
+2022-11-18,1431.0,Centre,palm_oil,2022,11,46
+2022-11-18,1382.0,East,palm_oil,2022,11,46
+2022-11-18,1600.0,North,palm_oil,2022,11,46
+2022-11-18,1437.0,South,palm_oil,2022,11,46
+2022-11-18,1555.0,Littoral,palm_oil,2022,11,46
+2022-11-25,1427.0,North West,palm_oil,2022,11,47
+2022-11-25,1360.0,South West,palm_oil,2022,11,47
+2022-11-25,1572.0,West,palm_oil,2022,11,47
+2022-11-25,1268.0,Adamawa,palm_oil,2022,11,47
+2022-11-25,1252.0,Far North,palm_oil,2022,11,47
+2022-11-25,1395.0,Centre,palm_oil,2022,11,47
+2022-11-25,1306.0,East,palm_oil,2022,11,47
+2022-11-25,1524.0,North,palm_oil,2022,11,47
+2022-11-25,1375.0,South,palm_oil,2022,11,47
+2022-11-25,1340.0,Littoral,palm_oil,2022,11,47
+2022-12-02,1346.0,North West,palm_oil,2022,12,48
+2022-12-02,1294.0,South West,palm_oil,2022,12,48
+2022-12-02,1324.0,West,palm_oil,2022,12,48
+2022-12-02,1423.0,Adamawa,palm_oil,2022,12,48
+2022-12-02,1534.0,Far North,palm_oil,2022,12,48
+2022-12-02,1350.0,Centre,palm_oil,2022,12,48
+2022-12-02,1331.0,East,palm_oil,2022,12,48
+2022-12-02,1503.0,North,palm_oil,2022,12,48
+2022-12-02,1221.0,South,palm_oil,2022,12,48
+2022-12-02,1325.0,Littoral,palm_oil,2022,12,48
+2022-12-09,1346.0,North West,palm_oil,2022,12,49
+2022-12-09,1455.0,South West,palm_oil,2022,12,49
+2022-12-09,1508.0,West,palm_oil,2022,12,49
+2022-12-09,1485.0,Adamawa,palm_oil,2022,12,49
+2022-12-09,1511.0,Far North,palm_oil,2022,12,49
+2022-12-09,1545.0,Centre,palm_oil,2022,12,49
+2022-12-09,1434.0,East,palm_oil,2022,12,49
+2022-12-09,1309.0,North,palm_oil,2022,12,49
+2022-12-09,1306.0,South,palm_oil,2022,12,49
+2022-12-09,1623.0,Littoral,palm_oil,2022,12,49
+2022-12-16,1496.0,North West,palm_oil,2022,12,50
+2022-12-16,1529.0,South West,palm_oil,2022,12,50
+2022-12-16,1591.0,West,palm_oil,2022,12,50
+2022-12-16,1524.0,Adamawa,palm_oil,2022,12,50
+2022-12-16,1502.0,Far North,palm_oil,2022,12,50
+2022-12-16,1488.0,Centre,palm_oil,2022,12,50
+2022-12-16,1337.0,East,palm_oil,2022,12,50
+2022-12-16,1602.0,North,palm_oil,2022,12,50
+2022-12-16,1444.0,South,palm_oil,2022,12,50
+2022-12-16,1323.0,Littoral,palm_oil,2022,12,50
+2022-12-23,1351.0,North West,palm_oil,2022,12,51
+2022-12-23,1271.0,South West,palm_oil,2022,12,51
+2022-12-23,1420.0,West,palm_oil,2022,12,51
+2022-12-23,1570.0,Adamawa,palm_oil,2022,12,51
+2022-12-23,1414.0,Far North,palm_oil,2022,12,51
+2022-12-23,1564.0,Centre,palm_oil,2022,12,51
+2022-12-23,1573.0,East,palm_oil,2022,12,51
+2022-12-23,1585.0,North,palm_oil,2022,12,51
+2022-12-23,1482.0,South,palm_oil,2022,12,51
+2022-12-23,1524.0,Littoral,palm_oil,2022,12,51
+2022-12-30,1333.0,North West,palm_oil,2022,12,52
+2022-12-30,1271.0,South West,palm_oil,2022,12,52
+2022-12-30,1435.0,West,palm_oil,2022,12,52
+2022-12-30,1238.0,Adamawa,palm_oil,2022,12,52
+2022-12-30,1410.0,Far North,palm_oil,2022,12,52
+2022-12-30,1272.0,Centre,palm_oil,2022,12,52
+2022-12-30,1275.0,East,palm_oil,2022,12,52
+2022-12-30,1563.0,North,palm_oil,2022,12,52
+2022-12-30,1476.0,South,palm_oil,2022,12,52
+2022-12-30,1478.0,Littoral,palm_oil,2022,12,52
+2023-01-06,1285.0,North West,palm_oil,2023,1,1
+2023-01-06,1332.0,South West,palm_oil,2023,1,1
+2023-01-06,1387.0,West,palm_oil,2023,1,1
+2023-01-06,1243.0,Adamawa,palm_oil,2023,1,1
+2023-01-06,1270.0,Far North,palm_oil,2023,1,1
+2023-01-06,1354.0,Centre,palm_oil,2023,1,1
+2023-01-06,1314.0,East,palm_oil,2023,1,1
+2023-01-06,1471.0,North,palm_oil,2023,1,1
+2023-01-06,1472.0,South,palm_oil,2023,1,1
+2023-01-06,1297.0,Littoral,palm_oil,2023,1,1
+2023-01-13,1287.0,North West,palm_oil,2023,1,2
+2023-01-13,1469.0,South West,palm_oil,2023,1,2
+2023-01-13,1417.0,West,palm_oil,2023,1,2
+2023-01-13,1205.0,Adamawa,palm_oil,2023,1,2
+2023-01-13,1228.0,Far North,palm_oil,2023,1,2
+2023-01-13,1159.0,Centre,palm_oil,2023,1,2
+2023-01-13,1365.0,East,palm_oil,2023,1,2
+2023-01-13,1240.0,North,palm_oil,2023,1,2
+2023-01-13,1316.0,South,palm_oil,2023,1,2
+2023-01-13,1397.0,Littoral,palm_oil,2023,1,2
+2023-01-20,1217.0,North West,palm_oil,2023,1,3
+2023-01-20,1430.0,South West,palm_oil,2023,1,3
+2023-01-20,1267.0,West,palm_oil,2023,1,3
+2023-01-20,1420.0,Adamawa,palm_oil,2023,1,3
+2023-01-20,1186.0,Far North,palm_oil,2023,1,3
+2023-01-20,1452.0,Centre,palm_oil,2023,1,3
+2023-01-20,1302.0,East,palm_oil,2023,1,3
+2023-01-20,1194.0,North,palm_oil,2023,1,3
+2023-01-20,1321.0,South,palm_oil,2023,1,3
+2023-01-20,1437.0,Littoral,palm_oil,2023,1,3
+2023-01-27,1319.0,North West,palm_oil,2023,1,4
+2023-01-27,1242.0,South West,palm_oil,2023,1,4
+2023-01-27,1386.0,West,palm_oil,2023,1,4
+2023-01-27,1480.0,Adamawa,palm_oil,2023,1,4
+2023-01-27,1222.0,Far North,palm_oil,2023,1,4
+2023-01-27,1193.0,Centre,palm_oil,2023,1,4
+2023-01-27,1198.0,East,palm_oil,2023,1,4
+2023-01-27,1261.0,North,palm_oil,2023,1,4
+2023-01-27,1181.0,South,palm_oil,2023,1,4
+2023-01-27,1333.0,Littoral,palm_oil,2023,1,4
+2023-02-03,1424.0,North West,palm_oil,2023,2,5
+2023-02-03,1299.0,South West,palm_oil,2023,2,5
+2023-02-03,1460.0,West,palm_oil,2023,2,5
+2023-02-03,1402.0,Adamawa,palm_oil,2023,2,5
+2023-02-03,1506.0,Far North,palm_oil,2023,2,5
+2023-02-03,1366.0,Centre,palm_oil,2023,2,5
+2023-02-03,1257.0,East,palm_oil,2023,2,5
+2023-02-03,1423.0,North,palm_oil,2023,2,5
+2023-02-03,1246.0,South,palm_oil,2023,2,5
+2023-02-03,1543.0,Littoral,palm_oil,2023,2,5
+2023-02-10,1457.0,North West,palm_oil,2023,2,6
+2023-02-10,1477.0,South West,palm_oil,2023,2,6
+2023-02-10,1448.0,West,palm_oil,2023,2,6
+2023-02-10,1234.0,Adamawa,palm_oil,2023,2,6
+2023-02-10,1370.0,Far North,palm_oil,2023,2,6
+2023-02-10,1438.0,Centre,palm_oil,2023,2,6
+2023-02-10,1283.0,East,palm_oil,2023,2,6
+2023-02-10,1448.0,North,palm_oil,2023,2,6
+2023-02-10,1500.0,South,palm_oil,2023,2,6
+2023-02-10,1300.0,Littoral,palm_oil,2023,2,6
+2023-02-17,1185.0,North West,palm_oil,2023,2,7
+2023-02-17,1276.0,South West,palm_oil,2023,2,7
+2023-02-17,1331.0,West,palm_oil,2023,2,7
+2023-02-17,1428.0,Adamawa,palm_oil,2023,2,7
+2023-02-17,1546.0,Far North,palm_oil,2023,2,7
+2023-02-17,1318.0,Centre,palm_oil,2023,2,7
+2023-02-17,1528.0,East,palm_oil,2023,2,7
+2023-02-17,1317.0,North,palm_oil,2023,2,7
+2023-02-17,1436.0,South,palm_oil,2023,2,7
+2023-02-17,1244.0,Littoral,palm_oil,2023,2,7
+2023-02-24,1325.0,North West,palm_oil,2023,2,8
+2023-02-24,1471.0,South West,palm_oil,2023,2,8
+2023-02-24,1275.0,West,palm_oil,2023,2,8
+2023-02-24,1198.0,Adamawa,palm_oil,2023,2,8
+2023-02-24,1347.0,Far North,palm_oil,2023,2,8
+2023-02-24,1317.0,Centre,palm_oil,2023,2,8
+2023-02-24,1243.0,East,palm_oil,2023,2,8
+2023-02-24,1484.0,North,palm_oil,2023,2,8
+2023-02-24,1375.0,South,palm_oil,2023,2,8
+2023-02-24,1285.0,Littoral,palm_oil,2023,2,8
+2023-03-03,1202.0,North West,palm_oil,2023,3,9
+2023-03-03,1290.0,South West,palm_oil,2023,3,9
+2023-03-03,1347.0,West,palm_oil,2023,3,9
+2023-03-03,1356.0,Adamawa,palm_oil,2023,3,9
+2023-03-03,1127.0,Far North,palm_oil,2023,3,9
+2023-03-03,1218.0,Centre,palm_oil,2023,3,9
+2023-03-03,1346.0,East,palm_oil,2023,3,9
+2023-03-03,1425.0,North,palm_oil,2023,3,9
+2023-03-03,1349.0,South,palm_oil,2023,3,9
+2023-03-03,1211.0,Littoral,palm_oil,2023,3,9
+2023-03-10,1290.0,North West,palm_oil,2023,3,10
+2023-03-10,1338.0,South West,palm_oil,2023,3,10
+2023-03-10,1162.0,West,palm_oil,2023,3,10
+2023-03-10,1303.0,Adamawa,palm_oil,2023,3,10
+2023-03-10,1277.0,Far North,palm_oil,2023,3,10
+2023-03-10,1231.0,Centre,palm_oil,2023,3,10
+2023-03-10,1329.0,East,palm_oil,2023,3,10
+2023-03-10,1334.0,North,palm_oil,2023,3,10
+2023-03-10,1449.0,South,palm_oil,2023,3,10
+2023-03-10,1263.0,Littoral,palm_oil,2023,3,10
+2023-03-17,1248.0,North West,palm_oil,2023,3,11
+2023-03-17,1080.0,South West,palm_oil,2023,3,11
+2023-03-17,1118.0,West,palm_oil,2023,3,11
+2023-03-17,1125.0,Adamawa,palm_oil,2023,3,11
+2023-03-17,1276.0,Far North,palm_oil,2023,3,11
+2023-03-17,1254.0,Centre,palm_oil,2023,3,11
+2023-03-17,1330.0,East,palm_oil,2023,3,11
+2023-03-17,1221.0,North,palm_oil,2023,3,11
+2023-03-17,1224.0,South,palm_oil,2023,3,11
+2023-03-17,1121.0,Littoral,palm_oil,2023,3,11
+2023-03-24,1313.0,North West,palm_oil,2023,3,12
+2023-03-24,1070.0,South West,palm_oil,2023,3,12
+2023-03-24,1209.0,West,palm_oil,2023,3,12
+2023-03-24,1131.0,Adamawa,palm_oil,2023,3,12
+2023-03-24,1322.0,Far North,palm_oil,2023,3,12
+2023-03-24,1290.0,Centre,palm_oil,2023,3,12
+2023-03-24,1301.0,East,palm_oil,2023,3,12
+2023-03-24,1118.0,North,palm_oil,2023,3,12
+2023-03-24,1289.0,South,palm_oil,2023,3,12
+2023-03-24,1296.0,Littoral,palm_oil,2023,3,12
+2023-03-31,1144.0,North West,palm_oil,2023,3,13
+2023-03-31,1161.0,South West,palm_oil,2023,3,13
+2023-03-31,1099.0,West,palm_oil,2023,3,13
+2023-03-31,1233.0,Adamawa,palm_oil,2023,3,13
+2023-03-31,1085.0,Far North,palm_oil,2023,3,13
+2023-03-31,1352.0,Centre,palm_oil,2023,3,13
+2023-03-31,1082.0,East,palm_oil,2023,3,13
+2023-03-31,1094.0,North,palm_oil,2023,3,13
+2023-03-31,1285.0,South,palm_oil,2023,3,13
+2023-03-31,1376.0,Littoral,palm_oil,2023,3,13
+2023-04-07,1326.0,North West,palm_oil,2023,4,14
+2023-04-07,1068.0,South West,palm_oil,2023,4,14
+2023-04-07,1133.0,West,palm_oil,2023,4,14
+2023-04-07,1208.0,Adamawa,palm_oil,2023,4,14
+2023-04-07,1050.0,Far North,palm_oil,2023,4,14
+2023-04-07,1210.0,Centre,palm_oil,2023,4,14
+2023-04-07,1184.0,East,palm_oil,2023,4,14
+2023-04-07,1229.0,North,palm_oil,2023,4,14
+2023-04-07,1335.0,South,palm_oil,2023,4,14
+2023-04-07,1129.0,Littoral,palm_oil,2023,4,14
+2023-04-14,1144.0,North West,palm_oil,2023,4,15
+2023-04-14,1210.0,South West,palm_oil,2023,4,15
+2023-04-14,1304.0,West,palm_oil,2023,4,15
+2023-04-14,1277.0,Adamawa,palm_oil,2023,4,15
+2023-04-14,1207.0,Far North,palm_oil,2023,4,15
+2023-04-14,1152.0,Centre,palm_oil,2023,4,15
+2023-04-14,1141.0,East,palm_oil,2023,4,15
+2023-04-14,1253.0,North,palm_oil,2023,4,15
+2023-04-14,1077.0,South,palm_oil,2023,4,15
+2023-04-14,1191.0,Littoral,palm_oil,2023,4,15
+2023-04-21,1222.0,North West,palm_oil,2023,4,16
+2023-04-21,1269.0,South West,palm_oil,2023,4,16
+2023-04-21,1119.0,West,palm_oil,2023,4,16
+2023-04-21,1284.0,Adamawa,palm_oil,2023,4,16
+2023-04-21,1261.0,Far North,palm_oil,2023,4,16
+2023-04-21,1116.0,Centre,palm_oil,2023,4,16
+2023-04-21,1204.0,East,palm_oil,2023,4,16
+2023-04-21,1278.0,North,palm_oil,2023,4,16
+2023-04-21,1351.0,South,palm_oil,2023,4,16
+2023-04-21,1098.0,Littoral,palm_oil,2023,4,16
+2023-04-28,1152.0,North West,palm_oil,2023,4,17
+2023-04-28,1245.0,South West,palm_oil,2023,4,17
+2023-04-28,1302.0,West,palm_oil,2023,4,17
+2023-04-28,1141.0,Adamawa,palm_oil,2023,4,17
+2023-04-28,1334.0,Far North,palm_oil,2023,4,17
+2023-04-28,1065.0,Centre,palm_oil,2023,4,17
+2023-04-28,1142.0,East,palm_oil,2023,4,17
+2023-04-28,1296.0,North,palm_oil,2023,4,17
+2023-04-28,1225.0,South,palm_oil,2023,4,17
+2023-04-28,1275.0,Littoral,palm_oil,2023,4,17
+2023-05-05,1306.0,North West,palm_oil,2023,5,18
+2023-05-05,1180.0,South West,palm_oil,2023,5,18
+2023-05-05,1095.0,West,palm_oil,2023,5,18
+2023-05-05,1239.0,Adamawa,palm_oil,2023,5,18
+2023-05-05,1198.0,Far North,palm_oil,2023,5,18
+2023-05-05,1264.0,Centre,palm_oil,2023,5,18
+2023-05-05,1182.0,East,palm_oil,2023,5,18
+2023-05-05,1276.0,North,palm_oil,2023,5,18
+2023-05-05,1304.0,South,palm_oil,2023,5,18
+2023-05-05,1256.0,Littoral,palm_oil,2023,5,18
+2023-05-12,1176.0,North West,palm_oil,2023,5,19
+2023-05-12,1334.0,South West,palm_oil,2023,5,19
+2023-05-12,1231.0,West,palm_oil,2023,5,19
+2023-05-12,1293.0,Adamawa,palm_oil,2023,5,19
+2023-05-12,1187.0,Far North,palm_oil,2023,5,19
+2023-05-12,1203.0,Centre,palm_oil,2023,5,19
+2023-05-12,1237.0,East,palm_oil,2023,5,19
+2023-05-12,1257.0,North,palm_oil,2023,5,19
+2023-05-12,1169.0,South,palm_oil,2023,5,19
+2023-05-12,1140.0,Littoral,palm_oil,2023,5,19
+2023-05-19,1133.0,North West,palm_oil,2023,5,20
+2023-05-19,1193.0,South West,palm_oil,2023,5,20
+2023-05-19,1124.0,West,palm_oil,2023,5,20
+2023-05-19,1191.0,Adamawa,palm_oil,2023,5,20
+2023-05-19,1339.0,Far North,palm_oil,2023,5,20
+2023-05-19,1372.0,Centre,palm_oil,2023,5,20
+2023-05-19,1243.0,East,palm_oil,2023,5,20
+2023-05-19,1103.0,North,palm_oil,2023,5,20
+2023-05-19,1194.0,South,palm_oil,2023,5,20
+2023-05-19,1251.0,Littoral,palm_oil,2023,5,20
+2023-05-26,1080.0,North West,palm_oil,2023,5,21
+2023-05-26,1157.0,South West,palm_oil,2023,5,21
+2023-05-26,1077.0,West,palm_oil,2023,5,21
+2023-05-26,1087.0,Adamawa,palm_oil,2023,5,21
+2023-05-26,1280.0,Far North,palm_oil,2023,5,21
+2023-05-26,1251.0,Centre,palm_oil,2023,5,21
+2023-05-26,1027.0,East,palm_oil,2023,5,21
+2023-05-26,1109.0,North,palm_oil,2023,5,21
+2023-05-26,1175.0,South,palm_oil,2023,5,21
+2023-05-26,1029.0,Littoral,palm_oil,2023,5,21
+2023-06-02,1209.0,North West,palm_oil,2023,6,22
+2023-06-02,1117.0,South West,palm_oil,2023,6,22
+2023-06-02,1121.0,West,palm_oil,2023,6,22
+2023-06-02,1081.0,Adamawa,palm_oil,2023,6,22
+2023-06-02,1102.0,Far North,palm_oil,2023,6,22
+2023-06-02,1264.0,Centre,palm_oil,2023,6,22
+2023-06-02,1241.0,East,palm_oil,2023,6,22
+2023-06-02,1286.0,North,palm_oil,2023,6,22
+2023-06-02,1214.0,South,palm_oil,2023,6,22
+2023-06-02,1177.0,Littoral,palm_oil,2023,6,22
+2023-06-09,1311.0,North West,palm_oil,2023,6,23
+2023-06-09,1048.0,South West,palm_oil,2023,6,23
+2023-06-09,1165.0,West,palm_oil,2023,6,23
+2023-06-09,1073.0,Adamawa,palm_oil,2023,6,23
+2023-06-09,1281.0,Far North,palm_oil,2023,6,23
+2023-06-09,1219.0,Centre,palm_oil,2023,6,23
+2023-06-09,1303.0,East,palm_oil,2023,6,23
+2023-06-09,1046.0,North,palm_oil,2023,6,23
+2023-06-09,1311.0,South,palm_oil,2023,6,23
+2023-06-09,1047.0,Littoral,palm_oil,2023,6,23
+2023-06-16,1082.0,North West,palm_oil,2023,6,24
+2023-06-16,1042.0,South West,palm_oil,2023,6,24
+2023-06-16,1039.0,West,palm_oil,2023,6,24
+2023-06-16,1047.0,Adamawa,palm_oil,2023,6,24
+2023-06-16,1141.0,Far North,palm_oil,2023,6,24
+2023-06-16,1234.0,Centre,palm_oil,2023,6,24
+2023-06-16,1269.0,East,palm_oil,2023,6,24
+2023-06-16,1168.0,North,palm_oil,2023,6,24
+2023-06-16,1043.0,South,palm_oil,2023,6,24
+2023-06-16,1019.0,Littoral,palm_oil,2023,6,24
+2023-06-23,1240.0,North West,palm_oil,2023,6,25
+2023-06-23,1228.0,South West,palm_oil,2023,6,25
+2023-06-23,1057.0,West,palm_oil,2023,6,25
+2023-06-23,1173.0,Adamawa,palm_oil,2023,6,25
+2023-06-23,1217.0,Far North,palm_oil,2023,6,25
+2023-06-23,1233.0,Centre,palm_oil,2023,6,25
+2023-06-23,1043.0,East,palm_oil,2023,6,25
+2023-06-23,1105.0,North,palm_oil,2023,6,25
+2023-06-23,1345.0,South,palm_oil,2023,6,25
+2023-06-23,1204.0,Littoral,palm_oil,2023,6,25
+2023-06-30,1258.0,North West,palm_oil,2023,6,26
+2023-06-30,1132.0,South West,palm_oil,2023,6,26
+2023-06-30,1220.0,West,palm_oil,2023,6,26
+2023-06-30,1148.0,Adamawa,palm_oil,2023,6,26
+2023-06-30,1129.0,Far North,palm_oil,2023,6,26
+2023-06-30,1165.0,Centre,palm_oil,2023,6,26
+2023-06-30,1180.0,East,palm_oil,2023,6,26
+2023-06-30,1140.0,North,palm_oil,2023,6,26
+2023-06-30,1116.0,South,palm_oil,2023,6,26
+2023-06-30,1233.0,Littoral,palm_oil,2023,6,26
+2023-07-07,1250.0,North West,palm_oil,2023,7,27
+2023-07-07,1239.0,South West,palm_oil,2023,7,27
+2023-07-07,1290.0,West,palm_oil,2023,7,27
+2023-07-07,1187.0,Adamawa,palm_oil,2023,7,27
+2023-07-07,1101.0,Far North,palm_oil,2023,7,27
+2023-07-07,1283.0,Centre,palm_oil,2023,7,27
+2023-07-07,1101.0,East,palm_oil,2023,7,27
+2023-07-07,1218.0,North,palm_oil,2023,7,27
+2023-07-07,1073.0,South,palm_oil,2023,7,27
+2023-07-07,1210.0,Littoral,palm_oil,2023,7,27
+2023-07-14,1282.0,North West,palm_oil,2023,7,28
+2023-07-14,1188.0,South West,palm_oil,2023,7,28
+2023-07-14,1166.0,West,palm_oil,2023,7,28
+2023-07-14,1329.0,Adamawa,palm_oil,2023,7,28
+2023-07-14,1026.0,Far North,palm_oil,2023,7,28
+2023-07-14,1123.0,Centre,palm_oil,2023,7,28
+2023-07-14,1306.0,East,palm_oil,2023,7,28
+2023-07-14,1220.0,North,palm_oil,2023,7,28
+2023-07-14,1188.0,South,palm_oil,2023,7,28
+2023-07-14,1218.0,Littoral,palm_oil,2023,7,28
+2023-07-21,1109.0,North West,palm_oil,2023,7,29
+2023-07-21,1128.0,South West,palm_oil,2023,7,29
+2023-07-21,1173.0,West,palm_oil,2023,7,29
+2023-07-21,1146.0,Adamawa,palm_oil,2023,7,29
+2023-07-21,1186.0,Far North,palm_oil,2023,7,29
+2023-07-21,1084.0,Centre,palm_oil,2023,7,29
+2023-07-21,1080.0,East,palm_oil,2023,7,29
+2023-07-21,1133.0,North,palm_oil,2023,7,29
+2023-07-21,1171.0,South,palm_oil,2023,7,29
+2023-07-21,1130.0,Littoral,palm_oil,2023,7,29
+2023-07-28,1215.0,North West,palm_oil,2023,7,30
+2023-07-28,1131.0,South West,palm_oil,2023,7,30
+2023-07-28,1089.0,West,palm_oil,2023,7,30
+2023-07-28,1306.0,Adamawa,palm_oil,2023,7,30
+2023-07-28,1096.0,Far North,palm_oil,2023,7,30
+2023-07-28,1339.0,Centre,palm_oil,2023,7,30
+2023-07-28,1345.0,East,palm_oil,2023,7,30
+2023-07-28,1253.0,North,palm_oil,2023,7,30
+2023-07-28,1192.0,South,palm_oil,2023,7,30
+2023-07-28,1285.0,Littoral,palm_oil,2023,7,30
+2023-08-04,1110.0,North West,palm_oil,2023,8,31
+2023-08-04,1077.0,South West,palm_oil,2023,8,31
+2023-08-04,1140.0,West,palm_oil,2023,8,31
+2023-08-04,1139.0,Adamawa,palm_oil,2023,8,31
+2023-08-04,1137.0,Far North,palm_oil,2023,8,31
+2023-08-04,1245.0,Centre,palm_oil,2023,8,31
+2023-08-04,1248.0,East,palm_oil,2023,8,31
+2023-08-04,1315.0,North,palm_oil,2023,8,31
+2023-08-04,1143.0,South,palm_oil,2023,8,31
+2023-08-04,1107.0,Littoral,palm_oil,2023,8,31
+2023-08-11,1344.0,North West,palm_oil,2023,8,32
+2023-08-11,1281.0,South West,palm_oil,2023,8,32
+2023-08-11,1344.0,West,palm_oil,2023,8,32
+2023-08-11,1246.0,Adamawa,palm_oil,2023,8,32
+2023-08-11,1373.0,Far North,palm_oil,2023,8,32
+2023-08-11,1349.0,Centre,palm_oil,2023,8,32
+2023-08-11,1338.0,East,palm_oil,2023,8,32
+2023-08-11,1125.0,North,palm_oil,2023,8,32
+2023-08-11,1409.0,South,palm_oil,2023,8,32
+2023-08-11,1245.0,Littoral,palm_oil,2023,8,32
+2023-08-18,1305.0,North West,palm_oil,2023,8,33
+2023-08-18,1146.0,South West,palm_oil,2023,8,33
+2023-08-18,1408.0,West,palm_oil,2023,8,33
+2023-08-18,1287.0,Adamawa,palm_oil,2023,8,33
+2023-08-18,1398.0,Far North,palm_oil,2023,8,33
+2023-08-18,1398.0,Centre,palm_oil,2023,8,33
+2023-08-18,1170.0,East,palm_oil,2023,8,33
+2023-08-18,1349.0,North,palm_oil,2023,8,33
+2023-08-18,1261.0,South,palm_oil,2023,8,33
+2023-08-18,1326.0,Littoral,palm_oil,2023,8,33
+2023-08-25,1154.0,North West,palm_oil,2023,8,34
+2023-08-25,1326.0,South West,palm_oil,2023,8,34
+2023-08-25,1391.0,West,palm_oil,2023,8,34
+2023-08-25,1463.0,Adamawa,palm_oil,2023,8,34
+2023-08-25,1233.0,Far North,palm_oil,2023,8,34
+2023-08-25,1177.0,Centre,palm_oil,2023,8,34
+2023-08-25,1249.0,East,palm_oil,2023,8,34
+2023-08-25,1130.0,North,palm_oil,2023,8,34
+2023-08-25,1264.0,South,palm_oil,2023,8,34
+2023-08-25,1438.0,Littoral,palm_oil,2023,8,34
+2023-09-01,1349.0,North West,palm_oil,2023,9,35
+2023-09-01,1211.0,South West,palm_oil,2023,9,35
+2023-09-01,1264.0,West,palm_oil,2023,9,35
+2023-09-01,1469.0,Adamawa,palm_oil,2023,9,35
+2023-09-01,1252.0,Far North,palm_oil,2023,9,35
+2023-09-01,1372.0,Centre,palm_oil,2023,9,35
+2023-09-01,1196.0,East,palm_oil,2023,9,35
+2023-09-01,1384.0,North,palm_oil,2023,9,35
+2023-09-01,1246.0,South,palm_oil,2023,9,35
+2023-09-01,1229.0,Littoral,palm_oil,2023,9,35
+2023-09-08,1171.0,North West,palm_oil,2023,9,36
+2023-09-08,1144.0,South West,palm_oil,2023,9,36
+2023-09-08,1462.0,West,palm_oil,2023,9,36
+2023-09-08,1271.0,Adamawa,palm_oil,2023,9,36
+2023-09-08,1397.0,Far North,palm_oil,2023,9,36
+2023-09-08,1446.0,Centre,palm_oil,2023,9,36
+2023-09-08,1198.0,East,palm_oil,2023,9,36
+2023-09-08,1429.0,North,palm_oil,2023,9,36
+2023-09-08,1373.0,South,palm_oil,2023,9,36
+2023-09-08,1328.0,Littoral,palm_oil,2023,9,36
+2023-09-15,1244.0,North West,palm_oil,2023,9,37
+2023-09-15,1197.0,South West,palm_oil,2023,9,37
+2023-09-15,1467.0,West,palm_oil,2023,9,37
+2023-09-15,1186.0,Adamawa,palm_oil,2023,9,37
+2023-09-15,1497.0,Far North,palm_oil,2023,9,37
+2023-09-15,1190.0,Centre,palm_oil,2023,9,37
+2023-09-15,1385.0,East,palm_oil,2023,9,37
+2023-09-15,1384.0,North,palm_oil,2023,9,37
+2023-09-15,1480.0,South,palm_oil,2023,9,37
+2023-09-15,1265.0,Littoral,palm_oil,2023,9,37
+2023-09-22,1293.0,North West,palm_oil,2023,9,38
+2023-09-22,1479.0,South West,palm_oil,2023,9,38
+2023-09-22,1526.0,West,palm_oil,2023,9,38
+2023-09-22,1185.0,Adamawa,palm_oil,2023,9,38
+2023-09-22,1403.0,Far North,palm_oil,2023,9,38
+2023-09-22,1261.0,Centre,palm_oil,2023,9,38
+2023-09-22,1436.0,East,palm_oil,2023,9,38
+2023-09-22,1452.0,North,palm_oil,2023,9,38
+2023-09-22,1448.0,South,palm_oil,2023,9,38
+2023-09-22,1331.0,Littoral,palm_oil,2023,9,38
+2023-09-29,1485.0,North West,palm_oil,2023,9,39
+2023-09-29,1530.0,South West,palm_oil,2023,9,39
+2023-09-29,1362.0,West,palm_oil,2023,9,39
+2023-09-29,1286.0,Adamawa,palm_oil,2023,9,39
+2023-09-29,1239.0,Far North,palm_oil,2023,9,39
+2023-09-29,1488.0,Centre,palm_oil,2023,9,39
+2023-09-29,1392.0,East,palm_oil,2023,9,39
+2023-09-29,1443.0,North,palm_oil,2023,9,39
+2023-09-29,1254.0,South,palm_oil,2023,9,39
+2023-09-29,1198.0,Littoral,palm_oil,2023,9,39
+2023-10-06,1534.0,North West,palm_oil,2023,10,40
+2023-10-06,1477.0,South West,palm_oil,2023,10,40
+2023-10-06,1328.0,West,palm_oil,2023,10,40
+2023-10-06,1349.0,Adamawa,palm_oil,2023,10,40
+2023-10-06,1520.0,Far North,palm_oil,2023,10,40
+2023-10-06,1258.0,Centre,palm_oil,2023,10,40
+2023-10-06,1474.0,East,palm_oil,2023,10,40
+2023-10-06,1189.0,North,palm_oil,2023,10,40
+2023-10-06,1501.0,South,palm_oil,2023,10,40
+2023-10-06,1397.0,Littoral,palm_oil,2023,10,40
+2023-10-13,1292.0,North West,palm_oil,2023,10,41
+2023-10-13,1342.0,South West,palm_oil,2023,10,41
+2023-10-13,1424.0,West,palm_oil,2023,10,41
+2023-10-13,1506.0,Adamawa,palm_oil,2023,10,41
+2023-10-13,1322.0,Far North,palm_oil,2023,10,41
+2023-10-13,1414.0,Centre,palm_oil,2023,10,41
+2023-10-13,1367.0,East,palm_oil,2023,10,41
+2023-10-13,1517.0,North,palm_oil,2023,10,41
+2023-10-13,1623.0,South,palm_oil,2023,10,41
+2023-10-13,1331.0,Littoral,palm_oil,2023,10,41
+2023-10-20,1335.0,North West,palm_oil,2023,10,42
+2023-10-20,1494.0,South West,palm_oil,2023,10,42
+2023-10-20,1437.0,West,palm_oil,2023,10,42
+2023-10-20,1540.0,Adamawa,palm_oil,2023,10,42
+2023-10-20,1373.0,Far North,palm_oil,2023,10,42
+2023-10-20,1472.0,Centre,palm_oil,2023,10,42
+2023-10-20,1411.0,East,palm_oil,2023,10,42
+2023-10-20,1370.0,North,palm_oil,2023,10,42
+2023-10-20,1544.0,South,palm_oil,2023,10,42
+2023-10-20,1570.0,Littoral,palm_oil,2023,10,42
+2023-10-27,1510.0,North West,palm_oil,2023,10,43
+2023-10-27,1779.0,South West,palm_oil,2023,10,43
+2023-10-27,1555.0,West,palm_oil,2023,10,43
+2023-10-27,1507.0,Adamawa,palm_oil,2023,10,43
+2023-10-27,1845.0,Far North,palm_oil,2023,10,43
+2023-10-27,1617.0,Centre,palm_oil,2023,10,43
+2023-10-27,1714.0,East,palm_oil,2023,10,43
+2023-10-27,1787.0,North,palm_oil,2023,10,43
+2023-10-27,1733.0,South,palm_oil,2023,10,43
+2023-10-27,1680.0,Littoral,palm_oil,2023,10,43
+2023-11-03,1496.0,North West,palm_oil,2023,11,44
+2023-11-03,1721.0,South West,palm_oil,2023,11,44
+2023-11-03,1398.0,West,palm_oil,2023,11,44
+2023-11-03,1707.0,Adamawa,palm_oil,2023,11,44
+2023-11-03,1635.0,Far North,palm_oil,2023,11,44
+2023-11-03,1578.0,Centre,palm_oil,2023,11,44
+2023-11-03,1477.0,East,palm_oil,2023,11,44
+2023-11-03,1403.0,North,palm_oil,2023,11,44
+2023-11-03,1526.0,South,palm_oil,2023,11,44
+2023-11-03,1666.0,Littoral,palm_oil,2023,11,44
+2023-11-10,1763.0,North West,palm_oil,2023,11,45
+2023-11-10,1755.0,South West,palm_oil,2023,11,45
+2023-11-10,1518.0,West,palm_oil,2023,11,45
+2023-11-10,1431.0,Adamawa,palm_oil,2023,11,45
+2023-11-10,1544.0,Far North,palm_oil,2023,11,45
+2023-11-10,1702.0,Centre,palm_oil,2023,11,45
+2023-11-10,1542.0,East,palm_oil,2023,11,45
+2023-11-10,1491.0,North,palm_oil,2023,11,45
+2023-11-10,1659.0,South,palm_oil,2023,11,45
+2023-11-10,1621.0,Littoral,palm_oil,2023,11,45
+2023-11-17,1783.0,North West,palm_oil,2023,11,46
+2023-11-17,1606.0,South West,palm_oil,2023,11,46
+2023-11-17,1782.0,West,palm_oil,2023,11,46
+2023-11-17,1497.0,Adamawa,palm_oil,2023,11,46
+2023-11-17,1739.0,Far North,palm_oil,2023,11,46
+2023-11-17,1522.0,Centre,palm_oil,2023,11,46
+2023-11-17,1716.0,East,palm_oil,2023,11,46
+2023-11-17,1765.0,North,palm_oil,2023,11,46
+2023-11-17,1637.0,South,palm_oil,2023,11,46
+2023-11-17,1681.0,Littoral,palm_oil,2023,11,46
+2023-11-24,1558.0,North West,palm_oil,2023,11,47
+2023-11-24,1718.0,South West,palm_oil,2023,11,47
+2023-11-24,1625.0,West,palm_oil,2023,11,47
+2023-11-24,1708.0,Adamawa,palm_oil,2023,11,47
+2023-11-24,1602.0,Far North,palm_oil,2023,11,47
+2023-11-24,1652.0,Centre,palm_oil,2023,11,47
+2023-11-24,1352.0,East,palm_oil,2023,11,47
+2023-11-24,1487.0,North,palm_oil,2023,11,47
+2023-11-24,1665.0,South,palm_oil,2023,11,47
+2023-11-24,1514.0,Littoral,palm_oil,2023,11,47
+2023-12-01,1488.0,North West,palm_oil,2023,12,48
+2023-12-01,1730.0,South West,palm_oil,2023,12,48
+2023-12-01,1566.0,West,palm_oil,2023,12,48
+2023-12-01,1418.0,Adamawa,palm_oil,2023,12,48
+2023-12-01,1533.0,Far North,palm_oil,2023,12,48
+2023-12-01,1552.0,Centre,palm_oil,2023,12,48
+2023-12-01,1745.0,East,palm_oil,2023,12,48
+2023-12-01,1634.0,North,palm_oil,2023,12,48
+2023-12-01,1552.0,South,palm_oil,2023,12,48
+2023-12-01,1516.0,Littoral,palm_oil,2023,12,48
+2023-12-08,1473.0,North West,palm_oil,2023,12,49
+2023-12-08,1517.0,South West,palm_oil,2023,12,49
+2023-12-08,1441.0,West,palm_oil,2023,12,49
+2023-12-08,1719.0,Adamawa,palm_oil,2023,12,49
+2023-12-08,1614.0,Far North,palm_oil,2023,12,49
+2023-12-08,1488.0,Centre,palm_oil,2023,12,49
+2023-12-08,1402.0,East,palm_oil,2023,12,49
+2023-12-08,1400.0,North,palm_oil,2023,12,49
+2023-12-08,1522.0,South,palm_oil,2023,12,49
+2023-12-08,1518.0,Littoral,palm_oil,2023,12,49
+2023-12-15,1505.0,North West,palm_oil,2023,12,50
+2023-12-15,1682.0,South West,palm_oil,2023,12,50
+2023-12-15,1734.0,West,palm_oil,2023,12,50
+2023-12-15,1479.0,Adamawa,palm_oil,2023,12,50
+2023-12-15,1454.0,Far North,palm_oil,2023,12,50
+2023-12-15,1649.0,Centre,palm_oil,2023,12,50
+2023-12-15,1518.0,East,palm_oil,2023,12,50
+2023-12-15,1423.0,North,palm_oil,2023,12,50
+2023-12-15,1408.0,South,palm_oil,2023,12,50
+2023-12-15,1448.0,Littoral,palm_oil,2023,12,50

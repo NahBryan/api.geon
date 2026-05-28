@@ -1,0 +1,4161 @@
+date,price_xaf_per_kg,region,crop,year,month,week
+2016-01-01,214.0,North West,sorghum,2016,1,53
+2016-01-01,224.0,South West,sorghum,2016,1,53
+2016-01-01,238.0,West,sorghum,2016,1,53
+2016-01-01,247.0,Adamawa,sorghum,2016,1,53
+2016-01-01,223.0,Far North,sorghum,2016,1,53
+2016-01-01,263.0,Centre,sorghum,2016,1,53
+2016-01-01,251.0,East,sorghum,2016,1,53
+2016-01-01,255.0,North,sorghum,2016,1,53
+2016-01-01,224.0,South,sorghum,2016,1,53
+2016-01-01,227.0,Littoral,sorghum,2016,1,53
+2016-01-08,250.0,North West,sorghum,2016,1,1
+2016-01-08,244.0,South West,sorghum,2016,1,1
+2016-01-08,232.0,West,sorghum,2016,1,1
+2016-01-08,280.0,Adamawa,sorghum,2016,1,1
+2016-01-08,271.0,Far North,sorghum,2016,1,1
+2016-01-08,230.0,Centre,sorghum,2016,1,1
+2016-01-08,273.0,East,sorghum,2016,1,1
+2016-01-08,253.0,North,sorghum,2016,1,1
+2016-01-08,215.0,South,sorghum,2016,1,1
+2016-01-08,237.0,Littoral,sorghum,2016,1,1
+2016-01-15,249.0,North West,sorghum,2016,1,2
+2016-01-15,233.0,South West,sorghum,2016,1,2
+2016-01-15,250.0,West,sorghum,2016,1,2
+2016-01-15,244.0,Adamawa,sorghum,2016,1,2
+2016-01-15,251.0,Far North,sorghum,2016,1,2
+2016-01-15,235.0,Centre,sorghum,2016,1,2
+2016-01-15,265.0,East,sorghum,2016,1,2
+2016-01-15,226.0,North,sorghum,2016,1,2
+2016-01-15,250.0,South,sorghum,2016,1,2
+2016-01-15,284.0,Littoral,sorghum,2016,1,2
+2016-01-22,249.0,North West,sorghum,2016,1,3
+2016-01-22,250.0,South West,sorghum,2016,1,3
+2016-01-22,225.0,West,sorghum,2016,1,3
+2016-01-22,262.0,Adamawa,sorghum,2016,1,3
+2016-01-22,284.0,Far North,sorghum,2016,1,3
+2016-01-22,240.0,Centre,sorghum,2016,1,3
+2016-01-22,247.0,East,sorghum,2016,1,3
+2016-01-22,260.0,North,sorghum,2016,1,3
+2016-01-22,227.0,South,sorghum,2016,1,3
+2016-01-22,285.0,Littoral,sorghum,2016,1,3
+2016-01-29,244.0,North West,sorghum,2016,1,4
+2016-01-29,246.0,South West,sorghum,2016,1,4
+2016-01-29,244.0,West,sorghum,2016,1,4
+2016-01-29,268.0,Adamawa,sorghum,2016,1,4
+2016-01-29,244.0,Far North,sorghum,2016,1,4
+2016-01-29,243.0,Centre,sorghum,2016,1,4
+2016-01-29,243.0,East,sorghum,2016,1,4
+2016-01-29,274.0,North,sorghum,2016,1,4
+2016-01-29,242.0,South,sorghum,2016,1,4
+2016-01-29,222.0,Littoral,sorghum,2016,1,4
+2016-02-05,256.0,North West,sorghum,2016,2,5
+2016-02-05,249.0,South West,sorghum,2016,2,5
+2016-02-05,294.0,West,sorghum,2016,2,5
+2016-02-05,263.0,Adamawa,sorghum,2016,2,5
+2016-02-05,246.0,Far North,sorghum,2016,2,5
+2016-02-05,299.0,Centre,sorghum,2016,2,5
+2016-02-05,247.0,East,sorghum,2016,2,5
+2016-02-05,284.0,North,sorghum,2016,2,5
+2016-02-05,276.0,South,sorghum,2016,2,5
+2016-02-05,262.0,Littoral,sorghum,2016,2,5
+2016-02-12,279.0,North West,sorghum,2016,2,6
+2016-02-12,271.0,South West,sorghum,2016,2,6
+2016-02-12,270.0,West,sorghum,2016,2,6
+2016-02-12,264.0,Adamawa,sorghum,2016,2,6
+2016-02-12,274.0,Far North,sorghum,2016,2,6
+2016-02-12,252.0,Centre,sorghum,2016,2,6
+2016-02-12,248.0,East,sorghum,2016,2,6
+2016-02-12,284.0,North,sorghum,2016,2,6
+2016-02-12,277.0,South,sorghum,2016,2,6
+2016-02-12,256.0,Littoral,sorghum,2016,2,6
+2016-02-19,252.0,North West,sorghum,2016,2,7
+2016-02-19,255.0,South West,sorghum,2016,2,7
+2016-02-19,268.0,West,sorghum,2016,2,7
+2016-02-19,278.0,Adamawa,sorghum,2016,2,7
+2016-02-19,259.0,Far North,sorghum,2016,2,7
+2016-02-19,301.0,Centre,sorghum,2016,2,7
+2016-02-19,259.0,East,sorghum,2016,2,7
+2016-02-19,254.0,North,sorghum,2016,2,7
+2016-02-19,319.0,South,sorghum,2016,2,7
+2016-02-19,278.0,Littoral,sorghum,2016,2,7
+2016-02-26,299.0,North West,sorghum,2016,2,8
+2016-02-26,266.0,South West,sorghum,2016,2,8
+2016-02-26,291.0,West,sorghum,2016,2,8
+2016-02-26,285.0,Adamawa,sorghum,2016,2,8
+2016-02-26,290.0,Far North,sorghum,2016,2,8
+2016-02-26,263.0,Centre,sorghum,2016,2,8
+2016-02-26,306.0,East,sorghum,2016,2,8
+2016-02-26,279.0,North,sorghum,2016,2,8
+2016-02-26,243.0,South,sorghum,2016,2,8
+2016-02-26,243.0,Littoral,sorghum,2016,2,8
+2016-03-04,297.0,North West,sorghum,2016,3,9
+2016-03-04,305.0,South West,sorghum,2016,3,9
+2016-03-04,293.0,West,sorghum,2016,3,9
+2016-03-04,262.0,Adamawa,sorghum,2016,3,9
+2016-03-04,259.0,Far North,sorghum,2016,3,9
+2016-03-04,284.0,Centre,sorghum,2016,3,9
+2016-03-04,256.0,East,sorghum,2016,3,9
+2016-03-04,270.0,North,sorghum,2016,3,9
+2016-03-04,288.0,South,sorghum,2016,3,9
+2016-03-04,263.0,Littoral,sorghum,2016,3,9
+2016-03-11,266.0,North West,sorghum,2016,3,10
+2016-03-11,281.0,South West,sorghum,2016,3,10
+2016-03-11,289.0,West,sorghum,2016,3,10
+2016-03-11,280.0,Adamawa,sorghum,2016,3,10
+2016-03-11,235.0,Far North,sorghum,2016,3,10
+2016-03-11,297.0,Centre,sorghum,2016,3,10
+2016-03-11,274.0,East,sorghum,2016,3,10
+2016-03-11,299.0,North,sorghum,2016,3,10
+2016-03-11,302.0,South,sorghum,2016,3,10
+2016-03-11,266.0,Littoral,sorghum,2016,3,10
+2016-03-18,292.0,North West,sorghum,2016,3,11
+2016-03-18,253.0,South West,sorghum,2016,3,11
+2016-03-18,246.0,West,sorghum,2016,3,11
+2016-03-18,233.0,Adamawa,sorghum,2016,3,11
+2016-03-18,259.0,Far North,sorghum,2016,3,11
+2016-03-18,276.0,Centre,sorghum,2016,3,11
+2016-03-18,296.0,East,sorghum,2016,3,11
+2016-03-18,264.0,North,sorghum,2016,3,11
+2016-03-18,279.0,South,sorghum,2016,3,11
+2016-03-18,290.0,Littoral,sorghum,2016,3,11
+2016-03-25,283.0,North West,sorghum,2016,3,12
+2016-03-25,264.0,South West,sorghum,2016,3,12
+2016-03-25,277.0,West,sorghum,2016,3,12
+2016-03-25,270.0,Adamawa,sorghum,2016,3,12
+2016-03-25,229.0,Far North,sorghum,2016,3,12
+2016-03-25,236.0,Centre,sorghum,2016,3,12
+2016-03-25,244.0,East,sorghum,2016,3,12
+2016-03-25,244.0,North,sorghum,2016,3,12
+2016-03-25,282.0,South,sorghum,2016,3,12
+2016-03-25,266.0,Littoral,sorghum,2016,3,12
+2016-04-01,231.0,North West,sorghum,2016,4,13
+2016-04-01,252.0,South West,sorghum,2016,4,13
+2016-04-01,264.0,West,sorghum,2016,4,13
+2016-04-01,243.0,Adamawa,sorghum,2016,4,13
+2016-04-01,228.0,Far North,sorghum,2016,4,13
+2016-04-01,251.0,Centre,sorghum,2016,4,13
+2016-04-01,257.0,East,sorghum,2016,4,13
+2016-04-01,288.0,North,sorghum,2016,4,13
+2016-04-01,288.0,South,sorghum,2016,4,13
+2016-04-01,260.0,Littoral,sorghum,2016,4,13
+2016-04-08,257.0,North West,sorghum,2016,4,14
+2016-04-08,259.0,South West,sorghum,2016,4,14
+2016-04-08,238.0,West,sorghum,2016,4,14
+2016-04-08,244.0,Adamawa,sorghum,2016,4,14
+2016-04-08,251.0,Far North,sorghum,2016,4,14
+2016-04-08,285.0,Centre,sorghum,2016,4,14
+2016-04-08,253.0,East,sorghum,2016,4,14
+2016-04-08,247.0,North,sorghum,2016,4,14
+2016-04-08,283.0,South,sorghum,2016,4,14
+2016-04-08,286.0,Littoral,sorghum,2016,4,14
+2016-04-15,235.0,North West,sorghum,2016,4,15
+2016-04-15,286.0,South West,sorghum,2016,4,15
+2016-04-15,274.0,West,sorghum,2016,4,15
+2016-04-15,259.0,Adamawa,sorghum,2016,4,15
+2016-04-15,301.0,Far North,sorghum,2016,4,15
+2016-04-15,232.0,Centre,sorghum,2016,4,15
+2016-04-15,270.0,East,sorghum,2016,4,15
+2016-04-15,242.0,North,sorghum,2016,4,15
+2016-04-15,254.0,South,sorghum,2016,4,15
+2016-04-15,240.0,Littoral,sorghum,2016,4,15
+2016-04-22,290.0,North West,sorghum,2016,4,16
+2016-04-22,268.0,South West,sorghum,2016,4,16
+2016-04-22,286.0,West,sorghum,2016,4,16
+2016-04-22,239.0,Adamawa,sorghum,2016,4,16
+2016-04-22,245.0,Far North,sorghum,2016,4,16
+2016-04-22,248.0,Centre,sorghum,2016,4,16
+2016-04-22,280.0,East,sorghum,2016,4,16
+2016-04-22,237.0,North,sorghum,2016,4,16
+2016-04-22,288.0,South,sorghum,2016,4,16
+2016-04-22,226.0,Littoral,sorghum,2016,4,16
+2016-04-29,297.0,North West,sorghum,2016,4,17
+2016-04-29,266.0,South West,sorghum,2016,4,17
+2016-04-29,271.0,West,sorghum,2016,4,17
+2016-04-29,305.0,Adamawa,sorghum,2016,4,17
+2016-04-29,295.0,Far North,sorghum,2016,4,17
+2016-04-29,298.0,Centre,sorghum,2016,4,17
+2016-04-29,275.0,East,sorghum,2016,4,17
+2016-04-29,302.0,North,sorghum,2016,4,17
+2016-04-29,282.0,South,sorghum,2016,4,17
+2016-04-29,292.0,Littoral,sorghum,2016,4,17
+2016-05-06,271.0,North West,sorghum,2016,5,18
+2016-05-06,277.0,South West,sorghum,2016,5,18
+2016-05-06,257.0,West,sorghum,2016,5,18
+2016-05-06,276.0,Adamawa,sorghum,2016,5,18
+2016-05-06,246.0,Far North,sorghum,2016,5,18
+2016-05-06,271.0,Centre,sorghum,2016,5,18
+2016-05-06,263.0,East,sorghum,2016,5,18
+2016-05-06,289.0,North,sorghum,2016,5,18
+2016-05-06,273.0,South,sorghum,2016,5,18
+2016-05-06,268.0,Littoral,sorghum,2016,5,18
+2016-05-13,242.0,North West,sorghum,2016,5,19
+2016-05-13,279.0,South West,sorghum,2016,5,19
+2016-05-13,224.0,West,sorghum,2016,5,19
+2016-05-13,282.0,Adamawa,sorghum,2016,5,19
+2016-05-13,265.0,Far North,sorghum,2016,5,19
+2016-05-13,233.0,Centre,sorghum,2016,5,19
+2016-05-13,282.0,East,sorghum,2016,5,19
+2016-05-13,243.0,North,sorghum,2016,5,19
+2016-05-13,232.0,South,sorghum,2016,5,19
+2016-05-13,242.0,Littoral,sorghum,2016,5,19
+2016-05-20,217.0,North West,sorghum,2016,5,20
+2016-05-20,248.0,South West,sorghum,2016,5,20
+2016-05-20,243.0,West,sorghum,2016,5,20
+2016-05-20,258.0,Adamawa,sorghum,2016,5,20
+2016-05-20,247.0,Far North,sorghum,2016,5,20
+2016-05-20,237.0,Centre,sorghum,2016,5,20
+2016-05-20,212.0,East,sorghum,2016,5,20
+2016-05-20,242.0,North,sorghum,2016,5,20
+2016-05-20,219.0,South,sorghum,2016,5,20
+2016-05-20,271.0,Littoral,sorghum,2016,5,20
+2016-05-27,268.0,North West,sorghum,2016,5,21
+2016-05-27,261.0,South West,sorghum,2016,5,21
+2016-05-27,219.0,West,sorghum,2016,5,21
+2016-05-27,219.0,Adamawa,sorghum,2016,5,21
+2016-05-27,245.0,Far North,sorghum,2016,5,21
+2016-05-27,256.0,Centre,sorghum,2016,5,21
+2016-05-27,267.0,East,sorghum,2016,5,21
+2016-05-27,267.0,North,sorghum,2016,5,21
+2016-05-27,219.0,South,sorghum,2016,5,21
+2016-05-27,273.0,Littoral,sorghum,2016,5,21
+2016-06-03,233.0,North West,sorghum,2016,6,22
+2016-06-03,238.0,South West,sorghum,2016,6,22
+2016-06-03,234.0,West,sorghum,2016,6,22
+2016-06-03,250.0,Adamawa,sorghum,2016,6,22
+2016-06-03,236.0,Far North,sorghum,2016,6,22
+2016-06-03,249.0,Centre,sorghum,2016,6,22
+2016-06-03,207.0,East,sorghum,2016,6,22
+2016-06-03,250.0,North,sorghum,2016,6,22
+2016-06-03,257.0,South,sorghum,2016,6,22
+2016-06-03,237.0,Littoral,sorghum,2016,6,22
+2016-06-10,243.0,North West,sorghum,2016,6,23
+2016-06-10,199.0,South West,sorghum,2016,6,23
+2016-06-10,234.0,West,sorghum,2016,6,23
+2016-06-10,196.0,Adamawa,sorghum,2016,6,23
+2016-06-10,216.0,Far North,sorghum,2016,6,23
+2016-06-10,225.0,Centre,sorghum,2016,6,23
+2016-06-10,224.0,East,sorghum,2016,6,23
+2016-06-10,225.0,North,sorghum,2016,6,23
+2016-06-10,205.0,South,sorghum,2016,6,23
+2016-06-10,242.0,Littoral,sorghum,2016,6,23
+2016-06-17,209.0,North West,sorghum,2016,6,24
+2016-06-17,208.0,South West,sorghum,2016,6,24
+2016-06-17,207.0,West,sorghum,2016,6,24
+2016-06-17,222.0,Adamawa,sorghum,2016,6,24
+2016-06-17,224.0,Far North,sorghum,2016,6,24
+2016-06-17,212.0,Centre,sorghum,2016,6,24
+2016-06-17,224.0,East,sorghum,2016,6,24
+2016-06-17,213.0,North,sorghum,2016,6,24
+2016-06-17,188.0,South,sorghum,2016,6,24
+2016-06-17,231.0,Littoral,sorghum,2016,6,24
+2016-06-24,235.0,North West,sorghum,2016,6,25
+2016-06-24,200.0,South West,sorghum,2016,6,25
+2016-06-24,230.0,West,sorghum,2016,6,25
+2016-06-24,214.0,Adamawa,sorghum,2016,6,25
+2016-06-24,192.0,Far North,sorghum,2016,6,25
+2016-06-24,208.0,Centre,sorghum,2016,6,25
+2016-06-24,189.0,East,sorghum,2016,6,25
+2016-06-24,230.0,North,sorghum,2016,6,25
+2016-06-24,196.0,South,sorghum,2016,6,25
+2016-06-24,194.0,Littoral,sorghum,2016,6,25
+2016-07-01,206.0,North West,sorghum,2016,7,26
+2016-07-01,204.0,South West,sorghum,2016,7,26
+2016-07-01,177.0,West,sorghum,2016,7,26
+2016-07-01,208.0,Adamawa,sorghum,2016,7,26
+2016-07-01,189.0,Far North,sorghum,2016,7,26
+2016-07-01,194.0,Centre,sorghum,2016,7,26
+2016-07-01,177.0,East,sorghum,2016,7,26
+2016-07-01,207.0,North,sorghum,2016,7,26
+2016-07-01,190.0,South,sorghum,2016,7,26
+2016-07-01,203.0,Littoral,sorghum,2016,7,26
+2016-07-08,181.0,North West,sorghum,2016,7,27
+2016-07-08,162.0,South West,sorghum,2016,7,27
+2016-07-08,194.0,West,sorghum,2016,7,27
+2016-07-08,187.0,Adamawa,sorghum,2016,7,27
+2016-07-08,181.0,Far North,sorghum,2016,7,27
+2016-07-08,170.0,Centre,sorghum,2016,7,27
+2016-07-08,191.0,East,sorghum,2016,7,27
+2016-07-08,173.0,North,sorghum,2016,7,27
+2016-07-08,181.0,South,sorghum,2016,7,27
+2016-07-08,163.0,Littoral,sorghum,2016,7,27
+2016-07-15,197.0,North West,sorghum,2016,7,28
+2016-07-15,196.0,South West,sorghum,2016,7,28
+2016-07-15,201.0,West,sorghum,2016,7,28
+2016-07-15,198.0,Adamawa,sorghum,2016,7,28
+2016-07-15,201.0,Far North,sorghum,2016,7,28
+2016-07-15,197.0,Centre,sorghum,2016,7,28
+2016-07-15,160.0,East,sorghum,2016,7,28
+2016-07-15,175.0,North,sorghum,2016,7,28
+2016-07-15,158.0,South,sorghum,2016,7,28
+2016-07-15,180.0,Littoral,sorghum,2016,7,28
+2016-07-22,177.0,North West,sorghum,2016,7,29
+2016-07-22,195.0,South West,sorghum,2016,7,29
+2016-07-22,197.0,West,sorghum,2016,7,29
+2016-07-22,164.0,Adamawa,sorghum,2016,7,29
+2016-07-22,179.0,Far North,sorghum,2016,7,29
+2016-07-22,174.0,Centre,sorghum,2016,7,29
+2016-07-22,178.0,East,sorghum,2016,7,29
+2016-07-22,177.0,North,sorghum,2016,7,29
+2016-07-22,195.0,South,sorghum,2016,7,29
+2016-07-22,194.0,Littoral,sorghum,2016,7,29
+2016-07-29,183.0,North West,sorghum,2016,7,30
+2016-07-29,180.0,South West,sorghum,2016,7,30
+2016-07-29,177.0,West,sorghum,2016,7,30
+2016-07-29,194.0,Adamawa,sorghum,2016,7,30
+2016-07-29,164.0,Far North,sorghum,2016,7,30
+2016-07-29,172.0,Centre,sorghum,2016,7,30
+2016-07-29,193.0,East,sorghum,2016,7,30
+2016-07-29,180.0,North,sorghum,2016,7,30
+2016-07-29,178.0,South,sorghum,2016,7,30
+2016-07-29,155.0,Littoral,sorghum,2016,7,30
+2016-08-05,153.0,North West,sorghum,2016,8,31
+2016-08-05,158.0,South West,sorghum,2016,8,31
+2016-08-05,162.0,West,sorghum,2016,8,31
+2016-08-05,163.0,Adamawa,sorghum,2016,8,31
+2016-08-05,181.0,Far North,sorghum,2016,8,31
+2016-08-05,147.0,Centre,sorghum,2016,8,31
+2016-08-05,153.0,East,sorghum,2016,8,31
+2016-08-05,148.0,North,sorghum,2016,8,31
+2016-08-05,174.0,South,sorghum,2016,8,31
+2016-08-05,184.0,Littoral,sorghum,2016,8,31
+2016-08-12,142.0,North West,sorghum,2016,8,32
+2016-08-12,157.0,South West,sorghum,2016,8,32
+2016-08-12,179.0,West,sorghum,2016,8,32
+2016-08-12,170.0,Adamawa,sorghum,2016,8,32
+2016-08-12,151.0,Far North,sorghum,2016,8,32
+2016-08-12,162.0,Centre,sorghum,2016,8,32
+2016-08-12,145.0,East,sorghum,2016,8,32
+2016-08-12,164.0,North,sorghum,2016,8,32
+2016-08-12,181.0,South,sorghum,2016,8,32
+2016-08-12,143.0,Littoral,sorghum,2016,8,32
+2016-08-19,169.0,North West,sorghum,2016,8,33
+2016-08-19,152.0,South West,sorghum,2016,8,33
+2016-08-19,185.0,West,sorghum,2016,8,33
+2016-08-19,145.0,Adamawa,sorghum,2016,8,33
+2016-08-19,169.0,Far North,sorghum,2016,8,33
+2016-08-19,153.0,Centre,sorghum,2016,8,33
+2016-08-19,181.0,East,sorghum,2016,8,33
+2016-08-19,147.0,North,sorghum,2016,8,33
+2016-08-19,161.0,South,sorghum,2016,8,33
+2016-08-19,150.0,Littoral,sorghum,2016,8,33
+2016-08-26,146.0,North West,sorghum,2016,8,34
+2016-08-26,169.0,South West,sorghum,2016,8,34
+2016-08-26,173.0,West,sorghum,2016,8,34
+2016-08-26,158.0,Adamawa,sorghum,2016,8,34
+2016-08-26,155.0,Far North,sorghum,2016,8,34
+2016-08-26,165.0,Centre,sorghum,2016,8,34
+2016-08-26,166.0,East,sorghum,2016,8,34
+2016-08-26,166.0,North,sorghum,2016,8,34
+2016-08-26,150.0,South,sorghum,2016,8,34
+2016-08-26,178.0,Littoral,sorghum,2016,8,34
+2016-09-02,154.0,North West,sorghum,2016,9,35
+2016-09-02,161.0,South West,sorghum,2016,9,35
+2016-09-02,157.0,West,sorghum,2016,9,35
+2016-09-02,186.0,Adamawa,sorghum,2016,9,35
+2016-09-02,182.0,Far North,sorghum,2016,9,35
+2016-09-02,181.0,Centre,sorghum,2016,9,35
+2016-09-02,145.0,East,sorghum,2016,9,35
+2016-09-02,175.0,North,sorghum,2016,9,35
+2016-09-02,155.0,South,sorghum,2016,9,35
+2016-09-02,188.0,Littoral,sorghum,2016,9,35
+2016-09-09,172.0,North West,sorghum,2016,9,36
+2016-09-09,180.0,South West,sorghum,2016,9,36
+2016-09-09,190.0,West,sorghum,2016,9,36
+2016-09-09,181.0,Adamawa,sorghum,2016,9,36
+2016-09-09,185.0,Far North,sorghum,2016,9,36
+2016-09-09,177.0,Centre,sorghum,2016,9,36
+2016-09-09,189.0,East,sorghum,2016,9,36
+2016-09-09,197.0,North,sorghum,2016,9,36
+2016-09-09,157.0,South,sorghum,2016,9,36
+2016-09-09,160.0,Littoral,sorghum,2016,9,36
+2016-09-16,189.0,North West,sorghum,2016,9,37
+2016-09-16,174.0,South West,sorghum,2016,9,37
+2016-09-16,170.0,West,sorghum,2016,9,37
+2016-09-16,165.0,Adamawa,sorghum,2016,9,37
+2016-09-16,184.0,Far North,sorghum,2016,9,37
+2016-09-16,173.0,Centre,sorghum,2016,9,37
+2016-09-16,181.0,East,sorghum,2016,9,37
+2016-09-16,202.0,North,sorghum,2016,9,37
+2016-09-16,193.0,South,sorghum,2016,9,37
+2016-09-16,195.0,Littoral,sorghum,2016,9,37
+2016-09-23,156.0,North West,sorghum,2016,9,38
+2016-09-23,196.0,South West,sorghum,2016,9,38
+2016-09-23,183.0,West,sorghum,2016,9,38
+2016-09-23,152.0,Adamawa,sorghum,2016,9,38
+2016-09-23,174.0,Far North,sorghum,2016,9,38
+2016-09-23,164.0,Centre,sorghum,2016,9,38
+2016-09-23,177.0,East,sorghum,2016,9,38
+2016-09-23,160.0,North,sorghum,2016,9,38
+2016-09-23,154.0,South,sorghum,2016,9,38
+2016-09-23,167.0,Littoral,sorghum,2016,9,38
+2016-09-30,160.0,North West,sorghum,2016,9,39
+2016-09-30,179.0,South West,sorghum,2016,9,39
+2016-09-30,168.0,West,sorghum,2016,9,39
+2016-09-30,160.0,Adamawa,sorghum,2016,9,39
+2016-09-30,172.0,Far North,sorghum,2016,9,39
+2016-09-30,150.0,Centre,sorghum,2016,9,39
+2016-09-30,176.0,East,sorghum,2016,9,39
+2016-09-30,153.0,North,sorghum,2016,9,39
+2016-09-30,159.0,South,sorghum,2016,9,39
+2016-09-30,159.0,Littoral,sorghum,2016,9,39
+2016-10-07,171.0,North West,sorghum,2016,10,40
+2016-10-07,169.0,South West,sorghum,2016,10,40
+2016-10-07,163.0,West,sorghum,2016,10,40
+2016-10-07,174.0,Adamawa,sorghum,2016,10,40
+2016-10-07,164.0,Far North,sorghum,2016,10,40
+2016-10-07,162.0,Centre,sorghum,2016,10,40
+2016-10-07,196.0,East,sorghum,2016,10,40
+2016-10-07,158.0,North,sorghum,2016,10,40
+2016-10-07,189.0,South,sorghum,2016,10,40
+2016-10-07,165.0,Littoral,sorghum,2016,10,40
+2016-10-14,159.0,North West,sorghum,2016,10,41
+2016-10-14,197.0,South West,sorghum,2016,10,41
+2016-10-14,193.0,West,sorghum,2016,10,41
+2016-10-14,175.0,Adamawa,sorghum,2016,10,41
+2016-10-14,162.0,Far North,sorghum,2016,10,41
+2016-10-14,176.0,Centre,sorghum,2016,10,41
+2016-10-14,167.0,East,sorghum,2016,10,41
+2016-10-14,204.0,North,sorghum,2016,10,41
+2016-10-14,184.0,South,sorghum,2016,10,41
+2016-10-14,205.0,Littoral,sorghum,2016,10,41
+2016-10-21,174.0,North West,sorghum,2016,10,42
+2016-10-21,205.0,South West,sorghum,2016,10,42
+2016-10-21,166.0,West,sorghum,2016,10,42
+2016-10-21,199.0,Adamawa,sorghum,2016,10,42
+2016-10-21,184.0,Far North,sorghum,2016,10,42
+2016-10-21,193.0,Centre,sorghum,2016,10,42
+2016-10-21,194.0,East,sorghum,2016,10,42
+2016-10-21,200.0,North,sorghum,2016,10,42
+2016-10-21,175.0,South,sorghum,2016,10,42
+2016-10-21,191.0,Littoral,sorghum,2016,10,42
+2016-10-28,176.0,North West,sorghum,2016,10,43
+2016-10-28,169.0,South West,sorghum,2016,10,43
+2016-10-28,180.0,West,sorghum,2016,10,43
+2016-10-28,202.0,Adamawa,sorghum,2016,10,43
+2016-10-28,201.0,Far North,sorghum,2016,10,43
+2016-10-28,169.0,Centre,sorghum,2016,10,43
+2016-10-28,198.0,East,sorghum,2016,10,43
+2016-10-28,198.0,North,sorghum,2016,10,43
+2016-10-28,168.0,South,sorghum,2016,10,43
+2016-10-28,185.0,Littoral,sorghum,2016,10,43
+2016-11-04,187.0,North West,sorghum,2016,11,44
+2016-11-04,202.0,South West,sorghum,2016,11,44
+2016-11-04,177.0,West,sorghum,2016,11,44
+2016-11-04,177.0,Adamawa,sorghum,2016,11,44
+2016-11-04,211.0,Far North,sorghum,2016,11,44
+2016-11-04,170.0,Centre,sorghum,2016,11,44
+2016-11-04,210.0,East,sorghum,2016,11,44
+2016-11-04,183.0,North,sorghum,2016,11,44
+2016-11-04,193.0,South,sorghum,2016,11,44
+2016-11-04,196.0,Littoral,sorghum,2016,11,44
+2016-11-11,225.0,North West,sorghum,2016,11,45
+2016-11-11,232.0,South West,sorghum,2016,11,45
+2016-11-11,227.0,West,sorghum,2016,11,45
+2016-11-11,214.0,Adamawa,sorghum,2016,11,45
+2016-11-11,202.0,Far North,sorghum,2016,11,45
+2016-11-11,212.0,Centre,sorghum,2016,11,45
+2016-11-11,184.0,East,sorghum,2016,11,45
+2016-11-11,196.0,North,sorghum,2016,11,45
+2016-11-11,203.0,South,sorghum,2016,11,45
+2016-11-11,200.0,Littoral,sorghum,2016,11,45
+2016-11-18,199.0,North West,sorghum,2016,11,46
+2016-11-18,209.0,South West,sorghum,2016,11,46
+2016-11-18,194.0,West,sorghum,2016,11,46
+2016-11-18,187.0,Adamawa,sorghum,2016,11,46
+2016-11-18,207.0,Far North,sorghum,2016,11,46
+2016-11-18,208.0,Centre,sorghum,2016,11,46
+2016-11-18,234.0,East,sorghum,2016,11,46
+2016-11-18,190.0,North,sorghum,2016,11,46
+2016-11-18,217.0,South,sorghum,2016,11,46
+2016-11-18,200.0,Littoral,sorghum,2016,11,46
+2016-11-25,193.0,North West,sorghum,2016,11,47
+2016-11-25,208.0,South West,sorghum,2016,11,47
+2016-11-25,210.0,West,sorghum,2016,11,47
+2016-11-25,207.0,Adamawa,sorghum,2016,11,47
+2016-11-25,230.0,Far North,sorghum,2016,11,47
+2016-11-25,234.0,Centre,sorghum,2016,11,47
+2016-11-25,194.0,East,sorghum,2016,11,47
+2016-11-25,195.0,North,sorghum,2016,11,47
+2016-11-25,210.0,South,sorghum,2016,11,47
+2016-11-25,204.0,Littoral,sorghum,2016,11,47
+2016-12-02,239.0,North West,sorghum,2016,12,48
+2016-12-02,241.0,South West,sorghum,2016,12,48
+2016-12-02,218.0,West,sorghum,2016,12,48
+2016-12-02,207.0,Adamawa,sorghum,2016,12,48
+2016-12-02,235.0,Far North,sorghum,2016,12,48
+2016-12-02,239.0,Centre,sorghum,2016,12,48
+2016-12-02,261.0,East,sorghum,2016,12,48
+2016-12-02,243.0,North,sorghum,2016,12,48
+2016-12-02,229.0,South,sorghum,2016,12,48
+2016-12-02,263.0,Littoral,sorghum,2016,12,48
+2016-12-09,228.0,North West,sorghum,2016,12,49
+2016-12-09,215.0,South West,sorghum,2016,12,49
+2016-12-09,243.0,West,sorghum,2016,12,49
+2016-12-09,221.0,Adamawa,sorghum,2016,12,49
+2016-12-09,262.0,Far North,sorghum,2016,12,49
+2016-12-09,231.0,Centre,sorghum,2016,12,49
+2016-12-09,214.0,East,sorghum,2016,12,49
+2016-12-09,213.0,North,sorghum,2016,12,49
+2016-12-09,245.0,South,sorghum,2016,12,49
+2016-12-09,227.0,Littoral,sorghum,2016,12,49
+2016-12-16,234.0,North West,sorghum,2016,12,50
+2016-12-16,229.0,South West,sorghum,2016,12,50
+2016-12-16,263.0,West,sorghum,2016,12,50
+2016-12-16,219.0,Adamawa,sorghum,2016,12,50
+2016-12-16,280.0,Far North,sorghum,2016,12,50
+2016-12-16,231.0,Centre,sorghum,2016,12,50
+2016-12-16,249.0,East,sorghum,2016,12,50
+2016-12-16,233.0,North,sorghum,2016,12,50
+2016-12-16,233.0,South,sorghum,2016,12,50
+2016-12-16,275.0,Littoral,sorghum,2016,12,50
+2016-12-23,249.0,North West,sorghum,2016,12,51
+2016-12-23,232.0,South West,sorghum,2016,12,51
+2016-12-23,228.0,West,sorghum,2016,12,51
+2016-12-23,225.0,Adamawa,sorghum,2016,12,51
+2016-12-23,247.0,Far North,sorghum,2016,12,51
+2016-12-23,259.0,Centre,sorghum,2016,12,51
+2016-12-23,228.0,East,sorghum,2016,12,51
+2016-12-23,233.0,North,sorghum,2016,12,51
+2016-12-23,258.0,South,sorghum,2016,12,51
+2016-12-23,259.0,Littoral,sorghum,2016,12,51
+2016-12-30,269.0,North West,sorghum,2016,12,52
+2016-12-30,261.0,South West,sorghum,2016,12,52
+2016-12-30,223.0,West,sorghum,2016,12,52
+2016-12-30,238.0,Adamawa,sorghum,2016,12,52
+2016-12-30,276.0,Far North,sorghum,2016,12,52
+2016-12-30,247.0,Centre,sorghum,2016,12,52
+2016-12-30,260.0,East,sorghum,2016,12,52
+2016-12-30,219.0,North,sorghum,2016,12,52
+2016-12-30,267.0,South,sorghum,2016,12,52
+2016-12-30,252.0,Littoral,sorghum,2016,12,52
+2017-01-06,226.0,North West,sorghum,2017,1,1
+2017-01-06,240.0,South West,sorghum,2017,1,1
+2017-01-06,220.0,West,sorghum,2017,1,1
+2017-01-06,266.0,Adamawa,sorghum,2017,1,1
+2017-01-06,264.0,Far North,sorghum,2017,1,1
+2017-01-06,247.0,Centre,sorghum,2017,1,1
+2017-01-06,244.0,East,sorghum,2017,1,1
+2017-01-06,245.0,North,sorghum,2017,1,1
+2017-01-06,217.0,South,sorghum,2017,1,1
+2017-01-06,239.0,Littoral,sorghum,2017,1,1
+2017-01-13,289.0,North West,sorghum,2017,1,2
+2017-01-13,241.0,South West,sorghum,2017,1,2
+2017-01-13,256.0,West,sorghum,2017,1,2
+2017-01-13,284.0,Adamawa,sorghum,2017,1,2
+2017-01-13,252.0,Far North,sorghum,2017,1,2
+2017-01-13,259.0,Centre,sorghum,2017,1,2
+2017-01-13,235.0,East,sorghum,2017,1,2
+2017-01-13,243.0,North,sorghum,2017,1,2
+2017-01-13,258.0,South,sorghum,2017,1,2
+2017-01-13,248.0,Littoral,sorghum,2017,1,2
+2017-01-20,232.0,North West,sorghum,2017,1,3
+2017-01-20,257.0,South West,sorghum,2017,1,3
+2017-01-20,286.0,West,sorghum,2017,1,3
+2017-01-20,237.0,Adamawa,sorghum,2017,1,3
+2017-01-20,230.0,Far North,sorghum,2017,1,3
+2017-01-20,237.0,Centre,sorghum,2017,1,3
+2017-01-20,277.0,East,sorghum,2017,1,3
+2017-01-20,285.0,North,sorghum,2017,1,3
+2017-01-20,232.0,South,sorghum,2017,1,3
+2017-01-20,291.0,Littoral,sorghum,2017,1,3
+2017-01-27,255.0,North West,sorghum,2017,1,4
+2017-01-27,264.0,South West,sorghum,2017,1,4
+2017-01-27,306.0,West,sorghum,2017,1,4
+2017-01-27,303.0,Adamawa,sorghum,2017,1,4
+2017-01-27,282.0,Far North,sorghum,2017,1,4
+2017-01-27,279.0,Centre,sorghum,2017,1,4
+2017-01-27,252.0,East,sorghum,2017,1,4
+2017-01-27,306.0,North,sorghum,2017,1,4
+2017-01-27,292.0,South,sorghum,2017,1,4
+2017-01-27,265.0,Littoral,sorghum,2017,1,4
+2017-02-03,323.0,North West,sorghum,2017,2,5
+2017-02-03,275.0,South West,sorghum,2017,2,5
+2017-02-03,275.0,West,sorghum,2017,2,5
+2017-02-03,321.0,Adamawa,sorghum,2017,2,5
+2017-02-03,303.0,Far North,sorghum,2017,2,5
+2017-02-03,303.0,Centre,sorghum,2017,2,5
+2017-02-03,304.0,East,sorghum,2017,2,5
+2017-02-03,268.0,North,sorghum,2017,2,5
+2017-02-03,286.0,South,sorghum,2017,2,5
+2017-02-03,304.0,Littoral,sorghum,2017,2,5
+2017-02-10,302.0,North West,sorghum,2017,2,6
+2017-02-10,332.0,South West,sorghum,2017,2,6
+2017-02-10,277.0,West,sorghum,2017,2,6
+2017-02-10,293.0,Adamawa,sorghum,2017,2,6
+2017-02-10,336.0,Far North,sorghum,2017,2,6
+2017-02-10,273.0,Centre,sorghum,2017,2,6
+2017-02-10,320.0,East,sorghum,2017,2,6
+2017-02-10,272.0,North,sorghum,2017,2,6
+2017-02-10,325.0,South,sorghum,2017,2,6
+2017-02-10,296.0,Littoral,sorghum,2017,2,6
+2017-02-17,319.0,North West,sorghum,2017,2,7
+2017-02-17,259.0,South West,sorghum,2017,2,7
+2017-02-17,298.0,West,sorghum,2017,2,7
+2017-02-17,298.0,Adamawa,sorghum,2017,2,7
+2017-02-17,300.0,Far North,sorghum,2017,2,7
+2017-02-17,253.0,Centre,sorghum,2017,2,7
+2017-02-17,268.0,East,sorghum,2017,2,7
+2017-02-17,271.0,North,sorghum,2017,2,7
+2017-02-17,270.0,South,sorghum,2017,2,7
+2017-02-17,297.0,Littoral,sorghum,2017,2,7
+2017-02-24,257.0,North West,sorghum,2017,2,8
+2017-02-24,247.0,South West,sorghum,2017,2,8
+2017-02-24,274.0,West,sorghum,2017,2,8
+2017-02-24,284.0,Adamawa,sorghum,2017,2,8
+2017-02-24,283.0,Far North,sorghum,2017,2,8
+2017-02-24,311.0,Centre,sorghum,2017,2,8
+2017-02-24,262.0,East,sorghum,2017,2,8
+2017-02-24,296.0,North,sorghum,2017,2,8
+2017-02-24,293.0,South,sorghum,2017,2,8
+2017-02-24,244.0,Littoral,sorghum,2017,2,8
+2017-03-03,313.0,North West,sorghum,2017,3,9
+2017-03-03,313.0,South West,sorghum,2017,3,9
+2017-03-03,273.0,West,sorghum,2017,3,9
+2017-03-03,274.0,Adamawa,sorghum,2017,3,9
+2017-03-03,304.0,Far North,sorghum,2017,3,9
+2017-03-03,280.0,Centre,sorghum,2017,3,9
+2017-03-03,303.0,East,sorghum,2017,3,9
+2017-03-03,246.0,North,sorghum,2017,3,9
+2017-03-03,262.0,South,sorghum,2017,3,9
+2017-03-03,250.0,Littoral,sorghum,2017,3,9
+2017-03-10,297.0,North West,sorghum,2017,3,10
+2017-03-10,293.0,South West,sorghum,2017,3,10
+2017-03-10,281.0,West,sorghum,2017,3,10
+2017-03-10,257.0,Adamawa,sorghum,2017,3,10
+2017-03-10,312.0,Far North,sorghum,2017,3,10
+2017-03-10,297.0,Centre,sorghum,2017,3,10
+2017-03-10,324.0,East,sorghum,2017,3,10
+2017-03-10,286.0,North,sorghum,2017,3,10
+2017-03-10,283.0,South,sorghum,2017,3,10
+2017-03-10,328.0,Littoral,sorghum,2017,3,10
+2017-03-17,261.0,North West,sorghum,2017,3,11
+2017-03-17,270.0,South West,sorghum,2017,3,11
+2017-03-17,288.0,West,sorghum,2017,3,11
+2017-03-17,290.0,Adamawa,sorghum,2017,3,11
+2017-03-17,292.0,Far North,sorghum,2017,3,11
+2017-03-17,266.0,Centre,sorghum,2017,3,11
+2017-03-17,321.0,East,sorghum,2017,3,11
+2017-03-17,304.0,North,sorghum,2017,3,11
+2017-03-17,270.0,South,sorghum,2017,3,11
+2017-03-17,273.0,Littoral,sorghum,2017,3,11
+2017-03-24,290.0,North West,sorghum,2017,3,12
+2017-03-24,257.0,South West,sorghum,2017,3,12
+2017-03-24,267.0,West,sorghum,2017,3,12
+2017-03-24,279.0,Adamawa,sorghum,2017,3,12
+2017-03-24,298.0,Far North,sorghum,2017,3,12
+2017-03-24,269.0,Centre,sorghum,2017,3,12
+2017-03-24,320.0,East,sorghum,2017,3,12
+2017-03-24,264.0,North,sorghum,2017,3,12
+2017-03-24,307.0,South,sorghum,2017,3,12
+2017-03-24,275.0,Littoral,sorghum,2017,3,12
+2017-03-31,319.0,North West,sorghum,2017,3,13
+2017-03-31,326.0,South West,sorghum,2017,3,13
+2017-03-31,269.0,West,sorghum,2017,3,13
+2017-03-31,292.0,Adamawa,sorghum,2017,3,13
+2017-03-31,266.0,Far North,sorghum,2017,3,13
+2017-03-31,309.0,Centre,sorghum,2017,3,13
+2017-03-31,319.0,East,sorghum,2017,3,13
+2017-03-31,284.0,North,sorghum,2017,3,13
+2017-03-31,285.0,South,sorghum,2017,3,13
+2017-03-31,270.0,Littoral,sorghum,2017,3,13
+2017-04-07,251.0,North West,sorghum,2017,4,14
+2017-04-07,262.0,South West,sorghum,2017,4,14
+2017-04-07,306.0,West,sorghum,2017,4,14
+2017-04-07,263.0,Adamawa,sorghum,2017,4,14
+2017-04-07,259.0,Far North,sorghum,2017,4,14
+2017-04-07,267.0,Centre,sorghum,2017,4,14
+2017-04-07,310.0,East,sorghum,2017,4,14
+2017-04-07,295.0,North,sorghum,2017,4,14
+2017-04-07,254.0,South,sorghum,2017,4,14
+2017-04-07,295.0,Littoral,sorghum,2017,4,14
+2017-04-14,282.0,North West,sorghum,2017,4,15
+2017-04-14,295.0,South West,sorghum,2017,4,15
+2017-04-14,291.0,West,sorghum,2017,4,15
+2017-04-14,235.0,Adamawa,sorghum,2017,4,15
+2017-04-14,260.0,Far North,sorghum,2017,4,15
+2017-04-14,278.0,Centre,sorghum,2017,4,15
+2017-04-14,296.0,East,sorghum,2017,4,15
+2017-04-14,234.0,North,sorghum,2017,4,15
+2017-04-14,254.0,South,sorghum,2017,4,15
+2017-04-14,263.0,Littoral,sorghum,2017,4,15
+2017-04-21,246.0,North West,sorghum,2017,4,16
+2017-04-21,287.0,South West,sorghum,2017,4,16
+2017-04-21,275.0,West,sorghum,2017,4,16
+2017-04-21,271.0,Adamawa,sorghum,2017,4,16
+2017-04-21,249.0,Far North,sorghum,2017,4,16
+2017-04-21,280.0,Centre,sorghum,2017,4,16
+2017-04-21,227.0,East,sorghum,2017,4,16
+2017-04-21,230.0,North,sorghum,2017,4,16
+2017-04-21,285.0,South,sorghum,2017,4,16
+2017-04-21,259.0,Littoral,sorghum,2017,4,16
+2017-04-28,219.0,North West,sorghum,2017,4,17
+2017-04-28,269.0,South West,sorghum,2017,4,17
+2017-04-28,271.0,West,sorghum,2017,4,17
+2017-04-28,265.0,Adamawa,sorghum,2017,4,17
+2017-04-28,224.0,Far North,sorghum,2017,4,17
+2017-04-28,227.0,Centre,sorghum,2017,4,17
+2017-04-28,235.0,East,sorghum,2017,4,17
+2017-04-28,246.0,North,sorghum,2017,4,17
+2017-04-28,272.0,South,sorghum,2017,4,17
+2017-04-28,270.0,Littoral,sorghum,2017,4,17
+2017-05-05,229.0,North West,sorghum,2017,5,18
+2017-05-05,222.0,South West,sorghum,2017,5,18
+2017-05-05,256.0,West,sorghum,2017,5,18
+2017-05-05,214.0,Adamawa,sorghum,2017,5,18
+2017-05-05,268.0,Far North,sorghum,2017,5,18
+2017-05-05,218.0,Centre,sorghum,2017,5,18
+2017-05-05,237.0,East,sorghum,2017,5,18
+2017-05-05,271.0,North,sorghum,2017,5,18
+2017-05-05,271.0,South,sorghum,2017,5,18
+2017-05-05,258.0,Littoral,sorghum,2017,5,18
+2017-05-12,260.0,North West,sorghum,2017,5,19
+2017-05-12,268.0,South West,sorghum,2017,5,19
+2017-05-12,266.0,West,sorghum,2017,5,19
+2017-05-12,246.0,Adamawa,sorghum,2017,5,19
+2017-05-12,253.0,Far North,sorghum,2017,5,19
+2017-05-12,244.0,Centre,sorghum,2017,5,19
+2017-05-12,239.0,East,sorghum,2017,5,19
+2017-05-12,263.0,North,sorghum,2017,5,19
+2017-05-12,254.0,South,sorghum,2017,5,19
+2017-05-12,261.0,Littoral,sorghum,2017,5,19
+2017-05-19,226.0,North West,sorghum,2017,5,20
+2017-05-19,237.0,South West,sorghum,2017,5,20
+2017-05-19,243.0,West,sorghum,2017,5,20
+2017-05-19,258.0,Adamawa,sorghum,2017,5,20
+2017-05-19,207.0,Far North,sorghum,2017,5,20
+2017-05-19,215.0,Centre,sorghum,2017,5,20
+2017-05-19,263.0,East,sorghum,2017,5,20
+2017-05-19,266.0,North,sorghum,2017,5,20
+2017-05-19,208.0,South,sorghum,2017,5,20
+2017-05-19,226.0,Littoral,sorghum,2017,5,20
+2017-05-26,199.0,North West,sorghum,2017,5,21
+2017-05-26,244.0,South West,sorghum,2017,5,21
+2017-05-26,240.0,West,sorghum,2017,5,21
+2017-05-26,232.0,Adamawa,sorghum,2017,5,21
+2017-05-26,240.0,Far North,sorghum,2017,5,21
+2017-05-26,231.0,Centre,sorghum,2017,5,21
+2017-05-26,213.0,East,sorghum,2017,5,21
+2017-05-26,244.0,North,sorghum,2017,5,21
+2017-05-26,246.0,South,sorghum,2017,5,21
+2017-05-26,250.0,Littoral,sorghum,2017,5,21
+2017-06-02,241.0,North West,sorghum,2017,6,22
+2017-06-02,203.0,South West,sorghum,2017,6,22
+2017-06-02,189.0,West,sorghum,2017,6,22
+2017-06-02,239.0,Adamawa,sorghum,2017,6,22
+2017-06-02,220.0,Far North,sorghum,2017,6,22
+2017-06-02,187.0,Centre,sorghum,2017,6,22
+2017-06-02,233.0,East,sorghum,2017,6,22
+2017-06-02,194.0,North,sorghum,2017,6,22
+2017-06-02,231.0,South,sorghum,2017,6,22
+2017-06-02,220.0,Littoral,sorghum,2017,6,22
+2017-06-09,188.0,North West,sorghum,2017,6,23
+2017-06-09,220.0,South West,sorghum,2017,6,23
+2017-06-09,203.0,West,sorghum,2017,6,23
+2017-06-09,213.0,Adamawa,sorghum,2017,6,23
+2017-06-09,226.0,Far North,sorghum,2017,6,23
+2017-06-09,193.0,Centre,sorghum,2017,6,23
+2017-06-09,198.0,East,sorghum,2017,6,23
+2017-06-09,233.0,North,sorghum,2017,6,23
+2017-06-09,206.0,South,sorghum,2017,6,23
+2017-06-09,209.0,Littoral,sorghum,2017,6,23
+2017-06-16,199.0,North West,sorghum,2017,6,24
+2017-06-16,186.0,South West,sorghum,2017,6,24
+2017-06-16,185.0,West,sorghum,2017,6,24
+2017-06-16,204.0,Adamawa,sorghum,2017,6,24
+2017-06-16,182.0,Far North,sorghum,2017,6,24
+2017-06-16,202.0,Centre,sorghum,2017,6,24
+2017-06-16,210.0,East,sorghum,2017,6,24
+2017-06-16,183.0,North,sorghum,2017,6,24
+2017-06-16,212.0,South,sorghum,2017,6,24
+2017-06-16,191.0,Littoral,sorghum,2017,6,24
+2017-06-23,214.0,North West,sorghum,2017,6,25
+2017-06-23,213.0,South West,sorghum,2017,6,25
+2017-06-23,204.0,West,sorghum,2017,6,25
+2017-06-23,181.0,Adamawa,sorghum,2017,6,25
+2017-06-23,211.0,Far North,sorghum,2017,6,25
+2017-06-23,214.0,Centre,sorghum,2017,6,25
+2017-06-23,187.0,East,sorghum,2017,6,25
+2017-06-23,195.0,North,sorghum,2017,6,25
+2017-06-23,164.0,South,sorghum,2017,6,25
+2017-06-23,166.0,Littoral,sorghum,2017,6,25
+2017-06-30,193.0,North West,sorghum,2017,6,26
+2017-06-30,182.0,South West,sorghum,2017,6,26
+2017-06-30,219.0,West,sorghum,2017,6,26
+2017-06-30,199.0,Adamawa,sorghum,2017,6,26
+2017-06-30,211.0,Far North,sorghum,2017,6,26
+2017-06-30,211.0,Centre,sorghum,2017,6,26
+2017-06-30,206.0,East,sorghum,2017,6,26
+2017-06-30,186.0,North,sorghum,2017,6,26
+2017-06-30,210.0,South,sorghum,2017,6,26
+2017-06-30,194.0,Littoral,sorghum,2017,6,26
+2017-07-07,210.0,North West,sorghum,2017,7,27
+2017-07-07,177.0,South West,sorghum,2017,7,27
+2017-07-07,182.0,West,sorghum,2017,7,27
+2017-07-07,190.0,Adamawa,sorghum,2017,7,27
+2017-07-07,205.0,Far North,sorghum,2017,7,27
+2017-07-07,204.0,Centre,sorghum,2017,7,27
+2017-07-07,185.0,East,sorghum,2017,7,27
+2017-07-07,194.0,North,sorghum,2017,7,27
+2017-07-07,179.0,South,sorghum,2017,7,27
+2017-07-07,207.0,Littoral,sorghum,2017,7,27
+2017-07-14,210.0,North West,sorghum,2017,7,28
+2017-07-14,213.0,South West,sorghum,2017,7,28
+2017-07-14,206.0,West,sorghum,2017,7,28
+2017-07-14,174.0,Adamawa,sorghum,2017,7,28
+2017-07-14,184.0,Far North,sorghum,2017,7,28
+2017-07-14,168.0,Centre,sorghum,2017,7,28
+2017-07-14,171.0,East,sorghum,2017,7,28
+2017-07-14,166.0,North,sorghum,2017,7,28
+2017-07-14,195.0,South,sorghum,2017,7,28
+2017-07-14,190.0,Littoral,sorghum,2017,7,28
+2017-07-21,200.0,North West,sorghum,2017,7,29
+2017-07-21,179.0,South West,sorghum,2017,7,29
+2017-07-21,187.0,West,sorghum,2017,7,29
+2017-07-21,176.0,Adamawa,sorghum,2017,7,29
+2017-07-21,196.0,Far North,sorghum,2017,7,29
+2017-07-21,201.0,Centre,sorghum,2017,7,29
+2017-07-21,177.0,East,sorghum,2017,7,29
+2017-07-21,160.0,North,sorghum,2017,7,29
+2017-07-21,164.0,South,sorghum,2017,7,29
+2017-07-21,191.0,Littoral,sorghum,2017,7,29
+2017-07-28,194.0,North West,sorghum,2017,7,30
+2017-07-28,191.0,South West,sorghum,2017,7,30
+2017-07-28,197.0,West,sorghum,2017,7,30
+2017-07-28,194.0,Adamawa,sorghum,2017,7,30
+2017-07-28,188.0,Far North,sorghum,2017,7,30
+2017-07-28,158.0,Centre,sorghum,2017,7,30
+2017-07-28,183.0,East,sorghum,2017,7,30
+2017-07-28,187.0,North,sorghum,2017,7,30
+2017-07-28,204.0,South,sorghum,2017,7,30
+2017-07-28,189.0,Littoral,sorghum,2017,7,30
+2017-08-04,176.0,North West,sorghum,2017,8,31
+2017-08-04,174.0,South West,sorghum,2017,8,31
+2017-08-04,154.0,West,sorghum,2017,8,31
+2017-08-04,169.0,Adamawa,sorghum,2017,8,31
+2017-08-04,156.0,Far North,sorghum,2017,8,31
+2017-08-04,152.0,Centre,sorghum,2017,8,31
+2017-08-04,165.0,East,sorghum,2017,8,31
+2017-08-04,179.0,North,sorghum,2017,8,31
+2017-08-04,189.0,South,sorghum,2017,8,31
+2017-08-04,187.0,Littoral,sorghum,2017,8,31
+2017-08-11,164.0,North West,sorghum,2017,8,32
+2017-08-11,160.0,South West,sorghum,2017,8,32
+2017-08-11,163.0,West,sorghum,2017,8,32
+2017-08-11,171.0,Adamawa,sorghum,2017,8,32
+2017-08-11,147.0,Far North,sorghum,2017,8,32
+2017-08-11,163.0,Centre,sorghum,2017,8,32
+2017-08-11,171.0,East,sorghum,2017,8,32
+2017-08-11,165.0,North,sorghum,2017,8,32
+2017-08-11,176.0,South,sorghum,2017,8,32
+2017-08-11,154.0,Littoral,sorghum,2017,8,32
+2017-08-18,150.0,North West,sorghum,2017,8,33
+2017-08-18,157.0,South West,sorghum,2017,8,33
+2017-08-18,148.0,West,sorghum,2017,8,33
+2017-08-18,154.0,Adamawa,sorghum,2017,8,33
+2017-08-18,147.0,Far North,sorghum,2017,8,33
+2017-08-18,161.0,Centre,sorghum,2017,8,33
+2017-08-18,175.0,East,sorghum,2017,8,33
+2017-08-18,156.0,North,sorghum,2017,8,33
+2017-08-18,144.0,South,sorghum,2017,8,33
+2017-08-18,168.0,Littoral,sorghum,2017,8,33
+2017-08-25,152.0,North West,sorghum,2017,8,34
+2017-08-25,160.0,South West,sorghum,2017,8,34
+2017-08-25,143.0,West,sorghum,2017,8,34
+2017-08-25,166.0,Adamawa,sorghum,2017,8,34
+2017-08-25,170.0,Far North,sorghum,2017,8,34
+2017-08-25,169.0,Centre,sorghum,2017,8,34
+2017-08-25,153.0,East,sorghum,2017,8,34
+2017-08-25,175.0,North,sorghum,2017,8,34
+2017-08-25,179.0,South,sorghum,2017,8,34
+2017-08-25,152.0,Littoral,sorghum,2017,8,34
+2017-09-01,159.0,North West,sorghum,2017,9,35
+2017-09-01,179.0,South West,sorghum,2017,9,35
+2017-09-01,180.0,West,sorghum,2017,9,35
+2017-09-01,171.0,Adamawa,sorghum,2017,9,35
+2017-09-01,189.0,Far North,sorghum,2017,9,35
+2017-09-01,154.0,Centre,sorghum,2017,9,35
+2017-09-01,169.0,East,sorghum,2017,9,35
+2017-09-01,149.0,North,sorghum,2017,9,35
+2017-09-01,150.0,South,sorghum,2017,9,35
+2017-09-01,150.0,Littoral,sorghum,2017,9,35
+2017-09-08,158.0,North West,sorghum,2017,9,36
+2017-09-08,188.0,South West,sorghum,2017,9,36
+2017-09-08,181.0,West,sorghum,2017,9,36
+2017-09-08,169.0,Adamawa,sorghum,2017,9,36
+2017-09-08,158.0,Far North,sorghum,2017,9,36
+2017-09-08,165.0,Centre,sorghum,2017,9,36
+2017-09-08,187.0,East,sorghum,2017,9,36
+2017-09-08,190.0,North,sorghum,2017,9,36
+2017-09-08,189.0,South,sorghum,2017,9,36
+2017-09-08,165.0,Littoral,sorghum,2017,9,36
+2017-09-15,196.0,North West,sorghum,2017,9,37
+2017-09-15,173.0,South West,sorghum,2017,9,37
+2017-09-15,190.0,West,sorghum,2017,9,37
+2017-09-15,161.0,Adamawa,sorghum,2017,9,37
+2017-09-15,176.0,Far North,sorghum,2017,9,37
+2017-09-15,178.0,Centre,sorghum,2017,9,37
+2017-09-15,190.0,East,sorghum,2017,9,37
+2017-09-15,183.0,North,sorghum,2017,9,37
+2017-09-15,172.0,South,sorghum,2017,9,37
+2017-09-15,167.0,Littoral,sorghum,2017,9,37
+2017-09-22,165.0,North West,sorghum,2017,9,38
+2017-09-22,156.0,South West,sorghum,2017,9,38
+2017-09-22,183.0,West,sorghum,2017,9,38
+2017-09-22,179.0,Adamawa,sorghum,2017,9,38
+2017-09-22,165.0,Far North,sorghum,2017,9,38
+2017-09-22,196.0,Centre,sorghum,2017,9,38
+2017-09-22,180.0,East,sorghum,2017,9,38
+2017-09-22,182.0,North,sorghum,2017,9,38
+2017-09-22,176.0,South,sorghum,2017,9,38
+2017-09-22,175.0,Littoral,sorghum,2017,9,38
+2017-09-29,149.0,North West,sorghum,2017,9,39
+2017-09-29,183.0,South West,sorghum,2017,9,39
+2017-09-29,189.0,West,sorghum,2017,9,39
+2017-09-29,154.0,Adamawa,sorghum,2017,9,39
+2017-09-29,184.0,Far North,sorghum,2017,9,39
+2017-09-29,172.0,Centre,sorghum,2017,9,39
+2017-09-29,161.0,East,sorghum,2017,9,39
+2017-09-29,190.0,North,sorghum,2017,9,39
+2017-09-29,149.0,South,sorghum,2017,9,39
+2017-09-29,160.0,Littoral,sorghum,2017,9,39
+2017-10-06,174.0,North West,sorghum,2017,10,40
+2017-10-06,181.0,South West,sorghum,2017,10,40
+2017-10-06,154.0,West,sorghum,2017,10,40
+2017-10-06,157.0,Adamawa,sorghum,2017,10,40
+2017-10-06,192.0,Far North,sorghum,2017,10,40
+2017-10-06,158.0,Centre,sorghum,2017,10,40
+2017-10-06,171.0,East,sorghum,2017,10,40
+2017-10-06,160.0,North,sorghum,2017,10,40
+2017-10-06,185.0,South,sorghum,2017,10,40
+2017-10-06,190.0,Littoral,sorghum,2017,10,40
+2017-10-13,165.0,North West,sorghum,2017,10,41
+2017-10-13,187.0,South West,sorghum,2017,10,41
+2017-10-13,198.0,West,sorghum,2017,10,41
+2017-10-13,198.0,Adamawa,sorghum,2017,10,41
+2017-10-13,179.0,Far North,sorghum,2017,10,41
+2017-10-13,169.0,Centre,sorghum,2017,10,41
+2017-10-13,177.0,East,sorghum,2017,10,41
+2017-10-13,195.0,North,sorghum,2017,10,41
+2017-10-13,206.0,South,sorghum,2017,10,41
+2017-10-13,185.0,Littoral,sorghum,2017,10,41
+2017-10-20,197.0,North West,sorghum,2017,10,42
+2017-10-20,194.0,South West,sorghum,2017,10,42
+2017-10-20,205.0,West,sorghum,2017,10,42
+2017-10-20,174.0,Adamawa,sorghum,2017,10,42
+2017-10-20,183.0,Far North,sorghum,2017,10,42
+2017-10-20,206.0,Centre,sorghum,2017,10,42
+2017-10-20,190.0,East,sorghum,2017,10,42
+2017-10-20,165.0,North,sorghum,2017,10,42
+2017-10-20,171.0,South,sorghum,2017,10,42
+2017-10-20,173.0,Littoral,sorghum,2017,10,42
+2017-10-27,218.0,North West,sorghum,2017,10,43
+2017-10-27,178.0,South West,sorghum,2017,10,43
+2017-10-27,211.0,West,sorghum,2017,10,43
+2017-10-27,171.0,Adamawa,sorghum,2017,10,43
+2017-10-27,176.0,Far North,sorghum,2017,10,43
+2017-10-27,211.0,Centre,sorghum,2017,10,43
+2017-10-27,213.0,East,sorghum,2017,10,43
+2017-10-27,176.0,North,sorghum,2017,10,43
+2017-10-27,179.0,South,sorghum,2017,10,43
+2017-10-27,194.0,Littoral,sorghum,2017,10,43
+2017-11-03,181.0,North West,sorghum,2017,11,44
+2017-11-03,177.0,South West,sorghum,2017,11,44
+2017-11-03,201.0,West,sorghum,2017,11,44
+2017-11-03,182.0,Adamawa,sorghum,2017,11,44
+2017-11-03,209.0,Far North,sorghum,2017,11,44
+2017-11-03,218.0,Centre,sorghum,2017,11,44
+2017-11-03,177.0,East,sorghum,2017,11,44
+2017-11-03,208.0,North,sorghum,2017,11,44
+2017-11-03,219.0,South,sorghum,2017,11,44
+2017-11-03,199.0,Littoral,sorghum,2017,11,44
+2017-11-10,221.0,North West,sorghum,2017,11,45
+2017-11-10,176.0,South West,sorghum,2017,11,45
+2017-11-10,187.0,West,sorghum,2017,11,45
+2017-11-10,182.0,Adamawa,sorghum,2017,11,45
+2017-11-10,223.0,Far North,sorghum,2017,11,45
+2017-11-10,186.0,Centre,sorghum,2017,11,45
+2017-11-10,191.0,East,sorghum,2017,11,45
+2017-11-10,215.0,North,sorghum,2017,11,45
+2017-11-10,219.0,South,sorghum,2017,11,45
+2017-11-10,219.0,Littoral,sorghum,2017,11,45
+2017-11-17,210.0,North West,sorghum,2017,11,46
+2017-11-17,225.0,South West,sorghum,2017,11,46
+2017-11-17,207.0,West,sorghum,2017,11,46
+2017-11-17,233.0,Adamawa,sorghum,2017,11,46
+2017-11-17,207.0,Far North,sorghum,2017,11,46
+2017-11-17,241.0,Centre,sorghum,2017,11,46
+2017-11-17,198.0,East,sorghum,2017,11,46
+2017-11-17,223.0,North,sorghum,2017,11,46
+2017-11-17,220.0,South,sorghum,2017,11,46
+2017-11-17,205.0,Littoral,sorghum,2017,11,46
+2017-11-24,198.0,North West,sorghum,2017,11,47
+2017-11-24,205.0,South West,sorghum,2017,11,47
+2017-11-24,254.0,West,sorghum,2017,11,47
+2017-11-24,253.0,Adamawa,sorghum,2017,11,47
+2017-11-24,203.0,Far North,sorghum,2017,11,47
+2017-11-24,219.0,Centre,sorghum,2017,11,47
+2017-11-24,224.0,East,sorghum,2017,11,47
+2017-11-24,225.0,North,sorghum,2017,11,47
+2017-11-24,214.0,South,sorghum,2017,11,47
+2017-11-24,251.0,Littoral,sorghum,2017,11,47
+2017-12-01,239.0,North West,sorghum,2017,12,48
+2017-12-01,256.0,South West,sorghum,2017,12,48
+2017-12-01,243.0,West,sorghum,2017,12,48
+2017-12-01,231.0,Adamawa,sorghum,2017,12,48
+2017-12-01,262.0,Far North,sorghum,2017,12,48
+2017-12-01,249.0,Centre,sorghum,2017,12,48
+2017-12-01,218.0,East,sorghum,2017,12,48
+2017-12-01,226.0,North,sorghum,2017,12,48
+2017-12-01,249.0,South,sorghum,2017,12,48
+2017-12-01,203.0,Littoral,sorghum,2017,12,48
+2017-12-08,216.0,North West,sorghum,2017,12,49
+2017-12-08,267.0,South West,sorghum,2017,12,49
+2017-12-08,214.0,West,sorghum,2017,12,49
+2017-12-08,256.0,Adamawa,sorghum,2017,12,49
+2017-12-08,232.0,Far North,sorghum,2017,12,49
+2017-12-08,265.0,Centre,sorghum,2017,12,49
+2017-12-08,267.0,East,sorghum,2017,12,49
+2017-12-08,274.0,North,sorghum,2017,12,49
+2017-12-08,218.0,South,sorghum,2017,12,49
+2017-12-08,239.0,Littoral,sorghum,2017,12,49
+2017-12-15,240.0,North West,sorghum,2017,12,50
+2017-12-15,227.0,South West,sorghum,2017,12,50
+2017-12-15,236.0,West,sorghum,2017,12,50
+2017-12-15,256.0,Adamawa,sorghum,2017,12,50
+2017-12-15,268.0,Far North,sorghum,2017,12,50
+2017-12-15,269.0,Centre,sorghum,2017,12,50
+2017-12-15,227.0,East,sorghum,2017,12,50
+2017-12-15,274.0,North,sorghum,2017,12,50
+2017-12-15,267.0,South,sorghum,2017,12,50
+2017-12-15,250.0,Littoral,sorghum,2017,12,50
+2017-12-22,264.0,North West,sorghum,2017,12,51
+2017-12-22,278.0,South West,sorghum,2017,12,51
+2017-12-22,243.0,West,sorghum,2017,12,51
+2017-12-22,290.0,Adamawa,sorghum,2017,12,51
+2017-12-22,235.0,Far North,sorghum,2017,12,51
+2017-12-22,287.0,Centre,sorghum,2017,12,51
+2017-12-22,276.0,East,sorghum,2017,12,51
+2017-12-22,271.0,North,sorghum,2017,12,51
+2017-12-22,231.0,South,sorghum,2017,12,51
+2017-12-22,288.0,Littoral,sorghum,2017,12,51
+2017-12-29,296.0,North West,sorghum,2017,12,52
+2017-12-29,250.0,South West,sorghum,2017,12,52
+2017-12-29,298.0,West,sorghum,2017,12,52
+2017-12-29,276.0,Adamawa,sorghum,2017,12,52
+2017-12-29,280.0,Far North,sorghum,2017,12,52
+2017-12-29,298.0,Centre,sorghum,2017,12,52
+2017-12-29,270.0,East,sorghum,2017,12,52
+2017-12-29,264.0,North,sorghum,2017,12,52
+2017-12-29,278.0,South,sorghum,2017,12,52
+2017-12-29,272.0,Littoral,sorghum,2017,12,52
+2018-01-05,237.0,North West,sorghum,2018,1,1
+2018-01-05,245.0,South West,sorghum,2018,1,1
+2018-01-05,233.0,West,sorghum,2018,1,1
+2018-01-05,240.0,Adamawa,sorghum,2018,1,1
+2018-01-05,285.0,Far North,sorghum,2018,1,1
+2018-01-05,233.0,Centre,sorghum,2018,1,1
+2018-01-05,254.0,East,sorghum,2018,1,1
+2018-01-05,265.0,North,sorghum,2018,1,1
+2018-01-05,299.0,South,sorghum,2018,1,1
+2018-01-05,256.0,Littoral,sorghum,2018,1,1
+2018-01-12,242.0,North West,sorghum,2018,1,2
+2018-01-12,242.0,South West,sorghum,2018,1,2
+2018-01-12,266.0,West,sorghum,2018,1,2
+2018-01-12,239.0,Adamawa,sorghum,2018,1,2
+2018-01-12,276.0,Far North,sorghum,2018,1,2
+2018-01-12,271.0,Centre,sorghum,2018,1,2
+2018-01-12,286.0,East,sorghum,2018,1,2
+2018-01-12,249.0,North,sorghum,2018,1,2
+2018-01-12,278.0,South,sorghum,2018,1,2
+2018-01-12,248.0,Littoral,sorghum,2018,1,2
+2018-01-19,305.0,North West,sorghum,2018,1,3
+2018-01-19,273.0,South West,sorghum,2018,1,3
+2018-01-19,296.0,West,sorghum,2018,1,3
+2018-01-19,317.0,Adamawa,sorghum,2018,1,3
+2018-01-19,287.0,Far North,sorghum,2018,1,3
+2018-01-19,264.0,Centre,sorghum,2018,1,3
+2018-01-19,317.0,East,sorghum,2018,1,3
+2018-01-19,277.0,North,sorghum,2018,1,3
+2018-01-19,305.0,South,sorghum,2018,1,3
+2018-01-19,274.0,Littoral,sorghum,2018,1,3
+2018-01-26,269.0,North West,sorghum,2018,1,4
+2018-01-26,325.0,South West,sorghum,2018,1,4
+2018-01-26,287.0,West,sorghum,2018,1,4
+2018-01-26,258.0,Adamawa,sorghum,2018,1,4
+2018-01-26,281.0,Far North,sorghum,2018,1,4
+2018-01-26,318.0,Centre,sorghum,2018,1,4
+2018-01-26,324.0,East,sorghum,2018,1,4
+2018-01-26,301.0,North,sorghum,2018,1,4
+2018-01-26,280.0,South,sorghum,2018,1,4
+2018-01-26,298.0,Littoral,sorghum,2018,1,4
+2018-02-02,311.0,North West,sorghum,2018,2,5
+2018-02-02,272.0,South West,sorghum,2018,2,5
+2018-02-02,277.0,West,sorghum,2018,2,5
+2018-02-02,289.0,Adamawa,sorghum,2018,2,5
+2018-02-02,315.0,Far North,sorghum,2018,2,5
+2018-02-02,292.0,Centre,sorghum,2018,2,5
+2018-02-02,264.0,East,sorghum,2018,2,5
+2018-02-02,255.0,North,sorghum,2018,2,5
+2018-02-02,255.0,South,sorghum,2018,2,5
+2018-02-02,320.0,Littoral,sorghum,2018,2,5
+2018-02-09,294.0,North West,sorghum,2018,2,6
+2018-02-09,308.0,South West,sorghum,2018,2,6
+2018-02-09,265.0,West,sorghum,2018,2,6
+2018-02-09,304.0,Adamawa,sorghum,2018,2,6
+2018-02-09,319.0,Far North,sorghum,2018,2,6
+2018-02-09,260.0,Centre,sorghum,2018,2,6
+2018-02-09,278.0,East,sorghum,2018,2,6
+2018-02-09,264.0,North,sorghum,2018,2,6
+2018-02-09,276.0,South,sorghum,2018,2,6
+2018-02-09,316.0,Littoral,sorghum,2018,2,6
+2018-02-16,288.0,North West,sorghum,2018,2,7
+2018-02-16,316.0,South West,sorghum,2018,2,7
+2018-02-16,323.0,West,sorghum,2018,2,7
+2018-02-16,327.0,Adamawa,sorghum,2018,2,7
+2018-02-16,331.0,Far North,sorghum,2018,2,7
+2018-02-16,309.0,Centre,sorghum,2018,2,7
+2018-02-16,284.0,East,sorghum,2018,2,7
+2018-02-16,273.0,North,sorghum,2018,2,7
+2018-02-16,302.0,South,sorghum,2018,2,7
+2018-02-16,269.0,Littoral,sorghum,2018,2,7
+2018-02-23,330.0,North West,sorghum,2018,2,8
+2018-02-23,317.0,South West,sorghum,2018,2,8
+2018-02-23,328.0,West,sorghum,2018,2,8
+2018-02-23,330.0,Adamawa,sorghum,2018,2,8
+2018-02-23,264.0,Far North,sorghum,2018,2,8
+2018-02-23,318.0,Centre,sorghum,2018,2,8
+2018-02-23,278.0,East,sorghum,2018,2,8
+2018-02-23,339.0,North,sorghum,2018,2,8
+2018-02-23,322.0,South,sorghum,2018,2,8
+2018-02-23,260.0,Littoral,sorghum,2018,2,8
+2018-03-02,327.0,North West,sorghum,2018,3,9
+2018-03-02,277.0,South West,sorghum,2018,3,9
+2018-03-02,287.0,West,sorghum,2018,3,9
+2018-03-02,302.0,Adamawa,sorghum,2018,3,9
+2018-03-02,326.0,Far North,sorghum,2018,3,9
+2018-03-02,327.0,Centre,sorghum,2018,3,9
+2018-03-02,299.0,East,sorghum,2018,3,9
+2018-03-02,279.0,North,sorghum,2018,3,9
+2018-03-02,276.0,South,sorghum,2018,3,9
+2018-03-02,283.0,Littoral,sorghum,2018,3,9
+2018-03-09,299.0,North West,sorghum,2018,3,10
+2018-03-09,318.0,South West,sorghum,2018,3,10
+2018-03-09,265.0,West,sorghum,2018,3,10
+2018-03-09,289.0,Adamawa,sorghum,2018,3,10
+2018-03-09,276.0,Far North,sorghum,2018,3,10
+2018-03-09,300.0,Centre,sorghum,2018,3,10
+2018-03-09,294.0,East,sorghum,2018,3,10
+2018-03-09,293.0,North,sorghum,2018,3,10
+2018-03-09,282.0,South,sorghum,2018,3,10
+2018-03-09,315.0,Littoral,sorghum,2018,3,10
+2018-03-16,286.0,North West,sorghum,2018,3,11
+2018-03-16,264.0,South West,sorghum,2018,3,11
+2018-03-16,291.0,West,sorghum,2018,3,11
+2018-03-16,295.0,Adamawa,sorghum,2018,3,11
+2018-03-16,251.0,Far North,sorghum,2018,3,11
+2018-03-16,265.0,Centre,sorghum,2018,3,11
+2018-03-16,267.0,East,sorghum,2018,3,11
+2018-03-16,268.0,North,sorghum,2018,3,11
+2018-03-16,267.0,South,sorghum,2018,3,11
+2018-03-16,270.0,Littoral,sorghum,2018,3,11
+2018-03-23,278.0,North West,sorghum,2018,3,12
+2018-03-23,281.0,South West,sorghum,2018,3,12
+2018-03-23,274.0,West,sorghum,2018,3,12
+2018-03-23,329.0,Adamawa,sorghum,2018,3,12
+2018-03-23,295.0,Far North,sorghum,2018,3,12
+2018-03-23,301.0,Centre,sorghum,2018,3,12
+2018-03-23,311.0,East,sorghum,2018,3,12
+2018-03-23,280.0,North,sorghum,2018,3,12
+2018-03-23,329.0,South,sorghum,2018,3,12
+2018-03-23,265.0,Littoral,sorghum,2018,3,12
+2018-03-30,286.0,North West,sorghum,2018,3,13
+2018-03-30,262.0,South West,sorghum,2018,3,13
+2018-03-30,312.0,West,sorghum,2018,3,13
+2018-03-30,259.0,Adamawa,sorghum,2018,3,13
+2018-03-30,294.0,Far North,sorghum,2018,3,13
+2018-03-30,259.0,Centre,sorghum,2018,3,13
+2018-03-30,286.0,East,sorghum,2018,3,13
+2018-03-30,272.0,North,sorghum,2018,3,13
+2018-03-30,320.0,South,sorghum,2018,3,13
+2018-03-30,255.0,Littoral,sorghum,2018,3,13
+2018-04-06,322.0,North West,sorghum,2018,4,14
+2018-04-06,321.0,South West,sorghum,2018,4,14
+2018-04-06,329.0,West,sorghum,2018,4,14
+2018-04-06,273.0,Adamawa,sorghum,2018,4,14
+2018-04-06,274.0,Far North,sorghum,2018,4,14
+2018-04-06,284.0,Centre,sorghum,2018,4,14
+2018-04-06,295.0,East,sorghum,2018,4,14
+2018-04-06,282.0,North,sorghum,2018,4,14
+2018-04-06,310.0,South,sorghum,2018,4,14
+2018-04-06,254.0,Littoral,sorghum,2018,4,14
+2018-04-13,254.0,North West,sorghum,2018,4,15
+2018-04-13,308.0,South West,sorghum,2018,4,15
+2018-04-13,321.0,West,sorghum,2018,4,15
+2018-04-13,313.0,Adamawa,sorghum,2018,4,15
+2018-04-13,262.0,Far North,sorghum,2018,4,15
+2018-04-13,325.0,Centre,sorghum,2018,4,15
+2018-04-13,293.0,East,sorghum,2018,4,15
+2018-04-13,310.0,North,sorghum,2018,4,15
+2018-04-13,268.0,South,sorghum,2018,4,15
+2018-04-13,295.0,Littoral,sorghum,2018,4,15
+2018-04-20,303.0,North West,sorghum,2018,4,16
+2018-04-20,263.0,South West,sorghum,2018,4,16
+2018-04-20,299.0,West,sorghum,2018,4,16
+2018-04-20,298.0,Adamawa,sorghum,2018,4,16
+2018-04-20,312.0,Far North,sorghum,2018,4,16
+2018-04-20,281.0,Centre,sorghum,2018,4,16
+2018-04-20,324.0,East,sorghum,2018,4,16
+2018-04-20,305.0,North,sorghum,2018,4,16
+2018-04-20,259.0,South,sorghum,2018,4,16
+2018-04-20,312.0,Littoral,sorghum,2018,4,16
+2018-04-27,316.0,North West,sorghum,2018,4,17
+2018-04-27,299.0,South West,sorghum,2018,4,17
+2018-04-27,276.0,West,sorghum,2018,4,17
+2018-04-27,292.0,Adamawa,sorghum,2018,4,17
+2018-04-27,260.0,Far North,sorghum,2018,4,17
+2018-04-27,293.0,Centre,sorghum,2018,4,17
+2018-04-27,285.0,East,sorghum,2018,4,17
+2018-04-27,249.0,North,sorghum,2018,4,17
+2018-04-27,272.0,South,sorghum,2018,4,17
+2018-04-27,262.0,Littoral,sorghum,2018,4,17
+2018-05-04,283.0,North West,sorghum,2018,5,18
+2018-05-04,274.0,South West,sorghum,2018,5,18
+2018-05-04,277.0,West,sorghum,2018,5,18
+2018-05-04,251.0,Adamawa,sorghum,2018,5,18
+2018-05-04,226.0,Far North,sorghum,2018,5,18
+2018-05-04,241.0,Centre,sorghum,2018,5,18
+2018-05-04,278.0,East,sorghum,2018,5,18
+2018-05-04,267.0,North,sorghum,2018,5,18
+2018-05-04,263.0,South,sorghum,2018,5,18
+2018-05-04,245.0,Littoral,sorghum,2018,5,18
+2018-05-11,220.0,North West,sorghum,2018,5,19
+2018-05-11,267.0,South West,sorghum,2018,5,19
+2018-05-11,217.0,West,sorghum,2018,5,19
+2018-05-11,219.0,Adamawa,sorghum,2018,5,19
+2018-05-11,234.0,Far North,sorghum,2018,5,19
+2018-05-11,253.0,Centre,sorghum,2018,5,19
+2018-05-11,280.0,East,sorghum,2018,5,19
+2018-05-11,221.0,North,sorghum,2018,5,19
+2018-05-11,246.0,South,sorghum,2018,5,19
+2018-05-11,255.0,Littoral,sorghum,2018,5,19
+2018-05-18,267.0,North West,sorghum,2018,5,20
+2018-05-18,248.0,South West,sorghum,2018,5,20
+2018-05-18,242.0,West,sorghum,2018,5,20
+2018-05-18,254.0,Adamawa,sorghum,2018,5,20
+2018-05-18,273.0,Far North,sorghum,2018,5,20
+2018-05-18,250.0,Centre,sorghum,2018,5,20
+2018-05-18,253.0,East,sorghum,2018,5,20
+2018-05-18,236.0,North,sorghum,2018,5,20
+2018-05-18,253.0,South,sorghum,2018,5,20
+2018-05-18,255.0,Littoral,sorghum,2018,5,20
+2018-05-25,264.0,North West,sorghum,2018,5,21
+2018-05-25,252.0,South West,sorghum,2018,5,21
+2018-05-25,228.0,West,sorghum,2018,5,21
+2018-05-25,253.0,Adamawa,sorghum,2018,5,21
+2018-05-25,234.0,Far North,sorghum,2018,5,21
+2018-05-25,220.0,Centre,sorghum,2018,5,21
+2018-05-25,269.0,East,sorghum,2018,5,21
+2018-05-25,219.0,North,sorghum,2018,5,21
+2018-05-25,256.0,South,sorghum,2018,5,21
+2018-05-25,280.0,Littoral,sorghum,2018,5,21
+2018-06-01,248.0,North West,sorghum,2018,6,22
+2018-06-01,207.0,South West,sorghum,2018,6,22
+2018-06-01,253.0,West,sorghum,2018,6,22
+2018-06-01,201.0,Adamawa,sorghum,2018,6,22
+2018-06-01,256.0,Far North,sorghum,2018,6,22
+2018-06-01,205.0,Centre,sorghum,2018,6,22
+2018-06-01,258.0,East,sorghum,2018,6,22
+2018-06-01,255.0,North,sorghum,2018,6,22
+2018-06-01,235.0,South,sorghum,2018,6,22
+2018-06-01,249.0,Littoral,sorghum,2018,6,22
+2018-06-08,196.0,North West,sorghum,2018,6,23
+2018-06-08,200.0,South West,sorghum,2018,6,23
+2018-06-08,213.0,West,sorghum,2018,6,23
+2018-06-08,223.0,Adamawa,sorghum,2018,6,23
+2018-06-08,243.0,Far North,sorghum,2018,6,23
+2018-06-08,224.0,Centre,sorghum,2018,6,23
+2018-06-08,231.0,East,sorghum,2018,6,23
+2018-06-08,232.0,North,sorghum,2018,6,23
+2018-06-08,243.0,South,sorghum,2018,6,23
+2018-06-08,237.0,Littoral,sorghum,2018,6,23
+2018-06-15,237.0,North West,sorghum,2018,6,24
+2018-06-15,231.0,South West,sorghum,2018,6,24
+2018-06-15,186.0,West,sorghum,2018,6,24
+2018-06-15,228.0,Adamawa,sorghum,2018,6,24
+2018-06-15,226.0,Far North,sorghum,2018,6,24
+2018-06-15,195.0,Centre,sorghum,2018,6,24
+2018-06-15,220.0,East,sorghum,2018,6,24
+2018-06-15,236.0,North,sorghum,2018,6,24
+2018-06-15,220.0,South,sorghum,2018,6,24
+2018-06-15,228.0,Littoral,sorghum,2018,6,24
+2018-06-22,188.0,North West,sorghum,2018,6,25
+2018-06-22,223.0,South West,sorghum,2018,6,25
+2018-06-22,194.0,West,sorghum,2018,6,25
+2018-06-22,187.0,Adamawa,sorghum,2018,6,25
+2018-06-22,214.0,Far North,sorghum,2018,6,25
+2018-06-22,225.0,Centre,sorghum,2018,6,25
+2018-06-22,213.0,East,sorghum,2018,6,25
+2018-06-22,235.0,North,sorghum,2018,6,25
+2018-06-22,222.0,South,sorghum,2018,6,25
+2018-06-22,189.0,Littoral,sorghum,2018,6,25
+2018-06-29,230.0,North West,sorghum,2018,6,26
+2018-06-29,194.0,South West,sorghum,2018,6,26
+2018-06-29,203.0,West,sorghum,2018,6,26
+2018-06-29,202.0,Adamawa,sorghum,2018,6,26
+2018-06-29,182.0,Far North,sorghum,2018,6,26
+2018-06-29,203.0,Centre,sorghum,2018,6,26
+2018-06-29,184.0,East,sorghum,2018,6,26
+2018-06-29,220.0,North,sorghum,2018,6,26
+2018-06-29,228.0,South,sorghum,2018,6,26
+2018-06-29,220.0,Littoral,sorghum,2018,6,26
+2018-07-06,192.0,North West,sorghum,2018,7,27
+2018-07-06,170.0,South West,sorghum,2018,7,27
+2018-07-06,172.0,West,sorghum,2018,7,27
+2018-07-06,196.0,Adamawa,sorghum,2018,7,27
+2018-07-06,205.0,Far North,sorghum,2018,7,27
+2018-07-06,213.0,Centre,sorghum,2018,7,27
+2018-07-06,201.0,East,sorghum,2018,7,27
+2018-07-06,221.0,North,sorghum,2018,7,27
+2018-07-06,196.0,South,sorghum,2018,7,27
+2018-07-06,201.0,Littoral,sorghum,2018,7,27
+2018-07-13,194.0,North West,sorghum,2018,7,28
+2018-07-13,190.0,South West,sorghum,2018,7,28
+2018-07-13,179.0,West,sorghum,2018,7,28
+2018-07-13,166.0,Adamawa,sorghum,2018,7,28
+2018-07-13,178.0,Far North,sorghum,2018,7,28
+2018-07-13,163.0,Centre,sorghum,2018,7,28
+2018-07-13,189.0,East,sorghum,2018,7,28
+2018-07-13,177.0,North,sorghum,2018,7,28
+2018-07-13,179.0,South,sorghum,2018,7,28
+2018-07-13,189.0,Littoral,sorghum,2018,7,28
+2018-07-20,180.0,North West,sorghum,2018,7,29
+2018-07-20,180.0,South West,sorghum,2018,7,29
+2018-07-20,175.0,West,sorghum,2018,7,29
+2018-07-20,175.0,Adamawa,sorghum,2018,7,29
+2018-07-20,191.0,Far North,sorghum,2018,7,29
+2018-07-20,174.0,Centre,sorghum,2018,7,29
+2018-07-20,178.0,East,sorghum,2018,7,29
+2018-07-20,199.0,North,sorghum,2018,7,29
+2018-07-20,161.0,South,sorghum,2018,7,29
+2018-07-20,186.0,Littoral,sorghum,2018,7,29
+2018-07-27,176.0,North West,sorghum,2018,7,30
+2018-07-27,171.0,South West,sorghum,2018,7,30
+2018-07-27,167.0,West,sorghum,2018,7,30
+2018-07-27,198.0,Adamawa,sorghum,2018,7,30
+2018-07-27,191.0,Far North,sorghum,2018,7,30
+2018-07-27,160.0,Centre,sorghum,2018,7,30
+2018-07-27,191.0,East,sorghum,2018,7,30
+2018-07-27,158.0,North,sorghum,2018,7,30
+2018-07-27,165.0,South,sorghum,2018,7,30
+2018-07-27,185.0,Littoral,sorghum,2018,7,30
+2018-08-03,173.0,North West,sorghum,2018,8,31
+2018-08-03,190.0,South West,sorghum,2018,8,31
+2018-08-03,180.0,West,sorghum,2018,8,31
+2018-08-03,196.0,Adamawa,sorghum,2018,8,31
+2018-08-03,191.0,Far North,sorghum,2018,8,31
+2018-08-03,167.0,Centre,sorghum,2018,8,31
+2018-08-03,190.0,East,sorghum,2018,8,31
+2018-08-03,192.0,North,sorghum,2018,8,31
+2018-08-03,196.0,South,sorghum,2018,8,31
+2018-08-03,152.0,Littoral,sorghum,2018,8,31
+2018-08-10,178.0,North West,sorghum,2018,8,32
+2018-08-10,156.0,South West,sorghum,2018,8,32
+2018-08-10,164.0,West,sorghum,2018,8,32
+2018-08-10,168.0,Adamawa,sorghum,2018,8,32
+2018-08-10,140.0,Far North,sorghum,2018,8,32
+2018-08-10,164.0,Centre,sorghum,2018,8,32
+2018-08-10,161.0,East,sorghum,2018,8,32
+2018-08-10,164.0,North,sorghum,2018,8,32
+2018-08-10,142.0,South,sorghum,2018,8,32
+2018-08-10,141.0,Littoral,sorghum,2018,8,32
+2018-08-17,150.0,North West,sorghum,2018,8,33
+2018-08-17,181.0,South West,sorghum,2018,8,33
+2018-08-17,158.0,West,sorghum,2018,8,33
+2018-08-17,162.0,Adamawa,sorghum,2018,8,33
+2018-08-17,160.0,Far North,sorghum,2018,8,33
+2018-08-17,174.0,Centre,sorghum,2018,8,33
+2018-08-17,154.0,East,sorghum,2018,8,33
+2018-08-17,146.0,North,sorghum,2018,8,33
+2018-08-17,159.0,South,sorghum,2018,8,33
+2018-08-17,174.0,Littoral,sorghum,2018,8,33
+2018-08-24,159.0,North West,sorghum,2018,8,34
+2018-08-24,160.0,South West,sorghum,2018,8,34
+2018-08-24,171.0,West,sorghum,2018,8,34
+2018-08-24,147.0,Adamawa,sorghum,2018,8,34
+2018-08-24,149.0,Far North,sorghum,2018,8,34
+2018-08-24,180.0,Centre,sorghum,2018,8,34
+2018-08-24,152.0,East,sorghum,2018,8,34
+2018-08-24,175.0,North,sorghum,2018,8,34
+2018-08-24,153.0,South,sorghum,2018,8,34
+2018-08-24,147.0,Littoral,sorghum,2018,8,34
+2018-08-31,184.0,North West,sorghum,2018,8,35
+2018-08-31,184.0,South West,sorghum,2018,8,35
+2018-08-31,171.0,West,sorghum,2018,8,35
+2018-08-31,165.0,Adamawa,sorghum,2018,8,35
+2018-08-31,169.0,Far North,sorghum,2018,8,35
+2018-08-31,162.0,Centre,sorghum,2018,8,35
+2018-08-31,178.0,East,sorghum,2018,8,35
+2018-08-31,178.0,North,sorghum,2018,8,35
+2018-08-31,181.0,South,sorghum,2018,8,35
+2018-08-31,168.0,Littoral,sorghum,2018,8,35
+2018-09-07,145.0,North West,sorghum,2018,9,36
+2018-09-07,173.0,South West,sorghum,2018,9,36
+2018-09-07,149.0,West,sorghum,2018,9,36
+2018-09-07,168.0,Adamawa,sorghum,2018,9,36
+2018-09-07,176.0,Far North,sorghum,2018,9,36
+2018-09-07,162.0,Centre,sorghum,2018,9,36
+2018-09-07,146.0,East,sorghum,2018,9,36
+2018-09-07,183.0,North,sorghum,2018,9,36
+2018-09-07,146.0,South,sorghum,2018,9,36
+2018-09-07,184.0,Littoral,sorghum,2018,9,36
+2018-09-14,150.0,North West,sorghum,2018,9,37
+2018-09-14,180.0,South West,sorghum,2018,9,37
+2018-09-14,189.0,West,sorghum,2018,9,37
+2018-09-14,188.0,Adamawa,sorghum,2018,9,37
+2018-09-14,188.0,Far North,sorghum,2018,9,37
+2018-09-14,187.0,Centre,sorghum,2018,9,37
+2018-09-14,170.0,East,sorghum,2018,9,37
+2018-09-14,172.0,North,sorghum,2018,9,37
+2018-09-14,175.0,South,sorghum,2018,9,37
+2018-09-14,188.0,Littoral,sorghum,2018,9,37
+2018-09-21,181.0,North West,sorghum,2018,9,38
+2018-09-21,178.0,South West,sorghum,2018,9,38
+2018-09-21,192.0,West,sorghum,2018,9,38
+2018-09-21,158.0,Adamawa,sorghum,2018,9,38
+2018-09-21,158.0,Far North,sorghum,2018,9,38
+2018-09-21,195.0,Centre,sorghum,2018,9,38
+2018-09-21,175.0,East,sorghum,2018,9,38
+2018-09-21,172.0,North,sorghum,2018,9,38
+2018-09-21,189.0,South,sorghum,2018,9,38
+2018-09-21,189.0,Littoral,sorghum,2018,9,38
+2018-09-28,160.0,North West,sorghum,2018,9,39
+2018-09-28,160.0,South West,sorghum,2018,9,39
+2018-09-28,189.0,West,sorghum,2018,9,39
+2018-09-28,188.0,Adamawa,sorghum,2018,9,39
+2018-09-28,162.0,Far North,sorghum,2018,9,39
+2018-09-28,191.0,Centre,sorghum,2018,9,39
+2018-09-28,174.0,East,sorghum,2018,9,39
+2018-09-28,174.0,North,sorghum,2018,9,39
+2018-09-28,198.0,South,sorghum,2018,9,39
+2018-09-28,176.0,Littoral,sorghum,2018,9,39
+2018-10-05,172.0,North West,sorghum,2018,10,40
+2018-10-05,201.0,South West,sorghum,2018,10,40
+2018-10-05,168.0,West,sorghum,2018,10,40
+2018-10-05,176.0,Adamawa,sorghum,2018,10,40
+2018-10-05,192.0,Far North,sorghum,2018,10,40
+2018-10-05,169.0,Centre,sorghum,2018,10,40
+2018-10-05,189.0,East,sorghum,2018,10,40
+2018-10-05,166.0,North,sorghum,2018,10,40
+2018-10-05,167.0,South,sorghum,2018,10,40
+2018-10-05,203.0,Littoral,sorghum,2018,10,40
+2018-10-12,175.0,North West,sorghum,2018,10,41
+2018-10-12,192.0,South West,sorghum,2018,10,41
+2018-10-12,198.0,West,sorghum,2018,10,41
+2018-10-12,174.0,Adamawa,sorghum,2018,10,41
+2018-10-12,174.0,Far North,sorghum,2018,10,41
+2018-10-12,195.0,Centre,sorghum,2018,10,41
+2018-10-12,187.0,East,sorghum,2018,10,41
+2018-10-12,175.0,North,sorghum,2018,10,41
+2018-10-12,193.0,South,sorghum,2018,10,41
+2018-10-12,199.0,Littoral,sorghum,2018,10,41
+2018-10-19,212.0,North West,sorghum,2018,10,42
+2018-10-19,210.0,South West,sorghum,2018,10,42
+2018-10-19,177.0,West,sorghum,2018,10,42
+2018-10-19,211.0,Adamawa,sorghum,2018,10,42
+2018-10-19,207.0,Far North,sorghum,2018,10,42
+2018-10-19,203.0,Centre,sorghum,2018,10,42
+2018-10-19,201.0,East,sorghum,2018,10,42
+2018-10-19,207.0,North,sorghum,2018,10,42
+2018-10-19,210.0,South,sorghum,2018,10,42
+2018-10-19,207.0,Littoral,sorghum,2018,10,42
+2018-10-26,168.0,North West,sorghum,2018,10,43
+2018-10-26,198.0,South West,sorghum,2018,10,43
+2018-10-26,204.0,West,sorghum,2018,10,43
+2018-10-26,171.0,Adamawa,sorghum,2018,10,43
+2018-10-26,173.0,Far North,sorghum,2018,10,43
+2018-10-26,201.0,Centre,sorghum,2018,10,43
+2018-10-26,179.0,East,sorghum,2018,10,43
+2018-10-26,182.0,North,sorghum,2018,10,43
+2018-10-26,181.0,South,sorghum,2018,10,43
+2018-10-26,173.0,Littoral,sorghum,2018,10,43
+2018-11-02,191.0,North West,sorghum,2018,11,44
+2018-11-02,193.0,South West,sorghum,2018,11,44
+2018-11-02,172.0,West,sorghum,2018,11,44
+2018-11-02,218.0,Adamawa,sorghum,2018,11,44
+2018-11-02,216.0,Far North,sorghum,2018,11,44
+2018-11-02,216.0,Centre,sorghum,2018,11,44
+2018-11-02,214.0,East,sorghum,2018,11,44
+2018-11-02,210.0,North,sorghum,2018,11,44
+2018-11-02,205.0,South,sorghum,2018,11,44
+2018-11-02,222.0,Littoral,sorghum,2018,11,44
+2018-11-09,218.0,North West,sorghum,2018,11,45
+2018-11-09,214.0,South West,sorghum,2018,11,45
+2018-11-09,223.0,West,sorghum,2018,11,45
+2018-11-09,193.0,Adamawa,sorghum,2018,11,45
+2018-11-09,232.0,Far North,sorghum,2018,11,45
+2018-11-09,180.0,Centre,sorghum,2018,11,45
+2018-11-09,215.0,East,sorghum,2018,11,45
+2018-11-09,183.0,North,sorghum,2018,11,45
+2018-11-09,226.0,South,sorghum,2018,11,45
+2018-11-09,232.0,Littoral,sorghum,2018,11,45
+2018-11-16,212.0,North West,sorghum,2018,11,46
+2018-11-16,201.0,South West,sorghum,2018,11,46
+2018-11-16,208.0,West,sorghum,2018,11,46
+2018-11-16,210.0,Adamawa,sorghum,2018,11,46
+2018-11-16,229.0,Far North,sorghum,2018,11,46
+2018-11-16,239.0,Centre,sorghum,2018,11,46
+2018-11-16,204.0,East,sorghum,2018,11,46
+2018-11-16,197.0,North,sorghum,2018,11,46
+2018-11-16,205.0,South,sorghum,2018,11,46
+2018-11-16,209.0,Littoral,sorghum,2018,11,46
+2018-11-23,210.0,North West,sorghum,2018,11,47
+2018-11-23,207.0,South West,sorghum,2018,11,47
+2018-11-23,221.0,West,sorghum,2018,11,47
+2018-11-23,244.0,Adamawa,sorghum,2018,11,47
+2018-11-23,199.0,Far North,sorghum,2018,11,47
+2018-11-23,245.0,Centre,sorghum,2018,11,47
+2018-11-23,223.0,East,sorghum,2018,11,47
+2018-11-23,233.0,North,sorghum,2018,11,47
+2018-11-23,242.0,South,sorghum,2018,11,47
+2018-11-23,212.0,Littoral,sorghum,2018,11,47
+2018-11-30,210.0,North West,sorghum,2018,11,48
+2018-11-30,213.0,South West,sorghum,2018,11,48
+2018-11-30,239.0,West,sorghum,2018,11,48
+2018-11-30,212.0,Adamawa,sorghum,2018,11,48
+2018-11-30,227.0,Far North,sorghum,2018,11,48
+2018-11-30,242.0,Centre,sorghum,2018,11,48
+2018-11-30,215.0,East,sorghum,2018,11,48
+2018-11-30,210.0,North,sorghum,2018,11,48
+2018-11-30,243.0,South,sorghum,2018,11,48
+2018-11-30,234.0,Littoral,sorghum,2018,11,48
+2018-12-07,260.0,North West,sorghum,2018,12,49
+2018-12-07,226.0,South West,sorghum,2018,12,49
+2018-12-07,245.0,West,sorghum,2018,12,49
+2018-12-07,217.0,Adamawa,sorghum,2018,12,49
+2018-12-07,255.0,Far North,sorghum,2018,12,49
+2018-12-07,260.0,Centre,sorghum,2018,12,49
+2018-12-07,218.0,East,sorghum,2018,12,49
+2018-12-07,208.0,North,sorghum,2018,12,49
+2018-12-07,214.0,South,sorghum,2018,12,49
+2018-12-07,241.0,Littoral,sorghum,2018,12,49
+2018-12-14,240.0,North West,sorghum,2018,12,50
+2018-12-14,277.0,South West,sorghum,2018,12,50
+2018-12-14,246.0,West,sorghum,2018,12,50
+2018-12-14,249.0,Adamawa,sorghum,2018,12,50
+2018-12-14,239.0,Far North,sorghum,2018,12,50
+2018-12-14,221.0,Centre,sorghum,2018,12,50
+2018-12-14,249.0,East,sorghum,2018,12,50
+2018-12-14,268.0,North,sorghum,2018,12,50
+2018-12-14,280.0,South,sorghum,2018,12,50
+2018-12-14,221.0,Littoral,sorghum,2018,12,50
+2018-12-21,265.0,North West,sorghum,2018,12,51
+2018-12-21,230.0,South West,sorghum,2018,12,51
+2018-12-21,266.0,West,sorghum,2018,12,51
+2018-12-21,235.0,Adamawa,sorghum,2018,12,51
+2018-12-21,220.0,Far North,sorghum,2018,12,51
+2018-12-21,253.0,Centre,sorghum,2018,12,51
+2018-12-21,271.0,East,sorghum,2018,12,51
+2018-12-21,225.0,North,sorghum,2018,12,51
+2018-12-21,214.0,South,sorghum,2018,12,51
+2018-12-21,270.0,Littoral,sorghum,2018,12,51
+2018-12-28,229.0,North West,sorghum,2018,12,52
+2018-12-28,286.0,South West,sorghum,2018,12,52
+2018-12-28,254.0,West,sorghum,2018,12,52
+2018-12-28,286.0,Adamawa,sorghum,2018,12,52
+2018-12-28,229.0,Far North,sorghum,2018,12,52
+2018-12-28,286.0,Centre,sorghum,2018,12,52
+2018-12-28,271.0,East,sorghum,2018,12,52
+2018-12-28,263.0,North,sorghum,2018,12,52
+2018-12-28,229.0,South,sorghum,2018,12,52
+2018-12-28,272.0,Littoral,sorghum,2018,12,52
+2019-01-04,282.0,North West,sorghum,2019,1,1
+2019-01-04,291.0,South West,sorghum,2019,1,1
+2019-01-04,290.0,West,sorghum,2019,1,1
+2019-01-04,270.0,Adamawa,sorghum,2019,1,1
+2019-01-04,253.0,Far North,sorghum,2019,1,1
+2019-01-04,305.0,Centre,sorghum,2019,1,1
+2019-01-04,305.0,East,sorghum,2019,1,1
+2019-01-04,253.0,North,sorghum,2019,1,1
+2019-01-04,284.0,South,sorghum,2019,1,1
+2019-01-04,253.0,Littoral,sorghum,2019,1,1
+2019-01-11,272.0,North West,sorghum,2019,1,2
+2019-01-11,277.0,South West,sorghum,2019,1,2
+2019-01-11,321.0,West,sorghum,2019,1,2
+2019-01-11,300.0,Adamawa,sorghum,2019,1,2
+2019-01-11,252.0,Far North,sorghum,2019,1,2
+2019-01-11,276.0,Centre,sorghum,2019,1,2
+2019-01-11,297.0,East,sorghum,2019,1,2
+2019-01-11,262.0,North,sorghum,2019,1,2
+2019-01-11,259.0,South,sorghum,2019,1,2
+2019-01-11,256.0,Littoral,sorghum,2019,1,2
+2019-01-18,310.0,North West,sorghum,2019,1,3
+2019-01-18,285.0,South West,sorghum,2019,1,3
+2019-01-18,289.0,West,sorghum,2019,1,3
+2019-01-18,264.0,Adamawa,sorghum,2019,1,3
+2019-01-18,318.0,Far North,sorghum,2019,1,3
+2019-01-18,321.0,Centre,sorghum,2019,1,3
+2019-01-18,326.0,East,sorghum,2019,1,3
+2019-01-18,312.0,North,sorghum,2019,1,3
+2019-01-18,321.0,South,sorghum,2019,1,3
+2019-01-18,306.0,Littoral,sorghum,2019,1,3
+2019-01-25,251.0,North West,sorghum,2019,1,4
+2019-01-25,269.0,South West,sorghum,2019,1,4
+2019-01-25,298.0,West,sorghum,2019,1,4
+2019-01-25,317.0,Adamawa,sorghum,2019,1,4
+2019-01-25,266.0,Far North,sorghum,2019,1,4
+2019-01-25,297.0,Centre,sorghum,2019,1,4
+2019-01-25,283.0,East,sorghum,2019,1,4
+2019-01-25,294.0,North,sorghum,2019,1,4
+2019-01-25,247.0,South,sorghum,2019,1,4
+2019-01-25,256.0,Littoral,sorghum,2019,1,4
+2019-02-01,268.0,North West,sorghum,2019,2,5
+2019-02-01,320.0,South West,sorghum,2019,2,5
+2019-02-01,254.0,West,sorghum,2019,2,5
+2019-02-01,295.0,Adamawa,sorghum,2019,2,5
+2019-02-01,323.0,Far North,sorghum,2019,2,5
+2019-02-01,302.0,Centre,sorghum,2019,2,5
+2019-02-01,289.0,East,sorghum,2019,2,5
+2019-02-01,281.0,North,sorghum,2019,2,5
+2019-02-01,299.0,South,sorghum,2019,2,5
+2019-02-01,288.0,Littoral,sorghum,2019,2,5
+2019-02-08,307.0,North West,sorghum,2019,2,6
+2019-02-08,338.0,South West,sorghum,2019,2,6
+2019-02-08,328.0,West,sorghum,2019,2,6
+2019-02-08,310.0,Adamawa,sorghum,2019,2,6
+2019-02-08,304.0,Far North,sorghum,2019,2,6
+2019-02-08,319.0,Centre,sorghum,2019,2,6
+2019-02-08,325.0,East,sorghum,2019,2,6
+2019-02-08,285.0,North,sorghum,2019,2,6
+2019-02-08,315.0,South,sorghum,2019,2,6
+2019-02-08,272.0,Littoral,sorghum,2019,2,6
+2019-02-15,309.0,North West,sorghum,2019,2,7
+2019-02-15,351.0,South West,sorghum,2019,2,7
+2019-02-15,300.0,West,sorghum,2019,2,7
+2019-02-15,285.0,Adamawa,sorghum,2019,2,7
+2019-02-15,285.0,Far North,sorghum,2019,2,7
+2019-02-15,305.0,Centre,sorghum,2019,2,7
+2019-02-15,291.0,East,sorghum,2019,2,7
+2019-02-15,308.0,North,sorghum,2019,2,7
+2019-02-15,333.0,South,sorghum,2019,2,7
+2019-02-15,347.0,Littoral,sorghum,2019,2,7
+2019-02-22,280.0,North West,sorghum,2019,2,8
+2019-02-22,303.0,South West,sorghum,2019,2,8
+2019-02-22,355.0,West,sorghum,2019,2,8
+2019-02-22,278.0,Adamawa,sorghum,2019,2,8
+2019-02-22,274.0,Far North,sorghum,2019,2,8
+2019-02-22,300.0,Centre,sorghum,2019,2,8
+2019-02-22,351.0,East,sorghum,2019,2,8
+2019-02-22,273.0,North,sorghum,2019,2,8
+2019-02-22,290.0,South,sorghum,2019,2,8
+2019-02-22,322.0,Littoral,sorghum,2019,2,8
+2019-03-01,283.0,North West,sorghum,2019,3,9
+2019-03-01,269.0,South West,sorghum,2019,3,9
+2019-03-01,269.0,West,sorghum,2019,3,9
+2019-03-01,310.0,Adamawa,sorghum,2019,3,9
+2019-03-01,310.0,Far North,sorghum,2019,3,9
+2019-03-01,322.0,Centre,sorghum,2019,3,9
+2019-03-01,275.0,East,sorghum,2019,3,9
+2019-03-01,305.0,North,sorghum,2019,3,9
+2019-03-01,313.0,South,sorghum,2019,3,9
+2019-03-01,282.0,Littoral,sorghum,2019,3,9
+2019-03-08,358.0,North West,sorghum,2019,3,10
+2019-03-08,324.0,South West,sorghum,2019,3,10
+2019-03-08,347.0,West,sorghum,2019,3,10
+2019-03-08,344.0,Adamawa,sorghum,2019,3,10
+2019-03-08,353.0,Far North,sorghum,2019,3,10
+2019-03-08,335.0,Centre,sorghum,2019,3,10
+2019-03-08,292.0,East,sorghum,2019,3,10
+2019-03-08,299.0,North,sorghum,2019,3,10
+2019-03-08,340.0,South,sorghum,2019,3,10
+2019-03-08,318.0,Littoral,sorghum,2019,3,10
+2019-03-15,292.0,North West,sorghum,2019,3,11
+2019-03-15,326.0,South West,sorghum,2019,3,11
+2019-03-15,347.0,West,sorghum,2019,3,11
+2019-03-15,301.0,Adamawa,sorghum,2019,3,11
+2019-03-15,321.0,Far North,sorghum,2019,3,11
+2019-03-15,320.0,Centre,sorghum,2019,3,11
+2019-03-15,282.0,East,sorghum,2019,3,11
+2019-03-15,279.0,North,sorghum,2019,3,11
+2019-03-15,346.0,South,sorghum,2019,3,11
+2019-03-15,349.0,Littoral,sorghum,2019,3,11
+2019-03-22,289.0,North West,sorghum,2019,3,12
+2019-03-22,342.0,South West,sorghum,2019,3,12
+2019-03-22,337.0,West,sorghum,2019,3,12
+2019-03-22,332.0,Adamawa,sorghum,2019,3,12
+2019-03-22,293.0,Far North,sorghum,2019,3,12
+2019-03-22,317.0,Centre,sorghum,2019,3,12
+2019-03-22,326.0,East,sorghum,2019,3,12
+2019-03-22,312.0,North,sorghum,2019,3,12
+2019-03-22,314.0,South,sorghum,2019,3,12
+2019-03-22,327.0,Littoral,sorghum,2019,3,12
+2019-03-29,331.0,North West,sorghum,2019,3,13
+2019-03-29,288.0,South West,sorghum,2019,3,13
+2019-03-29,300.0,West,sorghum,2019,3,13
+2019-03-29,333.0,Adamawa,sorghum,2019,3,13
+2019-03-29,290.0,Far North,sorghum,2019,3,13
+2019-03-29,344.0,Centre,sorghum,2019,3,13
+2019-03-29,337.0,East,sorghum,2019,3,13
+2019-03-29,342.0,North,sorghum,2019,3,13
+2019-03-29,293.0,South,sorghum,2019,3,13
+2019-03-29,277.0,Littoral,sorghum,2019,3,13
+2019-04-05,283.0,North West,sorghum,2019,4,14
+2019-04-05,280.0,South West,sorghum,2019,4,14
+2019-04-05,276.0,West,sorghum,2019,4,14
+2019-04-05,303.0,Adamawa,sorghum,2019,4,14
+2019-04-05,302.0,Far North,sorghum,2019,4,14
+2019-04-05,292.0,Centre,sorghum,2019,4,14
+2019-04-05,270.0,East,sorghum,2019,4,14
+2019-04-05,332.0,North,sorghum,2019,4,14
+2019-04-05,293.0,South,sorghum,2019,4,14
+2019-04-05,269.0,Littoral,sorghum,2019,4,14
+2019-04-12,248.0,North West,sorghum,2019,4,15
+2019-04-12,257.0,South West,sorghum,2019,4,15
+2019-04-12,268.0,West,sorghum,2019,4,15
+2019-04-12,293.0,Adamawa,sorghum,2019,4,15
+2019-04-12,319.0,Far North,sorghum,2019,4,15
+2019-04-12,266.0,Centre,sorghum,2019,4,15
+2019-04-12,305.0,East,sorghum,2019,4,15
+2019-04-12,314.0,North,sorghum,2019,4,15
+2019-04-12,275.0,South,sorghum,2019,4,15
+2019-04-12,265.0,Littoral,sorghum,2019,4,15
+2019-04-19,249.0,North West,sorghum,2019,4,16
+2019-04-19,285.0,South West,sorghum,2019,4,16
+2019-04-19,306.0,West,sorghum,2019,4,16
+2019-04-19,294.0,Adamawa,sorghum,2019,4,16
+2019-04-19,286.0,Far North,sorghum,2019,4,16
+2019-04-19,290.0,Centre,sorghum,2019,4,16
+2019-04-19,295.0,East,sorghum,2019,4,16
+2019-04-19,300.0,North,sorghum,2019,4,16
+2019-04-19,275.0,South,sorghum,2019,4,16
+2019-04-19,287.0,Littoral,sorghum,2019,4,16
+2019-04-26,264.0,North West,sorghum,2019,4,17
+2019-04-26,317.0,South West,sorghum,2019,4,17
+2019-04-26,258.0,West,sorghum,2019,4,17
+2019-04-26,255.0,Adamawa,sorghum,2019,4,17
+2019-04-26,264.0,Far North,sorghum,2019,4,17
+2019-04-26,312.0,Centre,sorghum,2019,4,17
+2019-04-26,293.0,East,sorghum,2019,4,17
+2019-04-26,278.0,North,sorghum,2019,4,17
+2019-04-26,313.0,South,sorghum,2019,4,17
+2019-04-26,311.0,Littoral,sorghum,2019,4,17
+2019-05-03,305.0,North West,sorghum,2019,5,18
+2019-05-03,262.0,South West,sorghum,2019,5,18
+2019-05-03,269.0,West,sorghum,2019,5,18
+2019-05-03,297.0,Adamawa,sorghum,2019,5,18
+2019-05-03,290.0,Far North,sorghum,2019,5,18
+2019-05-03,242.0,Centre,sorghum,2019,5,18
+2019-05-03,247.0,East,sorghum,2019,5,18
+2019-05-03,301.0,North,sorghum,2019,5,18
+2019-05-03,241.0,South,sorghum,2019,5,18
+2019-05-03,306.0,Littoral,sorghum,2019,5,18
+2019-05-10,235.0,North West,sorghum,2019,5,19
+2019-05-10,257.0,South West,sorghum,2019,5,19
+2019-05-10,255.0,West,sorghum,2019,5,19
+2019-05-10,244.0,Adamawa,sorghum,2019,5,19
+2019-05-10,219.0,Far North,sorghum,2019,5,19
+2019-05-10,230.0,Centre,sorghum,2019,5,19
+2019-05-10,258.0,East,sorghum,2019,5,19
+2019-05-10,247.0,North,sorghum,2019,5,19
+2019-05-10,245.0,South,sorghum,2019,5,19
+2019-05-10,224.0,Littoral,sorghum,2019,5,19
+2019-05-17,220.0,North West,sorghum,2019,5,20
+2019-05-17,219.0,South West,sorghum,2019,5,20
+2019-05-17,248.0,West,sorghum,2019,5,20
+2019-05-17,252.0,Adamawa,sorghum,2019,5,20
+2019-05-17,232.0,Far North,sorghum,2019,5,20
+2019-05-17,237.0,Centre,sorghum,2019,5,20
+2019-05-17,268.0,East,sorghum,2019,5,20
+2019-05-17,272.0,North,sorghum,2019,5,20
+2019-05-17,237.0,South,sorghum,2019,5,20
+2019-05-17,239.0,Littoral,sorghum,2019,5,20
+2019-05-24,251.0,North West,sorghum,2019,5,21
+2019-05-24,260.0,South West,sorghum,2019,5,21
+2019-05-24,220.0,West,sorghum,2019,5,21
+2019-05-24,248.0,Adamawa,sorghum,2019,5,21
+2019-05-24,229.0,Far North,sorghum,2019,5,21
+2019-05-24,216.0,Centre,sorghum,2019,5,21
+2019-05-24,242.0,East,sorghum,2019,5,21
+2019-05-24,228.0,North,sorghum,2019,5,21
+2019-05-24,216.0,South,sorghum,2019,5,21
+2019-05-24,207.0,Littoral,sorghum,2019,5,21
+2019-05-31,212.0,North West,sorghum,2019,5,22
+2019-05-31,242.0,South West,sorghum,2019,5,22
+2019-05-31,259.0,West,sorghum,2019,5,22
+2019-05-31,218.0,Adamawa,sorghum,2019,5,22
+2019-05-31,224.0,Far North,sorghum,2019,5,22
+2019-05-31,252.0,Centre,sorghum,2019,5,22
+2019-05-31,248.0,East,sorghum,2019,5,22
+2019-05-31,228.0,North,sorghum,2019,5,22
+2019-05-31,255.0,South,sorghum,2019,5,22
+2019-05-31,259.0,Littoral,sorghum,2019,5,22
+2019-06-07,217.0,North West,sorghum,2019,6,23
+2019-06-07,193.0,South West,sorghum,2019,6,23
+2019-06-07,221.0,West,sorghum,2019,6,23
+2019-06-07,234.0,Adamawa,sorghum,2019,6,23
+2019-06-07,204.0,Far North,sorghum,2019,6,23
+2019-06-07,197.0,Centre,sorghum,2019,6,23
+2019-06-07,208.0,East,sorghum,2019,6,23
+2019-06-07,192.0,North,sorghum,2019,6,23
+2019-06-07,233.0,South,sorghum,2019,6,23
+2019-06-07,199.0,Littoral,sorghum,2019,6,23
+2019-06-14,236.0,North West,sorghum,2019,6,24
+2019-06-14,211.0,South West,sorghum,2019,6,24
+2019-06-14,184.0,West,sorghum,2019,6,24
+2019-06-14,224.0,Adamawa,sorghum,2019,6,24
+2019-06-14,204.0,Far North,sorghum,2019,6,24
+2019-06-14,215.0,Centre,sorghum,2019,6,24
+2019-06-14,234.0,East,sorghum,2019,6,24
+2019-06-14,210.0,North,sorghum,2019,6,24
+2019-06-14,226.0,South,sorghum,2019,6,24
+2019-06-14,198.0,Littoral,sorghum,2019,6,24
+2019-06-21,223.0,North West,sorghum,2019,6,25
+2019-06-21,188.0,South West,sorghum,2019,6,25
+2019-06-21,233.0,West,sorghum,2019,6,25
+2019-06-21,194.0,Adamawa,sorghum,2019,6,25
+2019-06-21,199.0,Far North,sorghum,2019,6,25
+2019-06-21,236.0,Centre,sorghum,2019,6,25
+2019-06-21,191.0,East,sorghum,2019,6,25
+2019-06-21,197.0,North,sorghum,2019,6,25
+2019-06-21,215.0,South,sorghum,2019,6,25
+2019-06-21,237.0,Littoral,sorghum,2019,6,25
+2019-06-28,217.0,North West,sorghum,2019,6,26
+2019-06-28,200.0,South West,sorghum,2019,6,26
+2019-06-28,230.0,West,sorghum,2019,6,26
+2019-06-28,211.0,Adamawa,sorghum,2019,6,26
+2019-06-28,205.0,Far North,sorghum,2019,6,26
+2019-06-28,207.0,Centre,sorghum,2019,6,26
+2019-06-28,211.0,East,sorghum,2019,6,26
+2019-06-28,216.0,North,sorghum,2019,6,26
+2019-06-28,181.0,South,sorghum,2019,6,26
+2019-06-28,184.0,Littoral,sorghum,2019,6,26
+2019-07-05,186.0,North West,sorghum,2019,7,27
+2019-07-05,195.0,South West,sorghum,2019,7,27
+2019-07-05,187.0,West,sorghum,2019,7,27
+2019-07-05,181.0,Adamawa,sorghum,2019,7,27
+2019-07-05,219.0,Far North,sorghum,2019,7,27
+2019-07-05,172.0,Centre,sorghum,2019,7,27
+2019-07-05,219.0,East,sorghum,2019,7,27
+2019-07-05,218.0,North,sorghum,2019,7,27
+2019-07-05,206.0,South,sorghum,2019,7,27
+2019-07-05,172.0,Littoral,sorghum,2019,7,27
+2019-07-12,186.0,North West,sorghum,2019,7,28
+2019-07-12,192.0,South West,sorghum,2019,7,28
+2019-07-12,184.0,West,sorghum,2019,7,28
+2019-07-12,171.0,Adamawa,sorghum,2019,7,28
+2019-07-12,173.0,Far North,sorghum,2019,7,28
+2019-07-12,171.0,Centre,sorghum,2019,7,28
+2019-07-12,197.0,East,sorghum,2019,7,28
+2019-07-12,202.0,North,sorghum,2019,7,28
+2019-07-12,185.0,South,sorghum,2019,7,28
+2019-07-12,212.0,Littoral,sorghum,2019,7,28
+2019-07-19,210.0,North West,sorghum,2019,7,29
+2019-07-19,172.0,South West,sorghum,2019,7,29
+2019-07-19,168.0,West,sorghum,2019,7,29
+2019-07-19,181.0,Adamawa,sorghum,2019,7,29
+2019-07-19,201.0,Far North,sorghum,2019,7,29
+2019-07-19,191.0,Centre,sorghum,2019,7,29
+2019-07-19,190.0,East,sorghum,2019,7,29
+2019-07-19,173.0,North,sorghum,2019,7,29
+2019-07-19,183.0,South,sorghum,2019,7,29
+2019-07-19,214.0,Littoral,sorghum,2019,7,29
+2019-07-26,168.0,North West,sorghum,2019,7,30
+2019-07-26,168.0,South West,sorghum,2019,7,30
+2019-07-26,186.0,West,sorghum,2019,7,30
+2019-07-26,195.0,Adamawa,sorghum,2019,7,30
+2019-07-26,184.0,Far North,sorghum,2019,7,30
+2019-07-26,174.0,Centre,sorghum,2019,7,30
+2019-07-26,202.0,East,sorghum,2019,7,30
+2019-07-26,172.0,North,sorghum,2019,7,30
+2019-07-26,199.0,South,sorghum,2019,7,30
+2019-07-26,213.0,Littoral,sorghum,2019,7,30
+2019-08-02,174.0,North West,sorghum,2019,8,31
+2019-08-02,161.0,South West,sorghum,2019,8,31
+2019-08-02,191.0,West,sorghum,2019,8,31
+2019-08-02,175.0,Adamawa,sorghum,2019,8,31
+2019-08-02,195.0,Far North,sorghum,2019,8,31
+2019-08-02,185.0,Centre,sorghum,2019,8,31
+2019-08-02,172.0,East,sorghum,2019,8,31
+2019-08-02,180.0,North,sorghum,2019,8,31
+2019-08-02,160.0,South,sorghum,2019,8,31
+2019-08-02,170.0,Littoral,sorghum,2019,8,31
+2019-08-09,183.0,North West,sorghum,2019,8,32
+2019-08-09,191.0,South West,sorghum,2019,8,32
+2019-08-09,160.0,West,sorghum,2019,8,32
+2019-08-09,159.0,Adamawa,sorghum,2019,8,32
+2019-08-09,162.0,Far North,sorghum,2019,8,32
+2019-08-09,193.0,Centre,sorghum,2019,8,32
+2019-08-09,158.0,East,sorghum,2019,8,32
+2019-08-09,166.0,North,sorghum,2019,8,32
+2019-08-09,167.0,South,sorghum,2019,8,32
+2019-08-09,186.0,Littoral,sorghum,2019,8,32
+2019-08-16,178.0,North West,sorghum,2019,8,33
+2019-08-16,168.0,South West,sorghum,2019,8,33
+2019-08-16,180.0,West,sorghum,2019,8,33
+2019-08-16,191.0,Adamawa,sorghum,2019,8,33
+2019-08-16,196.0,Far North,sorghum,2019,8,33
+2019-08-16,164.0,Centre,sorghum,2019,8,33
+2019-08-16,193.0,East,sorghum,2019,8,33
+2019-08-16,158.0,North,sorghum,2019,8,33
+2019-08-16,193.0,South,sorghum,2019,8,33
+2019-08-16,190.0,Littoral,sorghum,2019,8,33
+2019-08-23,184.0,North West,sorghum,2019,8,34
+2019-08-23,153.0,South West,sorghum,2019,8,34
+2019-08-23,190.0,West,sorghum,2019,8,34
+2019-08-23,185.0,Adamawa,sorghum,2019,8,34
+2019-08-23,183.0,Far North,sorghum,2019,8,34
+2019-08-23,184.0,Centre,sorghum,2019,8,34
+2019-08-23,152.0,East,sorghum,2019,8,34
+2019-08-23,195.0,North,sorghum,2019,8,34
+2019-08-23,189.0,South,sorghum,2019,8,34
+2019-08-23,172.0,Littoral,sorghum,2019,8,34
+2019-08-30,179.0,North West,sorghum,2019,8,35
+2019-08-30,180.0,South West,sorghum,2019,8,35
+2019-08-30,184.0,West,sorghum,2019,8,35
+2019-08-30,159.0,Adamawa,sorghum,2019,8,35
+2019-08-30,164.0,Far North,sorghum,2019,8,35
+2019-08-30,183.0,Centre,sorghum,2019,8,35
+2019-08-30,182.0,East,sorghum,2019,8,35
+2019-08-30,171.0,North,sorghum,2019,8,35
+2019-08-30,165.0,South,sorghum,2019,8,35
+2019-08-30,191.0,Littoral,sorghum,2019,8,35
+2019-09-06,174.0,North West,sorghum,2019,9,36
+2019-09-06,169.0,South West,sorghum,2019,9,36
+2019-09-06,185.0,West,sorghum,2019,9,36
+2019-09-06,193.0,Adamawa,sorghum,2019,9,36
+2019-09-06,201.0,Far North,sorghum,2019,9,36
+2019-09-06,161.0,Centre,sorghum,2019,9,36
+2019-09-06,196.0,East,sorghum,2019,9,36
+2019-09-06,179.0,North,sorghum,2019,9,36
+2019-09-06,159.0,South,sorghum,2019,9,36
+2019-09-06,192.0,Littoral,sorghum,2019,9,36
+2019-09-13,167.0,North West,sorghum,2019,9,37
+2019-09-13,192.0,South West,sorghum,2019,9,37
+2019-09-13,159.0,West,sorghum,2019,9,37
+2019-09-13,185.0,Adamawa,sorghum,2019,9,37
+2019-09-13,166.0,Far North,sorghum,2019,9,37
+2019-09-13,163.0,Centre,sorghum,2019,9,37
+2019-09-13,154.0,East,sorghum,2019,9,37
+2019-09-13,174.0,North,sorghum,2019,9,37
+2019-09-13,170.0,South,sorghum,2019,9,37
+2019-09-13,154.0,Littoral,sorghum,2019,9,37
+2019-09-20,189.0,North West,sorghum,2019,9,38
+2019-09-20,194.0,South West,sorghum,2019,9,38
+2019-09-20,175.0,West,sorghum,2019,9,38
+2019-09-20,170.0,Adamawa,sorghum,2019,9,38
+2019-09-20,196.0,Far North,sorghum,2019,9,38
+2019-09-20,196.0,Centre,sorghum,2019,9,38
+2019-09-20,160.0,East,sorghum,2019,9,38
+2019-09-20,176.0,North,sorghum,2019,9,38
+2019-09-20,189.0,South,sorghum,2019,9,38
+2019-09-20,189.0,Littoral,sorghum,2019,9,38
+2019-09-27,175.0,North West,sorghum,2019,9,39
+2019-09-27,166.0,South West,sorghum,2019,9,39
+2019-09-27,163.0,West,sorghum,2019,9,39
+2019-09-27,181.0,Adamawa,sorghum,2019,9,39
+2019-09-27,155.0,Far North,sorghum,2019,9,39
+2019-09-27,164.0,Centre,sorghum,2019,9,39
+2019-09-27,170.0,East,sorghum,2019,9,39
+2019-09-27,182.0,North,sorghum,2019,9,39
+2019-09-27,162.0,South,sorghum,2019,9,39
+2019-09-27,169.0,Littoral,sorghum,2019,9,39
+2019-10-04,195.0,North West,sorghum,2019,10,40
+2019-10-04,197.0,South West,sorghum,2019,10,40
+2019-10-04,160.0,West,sorghum,2019,10,40
+2019-10-04,181.0,Adamawa,sorghum,2019,10,40
+2019-10-04,164.0,Far North,sorghum,2019,10,40
+2019-10-04,190.0,Centre,sorghum,2019,10,40
+2019-10-04,172.0,East,sorghum,2019,10,40
+2019-10-04,195.0,North,sorghum,2019,10,40
+2019-10-04,160.0,South,sorghum,2019,10,40
+2019-10-04,182.0,Littoral,sorghum,2019,10,40
+2019-10-11,166.0,North West,sorghum,2019,10,41
+2019-10-11,187.0,South West,sorghum,2019,10,41
+2019-10-11,190.0,West,sorghum,2019,10,41
+2019-10-11,183.0,Adamawa,sorghum,2019,10,41
+2019-10-11,174.0,Far North,sorghum,2019,10,41
+2019-10-11,162.0,Centre,sorghum,2019,10,41
+2019-10-11,192.0,East,sorghum,2019,10,41
+2019-10-11,203.0,North,sorghum,2019,10,41
+2019-10-11,196.0,South,sorghum,2019,10,41
+2019-10-11,204.0,Littoral,sorghum,2019,10,41
+2019-10-18,199.0,North West,sorghum,2019,10,42
+2019-10-18,184.0,South West,sorghum,2019,10,42
+2019-10-18,210.0,West,sorghum,2019,10,42
+2019-10-18,192.0,Adamawa,sorghum,2019,10,42
+2019-10-18,202.0,Far North,sorghum,2019,10,42
+2019-10-18,165.0,Centre,sorghum,2019,10,42
+2019-10-18,193.0,East,sorghum,2019,10,42
+2019-10-18,201.0,North,sorghum,2019,10,42
+2019-10-18,177.0,South,sorghum,2019,10,42
+2019-10-18,165.0,Littoral,sorghum,2019,10,42
+2019-10-25,209.0,North West,sorghum,2019,10,43
+2019-10-25,188.0,South West,sorghum,2019,10,43
+2019-10-25,193.0,West,sorghum,2019,10,43
+2019-10-25,200.0,Adamawa,sorghum,2019,10,43
+2019-10-25,176.0,Far North,sorghum,2019,10,43
+2019-10-25,176.0,Centre,sorghum,2019,10,43
+2019-10-25,221.0,East,sorghum,2019,10,43
+2019-10-25,188.0,North,sorghum,2019,10,43
+2019-10-25,184.0,South,sorghum,2019,10,43
+2019-10-25,173.0,Littoral,sorghum,2019,10,43
+2019-11-01,198.0,North West,sorghum,2019,11,44
+2019-11-01,203.0,South West,sorghum,2019,11,44
+2019-11-01,218.0,West,sorghum,2019,11,44
+2019-11-01,215.0,Adamawa,sorghum,2019,11,44
+2019-11-01,207.0,Far North,sorghum,2019,11,44
+2019-11-01,224.0,Centre,sorghum,2019,11,44
+2019-11-01,227.0,East,sorghum,2019,11,44
+2019-11-01,212.0,North,sorghum,2019,11,44
+2019-11-01,186.0,South,sorghum,2019,11,44
+2019-11-01,202.0,Littoral,sorghum,2019,11,44
+2019-11-08,215.0,North West,sorghum,2019,11,45
+2019-11-08,184.0,South West,sorghum,2019,11,45
+2019-11-08,181.0,West,sorghum,2019,11,45
+2019-11-08,233.0,Adamawa,sorghum,2019,11,45
+2019-11-08,221.0,Far North,sorghum,2019,11,45
+2019-11-08,189.0,Centre,sorghum,2019,11,45
+2019-11-08,205.0,East,sorghum,2019,11,45
+2019-11-08,191.0,North,sorghum,2019,11,45
+2019-11-08,181.0,South,sorghum,2019,11,45
+2019-11-08,202.0,Littoral,sorghum,2019,11,45
+2019-11-15,235.0,North West,sorghum,2019,11,46
+2019-11-15,203.0,South West,sorghum,2019,11,46
+2019-11-15,210.0,West,sorghum,2019,11,46
+2019-11-15,220.0,Adamawa,sorghum,2019,11,46
+2019-11-15,201.0,Far North,sorghum,2019,11,46
+2019-11-15,238.0,Centre,sorghum,2019,11,46
+2019-11-15,200.0,East,sorghum,2019,11,46
+2019-11-15,207.0,North,sorghum,2019,11,46
+2019-11-15,224.0,South,sorghum,2019,11,46
+2019-11-15,197.0,Littoral,sorghum,2019,11,46
+2019-11-22,258.0,North West,sorghum,2019,11,47
+2019-11-22,279.0,South West,sorghum,2019,11,47
+2019-11-22,262.0,West,sorghum,2019,11,47
+2019-11-22,270.0,Adamawa,sorghum,2019,11,47
+2019-11-22,245.0,Far North,sorghum,2019,11,47
+2019-11-22,241.0,Centre,sorghum,2019,11,47
+2019-11-22,238.0,East,sorghum,2019,11,47
+2019-11-22,260.0,North,sorghum,2019,11,47
+2019-11-22,251.0,South,sorghum,2019,11,47
+2019-11-22,248.0,Littoral,sorghum,2019,11,47
+2019-11-29,262.0,North West,sorghum,2019,11,48
+2019-11-29,228.0,South West,sorghum,2019,11,48
+2019-11-29,265.0,West,sorghum,2019,11,48
+2019-11-29,273.0,Adamawa,sorghum,2019,11,48
+2019-11-29,226.0,Far North,sorghum,2019,11,48
+2019-11-29,244.0,Centre,sorghum,2019,11,48
+2019-11-29,272.0,East,sorghum,2019,11,48
+2019-11-29,247.0,North,sorghum,2019,11,48
+2019-11-29,268.0,South,sorghum,2019,11,48
+2019-11-29,229.0,Littoral,sorghum,2019,11,48
+2019-12-06,221.0,North West,sorghum,2019,12,49
+2019-12-06,221.0,South West,sorghum,2019,12,49
+2019-12-06,281.0,West,sorghum,2019,12,49
+2019-12-06,228.0,Adamawa,sorghum,2019,12,49
+2019-12-06,274.0,Far North,sorghum,2019,12,49
+2019-12-06,238.0,Centre,sorghum,2019,12,49
+2019-12-06,219.0,East,sorghum,2019,12,49
+2019-12-06,233.0,North,sorghum,2019,12,49
+2019-12-06,250.0,South,sorghum,2019,12,49
+2019-12-06,224.0,Littoral,sorghum,2019,12,49
+2019-12-13,257.0,North West,sorghum,2019,12,50
+2019-12-13,293.0,South West,sorghum,2019,12,50
+2019-12-13,229.0,West,sorghum,2019,12,50
+2019-12-13,258.0,Adamawa,sorghum,2019,12,50
+2019-12-13,245.0,Far North,sorghum,2019,12,50
+2019-12-13,276.0,Centre,sorghum,2019,12,50
+2019-12-13,233.0,East,sorghum,2019,12,50
+2019-12-13,269.0,North,sorghum,2019,12,50
+2019-12-13,291.0,South,sorghum,2019,12,50
+2019-12-13,257.0,Littoral,sorghum,2019,12,50
+2019-12-20,256.0,North West,sorghum,2019,12,51
+2019-12-20,259.0,South West,sorghum,2019,12,51
+2019-12-20,253.0,West,sorghum,2019,12,51
+2019-12-20,255.0,Adamawa,sorghum,2019,12,51
+2019-12-20,256.0,Far North,sorghum,2019,12,51
+2019-12-20,293.0,Centre,sorghum,2019,12,51
+2019-12-20,232.0,East,sorghum,2019,12,51
+2019-12-20,244.0,North,sorghum,2019,12,51
+2019-12-20,239.0,South,sorghum,2019,12,51
+2019-12-20,262.0,Littoral,sorghum,2019,12,51
+2019-12-27,259.0,North West,sorghum,2019,12,52
+2019-12-27,245.0,South West,sorghum,2019,12,52
+2019-12-27,248.0,West,sorghum,2019,12,52
+2019-12-27,268.0,Adamawa,sorghum,2019,12,52
+2019-12-27,237.0,Far North,sorghum,2019,12,52
+2019-12-27,290.0,Centre,sorghum,2019,12,52
+2019-12-27,291.0,East,sorghum,2019,12,52
+2019-12-27,284.0,North,sorghum,2019,12,52
+2019-12-27,298.0,South,sorghum,2019,12,52
+2019-12-27,274.0,Littoral,sorghum,2019,12,52
+2020-01-03,278.0,North West,sorghum,2020,1,1
+2020-01-03,281.0,South West,sorghum,2020,1,1
+2020-01-03,256.0,West,sorghum,2020,1,1
+2020-01-03,280.0,Adamawa,sorghum,2020,1,1
+2020-01-03,282.0,Far North,sorghum,2020,1,1
+2020-01-03,299.0,Centre,sorghum,2020,1,1
+2020-01-03,268.0,East,sorghum,2020,1,1
+2020-01-03,249.0,North,sorghum,2020,1,1
+2020-01-03,286.0,South,sorghum,2020,1,1
+2020-01-03,301.0,Littoral,sorghum,2020,1,1
+2020-01-10,252.0,North West,sorghum,2020,1,2
+2020-01-10,307.0,South West,sorghum,2020,1,2
+2020-01-10,253.0,West,sorghum,2020,1,2
+2020-01-10,312.0,Adamawa,sorghum,2020,1,2
+2020-01-10,307.0,Far North,sorghum,2020,1,2
+2020-01-10,304.0,Centre,sorghum,2020,1,2
+2020-01-10,260.0,East,sorghum,2020,1,2
+2020-01-10,322.0,North,sorghum,2020,1,2
+2020-01-10,320.0,South,sorghum,2020,1,2
+2020-01-10,321.0,Littoral,sorghum,2020,1,2
+2020-01-17,293.0,North West,sorghum,2020,1,3
+2020-01-17,304.0,South West,sorghum,2020,1,3
+2020-01-17,273.0,West,sorghum,2020,1,3
+2020-01-17,268.0,Adamawa,sorghum,2020,1,3
+2020-01-17,269.0,Far North,sorghum,2020,1,3
+2020-01-17,310.0,Centre,sorghum,2020,1,3
+2020-01-17,290.0,East,sorghum,2020,1,3
+2020-01-17,311.0,North,sorghum,2020,1,3
+2020-01-17,312.0,South,sorghum,2020,1,3
+2020-01-17,337.0,Littoral,sorghum,2020,1,3
+2020-01-24,332.0,North West,sorghum,2020,1,4
+2020-01-24,265.0,South West,sorghum,2020,1,4
+2020-01-24,266.0,West,sorghum,2020,1,4
+2020-01-24,302.0,Adamawa,sorghum,2020,1,4
+2020-01-24,318.0,Far North,sorghum,2020,1,4
+2020-01-24,330.0,Centre,sorghum,2020,1,4
+2020-01-24,301.0,East,sorghum,2020,1,4
+2020-01-24,341.0,North,sorghum,2020,1,4
+2020-01-24,331.0,South,sorghum,2020,1,4
+2020-01-24,273.0,Littoral,sorghum,2020,1,4
+2020-01-31,304.0,North West,sorghum,2020,1,5
+2020-01-31,349.0,South West,sorghum,2020,1,5
+2020-01-31,301.0,West,sorghum,2020,1,5
+2020-01-31,299.0,Adamawa,sorghum,2020,1,5
+2020-01-31,292.0,Far North,sorghum,2020,1,5
+2020-01-31,308.0,Centre,sorghum,2020,1,5
+2020-01-31,328.0,East,sorghum,2020,1,5
+2020-01-31,271.0,North,sorghum,2020,1,5
+2020-01-31,336.0,South,sorghum,2020,1,5
+2020-01-31,343.0,Littoral,sorghum,2020,1,5
+2020-02-07,273.0,North West,sorghum,2020,2,6
+2020-02-07,335.0,South West,sorghum,2020,2,6
+2020-02-07,345.0,West,sorghum,2020,2,6
+2020-02-07,291.0,Adamawa,sorghum,2020,2,6
+2020-02-07,311.0,Far North,sorghum,2020,2,6
+2020-02-07,291.0,Centre,sorghum,2020,2,6
+2020-02-07,298.0,East,sorghum,2020,2,6
+2020-02-07,306.0,North,sorghum,2020,2,6
+2020-02-07,332.0,South,sorghum,2020,2,6
+2020-02-07,279.0,Littoral,sorghum,2020,2,6
+2020-02-14,288.0,North West,sorghum,2020,2,7
+2020-02-14,292.0,South West,sorghum,2020,2,7
+2020-02-14,279.0,West,sorghum,2020,2,7
+2020-02-14,329.0,Adamawa,sorghum,2020,2,7
+2020-02-14,291.0,Far North,sorghum,2020,2,7
+2020-02-14,311.0,Centre,sorghum,2020,2,7
+2020-02-14,332.0,East,sorghum,2020,2,7
+2020-02-14,312.0,North,sorghum,2020,2,7
+2020-02-14,351.0,South,sorghum,2020,2,7
+2020-02-14,339.0,Littoral,sorghum,2020,2,7
+2020-02-21,341.0,North West,sorghum,2020,2,8
+2020-02-21,300.0,South West,sorghum,2020,2,8
+2020-02-21,299.0,West,sorghum,2020,2,8
+2020-02-21,334.0,Adamawa,sorghum,2020,2,8
+2020-02-21,269.0,Far North,sorghum,2020,2,8
+2020-02-21,305.0,Centre,sorghum,2020,2,8
+2020-02-21,327.0,East,sorghum,2020,2,8
+2020-02-21,338.0,North,sorghum,2020,2,8
+2020-02-21,341.0,South,sorghum,2020,2,8
+2020-02-21,306.0,Littoral,sorghum,2020,2,8
+2020-02-28,334.0,North West,sorghum,2020,2,9
+2020-02-28,268.0,South West,sorghum,2020,2,9
+2020-02-28,290.0,West,sorghum,2020,2,9
+2020-02-28,266.0,Adamawa,sorghum,2020,2,9
+2020-02-28,278.0,Far North,sorghum,2020,2,9
+2020-02-28,324.0,Centre,sorghum,2020,2,9
+2020-02-28,265.0,East,sorghum,2020,2,9
+2020-02-28,308.0,North,sorghum,2020,2,9
+2020-02-28,299.0,South,sorghum,2020,2,9
+2020-02-28,275.0,Littoral,sorghum,2020,2,9
+2020-03-06,332.0,North West,sorghum,2020,3,10
+2020-03-06,335.0,South West,sorghum,2020,3,10
+2020-03-06,298.0,West,sorghum,2020,3,10
+2020-03-06,354.0,Adamawa,sorghum,2020,3,10
+2020-03-06,277.0,Far North,sorghum,2020,3,10
+2020-03-06,325.0,Centre,sorghum,2020,3,10
+2020-03-06,352.0,East,sorghum,2020,3,10
+2020-03-06,290.0,North,sorghum,2020,3,10
+2020-03-06,295.0,South,sorghum,2020,3,10
+2020-03-06,319.0,Littoral,sorghum,2020,3,10
+2020-03-13,342.0,North West,sorghum,2020,3,11
+2020-03-13,303.0,South West,sorghum,2020,3,11
+2020-03-13,346.0,West,sorghum,2020,3,11
+2020-03-13,296.0,Adamawa,sorghum,2020,3,11
+2020-03-13,349.0,Far North,sorghum,2020,3,11
+2020-03-13,297.0,Centre,sorghum,2020,3,11
+2020-03-13,328.0,East,sorghum,2020,3,11
+2020-03-13,306.0,North,sorghum,2020,3,11
+2020-03-13,303.0,South,sorghum,2020,3,11
+2020-03-13,305.0,Littoral,sorghum,2020,3,11
+2020-03-20,344.0,North West,sorghum,2020,3,12
+2020-03-20,318.0,South West,sorghum,2020,3,12
+2020-03-20,304.0,West,sorghum,2020,3,12
+2020-03-20,353.0,Adamawa,sorghum,2020,3,12
+2020-03-20,354.0,Far North,sorghum,2020,3,12
+2020-03-20,318.0,Centre,sorghum,2020,3,12
+2020-03-20,339.0,East,sorghum,2020,3,12
+2020-03-20,311.0,North,sorghum,2020,3,12
+2020-03-20,292.0,South,sorghum,2020,3,12
+2020-03-20,307.0,Littoral,sorghum,2020,3,12
+2020-03-27,331.0,North West,sorghum,2020,3,13
+2020-03-27,338.0,South West,sorghum,2020,3,13
+2020-03-27,345.0,West,sorghum,2020,3,13
+2020-03-27,275.0,Adamawa,sorghum,2020,3,13
+2020-03-27,314.0,Far North,sorghum,2020,3,13
+2020-03-27,296.0,Centre,sorghum,2020,3,13
+2020-03-27,331.0,East,sorghum,2020,3,13
+2020-03-27,294.0,North,sorghum,2020,3,13
+2020-03-27,321.0,South,sorghum,2020,3,13
+2020-03-27,333.0,Littoral,sorghum,2020,3,13
+2020-04-03,265.0,North West,sorghum,2020,4,14
+2020-04-03,275.0,South West,sorghum,2020,4,14
+2020-04-03,305.0,West,sorghum,2020,4,14
+2020-04-03,261.0,Adamawa,sorghum,2020,4,14
+2020-04-03,270.0,Far North,sorghum,2020,4,14
+2020-04-03,336.0,Centre,sorghum,2020,4,14
+2020-04-03,288.0,East,sorghum,2020,4,14
+2020-04-03,297.0,North,sorghum,2020,4,14
+2020-04-03,259.0,South,sorghum,2020,4,14
+2020-04-03,305.0,Littoral,sorghum,2020,4,14
+2020-04-10,283.0,North West,sorghum,2020,4,15
+2020-04-10,299.0,South West,sorghum,2020,4,15
+2020-04-10,299.0,West,sorghum,2020,4,15
+2020-04-10,334.0,Adamawa,sorghum,2020,4,15
+2020-04-10,278.0,Far North,sorghum,2020,4,15
+2020-04-10,302.0,Centre,sorghum,2020,4,15
+2020-04-10,287.0,East,sorghum,2020,4,15
+2020-04-10,291.0,North,sorghum,2020,4,15
+2020-04-10,262.0,South,sorghum,2020,4,15
+2020-04-10,312.0,Littoral,sorghum,2020,4,15
+2020-04-17,284.0,North West,sorghum,2020,4,16
+2020-04-17,286.0,South West,sorghum,2020,4,16
+2020-04-17,279.0,West,sorghum,2020,4,16
+2020-04-17,269.0,Adamawa,sorghum,2020,4,16
+2020-04-17,285.0,Far North,sorghum,2020,4,16
+2020-04-17,254.0,Centre,sorghum,2020,4,16
+2020-04-17,269.0,East,sorghum,2020,4,16
+2020-04-17,311.0,North,sorghum,2020,4,16
+2020-04-17,315.0,South,sorghum,2020,4,16
+2020-04-17,305.0,Littoral,sorghum,2020,4,16
+2020-04-24,284.0,North West,sorghum,2020,4,17
+2020-04-24,297.0,South West,sorghum,2020,4,17
+2020-04-24,247.0,West,sorghum,2020,4,17
+2020-04-24,276.0,Adamawa,sorghum,2020,4,17
+2020-04-24,246.0,Far North,sorghum,2020,4,17
+2020-04-24,294.0,Centre,sorghum,2020,4,17
+2020-04-24,276.0,East,sorghum,2020,4,17
+2020-04-24,297.0,North,sorghum,2020,4,17
+2020-04-24,296.0,South,sorghum,2020,4,17
+2020-04-24,272.0,Littoral,sorghum,2020,4,17
+2020-05-01,262.0,North West,sorghum,2020,5,18
+2020-05-01,272.0,South West,sorghum,2020,5,18
+2020-05-01,242.0,West,sorghum,2020,5,18
+2020-05-01,294.0,Adamawa,sorghum,2020,5,18
+2020-05-01,293.0,Far North,sorghum,2020,5,18
+2020-05-01,245.0,Centre,sorghum,2020,5,18
+2020-05-01,275.0,East,sorghum,2020,5,18
+2020-05-01,228.0,North,sorghum,2020,5,18
+2020-05-01,272.0,South,sorghum,2020,5,18
+2020-05-01,269.0,Littoral,sorghum,2020,5,18
+2020-05-08,275.0,North West,sorghum,2020,5,19
+2020-05-08,240.0,South West,sorghum,2020,5,19
+2020-05-08,279.0,West,sorghum,2020,5,19
+2020-05-08,278.0,Adamawa,sorghum,2020,5,19
+2020-05-08,265.0,Far North,sorghum,2020,5,19
+2020-05-08,252.0,Centre,sorghum,2020,5,19
+2020-05-08,262.0,East,sorghum,2020,5,19
+2020-05-08,269.0,North,sorghum,2020,5,19
+2020-05-08,286.0,South,sorghum,2020,5,19
+2020-05-08,228.0,Littoral,sorghum,2020,5,19
+2020-05-15,250.0,North West,sorghum,2020,5,20
+2020-05-15,267.0,South West,sorghum,2020,5,20
+2020-05-15,231.0,West,sorghum,2020,5,20
+2020-05-15,270.0,Adamawa,sorghum,2020,5,20
+2020-05-15,268.0,Far North,sorghum,2020,5,20
+2020-05-15,262.0,Centre,sorghum,2020,5,20
+2020-05-15,274.0,East,sorghum,2020,5,20
+2020-05-15,282.0,North,sorghum,2020,5,20
+2020-05-15,278.0,South,sorghum,2020,5,20
+2020-05-15,230.0,Littoral,sorghum,2020,5,20
+2020-05-22,262.0,North West,sorghum,2020,5,21
+2020-05-22,243.0,South West,sorghum,2020,5,21
+2020-05-22,235.0,West,sorghum,2020,5,21
+2020-05-22,271.0,Adamawa,sorghum,2020,5,21
+2020-05-22,250.0,Far North,sorghum,2020,5,21
+2020-05-22,246.0,Centre,sorghum,2020,5,21
+2020-05-22,265.0,East,sorghum,2020,5,21
+2020-05-22,250.0,North,sorghum,2020,5,21
+2020-05-22,270.0,South,sorghum,2020,5,21
+2020-05-22,220.0,Littoral,sorghum,2020,5,21
+2020-05-29,223.0,North West,sorghum,2020,5,22
+2020-05-29,220.0,South West,sorghum,2020,5,22
+2020-05-29,223.0,West,sorghum,2020,5,22
+2020-05-29,255.0,Adamawa,sorghum,2020,5,22
+2020-05-29,250.0,Far North,sorghum,2020,5,22
+2020-05-29,223.0,Centre,sorghum,2020,5,22
+2020-05-29,225.0,East,sorghum,2020,5,22
+2020-05-29,215.0,North,sorghum,2020,5,22
+2020-05-29,235.0,South,sorghum,2020,5,22
+2020-05-29,232.0,Littoral,sorghum,2020,5,22
+2020-06-05,210.0,North West,sorghum,2020,6,23
+2020-06-05,252.0,South West,sorghum,2020,6,23
+2020-06-05,253.0,West,sorghum,2020,6,23
+2020-06-05,207.0,Adamawa,sorghum,2020,6,23
+2020-06-05,217.0,Far North,sorghum,2020,6,23
+2020-06-05,246.0,Centre,sorghum,2020,6,23
+2020-06-05,254.0,East,sorghum,2020,6,23
+2020-06-05,205.0,North,sorghum,2020,6,23
+2020-06-05,256.0,South,sorghum,2020,6,23
+2020-06-05,204.0,Littoral,sorghum,2020,6,23
+2020-06-12,247.0,North West,sorghum,2020,6,24
+2020-06-12,213.0,South West,sorghum,2020,6,24
+2020-06-12,231.0,West,sorghum,2020,6,24
+2020-06-12,203.0,Adamawa,sorghum,2020,6,24
+2020-06-12,211.0,Far North,sorghum,2020,6,24
+2020-06-12,237.0,Centre,sorghum,2020,6,24
+2020-06-12,250.0,East,sorghum,2020,6,24
+2020-06-12,251.0,North,sorghum,2020,6,24
+2020-06-12,240.0,South,sorghum,2020,6,24
+2020-06-12,242.0,Littoral,sorghum,2020,6,24
+2020-06-19,244.0,North West,sorghum,2020,6,25
+2020-06-19,190.0,South West,sorghum,2020,6,25
+2020-06-19,198.0,West,sorghum,2020,6,25
+2020-06-19,191.0,Adamawa,sorghum,2020,6,25
+2020-06-19,217.0,Far North,sorghum,2020,6,25
+2020-06-19,243.0,Centre,sorghum,2020,6,25
+2020-06-19,221.0,East,sorghum,2020,6,25
+2020-06-19,220.0,North,sorghum,2020,6,25
+2020-06-19,235.0,South,sorghum,2020,6,25
+2020-06-19,241.0,Littoral,sorghum,2020,6,25
+2020-06-26,197.0,North West,sorghum,2020,6,26
+2020-06-26,216.0,South West,sorghum,2020,6,26
+2020-06-26,208.0,West,sorghum,2020,6,26
+2020-06-26,206.0,Adamawa,sorghum,2020,6,26
+2020-06-26,199.0,Far North,sorghum,2020,6,26
+2020-06-26,238.0,Centre,sorghum,2020,6,26
+2020-06-26,213.0,East,sorghum,2020,6,26
+2020-06-26,218.0,North,sorghum,2020,6,26
+2020-06-26,203.0,South,sorghum,2020,6,26
+2020-06-26,242.0,Littoral,sorghum,2020,6,26
+2020-07-03,212.0,North West,sorghum,2020,7,27
+2020-07-03,178.0,South West,sorghum,2020,7,27
+2020-07-03,193.0,West,sorghum,2020,7,27
+2020-07-03,233.0,Adamawa,sorghum,2020,7,27
+2020-07-03,232.0,Far North,sorghum,2020,7,27
+2020-07-03,208.0,Centre,sorghum,2020,7,27
+2020-07-03,209.0,East,sorghum,2020,7,27
+2020-07-03,228.0,North,sorghum,2020,7,27
+2020-07-03,217.0,South,sorghum,2020,7,27
+2020-07-03,229.0,Littoral,sorghum,2020,7,27
+2020-07-10,201.0,North West,sorghum,2020,7,28
+2020-07-10,207.0,South West,sorghum,2020,7,28
+2020-07-10,177.0,West,sorghum,2020,7,28
+2020-07-10,205.0,Adamawa,sorghum,2020,7,28
+2020-07-10,213.0,Far North,sorghum,2020,7,28
+2020-07-10,196.0,Centre,sorghum,2020,7,28
+2020-07-10,199.0,East,sorghum,2020,7,28
+2020-07-10,193.0,North,sorghum,2020,7,28
+2020-07-10,224.0,South,sorghum,2020,7,28
+2020-07-10,198.0,Littoral,sorghum,2020,7,28
+2020-07-17,173.0,North West,sorghum,2020,7,29
+2020-07-17,168.0,South West,sorghum,2020,7,29
+2020-07-17,206.0,West,sorghum,2020,7,29
+2020-07-17,195.0,Adamawa,sorghum,2020,7,29
+2020-07-17,167.0,Far North,sorghum,2020,7,29
+2020-07-17,186.0,Centre,sorghum,2020,7,29
+2020-07-17,214.0,East,sorghum,2020,7,29
+2020-07-17,215.0,North,sorghum,2020,7,29
+2020-07-17,170.0,South,sorghum,2020,7,29
+2020-07-17,173.0,Littoral,sorghum,2020,7,29
+2020-07-24,198.0,North West,sorghum,2020,7,30
+2020-07-24,194.0,South West,sorghum,2020,7,30
+2020-07-24,202.0,West,sorghum,2020,7,30
+2020-07-24,198.0,Adamawa,sorghum,2020,7,30
+2020-07-24,201.0,Far North,sorghum,2020,7,30
+2020-07-24,167.0,Centre,sorghum,2020,7,30
+2020-07-24,193.0,East,sorghum,2020,7,30
+2020-07-24,201.0,North,sorghum,2020,7,30
+2020-07-24,191.0,South,sorghum,2020,7,30
+2020-07-24,164.0,Littoral,sorghum,2020,7,30
+2020-07-31,170.0,North West,sorghum,2020,7,31
+2020-07-31,207.0,South West,sorghum,2020,7,31
+2020-07-31,195.0,West,sorghum,2020,7,31
+2020-07-31,194.0,Adamawa,sorghum,2020,7,31
+2020-07-31,192.0,Far North,sorghum,2020,7,31
+2020-07-31,166.0,Centre,sorghum,2020,7,31
+2020-07-31,160.0,East,sorghum,2020,7,31
+2020-07-31,182.0,North,sorghum,2020,7,31
+2020-07-31,182.0,South,sorghum,2020,7,31
+2020-07-31,200.0,Littoral,sorghum,2020,7,31
+2020-08-07,157.0,North West,sorghum,2020,8,32
+2020-08-07,172.0,South West,sorghum,2020,8,32
+2020-08-07,165.0,West,sorghum,2020,8,32
+2020-08-07,166.0,Adamawa,sorghum,2020,8,32
+2020-08-07,165.0,Far North,sorghum,2020,8,32
+2020-08-07,164.0,Centre,sorghum,2020,8,32
+2020-08-07,168.0,East,sorghum,2020,8,32
+2020-08-07,179.0,North,sorghum,2020,8,32
+2020-08-07,174.0,South,sorghum,2020,8,32
+2020-08-07,156.0,Littoral,sorghum,2020,8,32
+2020-08-14,167.0,North West,sorghum,2020,8,33
+2020-08-14,186.0,South West,sorghum,2020,8,33
+2020-08-14,152.0,West,sorghum,2020,8,33
+2020-08-14,190.0,Adamawa,sorghum,2020,8,33
+2020-08-14,162.0,Far North,sorghum,2020,8,33
+2020-08-14,148.0,Centre,sorghum,2020,8,33
+2020-08-14,159.0,East,sorghum,2020,8,33
+2020-08-14,151.0,North,sorghum,2020,8,33
+2020-08-14,173.0,South,sorghum,2020,8,33
+2020-08-14,162.0,Littoral,sorghum,2020,8,33
+2020-08-21,171.0,North West,sorghum,2020,8,34
+2020-08-21,175.0,South West,sorghum,2020,8,34
+2020-08-21,177.0,West,sorghum,2020,8,34
+2020-08-21,162.0,Adamawa,sorghum,2020,8,34
+2020-08-21,156.0,Far North,sorghum,2020,8,34
+2020-08-21,167.0,Centre,sorghum,2020,8,34
+2020-08-21,154.0,East,sorghum,2020,8,34
+2020-08-21,164.0,North,sorghum,2020,8,34
+2020-08-21,175.0,South,sorghum,2020,8,34
+2020-08-21,174.0,Littoral,sorghum,2020,8,34
+2020-08-28,157.0,North West,sorghum,2020,8,35
+2020-08-28,152.0,South West,sorghum,2020,8,35
+2020-08-28,155.0,West,sorghum,2020,8,35
+2020-08-28,153.0,Adamawa,sorghum,2020,8,35
+2020-08-28,170.0,Far North,sorghum,2020,8,35
+2020-08-28,169.0,Centre,sorghum,2020,8,35
+2020-08-28,163.0,East,sorghum,2020,8,35
+2020-08-28,161.0,North,sorghum,2020,8,35
+2020-08-28,170.0,South,sorghum,2020,8,35
+2020-08-28,155.0,Littoral,sorghum,2020,8,35
+2020-09-04,155.0,North West,sorghum,2020,9,36
+2020-09-04,189.0,South West,sorghum,2020,9,36
+2020-09-04,181.0,West,sorghum,2020,9,36
+2020-09-04,168.0,Adamawa,sorghum,2020,9,36
+2020-09-04,157.0,Far North,sorghum,2020,9,36
+2020-09-04,159.0,Centre,sorghum,2020,9,36
+2020-09-04,156.0,East,sorghum,2020,9,36
+2020-09-04,158.0,North,sorghum,2020,9,36
+2020-09-04,170.0,South,sorghum,2020,9,36
+2020-09-04,161.0,Littoral,sorghum,2020,9,36
+2020-09-11,185.0,North West,sorghum,2020,9,37
+2020-09-11,189.0,South West,sorghum,2020,9,37
+2020-09-11,177.0,West,sorghum,2020,9,37
+2020-09-11,182.0,Adamawa,sorghum,2020,9,37
+2020-09-11,157.0,Far North,sorghum,2020,9,37
+2020-09-11,175.0,Centre,sorghum,2020,9,37
+2020-09-11,148.0,East,sorghum,2020,9,37
+2020-09-11,189.0,North,sorghum,2020,9,37
+2020-09-11,176.0,South,sorghum,2020,9,37
+2020-09-11,160.0,Littoral,sorghum,2020,9,37
+2020-09-18,164.0,North West,sorghum,2020,9,38
+2020-09-18,183.0,South West,sorghum,2020,9,38
+2020-09-18,168.0,West,sorghum,2020,9,38
+2020-09-18,170.0,Adamawa,sorghum,2020,9,38
+2020-09-18,186.0,Far North,sorghum,2020,9,38
+2020-09-18,194.0,Centre,sorghum,2020,9,38
+2020-09-18,159.0,East,sorghum,2020,9,38
+2020-09-18,164.0,North,sorghum,2020,9,38
+2020-09-18,174.0,South,sorghum,2020,9,38
+2020-09-18,180.0,Littoral,sorghum,2020,9,38
+2020-09-25,173.0,North West,sorghum,2020,9,39
+2020-09-25,188.0,South West,sorghum,2020,9,39
+2020-09-25,187.0,West,sorghum,2020,9,39
+2020-09-25,170.0,Adamawa,sorghum,2020,9,39
+2020-09-25,153.0,Far North,sorghum,2020,9,39
+2020-09-25,160.0,Centre,sorghum,2020,9,39
+2020-09-25,174.0,East,sorghum,2020,9,39
+2020-09-25,194.0,North,sorghum,2020,9,39
+2020-09-25,177.0,South,sorghum,2020,9,39
+2020-09-25,176.0,Littoral,sorghum,2020,9,39
+2020-10-02,162.0,North West,sorghum,2020,10,40
+2020-10-02,172.0,South West,sorghum,2020,10,40
+2020-10-02,203.0,West,sorghum,2020,10,40
+2020-10-02,197.0,Adamawa,sorghum,2020,10,40
+2020-10-02,188.0,Far North,sorghum,2020,10,40
+2020-10-02,174.0,Centre,sorghum,2020,10,40
+2020-10-02,182.0,East,sorghum,2020,10,40
+2020-10-02,170.0,North,sorghum,2020,10,40
+2020-10-02,187.0,South,sorghum,2020,10,40
+2020-10-02,175.0,Littoral,sorghum,2020,10,40
+2020-10-09,170.0,North West,sorghum,2020,10,41
+2020-10-09,175.0,South West,sorghum,2020,10,41
+2020-10-09,195.0,West,sorghum,2020,10,41
+2020-10-09,199.0,Adamawa,sorghum,2020,10,41
+2020-10-09,169.0,Far North,sorghum,2020,10,41
+2020-10-09,205.0,Centre,sorghum,2020,10,41
+2020-10-09,205.0,East,sorghum,2020,10,41
+2020-10-09,200.0,North,sorghum,2020,10,41
+2020-10-09,198.0,South,sorghum,2020,10,41
+2020-10-09,176.0,Littoral,sorghum,2020,10,41
+2020-10-16,176.0,North West,sorghum,2020,10,42
+2020-10-16,200.0,South West,sorghum,2020,10,42
+2020-10-16,185.0,West,sorghum,2020,10,42
+2020-10-16,215.0,Adamawa,sorghum,2020,10,42
+2020-10-16,190.0,Far North,sorghum,2020,10,42
+2020-10-16,175.0,Centre,sorghum,2020,10,42
+2020-10-16,216.0,East,sorghum,2020,10,42
+2020-10-16,193.0,North,sorghum,2020,10,42
+2020-10-16,193.0,South,sorghum,2020,10,42
+2020-10-16,187.0,Littoral,sorghum,2020,10,42
+2020-10-23,216.0,North West,sorghum,2020,10,43
+2020-10-23,187.0,South West,sorghum,2020,10,43
+2020-10-23,172.0,West,sorghum,2020,10,43
+2020-10-23,198.0,Adamawa,sorghum,2020,10,43
+2020-10-23,220.0,Far North,sorghum,2020,10,43
+2020-10-23,186.0,Centre,sorghum,2020,10,43
+2020-10-23,186.0,East,sorghum,2020,10,43
+2020-10-23,210.0,North,sorghum,2020,10,43
+2020-10-23,212.0,South,sorghum,2020,10,43
+2020-10-23,194.0,Littoral,sorghum,2020,10,43
+2020-10-30,191.0,North West,sorghum,2020,10,44
+2020-10-30,193.0,South West,sorghum,2020,10,44
+2020-10-30,188.0,West,sorghum,2020,10,44
+2020-10-30,183.0,Adamawa,sorghum,2020,10,44
+2020-10-30,189.0,Far North,sorghum,2020,10,44
+2020-10-30,172.0,Centre,sorghum,2020,10,44
+2020-10-30,208.0,East,sorghum,2020,10,44
+2020-10-30,207.0,North,sorghum,2020,10,44
+2020-10-30,195.0,South,sorghum,2020,10,44
+2020-10-30,188.0,Littoral,sorghum,2020,10,44
+2020-11-06,209.0,North West,sorghum,2020,11,45
+2020-11-06,238.0,South West,sorghum,2020,11,45
+2020-11-06,219.0,West,sorghum,2020,11,45
+2020-11-06,226.0,Adamawa,sorghum,2020,11,45
+2020-11-06,198.0,Far North,sorghum,2020,11,45
+2020-11-06,190.0,Centre,sorghum,2020,11,45
+2020-11-06,189.0,East,sorghum,2020,11,45
+2020-11-06,211.0,North,sorghum,2020,11,45
+2020-11-06,225.0,South,sorghum,2020,11,45
+2020-11-06,228.0,Littoral,sorghum,2020,11,45
+2020-11-13,197.0,North West,sorghum,2020,11,46
+2020-11-13,245.0,South West,sorghum,2020,11,46
+2020-11-13,234.0,West,sorghum,2020,11,46
+2020-11-13,205.0,Adamawa,sorghum,2020,11,46
+2020-11-13,235.0,Far North,sorghum,2020,11,46
+2020-11-13,225.0,Centre,sorghum,2020,11,46
+2020-11-13,216.0,East,sorghum,2020,11,46
+2020-11-13,209.0,North,sorghum,2020,11,46
+2020-11-13,222.0,South,sorghum,2020,11,46
+2020-11-13,208.0,Littoral,sorghum,2020,11,46
+2020-11-20,205.0,North West,sorghum,2020,11,47
+2020-11-20,252.0,South West,sorghum,2020,11,47
+2020-11-20,236.0,West,sorghum,2020,11,47
+2020-11-20,222.0,Adamawa,sorghum,2020,11,47
+2020-11-20,227.0,Far North,sorghum,2020,11,47
+2020-11-20,253.0,Centre,sorghum,2020,11,47
+2020-11-20,219.0,East,sorghum,2020,11,47
+2020-11-20,223.0,North,sorghum,2020,11,47
+2020-11-20,247.0,South,sorghum,2020,11,47
+2020-11-20,212.0,Littoral,sorghum,2020,11,47
+2020-11-27,228.0,North West,sorghum,2020,11,48
+2020-11-27,246.0,South West,sorghum,2020,11,48
+2020-11-27,258.0,West,sorghum,2020,11,48
+2020-11-27,248.0,Adamawa,sorghum,2020,11,48
+2020-11-27,208.0,Far North,sorghum,2020,11,48
+2020-11-27,212.0,Centre,sorghum,2020,11,48
+2020-11-27,223.0,East,sorghum,2020,11,48
+2020-11-27,242.0,North,sorghum,2020,11,48
+2020-11-27,229.0,South,sorghum,2020,11,48
+2020-11-27,253.0,Littoral,sorghum,2020,11,48
+2020-12-04,226.0,North West,sorghum,2020,12,49
+2020-12-04,240.0,South West,sorghum,2020,12,49
+2020-12-04,238.0,West,sorghum,2020,12,49
+2020-12-04,274.0,Adamawa,sorghum,2020,12,49
+2020-12-04,255.0,Far North,sorghum,2020,12,49
+2020-12-04,224.0,Centre,sorghum,2020,12,49
+2020-12-04,276.0,East,sorghum,2020,12,49
+2020-12-04,248.0,North,sorghum,2020,12,49
+2020-12-04,241.0,South,sorghum,2020,12,49
+2020-12-04,235.0,Littoral,sorghum,2020,12,49
+2020-12-11,267.0,North West,sorghum,2020,12,50
+2020-12-11,278.0,South West,sorghum,2020,12,50
+2020-12-11,288.0,West,sorghum,2020,12,50
+2020-12-11,306.0,Adamawa,sorghum,2020,12,50
+2020-12-11,289.0,Far North,sorghum,2020,12,50
+2020-12-11,245.0,Centre,sorghum,2020,12,50
+2020-12-11,289.0,East,sorghum,2020,12,50
+2020-12-11,242.0,North,sorghum,2020,12,50
+2020-12-11,273.0,South,sorghum,2020,12,50
+2020-12-11,275.0,Littoral,sorghum,2020,12,50
+2020-12-18,304.0,North West,sorghum,2020,12,51
+2020-12-18,246.0,South West,sorghum,2020,12,51
+2020-12-18,311.0,West,sorghum,2020,12,51
+2020-12-18,295.0,Adamawa,sorghum,2020,12,51
+2020-12-18,247.0,Far North,sorghum,2020,12,51
+2020-12-18,257.0,Centre,sorghum,2020,12,51
+2020-12-18,248.0,East,sorghum,2020,12,51
+2020-12-18,303.0,North,sorghum,2020,12,51
+2020-12-18,258.0,South,sorghum,2020,12,51
+2020-12-18,249.0,Littoral,sorghum,2020,12,51
+2020-12-25,282.0,North West,sorghum,2020,12,52
+2020-12-25,263.0,South West,sorghum,2020,12,52
+2020-12-25,316.0,West,sorghum,2020,12,52
+2020-12-25,309.0,Adamawa,sorghum,2020,12,52
+2020-12-25,268.0,Far North,sorghum,2020,12,52
+2020-12-25,280.0,Centre,sorghum,2020,12,52
+2020-12-25,284.0,East,sorghum,2020,12,52
+2020-12-25,301.0,North,sorghum,2020,12,52
+2020-12-25,277.0,South,sorghum,2020,12,52
+2020-12-25,286.0,Littoral,sorghum,2020,12,52
+2021-01-01,273.0,North West,sorghum,2021,1,53
+2021-01-01,299.0,South West,sorghum,2021,1,53
+2021-01-01,284.0,West,sorghum,2021,1,53
+2021-01-01,304.0,Adamawa,sorghum,2021,1,53
+2021-01-01,246.0,Far North,sorghum,2021,1,53
+2021-01-01,310.0,Centre,sorghum,2021,1,53
+2021-01-01,303.0,East,sorghum,2021,1,53
+2021-01-01,303.0,North,sorghum,2021,1,53
+2021-01-01,253.0,South,sorghum,2021,1,53
+2021-01-01,262.0,Littoral,sorghum,2021,1,53
+2021-01-08,258.0,North West,sorghum,2021,1,1
+2021-01-08,266.0,South West,sorghum,2021,1,1
+2021-01-08,260.0,West,sorghum,2021,1,1
+2021-01-08,252.0,Adamawa,sorghum,2021,1,1
+2021-01-08,290.0,Far North,sorghum,2021,1,1
+2021-01-08,264.0,Centre,sorghum,2021,1,1
+2021-01-08,321.0,East,sorghum,2021,1,1
+2021-01-08,285.0,North,sorghum,2021,1,1
+2021-01-08,273.0,South,sorghum,2021,1,1
+2021-01-08,315.0,Littoral,sorghum,2021,1,1
+2021-01-15,286.0,North West,sorghum,2021,1,2
+2021-01-15,250.0,South West,sorghum,2021,1,2
+2021-01-15,277.0,West,sorghum,2021,1,2
+2021-01-15,273.0,Adamawa,sorghum,2021,1,2
+2021-01-15,297.0,Far North,sorghum,2021,1,2
+2021-01-15,292.0,Centre,sorghum,2021,1,2
+2021-01-15,268.0,East,sorghum,2021,1,2
+2021-01-15,275.0,North,sorghum,2021,1,2
+2021-01-15,279.0,South,sorghum,2021,1,2
+2021-01-15,272.0,Littoral,sorghum,2021,1,2
+2021-01-22,288.0,North West,sorghum,2021,1,3
+2021-01-22,261.0,South West,sorghum,2021,1,3
+2021-01-22,285.0,West,sorghum,2021,1,3
+2021-01-22,301.0,Adamawa,sorghum,2021,1,3
+2021-01-22,285.0,Far North,sorghum,2021,1,3
+2021-01-22,281.0,Centre,sorghum,2021,1,3
+2021-01-22,280.0,East,sorghum,2021,1,3
+2021-01-22,302.0,North,sorghum,2021,1,3
+2021-01-22,301.0,South,sorghum,2021,1,3
+2021-01-22,301.0,Littoral,sorghum,2021,1,3
+2021-01-29,285.0,North West,sorghum,2021,1,4
+2021-01-29,315.0,South West,sorghum,2021,1,4
+2021-01-29,328.0,West,sorghum,2021,1,4
+2021-01-29,310.0,Adamawa,sorghum,2021,1,4
+2021-01-29,328.0,Far North,sorghum,2021,1,4
+2021-01-29,334.0,Centre,sorghum,2021,1,4
+2021-01-29,279.0,East,sorghum,2021,1,4
+2021-01-29,290.0,North,sorghum,2021,1,4
+2021-01-29,313.0,South,sorghum,2021,1,4
+2021-01-29,288.0,Littoral,sorghum,2021,1,4
+2021-02-05,291.0,North West,sorghum,2021,2,5
+2021-02-05,331.0,South West,sorghum,2021,2,5
+2021-02-05,290.0,West,sorghum,2021,2,5
+2021-02-05,278.0,Adamawa,sorghum,2021,2,5
+2021-02-05,341.0,Far North,sorghum,2021,2,5
+2021-02-05,291.0,Centre,sorghum,2021,2,5
+2021-02-05,325.0,East,sorghum,2021,2,5
+2021-02-05,289.0,North,sorghum,2021,2,5
+2021-02-05,280.0,South,sorghum,2021,2,5
+2021-02-05,330.0,Littoral,sorghum,2021,2,5
+2021-02-12,262.0,North West,sorghum,2021,2,6
+2021-02-12,283.0,South West,sorghum,2021,2,6
+2021-02-12,319.0,West,sorghum,2021,2,6
+2021-02-12,298.0,Adamawa,sorghum,2021,2,6
+2021-02-12,312.0,Far North,sorghum,2021,2,6
+2021-02-12,263.0,Centre,sorghum,2021,2,6
+2021-02-12,316.0,East,sorghum,2021,2,6
+2021-02-12,271.0,North,sorghum,2021,2,6
+2021-02-12,321.0,South,sorghum,2021,2,6
+2021-02-12,302.0,Littoral,sorghum,2021,2,6
+2021-02-19,287.0,North West,sorghum,2021,2,7
+2021-02-19,318.0,South West,sorghum,2021,2,7
+2021-02-19,327.0,West,sorghum,2021,2,7
+2021-02-19,273.0,Adamawa,sorghum,2021,2,7
+2021-02-19,318.0,Far North,sorghum,2021,2,7
+2021-02-19,264.0,Centre,sorghum,2021,2,7
+2021-02-19,289.0,East,sorghum,2021,2,7
+2021-02-19,329.0,North,sorghum,2021,2,7
+2021-02-19,330.0,South,sorghum,2021,2,7
+2021-02-19,279.0,Littoral,sorghum,2021,2,7
+2021-02-26,281.0,North West,sorghum,2021,2,8
+2021-02-26,278.0,South West,sorghum,2021,2,8
+2021-02-26,305.0,West,sorghum,2021,2,8
+2021-02-26,273.0,Adamawa,sorghum,2021,2,8
+2021-02-26,295.0,Far North,sorghum,2021,2,8
+2021-02-26,267.0,Centre,sorghum,2021,2,8
+2021-02-26,287.0,East,sorghum,2021,2,8
+2021-02-26,339.0,North,sorghum,2021,2,8
+2021-02-26,302.0,South,sorghum,2021,2,8
+2021-02-26,271.0,Littoral,sorghum,2021,2,8
+2021-03-05,306.0,North West,sorghum,2021,3,9
+2021-03-05,319.0,South West,sorghum,2021,3,9
+2021-03-05,343.0,West,sorghum,2021,3,9
+2021-03-05,302.0,Adamawa,sorghum,2021,3,9
+2021-03-05,322.0,Far North,sorghum,2021,3,9
+2021-03-05,304.0,Centre,sorghum,2021,3,9
+2021-03-05,347.0,East,sorghum,2021,3,9
+2021-03-05,309.0,North,sorghum,2021,3,9
+2021-03-05,340.0,South,sorghum,2021,3,9
+2021-03-05,309.0,Littoral,sorghum,2021,3,9
+2021-03-12,322.0,North West,sorghum,2021,3,10
+2021-03-12,299.0,South West,sorghum,2021,3,10
+2021-03-12,343.0,West,sorghum,2021,3,10
+2021-03-12,320.0,Adamawa,sorghum,2021,3,10
+2021-03-12,269.0,Far North,sorghum,2021,3,10
+2021-03-12,269.0,Centre,sorghum,2021,3,10
+2021-03-12,323.0,East,sorghum,2021,3,10
+2021-03-12,277.0,North,sorghum,2021,3,10
+2021-03-12,326.0,South,sorghum,2021,3,10
+2021-03-12,294.0,Littoral,sorghum,2021,3,10
+2021-03-19,277.0,North West,sorghum,2021,3,11
+2021-03-19,292.0,South West,sorghum,2021,3,11
+2021-03-19,310.0,West,sorghum,2021,3,11
+2021-03-19,269.0,Adamawa,sorghum,2021,3,11
+2021-03-19,279.0,Far North,sorghum,2021,3,11
+2021-03-19,273.0,Centre,sorghum,2021,3,11
+2021-03-19,325.0,East,sorghum,2021,3,11
+2021-03-19,308.0,North,sorghum,2021,3,11
+2021-03-19,294.0,South,sorghum,2021,3,11
+2021-03-19,332.0,Littoral,sorghum,2021,3,11
+2021-03-26,319.0,North West,sorghum,2021,3,12
+2021-03-26,335.0,South West,sorghum,2021,3,12
+2021-03-26,308.0,West,sorghum,2021,3,12
+2021-03-26,271.0,Adamawa,sorghum,2021,3,12
+2021-03-26,314.0,Far North,sorghum,2021,3,12
+2021-03-26,276.0,Centre,sorghum,2021,3,12
+2021-03-26,288.0,East,sorghum,2021,3,12
+2021-03-26,301.0,North,sorghum,2021,3,12
+2021-03-26,273.0,South,sorghum,2021,3,12
+2021-03-26,262.0,Littoral,sorghum,2021,3,12
+2021-04-02,262.0,North West,sorghum,2021,4,13
+2021-04-02,269.0,South West,sorghum,2021,4,13
+2021-04-02,325.0,West,sorghum,2021,4,13
+2021-04-02,285.0,Adamawa,sorghum,2021,4,13
+2021-04-02,336.0,Far North,sorghum,2021,4,13
+2021-04-02,291.0,Centre,sorghum,2021,4,13
+2021-04-02,324.0,East,sorghum,2021,4,13
+2021-04-02,281.0,North,sorghum,2021,4,13
+2021-04-02,266.0,South,sorghum,2021,4,13
+2021-04-02,331.0,Littoral,sorghum,2021,4,13
+2021-04-09,323.0,North West,sorghum,2021,4,14
+2021-04-09,306.0,South West,sorghum,2021,4,14
+2021-04-09,311.0,West,sorghum,2021,4,14
+2021-04-09,252.0,Adamawa,sorghum,2021,4,14
+2021-04-09,310.0,Far North,sorghum,2021,4,14
+2021-04-09,288.0,Centre,sorghum,2021,4,14
+2021-04-09,286.0,East,sorghum,2021,4,14
+2021-04-09,293.0,North,sorghum,2021,4,14
+2021-04-09,272.0,South,sorghum,2021,4,14
+2021-04-09,305.0,Littoral,sorghum,2021,4,14
+2021-04-16,262.0,North West,sorghum,2021,4,15
+2021-04-16,304.0,South West,sorghum,2021,4,15
+2021-04-16,266.0,West,sorghum,2021,4,15
+2021-04-16,265.0,Adamawa,sorghum,2021,4,15
+2021-04-16,253.0,Far North,sorghum,2021,4,15
+2021-04-16,261.0,Centre,sorghum,2021,4,15
+2021-04-16,270.0,East,sorghum,2021,4,15
+2021-04-16,269.0,North,sorghum,2021,4,15
+2021-04-16,277.0,South,sorghum,2021,4,15
+2021-04-16,256.0,Littoral,sorghum,2021,4,15
+2021-04-23,305.0,North West,sorghum,2021,4,16
+2021-04-23,245.0,South West,sorghum,2021,4,16
+2021-04-23,288.0,West,sorghum,2021,4,16
+2021-04-23,276.0,Adamawa,sorghum,2021,4,16
+2021-04-23,277.0,Far North,sorghum,2021,4,16
+2021-04-23,245.0,Centre,sorghum,2021,4,16
+2021-04-23,255.0,East,sorghum,2021,4,16
+2021-04-23,294.0,North,sorghum,2021,4,16
+2021-04-23,271.0,South,sorghum,2021,4,16
+2021-04-23,270.0,Littoral,sorghum,2021,4,16
+2021-04-30,279.0,North West,sorghum,2021,4,17
+2021-04-30,275.0,South West,sorghum,2021,4,17
+2021-04-30,245.0,West,sorghum,2021,4,17
+2021-04-30,279.0,Adamawa,sorghum,2021,4,17
+2021-04-30,259.0,Far North,sorghum,2021,4,17
+2021-04-30,267.0,Centre,sorghum,2021,4,17
+2021-04-30,283.0,East,sorghum,2021,4,17
+2021-04-30,256.0,North,sorghum,2021,4,17
+2021-04-30,276.0,South,sorghum,2021,4,17
+2021-04-30,267.0,Littoral,sorghum,2021,4,17
+2021-05-07,258.0,North West,sorghum,2021,5,18
+2021-05-07,283.0,South West,sorghum,2021,5,18
+2021-05-07,236.0,West,sorghum,2021,5,18
+2021-05-07,269.0,Adamawa,sorghum,2021,5,18
+2021-05-07,231.0,Far North,sorghum,2021,5,18
+2021-05-07,239.0,Centre,sorghum,2021,5,18
+2021-05-07,270.0,East,sorghum,2021,5,18
+2021-05-07,250.0,North,sorghum,2021,5,18
+2021-05-07,247.0,South,sorghum,2021,5,18
+2021-05-07,295.0,Littoral,sorghum,2021,5,18
+2021-05-14,265.0,North West,sorghum,2021,5,19
+2021-05-14,232.0,South West,sorghum,2021,5,19
+2021-05-14,275.0,West,sorghum,2021,5,19
+2021-05-14,264.0,Adamawa,sorghum,2021,5,19
+2021-05-14,255.0,Far North,sorghum,2021,5,19
+2021-05-14,233.0,Centre,sorghum,2021,5,19
+2021-05-14,249.0,East,sorghum,2021,5,19
+2021-05-14,290.0,North,sorghum,2021,5,19
+2021-05-14,240.0,South,sorghum,2021,5,19
+2021-05-14,243.0,Littoral,sorghum,2021,5,19
+2021-05-21,225.0,North West,sorghum,2021,5,20
+2021-05-21,269.0,South West,sorghum,2021,5,20
+2021-05-21,257.0,West,sorghum,2021,5,20
+2021-05-21,269.0,Adamawa,sorghum,2021,5,20
+2021-05-21,271.0,Far North,sorghum,2021,5,20
+2021-05-21,272.0,Centre,sorghum,2021,5,20
+2021-05-21,243.0,East,sorghum,2021,5,20
+2021-05-21,242.0,North,sorghum,2021,5,20
+2021-05-21,265.0,South,sorghum,2021,5,20
+2021-05-21,233.0,Littoral,sorghum,2021,5,20
+2021-05-28,257.0,North West,sorghum,2021,5,21
+2021-05-28,259.0,South West,sorghum,2021,5,21
+2021-05-28,214.0,West,sorghum,2021,5,21
+2021-05-28,213.0,Adamawa,sorghum,2021,5,21
+2021-05-28,220.0,Far North,sorghum,2021,5,21
+2021-05-28,230.0,Centre,sorghum,2021,5,21
+2021-05-28,241.0,East,sorghum,2021,5,21
+2021-05-28,238.0,North,sorghum,2021,5,21
+2021-05-28,261.0,South,sorghum,2021,5,21
+2021-05-28,216.0,Littoral,sorghum,2021,5,21
+2021-06-04,243.0,North West,sorghum,2021,6,22
+2021-06-04,234.0,South West,sorghum,2021,6,22
+2021-06-04,246.0,West,sorghum,2021,6,22
+2021-06-04,221.0,Adamawa,sorghum,2021,6,22
+2021-06-04,229.0,Far North,sorghum,2021,6,22
+2021-06-04,202.0,Centre,sorghum,2021,6,22
+2021-06-04,208.0,East,sorghum,2021,6,22
+2021-06-04,223.0,North,sorghum,2021,6,22
+2021-06-04,230.0,South,sorghum,2021,6,22
+2021-06-04,206.0,Littoral,sorghum,2021,6,22
+2021-06-11,234.0,North West,sorghum,2021,6,23
+2021-06-11,204.0,South West,sorghum,2021,6,23
+2021-06-11,234.0,West,sorghum,2021,6,23
+2021-06-11,216.0,Adamawa,sorghum,2021,6,23
+2021-06-11,194.0,Far North,sorghum,2021,6,23
+2021-06-11,207.0,Centre,sorghum,2021,6,23
+2021-06-11,216.0,East,sorghum,2021,6,23
+2021-06-11,234.0,North,sorghum,2021,6,23
+2021-06-11,199.0,South,sorghum,2021,6,23
+2021-06-11,208.0,Littoral,sorghum,2021,6,23
+2021-06-18,193.0,North West,sorghum,2021,6,24
+2021-06-18,223.0,South West,sorghum,2021,6,24
+2021-06-18,215.0,West,sorghum,2021,6,24
+2021-06-18,241.0,Adamawa,sorghum,2021,6,24
+2021-06-18,231.0,Far North,sorghum,2021,6,24
+2021-06-18,233.0,Centre,sorghum,2021,6,24
+2021-06-18,197.0,East,sorghum,2021,6,24
+2021-06-18,203.0,North,sorghum,2021,6,24
+2021-06-18,217.0,South,sorghum,2021,6,24
+2021-06-18,189.0,Littoral,sorghum,2021,6,24
+2021-06-25,190.0,North West,sorghum,2021,6,25
+2021-06-25,235.0,South West,sorghum,2021,6,25
+2021-06-25,187.0,West,sorghum,2021,6,25
+2021-06-25,193.0,Adamawa,sorghum,2021,6,25
+2021-06-25,190.0,Far North,sorghum,2021,6,25
+2021-06-25,214.0,Centre,sorghum,2021,6,25
+2021-06-25,232.0,East,sorghum,2021,6,25
+2021-06-25,197.0,North,sorghum,2021,6,25
+2021-06-25,231.0,South,sorghum,2021,6,25
+2021-06-25,197.0,Littoral,sorghum,2021,6,25
+2021-07-02,234.0,North West,sorghum,2021,7,26
+2021-07-02,226.0,South West,sorghum,2021,7,26
+2021-07-02,220.0,West,sorghum,2021,7,26
+2021-07-02,212.0,Adamawa,sorghum,2021,7,26
+2021-07-02,193.0,Far North,sorghum,2021,7,26
+2021-07-02,186.0,Centre,sorghum,2021,7,26
+2021-07-02,205.0,East,sorghum,2021,7,26
+2021-07-02,201.0,North,sorghum,2021,7,26
+2021-07-02,216.0,South,sorghum,2021,7,26
+2021-07-02,189.0,Littoral,sorghum,2021,7,26
+2021-07-09,196.0,North West,sorghum,2021,7,27
+2021-07-09,223.0,South West,sorghum,2021,7,27
+2021-07-09,204.0,West,sorghum,2021,7,27
+2021-07-09,189.0,Adamawa,sorghum,2021,7,27
+2021-07-09,190.0,Far North,sorghum,2021,7,27
+2021-07-09,195.0,Centre,sorghum,2021,7,27
+2021-07-09,188.0,East,sorghum,2021,7,27
+2021-07-09,211.0,North,sorghum,2021,7,27
+2021-07-09,232.0,South,sorghum,2021,7,27
+2021-07-09,229.0,Littoral,sorghum,2021,7,27
+2021-07-16,192.0,North West,sorghum,2021,7,28
+2021-07-16,221.0,South West,sorghum,2021,7,28
+2021-07-16,226.0,West,sorghum,2021,7,28
+2021-07-16,191.0,Adamawa,sorghum,2021,7,28
+2021-07-16,224.0,Far North,sorghum,2021,7,28
+2021-07-16,229.0,Centre,sorghum,2021,7,28
+2021-07-16,218.0,East,sorghum,2021,7,28
+2021-07-16,196.0,North,sorghum,2021,7,28
+2021-07-16,208.0,South,sorghum,2021,7,28
+2021-07-16,195.0,Littoral,sorghum,2021,7,28
+2021-07-23,217.0,North West,sorghum,2021,7,29
+2021-07-23,212.0,South West,sorghum,2021,7,29
+2021-07-23,214.0,West,sorghum,2021,7,29
+2021-07-23,198.0,Adamawa,sorghum,2021,7,29
+2021-07-23,217.0,Far North,sorghum,2021,7,29
+2021-07-23,209.0,Centre,sorghum,2021,7,29
+2021-07-23,216.0,East,sorghum,2021,7,29
+2021-07-23,182.0,North,sorghum,2021,7,29
+2021-07-23,195.0,South,sorghum,2021,7,29
+2021-07-23,212.0,Littoral,sorghum,2021,7,29
+2021-07-30,198.0,North West,sorghum,2021,7,30
+2021-07-30,209.0,South West,sorghum,2021,7,30
+2021-07-30,218.0,West,sorghum,2021,7,30
+2021-07-30,209.0,Adamawa,sorghum,2021,7,30
+2021-07-30,184.0,Far North,sorghum,2021,7,30
+2021-07-30,174.0,Centre,sorghum,2021,7,30
+2021-07-30,182.0,East,sorghum,2021,7,30
+2021-07-30,202.0,North,sorghum,2021,7,30
+2021-07-30,169.0,South,sorghum,2021,7,30
+2021-07-30,178.0,Littoral,sorghum,2021,7,30
+2021-08-06,168.0,North West,sorghum,2021,8,31
+2021-08-06,167.0,South West,sorghum,2021,8,31
+2021-08-06,193.0,West,sorghum,2021,8,31
+2021-08-06,174.0,Adamawa,sorghum,2021,8,31
+2021-08-06,177.0,Far North,sorghum,2021,8,31
+2021-08-06,174.0,Centre,sorghum,2021,8,31
+2021-08-06,194.0,East,sorghum,2021,8,31
+2021-08-06,168.0,North,sorghum,2021,8,31
+2021-08-06,213.0,South,sorghum,2021,8,31
+2021-08-06,171.0,Littoral,sorghum,2021,8,31
+2021-08-13,204.0,North West,sorghum,2021,8,32
+2021-08-13,196.0,South West,sorghum,2021,8,32
+2021-08-13,198.0,West,sorghum,2021,8,32
+2021-08-13,167.0,Adamawa,sorghum,2021,8,32
+2021-08-13,191.0,Far North,sorghum,2021,8,32
+2021-08-13,198.0,Centre,sorghum,2021,8,32
+2021-08-13,185.0,East,sorghum,2021,8,32
+2021-08-13,185.0,North,sorghum,2021,8,32
+2021-08-13,166.0,South,sorghum,2021,8,32
+2021-08-13,178.0,Littoral,sorghum,2021,8,32
+2021-08-20,176.0,North West,sorghum,2021,8,33
+2021-08-20,184.0,South West,sorghum,2021,8,33
+2021-08-20,158.0,West,sorghum,2021,8,33
+2021-08-20,185.0,Adamawa,sorghum,2021,8,33
+2021-08-20,162.0,Far North,sorghum,2021,8,33
+2021-08-20,173.0,Centre,sorghum,2021,8,33
+2021-08-20,183.0,East,sorghum,2021,8,33
+2021-08-20,171.0,North,sorghum,2021,8,33
+2021-08-20,172.0,South,sorghum,2021,8,33
+2021-08-20,194.0,Littoral,sorghum,2021,8,33
+2021-08-27,167.0,North West,sorghum,2021,8,34
+2021-08-27,183.0,South West,sorghum,2021,8,34
+2021-08-27,192.0,West,sorghum,2021,8,34
+2021-08-27,160.0,Adamawa,sorghum,2021,8,34
+2021-08-27,155.0,Far North,sorghum,2021,8,34
+2021-08-27,191.0,Centre,sorghum,2021,8,34
+2021-08-27,178.0,East,sorghum,2021,8,34
+2021-08-27,191.0,North,sorghum,2021,8,34
+2021-08-27,162.0,South,sorghum,2021,8,34
+2021-08-27,191.0,Littoral,sorghum,2021,8,34
+2021-09-03,183.0,North West,sorghum,2021,9,35
+2021-09-03,171.0,South West,sorghum,2021,9,35
+2021-09-03,164.0,West,sorghum,2021,9,35
+2021-09-03,176.0,Adamawa,sorghum,2021,9,35
+2021-09-03,186.0,Far North,sorghum,2021,9,35
+2021-09-03,202.0,Centre,sorghum,2021,9,35
+2021-09-03,193.0,East,sorghum,2021,9,35
+2021-09-03,175.0,North,sorghum,2021,9,35
+2021-09-03,190.0,South,sorghum,2021,9,35
+2021-09-03,160.0,Littoral,sorghum,2021,9,35
+2021-09-10,181.0,North West,sorghum,2021,9,36
+2021-09-10,181.0,South West,sorghum,2021,9,36
+2021-09-10,209.0,West,sorghum,2021,9,36
+2021-09-10,180.0,Adamawa,sorghum,2021,9,36
+2021-09-10,164.0,Far North,sorghum,2021,9,36
+2021-09-10,164.0,Centre,sorghum,2021,9,36
+2021-09-10,195.0,East,sorghum,2021,9,36
+2021-09-10,175.0,North,sorghum,2021,9,36
+2021-09-10,203.0,South,sorghum,2021,9,36
+2021-09-10,184.0,Littoral,sorghum,2021,9,36
+2021-09-17,185.0,North West,sorghum,2021,9,37
+2021-09-17,201.0,South West,sorghum,2021,9,37
+2021-09-17,200.0,West,sorghum,2021,9,37
+2021-09-17,200.0,Adamawa,sorghum,2021,9,37
+2021-09-17,207.0,Far North,sorghum,2021,9,37
+2021-09-17,207.0,Centre,sorghum,2021,9,37
+2021-09-17,197.0,East,sorghum,2021,9,37
+2021-09-17,212.0,North,sorghum,2021,9,37
+2021-09-17,165.0,South,sorghum,2021,9,37
+2021-09-17,211.0,Littoral,sorghum,2021,9,37
+2021-09-24,166.0,North West,sorghum,2021,9,38
+2021-09-24,169.0,South West,sorghum,2021,9,38
+2021-09-24,198.0,West,sorghum,2021,9,38
+2021-09-24,178.0,Adamawa,sorghum,2021,9,38
+2021-09-24,179.0,Far North,sorghum,2021,9,38
+2021-09-24,171.0,Centre,sorghum,2021,9,38
+2021-09-24,169.0,East,sorghum,2021,9,38
+2021-09-24,164.0,North,sorghum,2021,9,38
+2021-09-24,168.0,South,sorghum,2021,9,38
+2021-09-24,186.0,Littoral,sorghum,2021,9,38
+2021-10-01,189.0,North West,sorghum,2021,10,39
+2021-10-01,218.0,South West,sorghum,2021,10,39
+2021-10-01,187.0,West,sorghum,2021,10,39
+2021-10-01,175.0,Adamawa,sorghum,2021,10,39
+2021-10-01,219.0,Far North,sorghum,2021,10,39
+2021-10-01,198.0,Centre,sorghum,2021,10,39
+2021-10-01,220.0,East,sorghum,2021,10,39
+2021-10-01,190.0,North,sorghum,2021,10,39
+2021-10-01,209.0,South,sorghum,2021,10,39
+2021-10-01,175.0,Littoral,sorghum,2021,10,39
+2021-10-08,223.0,North West,sorghum,2021,10,40
+2021-10-08,186.0,South West,sorghum,2021,10,40
+2021-10-08,181.0,West,sorghum,2021,10,40
+2021-10-08,182.0,Adamawa,sorghum,2021,10,40
+2021-10-08,207.0,Far North,sorghum,2021,10,40
+2021-10-08,193.0,Centre,sorghum,2021,10,40
+2021-10-08,229.0,East,sorghum,2021,10,40
+2021-10-08,223.0,North,sorghum,2021,10,40
+2021-10-08,220.0,South,sorghum,2021,10,40
+2021-10-08,221.0,Littoral,sorghum,2021,10,40
+2021-10-15,207.0,North West,sorghum,2021,10,41
+2021-10-15,179.0,South West,sorghum,2021,10,41
+2021-10-15,184.0,West,sorghum,2021,10,41
+2021-10-15,214.0,Adamawa,sorghum,2021,10,41
+2021-10-15,207.0,Far North,sorghum,2021,10,41
+2021-10-15,207.0,Centre,sorghum,2021,10,41
+2021-10-15,223.0,East,sorghum,2021,10,41
+2021-10-15,208.0,North,sorghum,2021,10,41
+2021-10-15,196.0,South,sorghum,2021,10,41
+2021-10-15,188.0,Littoral,sorghum,2021,10,41
+2021-10-22,189.0,North West,sorghum,2021,10,42
+2021-10-22,186.0,South West,sorghum,2021,10,42
+2021-10-22,173.0,West,sorghum,2021,10,42
+2021-10-22,185.0,Adamawa,sorghum,2021,10,42
+2021-10-22,215.0,Far North,sorghum,2021,10,42
+2021-10-22,210.0,Centre,sorghum,2021,10,42
+2021-10-22,204.0,East,sorghum,2021,10,42
+2021-10-22,219.0,North,sorghum,2021,10,42
+2021-10-22,185.0,South,sorghum,2021,10,42
+2021-10-22,202.0,Littoral,sorghum,2021,10,42
+2021-10-29,180.0,North West,sorghum,2021,10,43
+2021-10-29,211.0,South West,sorghum,2021,10,43
+2021-10-29,173.0,West,sorghum,2021,10,43
+2021-10-29,215.0,Adamawa,sorghum,2021,10,43
+2021-10-29,187.0,Far North,sorghum,2021,10,43
+2021-10-29,180.0,Centre,sorghum,2021,10,43
+2021-10-29,185.0,East,sorghum,2021,10,43
+2021-10-29,189.0,North,sorghum,2021,10,43
+2021-10-29,196.0,South,sorghum,2021,10,43
+2021-10-29,198.0,Littoral,sorghum,2021,10,43
+2021-11-05,204.0,North West,sorghum,2021,11,44
+2021-11-05,204.0,South West,sorghum,2021,11,44
+2021-11-05,195.0,West,sorghum,2021,11,44
+2021-11-05,201.0,Adamawa,sorghum,2021,11,44
+2021-11-05,205.0,Far North,sorghum,2021,11,44
+2021-11-05,212.0,Centre,sorghum,2021,11,44
+2021-11-05,187.0,East,sorghum,2021,11,44
+2021-11-05,222.0,North,sorghum,2021,11,44
+2021-11-05,217.0,South,sorghum,2021,11,44
+2021-11-05,196.0,Littoral,sorghum,2021,11,44
+2021-11-12,194.0,North West,sorghum,2021,11,45
+2021-11-12,241.0,South West,sorghum,2021,11,45
+2021-11-12,223.0,West,sorghum,2021,11,45
+2021-11-12,229.0,Adamawa,sorghum,2021,11,45
+2021-11-12,233.0,Far North,sorghum,2021,11,45
+2021-11-12,220.0,Centre,sorghum,2021,11,45
+2021-11-12,204.0,East,sorghum,2021,11,45
+2021-11-12,247.0,North,sorghum,2021,11,45
+2021-11-12,237.0,South,sorghum,2021,11,45
+2021-11-12,226.0,Littoral,sorghum,2021,11,45
+2021-11-19,225.0,North West,sorghum,2021,11,46
+2021-11-19,228.0,South West,sorghum,2021,11,46
+2021-11-19,248.0,West,sorghum,2021,11,46
+2021-11-19,199.0,Adamawa,sorghum,2021,11,46
+2021-11-19,251.0,Far North,sorghum,2021,11,46
+2021-11-19,201.0,Centre,sorghum,2021,11,46
+2021-11-19,235.0,East,sorghum,2021,11,46
+2021-11-19,218.0,North,sorghum,2021,11,46
+2021-11-19,239.0,South,sorghum,2021,11,46
+2021-11-19,203.0,Littoral,sorghum,2021,11,46
+2021-11-26,240.0,North West,sorghum,2021,11,47
+2021-11-26,214.0,South West,sorghum,2021,11,47
+2021-11-26,211.0,West,sorghum,2021,11,47
+2021-11-26,248.0,Adamawa,sorghum,2021,11,47
+2021-11-26,213.0,Far North,sorghum,2021,11,47
+2021-11-26,213.0,Centre,sorghum,2021,11,47
+2021-11-26,236.0,East,sorghum,2021,11,47
+2021-11-26,222.0,North,sorghum,2021,11,47
+2021-11-26,222.0,South,sorghum,2021,11,47
+2021-11-26,239.0,Littoral,sorghum,2021,11,47
+2021-12-03,239.0,North West,sorghum,2021,12,48
+2021-12-03,235.0,South West,sorghum,2021,12,48
+2021-12-03,255.0,West,sorghum,2021,12,48
+2021-12-03,240.0,Adamawa,sorghum,2021,12,48
+2021-12-03,226.0,Far North,sorghum,2021,12,48
+2021-12-03,266.0,Centre,sorghum,2021,12,48
+2021-12-03,260.0,East,sorghum,2021,12,48
+2021-12-03,234.0,North,sorghum,2021,12,48
+2021-12-03,259.0,South,sorghum,2021,12,48
+2021-12-03,285.0,Littoral,sorghum,2021,12,48
+2021-12-10,234.0,North West,sorghum,2021,12,49
+2021-12-10,259.0,South West,sorghum,2021,12,49
+2021-12-10,229.0,West,sorghum,2021,12,49
+2021-12-10,256.0,Adamawa,sorghum,2021,12,49
+2021-12-10,291.0,Far North,sorghum,2021,12,49
+2021-12-10,260.0,Centre,sorghum,2021,12,49
+2021-12-10,266.0,East,sorghum,2021,12,49
+2021-12-10,238.0,North,sorghum,2021,12,49
+2021-12-10,228.0,South,sorghum,2021,12,49
+2021-12-10,297.0,Littoral,sorghum,2021,12,49
+2021-12-17,261.0,North West,sorghum,2021,12,50
+2021-12-17,256.0,South West,sorghum,2021,12,50
+2021-12-17,277.0,West,sorghum,2021,12,50
+2021-12-17,290.0,Adamawa,sorghum,2021,12,50
+2021-12-17,254.0,Far North,sorghum,2021,12,50
+2021-12-17,274.0,Centre,sorghum,2021,12,50
+2021-12-17,260.0,East,sorghum,2021,12,50
+2021-12-17,271.0,North,sorghum,2021,12,50
+2021-12-17,248.0,South,sorghum,2021,12,50
+2021-12-17,273.0,Littoral,sorghum,2021,12,50
+2021-12-24,286.0,North West,sorghum,2021,12,51
+2021-12-24,255.0,South West,sorghum,2021,12,51
+2021-12-24,278.0,West,sorghum,2021,12,51
+2021-12-24,291.0,Adamawa,sorghum,2021,12,51
+2021-12-24,270.0,Far North,sorghum,2021,12,51
+2021-12-24,283.0,Centre,sorghum,2021,12,51
+2021-12-24,254.0,East,sorghum,2021,12,51
+2021-12-24,300.0,North,sorghum,2021,12,51
+2021-12-24,309.0,South,sorghum,2021,12,51
+2021-12-24,265.0,Littoral,sorghum,2021,12,51
+2021-12-31,303.0,North West,sorghum,2021,12,52
+2021-12-31,250.0,South West,sorghum,2021,12,52
+2021-12-31,262.0,West,sorghum,2021,12,52
+2021-12-31,278.0,Adamawa,sorghum,2021,12,52
+2021-12-31,272.0,Far North,sorghum,2021,12,52
+2021-12-31,290.0,Centre,sorghum,2021,12,52
+2021-12-31,286.0,East,sorghum,2021,12,52
+2021-12-31,250.0,North,sorghum,2021,12,52
+2021-12-31,253.0,South,sorghum,2021,12,52
+2021-12-31,247.0,Littoral,sorghum,2021,12,52
+2022-01-07,317.0,North West,sorghum,2022,1,1
+2022-01-07,293.0,South West,sorghum,2022,1,1
+2022-01-07,266.0,West,sorghum,2022,1,1
+2022-01-07,300.0,Adamawa,sorghum,2022,1,1
+2022-01-07,290.0,Far North,sorghum,2022,1,1
+2022-01-07,283.0,Centre,sorghum,2022,1,1
+2022-01-07,280.0,East,sorghum,2022,1,1
+2022-01-07,302.0,North,sorghum,2022,1,1
+2022-01-07,299.0,South,sorghum,2022,1,1
+2022-01-07,263.0,Littoral,sorghum,2022,1,1
+2022-01-14,324.0,North West,sorghum,2022,1,2
+2022-01-14,310.0,South West,sorghum,2022,1,2
+2022-01-14,302.0,West,sorghum,2022,1,2
+2022-01-14,319.0,Adamawa,sorghum,2022,1,2
+2022-01-14,271.0,Far North,sorghum,2022,1,2
+2022-01-14,332.0,Centre,sorghum,2022,1,2
+2022-01-14,281.0,East,sorghum,2022,1,2
+2022-01-14,280.0,North,sorghum,2022,1,2
+2022-01-14,324.0,South,sorghum,2022,1,2
+2022-01-14,286.0,Littoral,sorghum,2022,1,2
+2022-01-21,302.0,North West,sorghum,2022,1,3
+2022-01-21,276.0,South West,sorghum,2022,1,3
+2022-01-21,316.0,West,sorghum,2022,1,3
+2022-01-21,271.0,Adamawa,sorghum,2022,1,3
+2022-01-21,329.0,Far North,sorghum,2022,1,3
+2022-01-21,287.0,Centre,sorghum,2022,1,3
+2022-01-21,295.0,East,sorghum,2022,1,3
+2022-01-21,260.0,North,sorghum,2022,1,3
+2022-01-21,335.0,South,sorghum,2022,1,3
+2022-01-21,322.0,Littoral,sorghum,2022,1,3
+2022-01-28,304.0,North West,sorghum,2022,1,4
+2022-01-28,343.0,South West,sorghum,2022,1,4
+2022-01-28,344.0,West,sorghum,2022,1,4
+2022-01-28,311.0,Adamawa,sorghum,2022,1,4
+2022-01-28,287.0,Far North,sorghum,2022,1,4
+2022-01-28,308.0,Centre,sorghum,2022,1,4
+2022-01-28,294.0,East,sorghum,2022,1,4
+2022-01-28,304.0,North,sorghum,2022,1,4
+2022-01-28,342.0,South,sorghum,2022,1,4
+2022-01-28,291.0,Littoral,sorghum,2022,1,4
+2022-02-04,318.0,North West,sorghum,2022,2,5
+2022-02-04,339.0,South West,sorghum,2022,2,5
+2022-02-04,275.0,West,sorghum,2022,2,5
+2022-02-04,332.0,Adamawa,sorghum,2022,2,5
+2022-02-04,315.0,Far North,sorghum,2022,2,5
+2022-02-04,304.0,Centre,sorghum,2022,2,5
+2022-02-04,335.0,East,sorghum,2022,2,5
+2022-02-04,293.0,North,sorghum,2022,2,5
+2022-02-04,345.0,South,sorghum,2022,2,5
+2022-02-04,328.0,Littoral,sorghum,2022,2,5
+2022-02-11,336.0,North West,sorghum,2022,2,6
+2022-02-11,328.0,South West,sorghum,2022,2,6
+2022-02-11,301.0,West,sorghum,2022,2,6
+2022-02-11,336.0,Adamawa,sorghum,2022,2,6
+2022-02-11,346.0,Far North,sorghum,2022,2,6
+2022-02-11,284.0,Centre,sorghum,2022,2,6
+2022-02-11,315.0,East,sorghum,2022,2,6
+2022-02-11,355.0,North,sorghum,2022,2,6
+2022-02-11,338.0,South,sorghum,2022,2,6
+2022-02-11,336.0,Littoral,sorghum,2022,2,6
+2022-02-18,354.0,North West,sorghum,2022,2,7
+2022-02-18,320.0,South West,sorghum,2022,2,7
+2022-02-18,301.0,West,sorghum,2022,2,7
+2022-02-18,292.0,Adamawa,sorghum,2022,2,7
+2022-02-18,330.0,Far North,sorghum,2022,2,7
+2022-02-18,345.0,Centre,sorghum,2022,2,7
+2022-02-18,300.0,East,sorghum,2022,2,7
+2022-02-18,322.0,North,sorghum,2022,2,7
+2022-02-18,335.0,South,sorghum,2022,2,7
+2022-02-18,299.0,Littoral,sorghum,2022,2,7
+2022-02-25,296.0,North West,sorghum,2022,2,8
+2022-02-25,324.0,South West,sorghum,2022,2,8
+2022-02-25,334.0,West,sorghum,2022,2,8
+2022-02-25,326.0,Adamawa,sorghum,2022,2,8
+2022-02-25,333.0,Far North,sorghum,2022,2,8
+2022-02-25,322.0,Centre,sorghum,2022,2,8
+2022-02-25,343.0,East,sorghum,2022,2,8
+2022-02-25,342.0,North,sorghum,2022,2,8
+2022-02-25,340.0,South,sorghum,2022,2,8
+2022-02-25,321.0,Littoral,sorghum,2022,2,8
+2022-03-04,345.0,North West,sorghum,2022,3,9
+2022-03-04,344.0,South West,sorghum,2022,3,9
+2022-03-04,349.0,West,sorghum,2022,3,9
+2022-03-04,311.0,Adamawa,sorghum,2022,3,9
+2022-03-04,354.0,Far North,sorghum,2022,3,9
+2022-03-04,293.0,Centre,sorghum,2022,3,9
+2022-03-04,354.0,East,sorghum,2022,3,9
+2022-03-04,322.0,North,sorghum,2022,3,9
+2022-03-04,289.0,South,sorghum,2022,3,9
+2022-03-04,337.0,Littoral,sorghum,2022,3,9
+2022-03-11,294.0,North West,sorghum,2022,3,10
+2022-03-11,287.0,South West,sorghum,2022,3,10
+2022-03-11,283.0,West,sorghum,2022,3,10
+2022-03-11,272.0,Adamawa,sorghum,2022,3,10
+2022-03-11,332.0,Far North,sorghum,2022,3,10
+2022-03-11,309.0,Centre,sorghum,2022,3,10
+2022-03-11,350.0,East,sorghum,2022,3,10
+2022-03-11,305.0,North,sorghum,2022,3,10
+2022-03-11,339.0,South,sorghum,2022,3,10
+2022-03-11,349.0,Littoral,sorghum,2022,3,10
+2022-03-18,346.0,North West,sorghum,2022,3,11
+2022-03-18,306.0,South West,sorghum,2022,3,11
+2022-03-18,292.0,West,sorghum,2022,3,11
+2022-03-18,343.0,Adamawa,sorghum,2022,3,11
+2022-03-18,325.0,Far North,sorghum,2022,3,11
+2022-03-18,278.0,Centre,sorghum,2022,3,11
+2022-03-18,343.0,East,sorghum,2022,3,11
+2022-03-18,356.0,North,sorghum,2022,3,11
+2022-03-18,278.0,South,sorghum,2022,3,11
+2022-03-18,299.0,Littoral,sorghum,2022,3,11
+2022-03-25,338.0,North West,sorghum,2022,3,12
+2022-03-25,319.0,South West,sorghum,2022,3,12
+2022-03-25,352.0,West,sorghum,2022,3,12
+2022-03-25,346.0,Adamawa,sorghum,2022,3,12
+2022-03-25,285.0,Far North,sorghum,2022,3,12
+2022-03-25,326.0,Centre,sorghum,2022,3,12
+2022-03-25,324.0,East,sorghum,2022,3,12
+2022-03-25,279.0,North,sorghum,2022,3,12
+2022-03-25,278.0,South,sorghum,2022,3,12
+2022-03-25,317.0,Littoral,sorghum,2022,3,12
+2022-04-01,289.0,North West,sorghum,2022,4,13
+2022-04-01,315.0,South West,sorghum,2022,4,13
+2022-04-01,301.0,West,sorghum,2022,4,13
+2022-04-01,343.0,Adamawa,sorghum,2022,4,13
+2022-04-01,295.0,Far North,sorghum,2022,4,13
+2022-04-01,341.0,Centre,sorghum,2022,4,13
+2022-04-01,302.0,East,sorghum,2022,4,13
+2022-04-01,317.0,North,sorghum,2022,4,13
+2022-04-01,293.0,South,sorghum,2022,4,13
+2022-04-01,336.0,Littoral,sorghum,2022,4,13
+2022-04-08,311.0,North West,sorghum,2022,4,14
+2022-04-08,308.0,South West,sorghum,2022,4,14
+2022-04-08,296.0,West,sorghum,2022,4,14
+2022-04-08,270.0,Adamawa,sorghum,2022,4,14
+2022-04-08,295.0,Far North,sorghum,2022,4,14
+2022-04-08,320.0,Centre,sorghum,2022,4,14
+2022-04-08,296.0,East,sorghum,2022,4,14
+2022-04-08,320.0,North,sorghum,2022,4,14
+2022-04-08,270.0,South,sorghum,2022,4,14
+2022-04-08,311.0,Littoral,sorghum,2022,4,14
+2022-04-15,307.0,North West,sorghum,2022,4,15
+2022-04-15,289.0,South West,sorghum,2022,4,15
+2022-04-15,305.0,West,sorghum,2022,4,15
+2022-04-15,324.0,Adamawa,sorghum,2022,4,15
+2022-04-15,284.0,Far North,sorghum,2022,4,15
+2022-04-15,325.0,Centre,sorghum,2022,4,15
+2022-04-15,256.0,East,sorghum,2022,4,15
+2022-04-15,253.0,North,sorghum,2022,4,15
+2022-04-15,290.0,South,sorghum,2022,4,15
+2022-04-15,317.0,Littoral,sorghum,2022,4,15
+2022-04-22,273.0,North West,sorghum,2022,4,16
+2022-04-22,307.0,South West,sorghum,2022,4,16
+2022-04-22,296.0,West,sorghum,2022,4,16
+2022-04-22,276.0,Adamawa,sorghum,2022,4,16
+2022-04-22,276.0,Far North,sorghum,2022,4,16
+2022-04-22,259.0,Centre,sorghum,2022,4,16
+2022-04-22,295.0,East,sorghum,2022,4,16
+2022-04-22,288.0,North,sorghum,2022,4,16
+2022-04-22,276.0,South,sorghum,2022,4,16
+2022-04-22,329.0,Littoral,sorghum,2022,4,16
+2022-04-29,292.0,North West,sorghum,2022,4,17
+2022-04-29,266.0,South West,sorghum,2022,4,17
+2022-04-29,302.0,West,sorghum,2022,4,17
+2022-04-29,325.0,Adamawa,sorghum,2022,4,17
+2022-04-29,321.0,Far North,sorghum,2022,4,17
+2022-04-29,258.0,Centre,sorghum,2022,4,17
+2022-04-29,256.0,East,sorghum,2022,4,17
+2022-04-29,326.0,North,sorghum,2022,4,17
+2022-04-29,267.0,South,sorghum,2022,4,17
+2022-04-29,294.0,Littoral,sorghum,2022,4,17
+2022-05-06,253.0,North West,sorghum,2022,5,18
+2022-05-06,312.0,South West,sorghum,2022,5,18
+2022-05-06,257.0,West,sorghum,2022,5,18
+2022-05-06,296.0,Adamawa,sorghum,2022,5,18
+2022-05-06,252.0,Far North,sorghum,2022,5,18
+2022-05-06,259.0,Centre,sorghum,2022,5,18
+2022-05-06,286.0,East,sorghum,2022,5,18
+2022-05-06,251.0,North,sorghum,2022,5,18
+2022-05-06,262.0,South,sorghum,2022,5,18
+2022-05-06,258.0,Littoral,sorghum,2022,5,18
+2022-05-13,270.0,North West,sorghum,2022,5,19
+2022-05-13,247.0,South West,sorghum,2022,5,19
+2022-05-13,296.0,West,sorghum,2022,5,19
+2022-05-13,247.0,Adamawa,sorghum,2022,5,19
+2022-05-13,285.0,Far North,sorghum,2022,5,19
+2022-05-13,254.0,Centre,sorghum,2022,5,19
+2022-05-13,294.0,East,sorghum,2022,5,19
+2022-05-13,310.0,North,sorghum,2022,5,19
+2022-05-13,315.0,South,sorghum,2022,5,19
+2022-05-13,283.0,Littoral,sorghum,2022,5,19
+2022-05-20,272.0,North West,sorghum,2022,5,20
+2022-05-20,236.0,South West,sorghum,2022,5,20
+2022-05-20,289.0,West,sorghum,2022,5,20
+2022-05-20,302.0,Adamawa,sorghum,2022,5,20
+2022-05-20,265.0,Far North,sorghum,2022,5,20
+2022-05-20,290.0,Centre,sorghum,2022,5,20
+2022-05-20,291.0,East,sorghum,2022,5,20
+2022-05-20,290.0,North,sorghum,2022,5,20
+2022-05-20,288.0,South,sorghum,2022,5,20
+2022-05-20,249.0,Littoral,sorghum,2022,5,20
+2022-05-27,273.0,North West,sorghum,2022,5,21
+2022-05-27,224.0,South West,sorghum,2022,5,21
+2022-05-27,287.0,West,sorghum,2022,5,21
+2022-05-27,281.0,Adamawa,sorghum,2022,5,21
+2022-05-27,271.0,Far North,sorghum,2022,5,21
+2022-05-27,230.0,Centre,sorghum,2022,5,21
+2022-05-27,281.0,East,sorghum,2022,5,21
+2022-05-27,284.0,North,sorghum,2022,5,21
+2022-05-27,271.0,South,sorghum,2022,5,21
+2022-05-27,291.0,Littoral,sorghum,2022,5,21
+2022-06-03,219.0,North West,sorghum,2022,6,22
+2022-06-03,260.0,South West,sorghum,2022,6,22
+2022-06-03,247.0,West,sorghum,2022,6,22
+2022-06-03,223.0,Adamawa,sorghum,2022,6,22
+2022-06-03,256.0,Far North,sorghum,2022,6,22
+2022-06-03,265.0,Centre,sorghum,2022,6,22
+2022-06-03,224.0,East,sorghum,2022,6,22
+2022-06-03,265.0,North,sorghum,2022,6,22
+2022-06-03,219.0,South,sorghum,2022,6,22
+2022-06-03,252.0,Littoral,sorghum,2022,6,22
+2022-06-10,237.0,North West,sorghum,2022,6,23
+2022-06-10,228.0,South West,sorghum,2022,6,23
+2022-06-10,239.0,West,sorghum,2022,6,23
+2022-06-10,228.0,Adamawa,sorghum,2022,6,23
+2022-06-10,217.0,Far North,sorghum,2022,6,23
+2022-06-10,217.0,Centre,sorghum,2022,6,23
+2022-06-10,255.0,East,sorghum,2022,6,23
+2022-06-10,211.0,North,sorghum,2022,6,23
+2022-06-10,209.0,South,sorghum,2022,6,23
+2022-06-10,207.0,Littoral,sorghum,2022,6,23
+2022-06-17,202.0,North West,sorghum,2022,6,24
+2022-06-17,198.0,South West,sorghum,2022,6,24
+2022-06-17,207.0,West,sorghum,2022,6,24
+2022-06-17,209.0,Adamawa,sorghum,2022,6,24
+2022-06-17,213.0,Far North,sorghum,2022,6,24
+2022-06-17,205.0,Centre,sorghum,2022,6,24
+2022-06-17,203.0,East,sorghum,2022,6,24
+2022-06-17,230.0,North,sorghum,2022,6,24
+2022-06-17,241.0,South,sorghum,2022,6,24
+2022-06-17,235.0,Littoral,sorghum,2022,6,24
+2022-06-24,218.0,North West,sorghum,2022,6,25
+2022-06-24,233.0,South West,sorghum,2022,6,25
+2022-06-24,218.0,West,sorghum,2022,6,25
+2022-06-24,186.0,Adamawa,sorghum,2022,6,25
+2022-06-24,215.0,Far North,sorghum,2022,6,25
+2022-06-24,212.0,Centre,sorghum,2022,6,25
+2022-06-24,208.0,East,sorghum,2022,6,25
+2022-06-24,215.0,North,sorghum,2022,6,25
+2022-06-24,221.0,South,sorghum,2022,6,25
+2022-06-24,185.0,Littoral,sorghum,2022,6,25
+2022-07-01,210.0,North West,sorghum,2022,7,26
+2022-07-01,229.0,South West,sorghum,2022,7,26
+2022-07-01,213.0,West,sorghum,2022,7,26
+2022-07-01,187.0,Adamawa,sorghum,2022,7,26
+2022-07-01,227.0,Far North,sorghum,2022,7,26
+2022-07-01,236.0,Centre,sorghum,2022,7,26
+2022-07-01,231.0,East,sorghum,2022,7,26
+2022-07-01,204.0,North,sorghum,2022,7,26
+2022-07-01,213.0,South,sorghum,2022,7,26
+2022-07-01,217.0,Littoral,sorghum,2022,7,26
+2022-07-08,191.0,North West,sorghum,2022,7,27
+2022-07-08,226.0,South West,sorghum,2022,7,27
+2022-07-08,227.0,West,sorghum,2022,7,27
+2022-07-08,202.0,Adamawa,sorghum,2022,7,27
+2022-07-08,187.0,Far North,sorghum,2022,7,27
+2022-07-08,213.0,Centre,sorghum,2022,7,27
+2022-07-08,199.0,East,sorghum,2022,7,27
+2022-07-08,221.0,North,sorghum,2022,7,27
+2022-07-08,197.0,South,sorghum,2022,7,27
+2022-07-08,194.0,Littoral,sorghum,2022,7,27
+2022-07-15,226.0,North West,sorghum,2022,7,28
+2022-07-15,212.0,South West,sorghum,2022,7,28
+2022-07-15,183.0,West,sorghum,2022,7,28
+2022-07-15,216.0,Adamawa,sorghum,2022,7,28
+2022-07-15,220.0,Far North,sorghum,2022,7,28
+2022-07-15,191.0,Centre,sorghum,2022,7,28
+2022-07-15,231.0,East,sorghum,2022,7,28
+2022-07-15,199.0,North,sorghum,2022,7,28
+2022-07-15,230.0,South,sorghum,2022,7,28
+2022-07-15,195.0,Littoral,sorghum,2022,7,28
+2022-07-22,227.0,North West,sorghum,2022,7,29
+2022-07-22,196.0,South West,sorghum,2022,7,29
+2022-07-22,184.0,West,sorghum,2022,7,29
+2022-07-22,219.0,Adamawa,sorghum,2022,7,29
+2022-07-22,176.0,Far North,sorghum,2022,7,29
+2022-07-22,221.0,Centre,sorghum,2022,7,29
+2022-07-22,180.0,East,sorghum,2022,7,29
+2022-07-22,205.0,North,sorghum,2022,7,29
+2022-07-22,212.0,South,sorghum,2022,7,29
+2022-07-22,192.0,Littoral,sorghum,2022,7,29
+2022-07-29,226.0,North West,sorghum,2022,7,30
+2022-07-29,212.0,South West,sorghum,2022,7,30
+2022-07-29,201.0,West,sorghum,2022,7,30
+2022-07-29,198.0,Adamawa,sorghum,2022,7,30
+2022-07-29,186.0,Far North,sorghum,2022,7,30
+2022-07-29,215.0,Centre,sorghum,2022,7,30
+2022-07-29,200.0,East,sorghum,2022,7,30
+2022-07-29,197.0,North,sorghum,2022,7,30
+2022-07-29,232.0,South,sorghum,2022,7,30
+2022-07-29,195.0,Littoral,sorghum,2022,7,30
+2022-08-05,188.0,North West,sorghum,2022,8,31
+2022-08-05,221.0,South West,sorghum,2022,8,31
+2022-08-05,190.0,West,sorghum,2022,8,31
+2022-08-05,203.0,Adamawa,sorghum,2022,8,31
+2022-08-05,185.0,Far North,sorghum,2022,8,31
+2022-08-05,188.0,Centre,sorghum,2022,8,31
+2022-08-05,200.0,East,sorghum,2022,8,31
+2022-08-05,219.0,North,sorghum,2022,8,31
+2022-08-05,184.0,South,sorghum,2022,8,31
+2022-08-05,182.0,Littoral,sorghum,2022,8,31
+2022-08-12,166.0,North West,sorghum,2022,8,32
+2022-08-12,175.0,South West,sorghum,2022,8,32
+2022-08-12,178.0,West,sorghum,2022,8,32
+2022-08-12,168.0,Adamawa,sorghum,2022,8,32
+2022-08-12,194.0,Far North,sorghum,2022,8,32
+2022-08-12,171.0,Centre,sorghum,2022,8,32
+2022-08-12,191.0,East,sorghum,2022,8,32
+2022-08-12,175.0,North,sorghum,2022,8,32
+2022-08-12,212.0,South,sorghum,2022,8,32
+2022-08-12,181.0,Littoral,sorghum,2022,8,32
+2022-08-19,181.0,North West,sorghum,2022,8,33
+2022-08-19,191.0,South West,sorghum,2022,8,33
+2022-08-19,188.0,West,sorghum,2022,8,33
+2022-08-19,194.0,Adamawa,sorghum,2022,8,33
+2022-08-19,186.0,Far North,sorghum,2022,8,33
+2022-08-19,191.0,Centre,sorghum,2022,8,33
+2022-08-19,200.0,East,sorghum,2022,8,33
+2022-08-19,186.0,North,sorghum,2022,8,33
+2022-08-19,200.0,South,sorghum,2022,8,33
+2022-08-19,202.0,Littoral,sorghum,2022,8,33
+2022-08-26,196.0,North West,sorghum,2022,8,34
+2022-08-26,182.0,South West,sorghum,2022,8,34
+2022-08-26,159.0,West,sorghum,2022,8,34
+2022-08-26,196.0,Adamawa,sorghum,2022,8,34
+2022-08-26,204.0,Far North,sorghum,2022,8,34
+2022-08-26,191.0,Centre,sorghum,2022,8,34
+2022-08-26,185.0,East,sorghum,2022,8,34
+2022-08-26,186.0,North,sorghum,2022,8,34
+2022-08-26,190.0,South,sorghum,2022,8,34
+2022-08-26,208.0,Littoral,sorghum,2022,8,34
+2022-09-02,188.0,North West,sorghum,2022,9,35
+2022-09-02,195.0,South West,sorghum,2022,9,35
+2022-09-02,195.0,West,sorghum,2022,9,35
+2022-09-02,190.0,Adamawa,sorghum,2022,9,35
+2022-09-02,182.0,Far North,sorghum,2022,9,35
+2022-09-02,187.0,Centre,sorghum,2022,9,35
+2022-09-02,194.0,East,sorghum,2022,9,35
+2022-09-02,200.0,North,sorghum,2022,9,35
+2022-09-02,165.0,South,sorghum,2022,9,35
+2022-09-02,172.0,Littoral,sorghum,2022,9,35
+2022-09-09,180.0,North West,sorghum,2022,9,36
+2022-09-09,194.0,South West,sorghum,2022,9,36
+2022-09-09,180.0,West,sorghum,2022,9,36
+2022-09-09,172.0,Adamawa,sorghum,2022,9,36
+2022-09-09,162.0,Far North,sorghum,2022,9,36
+2022-09-09,202.0,Centre,sorghum,2022,9,36
+2022-09-09,181.0,East,sorghum,2022,9,36
+2022-09-09,177.0,North,sorghum,2022,9,36
+2022-09-09,187.0,South,sorghum,2022,9,36
+2022-09-09,167.0,Littoral,sorghum,2022,9,36
+2022-09-16,204.0,North West,sorghum,2022,9,37
+2022-09-16,206.0,South West,sorghum,2022,9,37
+2022-09-16,190.0,West,sorghum,2022,9,37
+2022-09-16,185.0,Adamawa,sorghum,2022,9,37
+2022-09-16,209.0,Far North,sorghum,2022,9,37
+2022-09-16,175.0,Centre,sorghum,2022,9,37
+2022-09-16,203.0,East,sorghum,2022,9,37
+2022-09-16,211.0,North,sorghum,2022,9,37
+2022-09-16,181.0,South,sorghum,2022,9,37
+2022-09-16,176.0,Littoral,sorghum,2022,9,37
+2022-09-23,187.0,North West,sorghum,2022,9,38
+2022-09-23,172.0,South West,sorghum,2022,9,38
+2022-09-23,204.0,West,sorghum,2022,9,38
+2022-09-23,173.0,Adamawa,sorghum,2022,9,38
+2022-09-23,177.0,Far North,sorghum,2022,9,38
+2022-09-23,205.0,Centre,sorghum,2022,9,38
+2022-09-23,172.0,East,sorghum,2022,9,38
+2022-09-23,205.0,North,sorghum,2022,9,38
+2022-09-23,172.0,South,sorghum,2022,9,38
+2022-09-23,206.0,Littoral,sorghum,2022,9,38
+2022-09-30,179.0,North West,sorghum,2022,9,39
+2022-09-30,173.0,South West,sorghum,2022,9,39
+2022-09-30,165.0,West,sorghum,2022,9,39
+2022-09-30,172.0,Adamawa,sorghum,2022,9,39
+2022-09-30,190.0,Far North,sorghum,2022,9,39
+2022-09-30,195.0,Centre,sorghum,2022,9,39
+2022-09-30,195.0,East,sorghum,2022,9,39
+2022-09-30,192.0,North,sorghum,2022,9,39
+2022-09-30,156.0,South,sorghum,2022,9,39
+2022-09-30,176.0,Littoral,sorghum,2022,9,39
+2022-10-07,168.0,North West,sorghum,2022,10,40
+2022-10-07,163.0,South West,sorghum,2022,10,40
+2022-10-07,196.0,West,sorghum,2022,10,40
+2022-10-07,199.0,Adamawa,sorghum,2022,10,40
+2022-10-07,200.0,Far North,sorghum,2022,10,40
+2022-10-07,203.0,Centre,sorghum,2022,10,40
+2022-10-07,189.0,East,sorghum,2022,10,40
+2022-10-07,209.0,North,sorghum,2022,10,40
+2022-10-07,183.0,South,sorghum,2022,10,40
+2022-10-07,203.0,Littoral,sorghum,2022,10,40
+2022-10-14,165.0,North West,sorghum,2022,10,41
+2022-10-14,171.0,South West,sorghum,2022,10,41
+2022-10-14,201.0,West,sorghum,2022,10,41
+2022-10-14,208.0,Adamawa,sorghum,2022,10,41
+2022-10-14,178.0,Far North,sorghum,2022,10,41
+2022-10-14,210.0,Centre,sorghum,2022,10,41
+2022-10-14,202.0,East,sorghum,2022,10,41
+2022-10-14,173.0,North,sorghum,2022,10,41
+2022-10-14,191.0,South,sorghum,2022,10,41
+2022-10-14,210.0,Littoral,sorghum,2022,10,41
+2022-10-21,213.0,North West,sorghum,2022,10,42
+2022-10-21,188.0,South West,sorghum,2022,10,42
+2022-10-21,185.0,West,sorghum,2022,10,42
+2022-10-21,211.0,Adamawa,sorghum,2022,10,42
+2022-10-21,197.0,Far North,sorghum,2022,10,42
+2022-10-21,177.0,Centre,sorghum,2022,10,42
+2022-10-21,186.0,East,sorghum,2022,10,42
+2022-10-21,203.0,North,sorghum,2022,10,42
+2022-10-21,177.0,South,sorghum,2022,10,42
+2022-10-21,205.0,Littoral,sorghum,2022,10,42
+2022-10-28,188.0,North West,sorghum,2022,10,43
+2022-10-28,216.0,South West,sorghum,2022,10,43
+2022-10-28,206.0,West,sorghum,2022,10,43
+2022-10-28,208.0,Adamawa,sorghum,2022,10,43
+2022-10-28,195.0,Far North,sorghum,2022,10,43
+2022-10-28,179.0,Centre,sorghum,2022,10,43
+2022-10-28,198.0,East,sorghum,2022,10,43
+2022-10-28,208.0,North,sorghum,2022,10,43
+2022-10-28,168.0,South,sorghum,2022,10,43
+2022-10-28,174.0,Littoral,sorghum,2022,10,43
+2022-11-04,215.0,North West,sorghum,2022,11,44
+2022-11-04,212.0,South West,sorghum,2022,11,44
+2022-11-04,244.0,West,sorghum,2022,11,44
+2022-11-04,193.0,Adamawa,sorghum,2022,11,44
+2022-11-04,206.0,Far North,sorghum,2022,11,44
+2022-11-04,234.0,Centre,sorghum,2022,11,44
+2022-11-04,222.0,East,sorghum,2022,11,44
+2022-11-04,220.0,North,sorghum,2022,11,44
+2022-11-04,230.0,South,sorghum,2022,11,44
+2022-11-04,190.0,Littoral,sorghum,2022,11,44
+2022-11-11,236.0,North West,sorghum,2022,11,45
+2022-11-11,208.0,South West,sorghum,2022,11,45
+2022-11-11,197.0,West,sorghum,2022,11,45
+2022-11-11,197.0,Adamawa,sorghum,2022,11,45
+2022-11-11,209.0,Far North,sorghum,2022,11,45
+2022-11-11,202.0,Centre,sorghum,2022,11,45
+2022-11-11,216.0,East,sorghum,2022,11,45
+2022-11-11,204.0,North,sorghum,2022,11,45
+2022-11-11,215.0,South,sorghum,2022,11,45
+2022-11-11,221.0,Littoral,sorghum,2022,11,45
+2022-11-18,241.0,North West,sorghum,2022,11,46
+2022-11-18,210.0,South West,sorghum,2022,11,46
+2022-11-18,225.0,West,sorghum,2022,11,46
+2022-11-18,246.0,Adamawa,sorghum,2022,11,46
+2022-11-18,256.0,Far North,sorghum,2022,11,46
+2022-11-18,230.0,Centre,sorghum,2022,11,46
+2022-11-18,223.0,East,sorghum,2022,11,46
+2022-11-18,235.0,North,sorghum,2022,11,46
+2022-11-18,226.0,South,sorghum,2022,11,46
+2022-11-18,207.0,Littoral,sorghum,2022,11,46
+2022-11-25,244.0,North West,sorghum,2022,11,47
+2022-11-25,222.0,South West,sorghum,2022,11,47
+2022-11-25,264.0,West,sorghum,2022,11,47
+2022-11-25,229.0,Adamawa,sorghum,2022,11,47
+2022-11-25,229.0,Far North,sorghum,2022,11,47
+2022-11-25,243.0,Centre,sorghum,2022,11,47
+2022-11-25,240.0,East,sorghum,2022,11,47
+2022-11-25,223.0,North,sorghum,2022,11,47
+2022-11-25,234.0,South,sorghum,2022,11,47
+2022-11-25,225.0,Littoral,sorghum,2022,11,47
+2022-12-02,266.0,North West,sorghum,2022,12,48
+2022-12-02,225.0,South West,sorghum,2022,12,48
+2022-12-02,267.0,West,sorghum,2022,12,48
+2022-12-02,228.0,Adamawa,sorghum,2022,12,48
+2022-12-02,237.0,Far North,sorghum,2022,12,48
+2022-12-02,239.0,Centre,sorghum,2022,12,48
+2022-12-02,283.0,East,sorghum,2022,12,48
+2022-12-02,256.0,North,sorghum,2022,12,48
+2022-12-02,269.0,South,sorghum,2022,12,48
+2022-12-02,254.0,Littoral,sorghum,2022,12,48
+2022-12-09,280.0,North West,sorghum,2022,12,49
+2022-12-09,299.0,South West,sorghum,2022,12,49
+2022-12-09,278.0,West,sorghum,2022,12,49
+2022-12-09,294.0,Adamawa,sorghum,2022,12,49
+2022-12-09,247.0,Far North,sorghum,2022,12,49
+2022-12-09,253.0,Centre,sorghum,2022,12,49
+2022-12-09,266.0,East,sorghum,2022,12,49
+2022-12-09,296.0,North,sorghum,2022,12,49
+2022-12-09,265.0,South,sorghum,2022,12,49
+2022-12-09,280.0,Littoral,sorghum,2022,12,49
+2022-12-16,271.0,North West,sorghum,2022,12,50
+2022-12-16,301.0,South West,sorghum,2022,12,50
+2022-12-16,256.0,West,sorghum,2022,12,50
+2022-12-16,285.0,Adamawa,sorghum,2022,12,50
+2022-12-16,284.0,Far North,sorghum,2022,12,50
+2022-12-16,271.0,Centre,sorghum,2022,12,50
+2022-12-16,293.0,East,sorghum,2022,12,50
+2022-12-16,243.0,North,sorghum,2022,12,50
+2022-12-16,303.0,South,sorghum,2022,12,50
+2022-12-16,267.0,Littoral,sorghum,2022,12,50
+2022-12-23,252.0,North West,sorghum,2022,12,51
+2022-12-23,267.0,South West,sorghum,2022,12,51
+2022-12-23,297.0,West,sorghum,2022,12,51
+2022-12-23,290.0,Adamawa,sorghum,2022,12,51
+2022-12-23,268.0,Far North,sorghum,2022,12,51
+2022-12-23,307.0,Centre,sorghum,2022,12,51
+2022-12-23,269.0,East,sorghum,2022,12,51
+2022-12-23,264.0,North,sorghum,2022,12,51
+2022-12-23,249.0,South,sorghum,2022,12,51
+2022-12-23,244.0,Littoral,sorghum,2022,12,51
+2022-12-30,292.0,North West,sorghum,2022,12,52
+2022-12-30,271.0,South West,sorghum,2022,12,52
+2022-12-30,301.0,West,sorghum,2022,12,52
+2022-12-30,333.0,Adamawa,sorghum,2022,12,52
+2022-12-30,302.0,Far North,sorghum,2022,12,52
+2022-12-30,302.0,Centre,sorghum,2022,12,52
+2022-12-30,284.0,East,sorghum,2022,12,52
+2022-12-30,277.0,North,sorghum,2022,12,52
+2022-12-30,281.0,South,sorghum,2022,12,52
+2022-12-30,309.0,Littoral,sorghum,2022,12,52
+2023-01-06,287.0,North West,sorghum,2023,1,1
+2023-01-06,300.0,South West,sorghum,2023,1,1
+2023-01-06,315.0,West,sorghum,2023,1,1
+2023-01-06,281.0,Adamawa,sorghum,2023,1,1
+2023-01-06,277.0,Far North,sorghum,2023,1,1
+2023-01-06,313.0,Centre,sorghum,2023,1,1
+2023-01-06,296.0,East,sorghum,2023,1,1
+2023-01-06,323.0,North,sorghum,2023,1,1
+2023-01-06,272.0,South,sorghum,2023,1,1
+2023-01-06,316.0,Littoral,sorghum,2023,1,1
+2023-01-13,277.0,North West,sorghum,2023,1,2
+2023-01-13,311.0,South West,sorghum,2023,1,2
+2023-01-13,286.0,West,sorghum,2023,1,2
+2023-01-13,272.0,Adamawa,sorghum,2023,1,2
+2023-01-13,313.0,Far North,sorghum,2023,1,2
+2023-01-13,304.0,Centre,sorghum,2023,1,2
+2023-01-13,303.0,East,sorghum,2023,1,2
+2023-01-13,311.0,North,sorghum,2023,1,2
+2023-01-13,294.0,South,sorghum,2023,1,2
+2023-01-13,318.0,Littoral,sorghum,2023,1,2
+2023-01-20,316.0,North West,sorghum,2023,1,3
+2023-01-20,309.0,South West,sorghum,2023,1,3
+2023-01-20,279.0,West,sorghum,2023,1,3
+2023-01-20,292.0,Adamawa,sorghum,2023,1,3
+2023-01-20,293.0,Far North,sorghum,2023,1,3
+2023-01-20,288.0,Centre,sorghum,2023,1,3
+2023-01-20,347.0,East,sorghum,2023,1,3
+2023-01-20,344.0,North,sorghum,2023,1,3
+2023-01-20,314.0,South,sorghum,2023,1,3
+2023-01-20,286.0,Littoral,sorghum,2023,1,3
+2023-01-27,338.0,North West,sorghum,2023,1,4
+2023-01-27,325.0,South West,sorghum,2023,1,4
+2023-01-27,267.0,West,sorghum,2023,1,4
+2023-01-27,304.0,Adamawa,sorghum,2023,1,4
+2023-01-27,313.0,Far North,sorghum,2023,1,4
+2023-01-27,270.0,Centre,sorghum,2023,1,4
+2023-01-27,268.0,East,sorghum,2023,1,4
+2023-01-27,302.0,North,sorghum,2023,1,4
+2023-01-27,265.0,South,sorghum,2023,1,4
+2023-01-27,268.0,Littoral,sorghum,2023,1,4
+2023-02-03,306.0,North West,sorghum,2023,2,5
+2023-02-03,323.0,South West,sorghum,2023,2,5
+2023-02-03,306.0,West,sorghum,2023,2,5
+2023-02-03,272.0,Adamawa,sorghum,2023,2,5
+2023-02-03,327.0,Far North,sorghum,2023,2,5
+2023-02-03,272.0,Centre,sorghum,2023,2,5
+2023-02-03,307.0,East,sorghum,2023,2,5
+2023-02-03,337.0,North,sorghum,2023,2,5
+2023-02-03,276.0,South,sorghum,2023,2,5
+2023-02-03,325.0,Littoral,sorghum,2023,2,5
+2023-02-10,286.0,North West,sorghum,2023,2,6
+2023-02-10,368.0,South West,sorghum,2023,2,6
+2023-02-10,341.0,West,sorghum,2023,2,6
+2023-02-10,366.0,Adamawa,sorghum,2023,2,6
+2023-02-10,340.0,Far North,sorghum,2023,2,6
+2023-02-10,303.0,Centre,sorghum,2023,2,6
+2023-02-10,363.0,East,sorghum,2023,2,6
+2023-02-10,337.0,North,sorghum,2023,2,6
+2023-02-10,332.0,South,sorghum,2023,2,6
+2023-02-10,320.0,Littoral,sorghum,2023,2,6
+2023-02-17,315.0,North West,sorghum,2023,2,7
+2023-02-17,358.0,South West,sorghum,2023,2,7
+2023-02-17,286.0,West,sorghum,2023,2,7
+2023-02-17,330.0,Adamawa,sorghum,2023,2,7
+2023-02-17,356.0,Far North,sorghum,2023,2,7
+2023-02-17,286.0,Centre,sorghum,2023,2,7
+2023-02-17,308.0,East,sorghum,2023,2,7
+2023-02-17,288.0,North,sorghum,2023,2,7
+2023-02-17,335.0,South,sorghum,2023,2,7
+2023-02-17,311.0,Littoral,sorghum,2023,2,7
+2023-02-24,348.0,North West,sorghum,2023,2,8
+2023-02-24,320.0,South West,sorghum,2023,2,8
+2023-02-24,315.0,West,sorghum,2023,2,8
+2023-02-24,344.0,Adamawa,sorghum,2023,2,8
+2023-02-24,287.0,Far North,sorghum,2023,2,8
+2023-02-24,315.0,Centre,sorghum,2023,2,8
+2023-02-24,314.0,East,sorghum,2023,2,8
+2023-02-24,276.0,North,sorghum,2023,2,8
+2023-02-24,346.0,South,sorghum,2023,2,8
+2023-02-24,327.0,Littoral,sorghum,2023,2,8
+2023-03-03,330.0,North West,sorghum,2023,3,9
+2023-03-03,364.0,South West,sorghum,2023,3,9
+2023-03-03,301.0,West,sorghum,2023,3,9
+2023-03-03,281.0,Adamawa,sorghum,2023,3,9
+2023-03-03,296.0,Far North,sorghum,2023,3,9
+2023-03-03,291.0,Centre,sorghum,2023,3,9
+2023-03-03,317.0,East,sorghum,2023,3,9
+2023-03-03,287.0,North,sorghum,2023,3,9
+2023-03-03,299.0,South,sorghum,2023,3,9
+2023-03-03,288.0,Littoral,sorghum,2023,3,9
+2023-03-10,318.0,North West,sorghum,2023,3,10
+2023-03-10,299.0,South West,sorghum,2023,3,10
+2023-03-10,317.0,West,sorghum,2023,3,10
+2023-03-10,284.0,Adamawa,sorghum,2023,3,10
+2023-03-10,321.0,Far North,sorghum,2023,3,10
+2023-03-10,288.0,Centre,sorghum,2023,3,10
+2023-03-10,285.0,East,sorghum,2023,3,10
+2023-03-10,303.0,North,sorghum,2023,3,10
+2023-03-10,351.0,South,sorghum,2023,3,10
+2023-03-10,344.0,Littoral,sorghum,2023,3,10
+2023-03-17,301.0,North West,sorghum,2023,3,11
+2023-03-17,357.0,South West,sorghum,2023,3,11
+2023-03-17,307.0,West,sorghum,2023,3,11
+2023-03-17,276.0,Adamawa,sorghum,2023,3,11
+2023-03-17,344.0,Far North,sorghum,2023,3,11
+2023-03-17,289.0,Centre,sorghum,2023,3,11
+2023-03-17,335.0,East,sorghum,2023,3,11
+2023-03-17,276.0,North,sorghum,2023,3,11
+2023-03-17,284.0,South,sorghum,2023,3,11
+2023-03-17,316.0,Littoral,sorghum,2023,3,11
+2023-03-24,284.0,North West,sorghum,2023,3,12
+2023-03-24,354.0,South West,sorghum,2023,3,12
+2023-03-24,342.0,West,sorghum,2023,3,12
+2023-03-24,306.0,Adamawa,sorghum,2023,3,12
+2023-03-24,329.0,Far North,sorghum,2023,3,12
+2023-03-24,339.0,Centre,sorghum,2023,3,12
+2023-03-24,343.0,East,sorghum,2023,3,12
+2023-03-24,312.0,North,sorghum,2023,3,12
+2023-03-24,355.0,South,sorghum,2023,3,12
+2023-03-24,358.0,Littoral,sorghum,2023,3,12
+2023-03-31,317.0,North West,sorghum,2023,3,13
+2023-03-31,338.0,South West,sorghum,2023,3,13
+2023-03-31,301.0,West,sorghum,2023,3,13
+2023-03-31,345.0,Adamawa,sorghum,2023,3,13
+2023-03-31,331.0,Far North,sorghum,2023,3,13
+2023-03-31,322.0,Centre,sorghum,2023,3,13
+2023-03-31,340.0,East,sorghum,2023,3,13
+2023-03-31,328.0,North,sorghum,2023,3,13
+2023-03-31,347.0,South,sorghum,2023,3,13
+2023-03-31,355.0,Littoral,sorghum,2023,3,13
+2023-04-07,340.0,North West,sorghum,2023,4,14
+2023-04-07,299.0,South West,sorghum,2023,4,14
+2023-04-07,355.0,West,sorghum,2023,4,14
+2023-04-07,328.0,Adamawa,sorghum,2023,4,14
+2023-04-07,300.0,Far North,sorghum,2023,4,14
+2023-04-07,277.0,Centre,sorghum,2023,4,14
+2023-04-07,356.0,East,sorghum,2023,4,14
+2023-04-07,323.0,North,sorghum,2023,4,14
+2023-04-07,292.0,South,sorghum,2023,4,14
+2023-04-07,314.0,Littoral,sorghum,2023,4,14
+2023-04-14,310.0,North West,sorghum,2023,4,15
+2023-04-14,309.0,South West,sorghum,2023,4,15
+2023-04-14,335.0,West,sorghum,2023,4,15
+2023-04-14,302.0,Adamawa,sorghum,2023,4,15
+2023-04-14,286.0,Far North,sorghum,2023,4,15
+2023-04-14,333.0,Centre,sorghum,2023,4,15
+2023-04-14,345.0,East,sorghum,2023,4,15
+2023-04-14,273.0,North,sorghum,2023,4,15
+2023-04-14,340.0,South,sorghum,2023,4,15
+2023-04-14,306.0,Littoral,sorghum,2023,4,15
+2023-04-21,285.0,North West,sorghum,2023,4,16
+2023-04-21,265.0,South West,sorghum,2023,4,16
+2023-04-21,279.0,West,sorghum,2023,4,16
+2023-04-21,289.0,Adamawa,sorghum,2023,4,16
+2023-04-21,268.0,Far North,sorghum,2023,4,16
+2023-04-21,277.0,Centre,sorghum,2023,4,16
+2023-04-21,321.0,East,sorghum,2023,4,16
+2023-04-21,317.0,North,sorghum,2023,4,16
+2023-04-21,324.0,South,sorghum,2023,4,16
+2023-04-21,275.0,Littoral,sorghum,2023,4,16
+2023-04-28,285.0,North West,sorghum,2023,4,17
+2023-04-28,319.0,South West,sorghum,2023,4,17
+2023-04-28,300.0,West,sorghum,2023,4,17
+2023-04-28,331.0,Adamawa,sorghum,2023,4,17
+2023-04-28,263.0,Far North,sorghum,2023,4,17
+2023-04-28,287.0,Centre,sorghum,2023,4,17
+2023-04-28,290.0,East,sorghum,2023,4,17
+2023-04-28,268.0,North,sorghum,2023,4,17
+2023-04-28,304.0,South,sorghum,2023,4,17
+2023-04-28,261.0,Littoral,sorghum,2023,4,17
+2023-05-05,295.0,North West,sorghum,2023,5,18
+2023-05-05,245.0,South West,sorghum,2023,5,18
+2023-05-05,307.0,West,sorghum,2023,5,18
+2023-05-05,247.0,Adamawa,sorghum,2023,5,18
+2023-05-05,276.0,Far North,sorghum,2023,5,18
+2023-05-05,253.0,Centre,sorghum,2023,5,18
+2023-05-05,252.0,East,sorghum,2023,5,18
+2023-05-05,295.0,North,sorghum,2023,5,18
+2023-05-05,299.0,South,sorghum,2023,5,18
+2023-05-05,297.0,Littoral,sorghum,2023,5,18
+2023-05-12,296.0,North West,sorghum,2023,5,19
+2023-05-12,295.0,South West,sorghum,2023,5,19
+2023-05-12,268.0,West,sorghum,2023,5,19
+2023-05-12,242.0,Adamawa,sorghum,2023,5,19
+2023-05-12,244.0,Far North,sorghum,2023,5,19
+2023-05-12,263.0,Centre,sorghum,2023,5,19
+2023-05-12,281.0,East,sorghum,2023,5,19
+2023-05-12,232.0,North,sorghum,2023,5,19
+2023-05-12,275.0,South,sorghum,2023,5,19
+2023-05-12,234.0,Littoral,sorghum,2023,5,19
+2023-05-19,276.0,North West,sorghum,2023,5,20
+2023-05-19,255.0,South West,sorghum,2023,5,20
+2023-05-19,286.0,West,sorghum,2023,5,20
+2023-05-19,270.0,Adamawa,sorghum,2023,5,20
+2023-05-19,253.0,Far North,sorghum,2023,5,20
+2023-05-19,229.0,Centre,sorghum,2023,5,20
+2023-05-19,256.0,East,sorghum,2023,5,20
+2023-05-19,227.0,North,sorghum,2023,5,20
+2023-05-19,280.0,South,sorghum,2023,5,20
+2023-05-19,235.0,Littoral,sorghum,2023,5,20
+2023-05-26,231.0,North West,sorghum,2023,5,21
+2023-05-26,236.0,South West,sorghum,2023,5,21
+2023-05-26,263.0,West,sorghum,2023,5,21
+2023-05-26,251.0,Adamawa,sorghum,2023,5,21
+2023-05-26,223.0,Far North,sorghum,2023,5,21
+2023-05-26,225.0,Centre,sorghum,2023,5,21
+2023-05-26,241.0,East,sorghum,2023,5,21
+2023-05-26,238.0,North,sorghum,2023,5,21
+2023-05-26,272.0,South,sorghum,2023,5,21
+2023-05-26,254.0,Littoral,sorghum,2023,5,21
+2023-06-02,222.0,North West,sorghum,2023,6,22
+2023-06-02,212.0,South West,sorghum,2023,6,22
+2023-06-02,217.0,West,sorghum,2023,6,22
+2023-06-02,255.0,Adamawa,sorghum,2023,6,22
+2023-06-02,265.0,Far North,sorghum,2023,6,22
+2023-06-02,261.0,Centre,sorghum,2023,6,22
+2023-06-02,261.0,East,sorghum,2023,6,22
+2023-06-02,227.0,North,sorghum,2023,6,22
+2023-06-02,274.0,South,sorghum,2023,6,22
+2023-06-02,216.0,Littoral,sorghum,2023,6,22
+2023-06-09,205.0,North West,sorghum,2023,6,23
+2023-06-09,227.0,South West,sorghum,2023,6,23
+2023-06-09,224.0,West,sorghum,2023,6,23
+2023-06-09,242.0,Adamawa,sorghum,2023,6,23
+2023-06-09,247.0,Far North,sorghum,2023,6,23
+2023-06-09,208.0,Centre,sorghum,2023,6,23
+2023-06-09,204.0,East,sorghum,2023,6,23
+2023-06-09,250.0,North,sorghum,2023,6,23
+2023-06-09,235.0,South,sorghum,2023,6,23
+2023-06-09,235.0,Littoral,sorghum,2023,6,23
+2023-06-16,245.0,North West,sorghum,2023,6,24
+2023-06-16,213.0,South West,sorghum,2023,6,24
+2023-06-16,199.0,West,sorghum,2023,6,24
+2023-06-16,227.0,Adamawa,sorghum,2023,6,24
+2023-06-16,235.0,Far North,sorghum,2023,6,24
+2023-06-16,217.0,Centre,sorghum,2023,6,24
+2023-06-16,228.0,East,sorghum,2023,6,24
+2023-06-16,218.0,North,sorghum,2023,6,24
+2023-06-16,211.0,South,sorghum,2023,6,24
+2023-06-16,190.0,Littoral,sorghum,2023,6,24
+2023-06-23,209.0,North West,sorghum,2023,6,25
+2023-06-23,235.0,South West,sorghum,2023,6,25
+2023-06-23,193.0,West,sorghum,2023,6,25
+2023-06-23,189.0,Adamawa,sorghum,2023,6,25
+2023-06-23,191.0,Far North,sorghum,2023,6,25
+2023-06-23,225.0,Centre,sorghum,2023,6,25
+2023-06-23,220.0,East,sorghum,2023,6,25
+2023-06-23,223.0,North,sorghum,2023,6,25
+2023-06-23,195.0,South,sorghum,2023,6,25
+2023-06-23,216.0,Littoral,sorghum,2023,6,25
+2023-06-30,221.0,North West,sorghum,2023,6,26
+2023-06-30,217.0,South West,sorghum,2023,6,26
+2023-06-30,203.0,West,sorghum,2023,6,26
+2023-06-30,185.0,Adamawa,sorghum,2023,6,26
+2023-06-30,227.0,Far North,sorghum,2023,6,26
+2023-06-30,208.0,Centre,sorghum,2023,6,26
+2023-06-30,228.0,East,sorghum,2023,6,26
+2023-06-30,203.0,North,sorghum,2023,6,26
+2023-06-30,192.0,South,sorghum,2023,6,26
+2023-06-30,196.0,Littoral,sorghum,2023,6,26
+2023-07-07,224.0,North West,sorghum,2023,7,27
+2023-07-07,195.0,South West,sorghum,2023,7,27
+2023-07-07,192.0,West,sorghum,2023,7,27
+2023-07-07,193.0,Adamawa,sorghum,2023,7,27
+2023-07-07,234.0,Far North,sorghum,2023,7,27
+2023-07-07,191.0,Centre,sorghum,2023,7,27
+2023-07-07,201.0,East,sorghum,2023,7,27
+2023-07-07,209.0,North,sorghum,2023,7,27
+2023-07-07,212.0,South,sorghum,2023,7,27
+2023-07-07,229.0,Littoral,sorghum,2023,7,27
+2023-07-14,175.0,North West,sorghum,2023,7,28
+2023-07-14,175.0,South West,sorghum,2023,7,28
+2023-07-14,186.0,West,sorghum,2023,7,28
+2023-07-14,191.0,Adamawa,sorghum,2023,7,28
+2023-07-14,189.0,Far North,sorghum,2023,7,28
+2023-07-14,190.0,Centre,sorghum,2023,7,28
+2023-07-14,214.0,East,sorghum,2023,7,28
+2023-07-14,213.0,North,sorghum,2023,7,28
+2023-07-14,211.0,South,sorghum,2023,7,28
+2023-07-14,209.0,Littoral,sorghum,2023,7,28
+2023-07-21,205.0,North West,sorghum,2023,7,29
+2023-07-21,207.0,South West,sorghum,2023,7,29
+2023-07-21,217.0,West,sorghum,2023,7,29
+2023-07-21,202.0,Adamawa,sorghum,2023,7,29
+2023-07-21,184.0,Far North,sorghum,2023,7,29
+2023-07-21,174.0,Centre,sorghum,2023,7,29
+2023-07-21,192.0,East,sorghum,2023,7,29
+2023-07-21,206.0,North,sorghum,2023,7,29
+2023-07-21,184.0,South,sorghum,2023,7,29
+2023-07-21,176.0,Littoral,sorghum,2023,7,29
+2023-07-28,227.0,North West,sorghum,2023,7,30
+2023-07-28,196.0,South West,sorghum,2023,7,30
+2023-07-28,185.0,West,sorghum,2023,7,30
+2023-07-28,182.0,Adamawa,sorghum,2023,7,30
+2023-07-28,219.0,Far North,sorghum,2023,7,30
+2023-07-28,217.0,Centre,sorghum,2023,7,30
+2023-07-28,206.0,East,sorghum,2023,7,30
+2023-07-28,203.0,North,sorghum,2023,7,30
+2023-07-28,224.0,South,sorghum,2023,7,30
+2023-07-28,186.0,Littoral,sorghum,2023,7,30
+2023-08-04,187.0,North West,sorghum,2023,8,31
+2023-08-04,185.0,South West,sorghum,2023,8,31
+2023-08-04,214.0,West,sorghum,2023,8,31
+2023-08-04,184.0,Adamawa,sorghum,2023,8,31
+2023-08-04,208.0,Far North,sorghum,2023,8,31
+2023-08-04,204.0,Centre,sorghum,2023,8,31
+2023-08-04,173.0,East,sorghum,2023,8,31
+2023-08-04,214.0,North,sorghum,2023,8,31
+2023-08-04,197.0,South,sorghum,2023,8,31
+2023-08-04,196.0,Littoral,sorghum,2023,8,31
+2023-08-11,162.0,North West,sorghum,2023,8,32
+2023-08-11,196.0,South West,sorghum,2023,8,32
+2023-08-11,164.0,West,sorghum,2023,8,32
+2023-08-11,170.0,Adamawa,sorghum,2023,8,32
+2023-08-11,166.0,Far North,sorghum,2023,8,32
+2023-08-11,180.0,Centre,sorghum,2023,8,32
+2023-08-11,200.0,East,sorghum,2023,8,32
+2023-08-11,196.0,North,sorghum,2023,8,32
+2023-08-11,166.0,South,sorghum,2023,8,32
+2023-08-11,201.0,Littoral,sorghum,2023,8,32
+2023-08-18,167.0,North West,sorghum,2023,8,33
+2023-08-18,194.0,South West,sorghum,2023,8,33
+2023-08-18,191.0,West,sorghum,2023,8,33
+2023-08-18,165.0,Adamawa,sorghum,2023,8,33
+2023-08-18,158.0,Far North,sorghum,2023,8,33
+2023-08-18,170.0,Centre,sorghum,2023,8,33
+2023-08-18,194.0,East,sorghum,2023,8,33
+2023-08-18,201.0,North,sorghum,2023,8,33
+2023-08-18,184.0,South,sorghum,2023,8,33
+2023-08-18,161.0,Littoral,sorghum,2023,8,33
+2023-08-25,179.0,North West,sorghum,2023,8,34
+2023-08-25,202.0,South West,sorghum,2023,8,34
+2023-08-25,199.0,West,sorghum,2023,8,34
+2023-08-25,202.0,Adamawa,sorghum,2023,8,34
+2023-08-25,188.0,Far North,sorghum,2023,8,34
+2023-08-25,175.0,Centre,sorghum,2023,8,34
+2023-08-25,197.0,East,sorghum,2023,8,34
+2023-08-25,197.0,North,sorghum,2023,8,34
+2023-08-25,162.0,South,sorghum,2023,8,34
+2023-08-25,192.0,Littoral,sorghum,2023,8,34
+2023-09-01,196.0,North West,sorghum,2023,9,35
+2023-09-01,183.0,South West,sorghum,2023,9,35
+2023-09-01,174.0,West,sorghum,2023,9,35
+2023-09-01,171.0,Adamawa,sorghum,2023,9,35
+2023-09-01,184.0,Far North,sorghum,2023,9,35
+2023-09-01,180.0,Centre,sorghum,2023,9,35
+2023-09-01,183.0,East,sorghum,2023,9,35
+2023-09-01,171.0,North,sorghum,2023,9,35
+2023-09-01,187.0,South,sorghum,2023,9,35
+2023-09-01,190.0,Littoral,sorghum,2023,9,35
+2023-09-08,208.0,North West,sorghum,2023,9,36
+2023-09-08,197.0,South West,sorghum,2023,9,36
+2023-09-08,205.0,West,sorghum,2023,9,36
+2023-09-08,175.0,Adamawa,sorghum,2023,9,36
+2023-09-08,173.0,Far North,sorghum,2023,9,36
+2023-09-08,176.0,Centre,sorghum,2023,9,36
+2023-09-08,210.0,East,sorghum,2023,9,36
+2023-09-08,195.0,North,sorghum,2023,9,36
+2023-09-08,190.0,South,sorghum,2023,9,36
+2023-09-08,206.0,Littoral,sorghum,2023,9,36
+2023-09-15,175.0,North West,sorghum,2023,9,37
+2023-09-15,208.0,South West,sorghum,2023,9,37
+2023-09-15,188.0,West,sorghum,2023,9,37
+2023-09-15,189.0,Adamawa,sorghum,2023,9,37
+2023-09-15,192.0,Far North,sorghum,2023,9,37
+2023-09-15,180.0,Centre,sorghum,2023,9,37
+2023-09-15,208.0,East,sorghum,2023,9,37
+2023-09-15,208.0,North,sorghum,2023,9,37
+2023-09-15,198.0,South,sorghum,2023,9,37
+2023-09-15,171.0,Littoral,sorghum,2023,9,37
+2023-09-22,199.0,North West,sorghum,2023,9,38
+2023-09-22,162.0,South West,sorghum,2023,9,38
+2023-09-22,187.0,West,sorghum,2023,9,38
+2023-09-22,179.0,Adamawa,sorghum,2023,9,38
+2023-09-22,159.0,Far North,sorghum,2023,9,38
+2023-09-22,200.0,Centre,sorghum,2023,9,38
+2023-09-22,203.0,East,sorghum,2023,9,38
+2023-09-22,201.0,North,sorghum,2023,9,38
+2023-09-22,166.0,South,sorghum,2023,9,38
+2023-09-22,173.0,Littoral,sorghum,2023,9,38
+2023-09-29,163.0,North West,sorghum,2023,9,39
+2023-09-29,199.0,South West,sorghum,2023,9,39
+2023-09-29,163.0,West,sorghum,2023,9,39
+2023-09-29,184.0,Adamawa,sorghum,2023,9,39
+2023-09-29,171.0,Far North,sorghum,2023,9,39
+2023-09-29,176.0,Centre,sorghum,2023,9,39
+2023-09-29,166.0,East,sorghum,2023,9,39
+2023-09-29,186.0,North,sorghum,2023,9,39
+2023-09-29,203.0,South,sorghum,2023,9,39
+2023-09-29,196.0,Littoral,sorghum,2023,9,39
+2023-10-06,215.0,North West,sorghum,2023,10,40
+2023-10-06,219.0,South West,sorghum,2023,10,40
+2023-10-06,224.0,West,sorghum,2023,10,40
+2023-10-06,204.0,Adamawa,sorghum,2023,10,40
+2023-10-06,209.0,Far North,sorghum,2023,10,40
+2023-10-06,227.0,Centre,sorghum,2023,10,40
+2023-10-06,216.0,East,sorghum,2023,10,40
+2023-10-06,185.0,North,sorghum,2023,10,40
+2023-10-06,220.0,South,sorghum,2023,10,40
+2023-10-06,179.0,Littoral,sorghum,2023,10,40
+2023-10-13,228.0,North West,sorghum,2023,10,41
+2023-10-13,183.0,South West,sorghum,2023,10,41
+2023-10-13,236.0,West,sorghum,2023,10,41
+2023-10-13,216.0,Adamawa,sorghum,2023,10,41
+2023-10-13,227.0,Far North,sorghum,2023,10,41
+2023-10-13,214.0,Centre,sorghum,2023,10,41
+2023-10-13,201.0,East,sorghum,2023,10,41
+2023-10-13,198.0,North,sorghum,2023,10,41
+2023-10-13,186.0,South,sorghum,2023,10,41
+2023-10-13,212.0,Littoral,sorghum,2023,10,41
+2023-10-20,193.0,North West,sorghum,2023,10,42
+2023-10-20,218.0,South West,sorghum,2023,10,42
+2023-10-20,221.0,West,sorghum,2023,10,42
+2023-10-20,210.0,Adamawa,sorghum,2023,10,42
+2023-10-20,194.0,Far North,sorghum,2023,10,42
+2023-10-20,210.0,Centre,sorghum,2023,10,42
+2023-10-20,235.0,East,sorghum,2023,10,42
+2023-10-20,211.0,North,sorghum,2023,10,42
+2023-10-20,205.0,South,sorghum,2023,10,42
+2023-10-20,221.0,Littoral,sorghum,2023,10,42
+2023-10-27,195.0,North West,sorghum,2023,10,43
+2023-10-27,209.0,South West,sorghum,2023,10,43
+2023-10-27,202.0,West,sorghum,2023,10,43
+2023-10-27,199.0,Adamawa,sorghum,2023,10,43
+2023-10-27,206.0,Far North,sorghum,2023,10,43
+2023-10-27,198.0,Centre,sorghum,2023,10,43
+2023-10-27,201.0,East,sorghum,2023,10,43
+2023-10-27,224.0,North,sorghum,2023,10,43
+2023-10-27,210.0,South,sorghum,2023,10,43
+2023-10-27,230.0,Littoral,sorghum,2023,10,43
+2023-11-03,250.0,North West,sorghum,2023,11,44
+2023-11-03,248.0,South West,sorghum,2023,11,44
+2023-11-03,209.0,West,sorghum,2023,11,44
+2023-11-03,222.0,Adamawa,sorghum,2023,11,44
+2023-11-03,225.0,Far North,sorghum,2023,11,44
+2023-11-03,244.0,Centre,sorghum,2023,11,44
+2023-11-03,227.0,East,sorghum,2023,11,44
+2023-11-03,209.0,North,sorghum,2023,11,44
+2023-11-03,226.0,South,sorghum,2023,11,44
+2023-11-03,196.0,Littoral,sorghum,2023,11,44
+2023-11-10,243.0,North West,sorghum,2023,11,45
+2023-11-10,215.0,South West,sorghum,2023,11,45
+2023-11-10,237.0,West,sorghum,2023,11,45
+2023-11-10,235.0,Adamawa,sorghum,2023,11,45
+2023-11-10,241.0,Far North,sorghum,2023,11,45
+2023-11-10,255.0,Centre,sorghum,2023,11,45
+2023-11-10,250.0,East,sorghum,2023,11,45
+2023-11-10,236.0,North,sorghum,2023,11,45
+2023-11-10,258.0,South,sorghum,2023,11,45
+2023-11-10,224.0,Littoral,sorghum,2023,11,45
+2023-11-17,246.0,North West,sorghum,2023,11,46
+2023-11-17,257.0,South West,sorghum,2023,11,46
+2023-11-17,243.0,West,sorghum,2023,11,46
+2023-11-17,238.0,Adamawa,sorghum,2023,11,46
+2023-11-17,221.0,Far North,sorghum,2023,11,46
+2023-11-17,256.0,Centre,sorghum,2023,11,46
+2023-11-17,227.0,East,sorghum,2023,11,46
+2023-11-17,223.0,North,sorghum,2023,11,46
+2023-11-17,226.0,South,sorghum,2023,11,46
+2023-11-17,259.0,Littoral,sorghum,2023,11,46
+2023-11-24,250.0,North West,sorghum,2023,11,47
+2023-11-24,212.0,South West,sorghum,2023,11,47
+2023-11-24,267.0,West,sorghum,2023,11,47
+2023-11-24,229.0,Adamawa,sorghum,2023,11,47
+2023-11-24,216.0,Far North,sorghum,2023,11,47
+2023-11-24,261.0,Centre,sorghum,2023,11,47
+2023-11-24,233.0,East,sorghum,2023,11,47
+2023-11-24,249.0,North,sorghum,2023,11,47
+2023-11-24,267.0,South,sorghum,2023,11,47
+2023-11-24,262.0,Littoral,sorghum,2023,11,47
+2023-12-01,257.0,North West,sorghum,2023,12,48
+2023-12-01,295.0,South West,sorghum,2023,12,48
+2023-12-01,261.0,West,sorghum,2023,12,48
+2023-12-01,269.0,Adamawa,sorghum,2023,12,48
+2023-12-01,277.0,Far North,sorghum,2023,12,48
+2023-12-01,238.0,Centre,sorghum,2023,12,48
+2023-12-01,276.0,East,sorghum,2023,12,48
+2023-12-01,274.0,North,sorghum,2023,12,48
+2023-12-01,295.0,South,sorghum,2023,12,48
+2023-12-01,258.0,Littoral,sorghum,2023,12,48
+2023-12-08,287.0,North West,sorghum,2023,12,49
+2023-12-08,278.0,South West,sorghum,2023,12,49
+2023-12-08,247.0,West,sorghum,2023,12,49
+2023-12-08,263.0,Adamawa,sorghum,2023,12,49
+2023-12-08,242.0,Far North,sorghum,2023,12,49
+2023-12-08,291.0,Centre,sorghum,2023,12,49
+2023-12-08,302.0,East,sorghum,2023,12,49
+2023-12-08,241.0,North,sorghum,2023,12,49
+2023-12-08,275.0,South,sorghum,2023,12,49
+2023-12-08,278.0,Littoral,sorghum,2023,12,49
+2023-12-15,261.0,North West,sorghum,2023,12,50
+2023-12-15,266.0,South West,sorghum,2023,12,50
+2023-12-15,281.0,West,sorghum,2023,12,50
+2023-12-15,265.0,Adamawa,sorghum,2023,12,50
+2023-12-15,295.0,Far North,sorghum,2023,12,50
+2023-12-15,269.0,Centre,sorghum,2023,12,50
+2023-12-15,235.0,East,sorghum,2023,12,50
+2023-12-15,298.0,North,sorghum,2023,12,50
+2023-12-15,241.0,South,sorghum,2023,12,50
+2023-12-15,286.0,Littoral,sorghum,2023,12,50

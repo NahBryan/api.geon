@@ -1,0 +1,4161 @@
+date,price_xaf_per_kg,region,crop,year,month,week
+2016-01-01,358.0,North West,tomato,2016,1,53
+2016-01-01,312.0,South West,tomato,2016,1,53
+2016-01-01,359.0,West,tomato,2016,1,53
+2016-01-01,307.0,Adamawa,tomato,2016,1,53
+2016-01-01,304.0,Far North,tomato,2016,1,53
+2016-01-01,351.0,Centre,tomato,2016,1,53
+2016-01-01,302.0,East,tomato,2016,1,53
+2016-01-01,311.0,North,tomato,2016,1,53
+2016-01-01,281.0,South,tomato,2016,1,53
+2016-01-01,355.0,Littoral,tomato,2016,1,53
+2016-01-08,302.0,North West,tomato,2016,1,1
+2016-01-08,364.0,South West,tomato,2016,1,1
+2016-01-08,343.0,West,tomato,2016,1,1
+2016-01-08,300.0,Adamawa,tomato,2016,1,1
+2016-01-08,295.0,Far North,tomato,2016,1,1
+2016-01-08,379.0,Centre,tomato,2016,1,1
+2016-01-08,361.0,East,tomato,2016,1,1
+2016-01-08,356.0,North,tomato,2016,1,1
+2016-01-08,334.0,South,tomato,2016,1,1
+2016-01-08,316.0,Littoral,tomato,2016,1,1
+2016-01-15,402.0,North West,tomato,2016,1,2
+2016-01-15,366.0,South West,tomato,2016,1,2
+2016-01-15,429.0,West,tomato,2016,1,2
+2016-01-15,336.0,Adamawa,tomato,2016,1,2
+2016-01-15,337.0,Far North,tomato,2016,1,2
+2016-01-15,422.0,Centre,tomato,2016,1,2
+2016-01-15,394.0,East,tomato,2016,1,2
+2016-01-15,362.0,North,tomato,2016,1,2
+2016-01-15,406.0,South,tomato,2016,1,2
+2016-01-15,375.0,Littoral,tomato,2016,1,2
+2016-01-22,369.0,North West,tomato,2016,1,3
+2016-01-22,440.0,South West,tomato,2016,1,3
+2016-01-22,394.0,West,tomato,2016,1,3
+2016-01-22,379.0,Adamawa,tomato,2016,1,3
+2016-01-22,392.0,Far North,tomato,2016,1,3
+2016-01-22,420.0,Centre,tomato,2016,1,3
+2016-01-22,372.0,East,tomato,2016,1,3
+2016-01-22,466.0,North,tomato,2016,1,3
+2016-01-22,429.0,South,tomato,2016,1,3
+2016-01-22,399.0,Littoral,tomato,2016,1,3
+2016-01-29,452.0,North West,tomato,2016,1,4
+2016-01-29,404.0,South West,tomato,2016,1,4
+2016-01-29,393.0,West,tomato,2016,1,4
+2016-01-29,480.0,Adamawa,tomato,2016,1,4
+2016-01-29,407.0,Far North,tomato,2016,1,4
+2016-01-29,382.0,Centre,tomato,2016,1,4
+2016-01-29,455.0,East,tomato,2016,1,4
+2016-01-29,398.0,North,tomato,2016,1,4
+2016-01-29,496.0,South,tomato,2016,1,4
+2016-01-29,481.0,Littoral,tomato,2016,1,4
+2016-02-05,476.0,North West,tomato,2016,2,5
+2016-02-05,504.0,South West,tomato,2016,2,5
+2016-02-05,459.0,West,tomato,2016,2,5
+2016-02-05,498.0,Adamawa,tomato,2016,2,5
+2016-02-05,481.0,Far North,tomato,2016,2,5
+2016-02-05,405.0,Centre,tomato,2016,2,5
+2016-02-05,518.0,East,tomato,2016,2,5
+2016-02-05,507.0,North,tomato,2016,2,5
+2016-02-05,519.0,South,tomato,2016,2,5
+2016-02-05,491.0,Littoral,tomato,2016,2,5
+2016-02-12,390.0,North West,tomato,2016,2,6
+2016-02-12,386.0,South West,tomato,2016,2,6
+2016-02-12,394.0,West,tomato,2016,2,6
+2016-02-12,432.0,Adamawa,tomato,2016,2,6
+2016-02-12,447.0,Far North,tomato,2016,2,6
+2016-02-12,405.0,Centre,tomato,2016,2,6
+2016-02-12,431.0,East,tomato,2016,2,6
+2016-02-12,408.0,North,tomato,2016,2,6
+2016-02-12,448.0,South,tomato,2016,2,6
+2016-02-12,481.0,Littoral,tomato,2016,2,6
+2016-02-19,448.0,North West,tomato,2016,2,7
+2016-02-19,376.0,South West,tomato,2016,2,7
+2016-02-19,424.0,West,tomato,2016,2,7
+2016-02-19,457.0,Adamawa,tomato,2016,2,7
+2016-02-19,431.0,Far North,tomato,2016,2,7
+2016-02-19,477.0,Centre,tomato,2016,2,7
+2016-02-19,376.0,East,tomato,2016,2,7
+2016-02-19,403.0,North,tomato,2016,2,7
+2016-02-19,395.0,South,tomato,2016,2,7
+2016-02-19,457.0,Littoral,tomato,2016,2,7
+2016-02-26,383.0,North West,tomato,2016,2,8
+2016-02-26,409.0,South West,tomato,2016,2,8
+2016-02-26,460.0,West,tomato,2016,2,8
+2016-02-26,392.0,Adamawa,tomato,2016,2,8
+2016-02-26,369.0,Far North,tomato,2016,2,8
+2016-02-26,406.0,Centre,tomato,2016,2,8
+2016-02-26,386.0,East,tomato,2016,2,8
+2016-02-26,413.0,North,tomato,2016,2,8
+2016-02-26,403.0,South,tomato,2016,2,8
+2016-02-26,427.0,Littoral,tomato,2016,2,8
+2016-03-04,481.0,North West,tomato,2016,3,9
+2016-03-04,399.0,South West,tomato,2016,3,9
+2016-03-04,471.0,West,tomato,2016,3,9
+2016-03-04,485.0,Adamawa,tomato,2016,3,9
+2016-03-04,419.0,Far North,tomato,2016,3,9
+2016-03-04,389.0,Centre,tomato,2016,3,9
+2016-03-04,471.0,East,tomato,2016,3,9
+2016-03-04,457.0,North,tomato,2016,3,9
+2016-03-04,400.0,South,tomato,2016,3,9
+2016-03-04,427.0,Littoral,tomato,2016,3,9
+2016-03-11,439.0,North West,tomato,2016,3,10
+2016-03-11,436.0,South West,tomato,2016,3,10
+2016-03-11,458.0,West,tomato,2016,3,10
+2016-03-11,422.0,Adamawa,tomato,2016,3,10
+2016-03-11,423.0,Far North,tomato,2016,3,10
+2016-03-11,428.0,Centre,tomato,2016,3,10
+2016-03-11,390.0,East,tomato,2016,3,10
+2016-03-11,443.0,North,tomato,2016,3,10
+2016-03-11,433.0,South,tomato,2016,3,10
+2016-03-11,452.0,Littoral,tomato,2016,3,10
+2016-03-18,478.0,North West,tomato,2016,3,11
+2016-03-18,462.0,South West,tomato,2016,3,11
+2016-03-18,406.0,West,tomato,2016,3,11
+2016-03-18,496.0,Adamawa,tomato,2016,3,11
+2016-03-18,430.0,Far North,tomato,2016,3,11
+2016-03-18,501.0,Centre,tomato,2016,3,11
+2016-03-18,434.0,East,tomato,2016,3,11
+2016-03-18,404.0,North,tomato,2016,3,11
+2016-03-18,492.0,South,tomato,2016,3,11
+2016-03-18,481.0,Littoral,tomato,2016,3,11
+2016-03-25,463.0,North West,tomato,2016,3,12
+2016-03-25,518.0,South West,tomato,2016,3,12
+2016-03-25,487.0,West,tomato,2016,3,12
+2016-03-25,421.0,Adamawa,tomato,2016,3,12
+2016-03-25,469.0,Far North,tomato,2016,3,12
+2016-03-25,483.0,Centre,tomato,2016,3,12
+2016-03-25,516.0,East,tomato,2016,3,12
+2016-03-25,439.0,North,tomato,2016,3,12
+2016-03-25,503.0,South,tomato,2016,3,12
+2016-03-25,504.0,Littoral,tomato,2016,3,12
+2016-04-01,444.0,North West,tomato,2016,4,13
+2016-04-01,430.0,South West,tomato,2016,4,13
+2016-04-01,504.0,West,tomato,2016,4,13
+2016-04-01,531.0,Adamawa,tomato,2016,4,13
+2016-04-01,500.0,Far North,tomato,2016,4,13
+2016-04-01,534.0,Centre,tomato,2016,4,13
+2016-04-01,509.0,East,tomato,2016,4,13
+2016-04-01,513.0,North,tomato,2016,4,13
+2016-04-01,431.0,South,tomato,2016,4,13
+2016-04-01,439.0,Littoral,tomato,2016,4,13
+2016-04-08,517.0,North West,tomato,2016,4,14
+2016-04-08,523.0,South West,tomato,2016,4,14
+2016-04-08,527.0,West,tomato,2016,4,14
+2016-04-08,457.0,Adamawa,tomato,2016,4,14
+2016-04-08,534.0,Far North,tomato,2016,4,14
+2016-04-08,508.0,Centre,tomato,2016,4,14
+2016-04-08,525.0,East,tomato,2016,4,14
+2016-04-08,520.0,North,tomato,2016,4,14
+2016-04-08,547.0,South,tomato,2016,4,14
+2016-04-08,486.0,Littoral,tomato,2016,4,14
+2016-04-15,502.0,North West,tomato,2016,4,15
+2016-04-15,505.0,South West,tomato,2016,4,15
+2016-04-15,556.0,West,tomato,2016,4,15
+2016-04-15,510.0,Adamawa,tomato,2016,4,15
+2016-04-15,475.0,Far North,tomato,2016,4,15
+2016-04-15,587.0,Centre,tomato,2016,4,15
+2016-04-15,519.0,East,tomato,2016,4,15
+2016-04-15,466.0,North,tomato,2016,4,15
+2016-04-15,543.0,South,tomato,2016,4,15
+2016-04-15,553.0,Littoral,tomato,2016,4,15
+2016-04-22,517.0,North West,tomato,2016,4,16
+2016-04-22,546.0,South West,tomato,2016,4,16
+2016-04-22,515.0,West,tomato,2016,4,16
+2016-04-22,549.0,Adamawa,tomato,2016,4,16
+2016-04-22,575.0,Far North,tomato,2016,4,16
+2016-04-22,557.0,Centre,tomato,2016,4,16
+2016-04-22,580.0,East,tomato,2016,4,16
+2016-04-22,566.0,North,tomato,2016,4,16
+2016-04-22,539.0,South,tomato,2016,4,16
+2016-04-22,512.0,Littoral,tomato,2016,4,16
+2016-04-29,501.0,North West,tomato,2016,4,17
+2016-04-29,494.0,South West,tomato,2016,4,17
+2016-04-29,566.0,West,tomato,2016,4,17
+2016-04-29,582.0,Adamawa,tomato,2016,4,17
+2016-04-29,568.0,Far North,tomato,2016,4,17
+2016-04-29,557.0,Centre,tomato,2016,4,17
+2016-04-29,509.0,East,tomato,2016,4,17
+2016-04-29,567.0,North,tomato,2016,4,17
+2016-04-29,551.0,South,tomato,2016,4,17
+2016-04-29,472.0,Littoral,tomato,2016,4,17
+2016-05-06,637.0,North West,tomato,2016,5,18
+2016-05-06,649.0,South West,tomato,2016,5,18
+2016-05-06,653.0,West,tomato,2016,5,18
+2016-05-06,596.0,Adamawa,tomato,2016,5,18
+2016-05-06,613.0,Far North,tomato,2016,5,18
+2016-05-06,521.0,Centre,tomato,2016,5,18
+2016-05-06,583.0,East,tomato,2016,5,18
+2016-05-06,647.0,North,tomato,2016,5,18
+2016-05-06,578.0,South,tomato,2016,5,18
+2016-05-06,518.0,Littoral,tomato,2016,5,18
+2016-05-13,504.0,North West,tomato,2016,5,19
+2016-05-13,538.0,South West,tomato,2016,5,19
+2016-05-13,510.0,West,tomato,2016,5,19
+2016-05-13,532.0,Adamawa,tomato,2016,5,19
+2016-05-13,524.0,Far North,tomato,2016,5,19
+2016-05-13,522.0,Centre,tomato,2016,5,19
+2016-05-13,488.0,East,tomato,2016,5,19
+2016-05-13,604.0,North,tomato,2016,5,19
+2016-05-13,576.0,South,tomato,2016,5,19
+2016-05-13,566.0,Littoral,tomato,2016,5,19
+2016-05-20,507.0,North West,tomato,2016,5,20
+2016-05-20,520.0,South West,tomato,2016,5,20
+2016-05-20,405.0,West,tomato,2016,5,20
+2016-05-20,415.0,Adamawa,tomato,2016,5,20
+2016-05-20,489.0,Far North,tomato,2016,5,20
+2016-05-20,434.0,Centre,tomato,2016,5,20
+2016-05-20,518.0,East,tomato,2016,5,20
+2016-05-20,488.0,North,tomato,2016,5,20
+2016-05-20,450.0,South,tomato,2016,5,20
+2016-05-20,456.0,Littoral,tomato,2016,5,20
+2016-05-27,510.0,North West,tomato,2016,5,21
+2016-05-27,439.0,South West,tomato,2016,5,21
+2016-05-27,534.0,West,tomato,2016,5,21
+2016-05-27,421.0,Adamawa,tomato,2016,5,21
+2016-05-27,547.0,Far North,tomato,2016,5,21
+2016-05-27,442.0,Centre,tomato,2016,5,21
+2016-05-27,516.0,East,tomato,2016,5,21
+2016-05-27,426.0,North,tomato,2016,5,21
+2016-05-27,476.0,South,tomato,2016,5,21
+2016-05-27,502.0,Littoral,tomato,2016,5,21
+2016-06-03,408.0,North West,tomato,2016,6,22
+2016-06-03,430.0,South West,tomato,2016,6,22
+2016-06-03,431.0,West,tomato,2016,6,22
+2016-06-03,463.0,Adamawa,tomato,2016,6,22
+2016-06-03,387.0,Far North,tomato,2016,6,22
+2016-06-03,382.0,Centre,tomato,2016,6,22
+2016-06-03,419.0,East,tomato,2016,6,22
+2016-06-03,474.0,North,tomato,2016,6,22
+2016-06-03,471.0,South,tomato,2016,6,22
+2016-06-03,437.0,Littoral,tomato,2016,6,22
+2016-06-10,419.0,North West,tomato,2016,6,23
+2016-06-10,411.0,South West,tomato,2016,6,23
+2016-06-10,357.0,West,tomato,2016,6,23
+2016-06-10,346.0,Adamawa,tomato,2016,6,23
+2016-06-10,360.0,Far North,tomato,2016,6,23
+2016-06-10,352.0,Centre,tomato,2016,6,23
+2016-06-10,392.0,East,tomato,2016,6,23
+2016-06-10,388.0,North,tomato,2016,6,23
+2016-06-10,390.0,South,tomato,2016,6,23
+2016-06-10,348.0,Littoral,tomato,2016,6,23
+2016-06-17,350.0,North West,tomato,2016,6,24
+2016-06-17,399.0,South West,tomato,2016,6,24
+2016-06-17,332.0,West,tomato,2016,6,24
+2016-06-17,343.0,Adamawa,tomato,2016,6,24
+2016-06-17,369.0,Far North,tomato,2016,6,24
+2016-06-17,388.0,Centre,tomato,2016,6,24
+2016-06-17,318.0,East,tomato,2016,6,24
+2016-06-17,375.0,North,tomato,2016,6,24
+2016-06-17,392.0,South,tomato,2016,6,24
+2016-06-17,345.0,Littoral,tomato,2016,6,24
+2016-06-24,345.0,North West,tomato,2016,6,25
+2016-06-24,383.0,South West,tomato,2016,6,25
+2016-06-24,341.0,West,tomato,2016,6,25
+2016-06-24,354.0,Adamawa,tomato,2016,6,25
+2016-06-24,404.0,Far North,tomato,2016,6,25
+2016-06-24,374.0,Centre,tomato,2016,6,25
+2016-06-24,326.0,East,tomato,2016,6,25
+2016-06-24,349.0,North,tomato,2016,6,25
+2016-06-24,378.0,South,tomato,2016,6,25
+2016-06-24,364.0,Littoral,tomato,2016,6,25
+2016-07-01,334.0,North West,tomato,2016,7,26
+2016-07-01,380.0,South West,tomato,2016,7,26
+2016-07-01,373.0,West,tomato,2016,7,26
+2016-07-01,297.0,Adamawa,tomato,2016,7,26
+2016-07-01,315.0,Far North,tomato,2016,7,26
+2016-07-01,318.0,Centre,tomato,2016,7,26
+2016-07-01,308.0,East,tomato,2016,7,26
+2016-07-01,319.0,North,tomato,2016,7,26
+2016-07-01,329.0,South,tomato,2016,7,26
+2016-07-01,296.0,Littoral,tomato,2016,7,26
+2016-07-08,279.0,North West,tomato,2016,7,27
+2016-07-08,276.0,South West,tomato,2016,7,27
+2016-07-08,272.0,West,tomato,2016,7,27
+2016-07-08,308.0,Adamawa,tomato,2016,7,27
+2016-07-08,296.0,Far North,tomato,2016,7,27
+2016-07-08,346.0,Centre,tomato,2016,7,27
+2016-07-08,277.0,East,tomato,2016,7,27
+2016-07-08,345.0,North,tomato,2016,7,27
+2016-07-08,276.0,South,tomato,2016,7,27
+2016-07-08,320.0,Littoral,tomato,2016,7,27
+2016-07-15,257.0,North West,tomato,2016,7,28
+2016-07-15,326.0,South West,tomato,2016,7,28
+2016-07-15,256.0,West,tomato,2016,7,28
+2016-07-15,271.0,Adamawa,tomato,2016,7,28
+2016-07-15,288.0,Far North,tomato,2016,7,28
+2016-07-15,311.0,Centre,tomato,2016,7,28
+2016-07-15,326.0,East,tomato,2016,7,28
+2016-07-15,285.0,North,tomato,2016,7,28
+2016-07-15,311.0,South,tomato,2016,7,28
+2016-07-15,308.0,Littoral,tomato,2016,7,28
+2016-07-22,267.0,North West,tomato,2016,7,29
+2016-07-22,275.0,South West,tomato,2016,7,29
+2016-07-22,229.0,West,tomato,2016,7,29
+2016-07-22,258.0,Adamawa,tomato,2016,7,29
+2016-07-22,281.0,Far North,tomato,2016,7,29
+2016-07-22,260.0,Centre,tomato,2016,7,29
+2016-07-22,288.0,East,tomato,2016,7,29
+2016-07-22,285.0,North,tomato,2016,7,29
+2016-07-22,287.0,South,tomato,2016,7,29
+2016-07-22,236.0,Littoral,tomato,2016,7,29
+2016-07-29,202.0,North West,tomato,2016,7,30
+2016-07-29,216.0,South West,tomato,2016,7,30
+2016-07-29,206.0,West,tomato,2016,7,30
+2016-07-29,224.0,Adamawa,tomato,2016,7,30
+2016-07-29,259.0,Far North,tomato,2016,7,30
+2016-07-29,242.0,Centre,tomato,2016,7,30
+2016-07-29,243.0,East,tomato,2016,7,30
+2016-07-29,227.0,North,tomato,2016,7,30
+2016-07-29,249.0,South,tomato,2016,7,30
+2016-07-29,255.0,Littoral,tomato,2016,7,30
+2016-08-05,223.0,North West,tomato,2016,8,31
+2016-08-05,177.0,South West,tomato,2016,8,31
+2016-08-05,218.0,West,tomato,2016,8,31
+2016-08-05,184.0,Adamawa,tomato,2016,8,31
+2016-08-05,193.0,Far North,tomato,2016,8,31
+2016-08-05,190.0,Centre,tomato,2016,8,31
+2016-08-05,208.0,East,tomato,2016,8,31
+2016-08-05,204.0,North,tomato,2016,8,31
+2016-08-05,178.0,South,tomato,2016,8,31
+2016-08-05,213.0,Littoral,tomato,2016,8,31
+2016-08-12,166.0,North West,tomato,2016,8,32
+2016-08-12,171.0,South West,tomato,2016,8,32
+2016-08-12,213.0,West,tomato,2016,8,32
+2016-08-12,207.0,Adamawa,tomato,2016,8,32
+2016-08-12,170.0,Far North,tomato,2016,8,32
+2016-08-12,192.0,Centre,tomato,2016,8,32
+2016-08-12,182.0,East,tomato,2016,8,32
+2016-08-12,190.0,North,tomato,2016,8,32
+2016-08-12,187.0,South,tomato,2016,8,32
+2016-08-12,165.0,Littoral,tomato,2016,8,32
+2016-08-19,146.0,North West,tomato,2016,8,33
+2016-08-19,138.0,South West,tomato,2016,8,33
+2016-08-19,153.0,West,tomato,2016,8,33
+2016-08-19,170.0,Adamawa,tomato,2016,8,33
+2016-08-19,173.0,Far North,tomato,2016,8,33
+2016-08-19,171.0,Centre,tomato,2016,8,33
+2016-08-19,173.0,East,tomato,2016,8,33
+2016-08-19,133.0,North,tomato,2016,8,33
+2016-08-19,162.0,South,tomato,2016,8,33
+2016-08-19,144.0,Littoral,tomato,2016,8,33
+2016-08-26,151.0,North West,tomato,2016,8,34
+2016-08-26,153.0,South West,tomato,2016,8,34
+2016-08-26,145.0,West,tomato,2016,8,34
+2016-08-26,145.0,Adamawa,tomato,2016,8,34
+2016-08-26,174.0,Far North,tomato,2016,8,34
+2016-08-26,170.0,Centre,tomato,2016,8,34
+2016-08-26,142.0,East,tomato,2016,8,34
+2016-08-26,145.0,North,tomato,2016,8,34
+2016-08-26,138.0,South,tomato,2016,8,34
+2016-08-26,174.0,Littoral,tomato,2016,8,34
+2016-09-02,159.0,North West,tomato,2016,9,35
+2016-09-02,145.0,South West,tomato,2016,9,35
+2016-09-02,151.0,West,tomato,2016,9,35
+2016-09-02,153.0,Adamawa,tomato,2016,9,35
+2016-09-02,132.0,Far North,tomato,2016,9,35
+2016-09-02,160.0,Centre,tomato,2016,9,35
+2016-09-02,144.0,East,tomato,2016,9,35
+2016-09-02,128.0,North,tomato,2016,9,35
+2016-09-02,139.0,South,tomato,2016,9,35
+2016-09-02,147.0,Littoral,tomato,2016,9,35
+2016-09-09,163.0,North West,tomato,2016,9,36
+2016-09-09,158.0,South West,tomato,2016,9,36
+2016-09-09,153.0,West,tomato,2016,9,36
+2016-09-09,148.0,Adamawa,tomato,2016,9,36
+2016-09-09,138.0,Far North,tomato,2016,9,36
+2016-09-09,146.0,Centre,tomato,2016,9,36
+2016-09-09,140.0,East,tomato,2016,9,36
+2016-09-09,165.0,North,tomato,2016,9,36
+2016-09-09,164.0,South,tomato,2016,9,36
+2016-09-09,134.0,Littoral,tomato,2016,9,36
+2016-09-16,145.0,North West,tomato,2016,9,37
+2016-09-16,140.0,South West,tomato,2016,9,37
+2016-09-16,150.0,West,tomato,2016,9,37
+2016-09-16,132.0,Adamawa,tomato,2016,9,37
+2016-09-16,141.0,Far North,tomato,2016,9,37
+2016-09-16,134.0,Centre,tomato,2016,9,37
+2016-09-16,118.0,East,tomato,2016,9,37
+2016-09-16,117.0,North,tomato,2016,9,37
+2016-09-16,120.0,South,tomato,2016,9,37
+2016-09-16,126.0,Littoral,tomato,2016,9,37
+2016-09-23,145.0,North West,tomato,2016,9,38
+2016-09-23,154.0,South West,tomato,2016,9,38
+2016-09-23,130.0,West,tomato,2016,9,38
+2016-09-23,153.0,Adamawa,tomato,2016,9,38
+2016-09-23,141.0,Far North,tomato,2016,9,38
+2016-09-23,137.0,Centre,tomato,2016,9,38
+2016-09-23,143.0,East,tomato,2016,9,38
+2016-09-23,145.0,North,tomato,2016,9,38
+2016-09-23,125.0,South,tomato,2016,9,38
+2016-09-23,146.0,Littoral,tomato,2016,9,38
+2016-09-30,134.0,North West,tomato,2016,9,39
+2016-09-30,143.0,South West,tomato,2016,9,39
+2016-09-30,140.0,West,tomato,2016,9,39
+2016-09-30,133.0,Adamawa,tomato,2016,9,39
+2016-09-30,134.0,Far North,tomato,2016,9,39
+2016-09-30,141.0,Centre,tomato,2016,9,39
+2016-09-30,142.0,East,tomato,2016,9,39
+2016-09-30,137.0,North,tomato,2016,9,39
+2016-09-30,135.0,South,tomato,2016,9,39
+2016-09-30,113.0,Littoral,tomato,2016,9,39
+2016-10-07,131.0,North West,tomato,2016,10,40
+2016-10-07,125.0,South West,tomato,2016,10,40
+2016-10-07,123.0,West,tomato,2016,10,40
+2016-10-07,122.0,Adamawa,tomato,2016,10,40
+2016-10-07,141.0,Far North,tomato,2016,10,40
+2016-10-07,138.0,Centre,tomato,2016,10,40
+2016-10-07,129.0,East,tomato,2016,10,40
+2016-10-07,134.0,North,tomato,2016,10,40
+2016-10-07,145.0,South,tomato,2016,10,40
+2016-10-07,125.0,Littoral,tomato,2016,10,40
+2016-10-14,143.0,North West,tomato,2016,10,41
+2016-10-14,143.0,South West,tomato,2016,10,41
+2016-10-14,158.0,West,tomato,2016,10,41
+2016-10-14,136.0,Adamawa,tomato,2016,10,41
+2016-10-14,160.0,Far North,tomato,2016,10,41
+2016-10-14,134.0,Centre,tomato,2016,10,41
+2016-10-14,127.0,East,tomato,2016,10,41
+2016-10-14,130.0,North,tomato,2016,10,41
+2016-10-14,139.0,South,tomato,2016,10,41
+2016-10-14,147.0,Littoral,tomato,2016,10,41
+2016-10-21,125.0,North West,tomato,2016,10,42
+2016-10-21,134.0,South West,tomato,2016,10,42
+2016-10-21,134.0,West,tomato,2016,10,42
+2016-10-21,130.0,Adamawa,tomato,2016,10,42
+2016-10-21,138.0,Far North,tomato,2016,10,42
+2016-10-21,126.0,Centre,tomato,2016,10,42
+2016-10-21,107.0,East,tomato,2016,10,42
+2016-10-21,116.0,North,tomato,2016,10,42
+2016-10-21,117.0,South,tomato,2016,10,42
+2016-10-21,124.0,Littoral,tomato,2016,10,42
+2016-10-28,148.0,North West,tomato,2016,10,43
+2016-10-28,146.0,South West,tomato,2016,10,43
+2016-10-28,124.0,West,tomato,2016,10,43
+2016-10-28,135.0,Adamawa,tomato,2016,10,43
+2016-10-28,140.0,Far North,tomato,2016,10,43
+2016-10-28,151.0,Centre,tomato,2016,10,43
+2016-10-28,117.0,East,tomato,2016,10,43
+2016-10-28,133.0,North,tomato,2016,10,43
+2016-10-28,151.0,South,tomato,2016,10,43
+2016-10-28,151.0,Littoral,tomato,2016,10,43
+2016-11-04,165.0,North West,tomato,2016,11,44
+2016-11-04,193.0,South West,tomato,2016,11,44
+2016-11-04,165.0,West,tomato,2016,11,44
+2016-11-04,178.0,Adamawa,tomato,2016,11,44
+2016-11-04,183.0,Far North,tomato,2016,11,44
+2016-11-04,166.0,Centre,tomato,2016,11,44
+2016-11-04,166.0,East,tomato,2016,11,44
+2016-11-04,171.0,North,tomato,2016,11,44
+2016-11-04,188.0,South,tomato,2016,11,44
+2016-11-04,154.0,Littoral,tomato,2016,11,44
+2016-11-11,196.0,North West,tomato,2016,11,45
+2016-11-11,199.0,South West,tomato,2016,11,45
+2016-11-11,193.0,West,tomato,2016,11,45
+2016-11-11,212.0,Adamawa,tomato,2016,11,45
+2016-11-11,195.0,Far North,tomato,2016,11,45
+2016-11-11,197.0,Centre,tomato,2016,11,45
+2016-11-11,195.0,East,tomato,2016,11,45
+2016-11-11,201.0,North,tomato,2016,11,45
+2016-11-11,171.0,South,tomato,2016,11,45
+2016-11-11,210.0,Littoral,tomato,2016,11,45
+2016-11-18,206.0,North West,tomato,2016,11,46
+2016-11-18,185.0,South West,tomato,2016,11,46
+2016-11-18,176.0,West,tomato,2016,11,46
+2016-11-18,181.0,Adamawa,tomato,2016,11,46
+2016-11-18,188.0,Far North,tomato,2016,11,46
+2016-11-18,220.0,Centre,tomato,2016,11,46
+2016-11-18,219.0,East,tomato,2016,11,46
+2016-11-18,177.0,North,tomato,2016,11,46
+2016-11-18,189.0,South,tomato,2016,11,46
+2016-11-18,221.0,Littoral,tomato,2016,11,46
+2016-11-25,186.0,North West,tomato,2016,11,47
+2016-11-25,227.0,South West,tomato,2016,11,47
+2016-11-25,188.0,West,tomato,2016,11,47
+2016-11-25,213.0,Adamawa,tomato,2016,11,47
+2016-11-25,196.0,Far North,tomato,2016,11,47
+2016-11-25,181.0,Centre,tomato,2016,11,47
+2016-11-25,187.0,East,tomato,2016,11,47
+2016-11-25,210.0,North,tomato,2016,11,47
+2016-11-25,192.0,South,tomato,2016,11,47
+2016-11-25,206.0,Littoral,tomato,2016,11,47
+2016-12-02,230.0,North West,tomato,2016,12,48
+2016-12-02,224.0,South West,tomato,2016,12,48
+2016-12-02,211.0,West,tomato,2016,12,48
+2016-12-02,227.0,Adamawa,tomato,2016,12,48
+2016-12-02,241.0,Far North,tomato,2016,12,48
+2016-12-02,258.0,Centre,tomato,2016,12,48
+2016-12-02,247.0,East,tomato,2016,12,48
+2016-12-02,209.0,North,tomato,2016,12,48
+2016-12-02,216.0,South,tomato,2016,12,48
+2016-12-02,204.0,Littoral,tomato,2016,12,48
+2016-12-09,206.0,North West,tomato,2016,12,49
+2016-12-09,213.0,South West,tomato,2016,12,49
+2016-12-09,210.0,West,tomato,2016,12,49
+2016-12-09,211.0,Adamawa,tomato,2016,12,49
+2016-12-09,212.0,Far North,tomato,2016,12,49
+2016-12-09,216.0,Centre,tomato,2016,12,49
+2016-12-09,205.0,East,tomato,2016,12,49
+2016-12-09,215.0,North,tomato,2016,12,49
+2016-12-09,240.0,South,tomato,2016,12,49
+2016-12-09,212.0,Littoral,tomato,2016,12,49
+2016-12-16,244.0,North West,tomato,2016,12,50
+2016-12-16,280.0,South West,tomato,2016,12,50
+2016-12-16,288.0,West,tomato,2016,12,50
+2016-12-16,284.0,Adamawa,tomato,2016,12,50
+2016-12-16,305.0,Far North,tomato,2016,12,50
+2016-12-16,304.0,Centre,tomato,2016,12,50
+2016-12-16,244.0,East,tomato,2016,12,50
+2016-12-16,267.0,North,tomato,2016,12,50
+2016-12-16,289.0,South,tomato,2016,12,50
+2016-12-16,310.0,Littoral,tomato,2016,12,50
+2016-12-23,311.0,North West,tomato,2016,12,51
+2016-12-23,263.0,South West,tomato,2016,12,51
+2016-12-23,271.0,West,tomato,2016,12,51
+2016-12-23,308.0,Adamawa,tomato,2016,12,51
+2016-12-23,286.0,Far North,tomato,2016,12,51
+2016-12-23,291.0,Centre,tomato,2016,12,51
+2016-12-23,296.0,East,tomato,2016,12,51
+2016-12-23,257.0,North,tomato,2016,12,51
+2016-12-23,315.0,South,tomato,2016,12,51
+2016-12-23,316.0,Littoral,tomato,2016,12,51
+2016-12-30,352.0,North West,tomato,2016,12,52
+2016-12-30,310.0,South West,tomato,2016,12,52
+2016-12-30,303.0,West,tomato,2016,12,52
+2016-12-30,295.0,Adamawa,tomato,2016,12,52
+2016-12-30,375.0,Far North,tomato,2016,12,52
+2016-12-30,324.0,Centre,tomato,2016,12,52
+2016-12-30,301.0,East,tomato,2016,12,52
+2016-12-30,335.0,North,tomato,2016,12,52
+2016-12-30,300.0,South,tomato,2016,12,52
+2016-12-30,301.0,Littoral,tomato,2016,12,52
+2017-01-06,344.0,North West,tomato,2017,1,1
+2017-01-06,346.0,South West,tomato,2017,1,1
+2017-01-06,352.0,West,tomato,2017,1,1
+2017-01-06,359.0,Adamawa,tomato,2017,1,1
+2017-01-06,361.0,Far North,tomato,2017,1,1
+2017-01-06,339.0,Centre,tomato,2017,1,1
+2017-01-06,358.0,East,tomato,2017,1,1
+2017-01-06,327.0,North,tomato,2017,1,1
+2017-01-06,340.0,South,tomato,2017,1,1
+2017-01-06,335.0,Littoral,tomato,2017,1,1
+2017-01-13,298.0,North West,tomato,2017,1,2
+2017-01-13,336.0,South West,tomato,2017,1,2
+2017-01-13,339.0,West,tomato,2017,1,2
+2017-01-13,321.0,Adamawa,tomato,2017,1,2
+2017-01-13,378.0,Far North,tomato,2017,1,2
+2017-01-13,341.0,Centre,tomato,2017,1,2
+2017-01-13,371.0,East,tomato,2017,1,2
+2017-01-13,342.0,North,tomato,2017,1,2
+2017-01-13,308.0,South,tomato,2017,1,2
+2017-01-13,378.0,Littoral,tomato,2017,1,2
+2017-01-20,374.0,North West,tomato,2017,1,3
+2017-01-20,337.0,South West,tomato,2017,1,3
+2017-01-20,316.0,West,tomato,2017,1,3
+2017-01-20,314.0,Adamawa,tomato,2017,1,3
+2017-01-20,367.0,Far North,tomato,2017,1,3
+2017-01-20,300.0,Centre,tomato,2017,1,3
+2017-01-20,352.0,East,tomato,2017,1,3
+2017-01-20,352.0,North,tomato,2017,1,3
+2017-01-20,311.0,South,tomato,2017,1,3
+2017-01-20,358.0,Littoral,tomato,2017,1,3
+2017-01-27,335.0,North West,tomato,2017,1,4
+2017-01-27,366.0,South West,tomato,2017,1,4
+2017-01-27,338.0,West,tomato,2017,1,4
+2017-01-27,347.0,Adamawa,tomato,2017,1,4
+2017-01-27,329.0,Far North,tomato,2017,1,4
+2017-01-27,305.0,Centre,tomato,2017,1,4
+2017-01-27,381.0,East,tomato,2017,1,4
+2017-01-27,339.0,North,tomato,2017,1,4
+2017-01-27,322.0,South,tomato,2017,1,4
+2017-01-27,355.0,Littoral,tomato,2017,1,4
+2017-02-03,440.0,North West,tomato,2017,2,5
+2017-02-03,396.0,South West,tomato,2017,2,5
+2017-02-03,470.0,West,tomato,2017,2,5
+2017-02-03,378.0,Adamawa,tomato,2017,2,5
+2017-02-03,439.0,Far North,tomato,2017,2,5
+2017-02-03,424.0,Centre,tomato,2017,2,5
+2017-02-03,406.0,East,tomato,2017,2,5
+2017-02-03,464.0,North,tomato,2017,2,5
+2017-02-03,444.0,South,tomato,2017,2,5
+2017-02-03,456.0,Littoral,tomato,2017,2,5
+2017-02-10,441.0,North West,tomato,2017,2,6
+2017-02-10,464.0,South West,tomato,2017,2,6
+2017-02-10,513.0,West,tomato,2017,2,6
+2017-02-10,409.0,Adamawa,tomato,2017,2,6
+2017-02-10,412.0,Far North,tomato,2017,2,6
+2017-02-10,521.0,Centre,tomato,2017,2,6
+2017-02-10,518.0,East,tomato,2017,2,6
+2017-02-10,494.0,North,tomato,2017,2,6
+2017-02-10,458.0,South,tomato,2017,2,6
+2017-02-10,461.0,Littoral,tomato,2017,2,6
+2017-02-17,432.0,North West,tomato,2017,2,7
+2017-02-17,454.0,South West,tomato,2017,2,7
+2017-02-17,454.0,West,tomato,2017,2,7
+2017-02-17,405.0,Adamawa,tomato,2017,2,7
+2017-02-17,457.0,Far North,tomato,2017,2,7
+2017-02-17,460.0,Centre,tomato,2017,2,7
+2017-02-17,483.0,East,tomato,2017,2,7
+2017-02-17,464.0,North,tomato,2017,2,7
+2017-02-17,507.0,South,tomato,2017,2,7
+2017-02-17,446.0,Littoral,tomato,2017,2,7
+2017-02-24,470.0,North West,tomato,2017,2,8
+2017-02-24,496.0,South West,tomato,2017,2,8
+2017-02-24,536.0,West,tomato,2017,2,8
+2017-02-24,498.0,Adamawa,tomato,2017,2,8
+2017-02-24,566.0,Far North,tomato,2017,2,8
+2017-02-24,526.0,Centre,tomato,2017,2,8
+2017-02-24,463.0,East,tomato,2017,2,8
+2017-02-24,509.0,North,tomato,2017,2,8
+2017-02-24,546.0,South,tomato,2017,2,8
+2017-02-24,530.0,Littoral,tomato,2017,2,8
+2017-03-03,497.0,North West,tomato,2017,3,9
+2017-03-03,481.0,South West,tomato,2017,3,9
+2017-03-03,399.0,West,tomato,2017,3,9
+2017-03-03,405.0,Adamawa,tomato,2017,3,9
+2017-03-03,469.0,Far North,tomato,2017,3,9
+2017-03-03,420.0,Centre,tomato,2017,3,9
+2017-03-03,462.0,East,tomato,2017,3,9
+2017-03-03,486.0,North,tomato,2017,3,9
+2017-03-03,460.0,South,tomato,2017,3,9
+2017-03-03,441.0,Littoral,tomato,2017,3,9
+2017-03-10,465.0,North West,tomato,2017,3,10
+2017-03-10,462.0,South West,tomato,2017,3,10
+2017-03-10,440.0,West,tomato,2017,3,10
+2017-03-10,413.0,Adamawa,tomato,2017,3,10
+2017-03-10,473.0,Far North,tomato,2017,3,10
+2017-03-10,440.0,Centre,tomato,2017,3,10
+2017-03-10,387.0,East,tomato,2017,3,10
+2017-03-10,487.0,North,tomato,2017,3,10
+2017-03-10,470.0,South,tomato,2017,3,10
+2017-03-10,448.0,Littoral,tomato,2017,3,10
+2017-03-17,462.0,North West,tomato,2017,3,11
+2017-03-17,528.0,South West,tomato,2017,3,11
+2017-03-17,505.0,West,tomato,2017,3,11
+2017-03-17,475.0,Adamawa,tomato,2017,3,11
+2017-03-17,489.0,Far North,tomato,2017,3,11
+2017-03-17,443.0,Centre,tomato,2017,3,11
+2017-03-17,432.0,East,tomato,2017,3,11
+2017-03-17,442.0,North,tomato,2017,3,11
+2017-03-17,444.0,South,tomato,2017,3,11
+2017-03-17,500.0,Littoral,tomato,2017,3,11
+2017-03-24,495.0,North West,tomato,2017,3,12
+2017-03-24,477.0,South West,tomato,2017,3,12
+2017-03-24,466.0,West,tomato,2017,3,12
+2017-03-24,494.0,Adamawa,tomato,2017,3,12
+2017-03-24,468.0,Far North,tomato,2017,3,12
+2017-03-24,483.0,Centre,tomato,2017,3,12
+2017-03-24,523.0,East,tomato,2017,3,12
+2017-03-24,509.0,North,tomato,2017,3,12
+2017-03-24,525.0,South,tomato,2017,3,12
+2017-03-24,520.0,Littoral,tomato,2017,3,12
+2017-03-31,522.0,North West,tomato,2017,3,13
+2017-03-31,443.0,South West,tomato,2017,3,13
+2017-03-31,545.0,West,tomato,2017,3,13
+2017-03-31,478.0,Adamawa,tomato,2017,3,13
+2017-03-31,509.0,Far North,tomato,2017,3,13
+2017-03-31,504.0,Centre,tomato,2017,3,13
+2017-03-31,490.0,East,tomato,2017,3,13
+2017-03-31,545.0,North,tomato,2017,3,13
+2017-03-31,445.0,South,tomato,2017,3,13
+2017-03-31,471.0,Littoral,tomato,2017,3,13
+2017-04-07,503.0,North West,tomato,2017,4,14
+2017-04-07,413.0,South West,tomato,2017,4,14
+2017-04-07,525.0,West,tomato,2017,4,14
+2017-04-07,493.0,Adamawa,tomato,2017,4,14
+2017-04-07,468.0,Far North,tomato,2017,4,14
+2017-04-07,454.0,Centre,tomato,2017,4,14
+2017-04-07,428.0,East,tomato,2017,4,14
+2017-04-07,529.0,North,tomato,2017,4,14
+2017-04-07,503.0,South,tomato,2017,4,14
+2017-04-07,455.0,Littoral,tomato,2017,4,14
+2017-04-14,417.0,North West,tomato,2017,4,15
+2017-04-14,449.0,South West,tomato,2017,4,15
+2017-04-14,431.0,West,tomato,2017,4,15
+2017-04-14,507.0,Adamawa,tomato,2017,4,15
+2017-04-14,498.0,Far North,tomato,2017,4,15
+2017-04-14,471.0,Centre,tomato,2017,4,15
+2017-04-14,519.0,East,tomato,2017,4,15
+2017-04-14,431.0,North,tomato,2017,4,15
+2017-04-14,465.0,South,tomato,2017,4,15
+2017-04-14,497.0,Littoral,tomato,2017,4,15
+2017-04-21,478.0,North West,tomato,2017,4,16
+2017-04-21,452.0,South West,tomato,2017,4,16
+2017-04-21,466.0,West,tomato,2017,4,16
+2017-04-21,482.0,Adamawa,tomato,2017,4,16
+2017-04-21,452.0,Far North,tomato,2017,4,16
+2017-04-21,420.0,Centre,tomato,2017,4,16
+2017-04-21,424.0,East,tomato,2017,4,16
+2017-04-21,472.0,North,tomato,2017,4,16
+2017-04-21,428.0,South,tomato,2017,4,16
+2017-04-21,517.0,Littoral,tomato,2017,4,16
+2017-04-28,495.0,North West,tomato,2017,4,17
+2017-04-28,436.0,South West,tomato,2017,4,17
+2017-04-28,495.0,West,tomato,2017,4,17
+2017-04-28,459.0,Adamawa,tomato,2017,4,17
+2017-04-28,413.0,Far North,tomato,2017,4,17
+2017-04-28,468.0,Centre,tomato,2017,4,17
+2017-04-28,476.0,East,tomato,2017,4,17
+2017-04-28,404.0,North,tomato,2017,4,17
+2017-04-28,432.0,South,tomato,2017,4,17
+2017-04-28,395.0,Littoral,tomato,2017,4,17
+2017-05-05,428.0,North West,tomato,2017,5,18
+2017-05-05,381.0,South West,tomato,2017,5,18
+2017-05-05,362.0,West,tomato,2017,5,18
+2017-05-05,394.0,Adamawa,tomato,2017,5,18
+2017-05-05,450.0,Far North,tomato,2017,5,18
+2017-05-05,403.0,Centre,tomato,2017,5,18
+2017-05-05,405.0,East,tomato,2017,5,18
+2017-05-05,411.0,North,tomato,2017,5,18
+2017-05-05,442.0,South,tomato,2017,5,18
+2017-05-05,412.0,Littoral,tomato,2017,5,18
+2017-05-12,341.0,North West,tomato,2017,5,19
+2017-05-12,353.0,South West,tomato,2017,5,19
+2017-05-12,351.0,West,tomato,2017,5,19
+2017-05-12,383.0,Adamawa,tomato,2017,5,19
+2017-05-12,335.0,Far North,tomato,2017,5,19
+2017-05-12,360.0,Centre,tomato,2017,5,19
+2017-05-12,393.0,East,tomato,2017,5,19
+2017-05-12,368.0,North,tomato,2017,5,19
+2017-05-12,404.0,South,tomato,2017,5,19
+2017-05-12,371.0,Littoral,tomato,2017,5,19
+2017-05-19,388.0,North West,tomato,2017,5,20
+2017-05-19,432.0,South West,tomato,2017,5,20
+2017-05-19,394.0,West,tomato,2017,5,20
+2017-05-19,385.0,Adamawa,tomato,2017,5,20
+2017-05-19,457.0,Far North,tomato,2017,5,20
+2017-05-19,376.0,Centre,tomato,2017,5,20
+2017-05-19,436.0,East,tomato,2017,5,20
+2017-05-19,427.0,North,tomato,2017,5,20
+2017-05-19,386.0,South,tomato,2017,5,20
+2017-05-19,403.0,Littoral,tomato,2017,5,20
+2017-05-26,353.0,North West,tomato,2017,5,21
+2017-05-26,434.0,South West,tomato,2017,5,21
+2017-05-26,439.0,West,tomato,2017,5,21
+2017-05-26,414.0,Adamawa,tomato,2017,5,21
+2017-05-26,426.0,Far North,tomato,2017,5,21
+2017-05-26,347.0,Centre,tomato,2017,5,21
+2017-05-26,378.0,East,tomato,2017,5,21
+2017-05-26,373.0,North,tomato,2017,5,21
+2017-05-26,397.0,South,tomato,2017,5,21
+2017-05-26,357.0,Littoral,tomato,2017,5,21
+2017-06-02,366.0,North West,tomato,2017,6,22
+2017-06-02,366.0,South West,tomato,2017,6,22
+2017-06-02,355.0,West,tomato,2017,6,22
+2017-06-02,433.0,Adamawa,tomato,2017,6,22
+2017-06-02,387.0,Far North,tomato,2017,6,22
+2017-06-02,376.0,Centre,tomato,2017,6,22
+2017-06-02,435.0,East,tomato,2017,6,22
+2017-06-02,367.0,North,tomato,2017,6,22
+2017-06-02,397.0,South,tomato,2017,6,22
+2017-06-02,432.0,Littoral,tomato,2017,6,22
+2017-06-09,402.0,North West,tomato,2017,6,23
+2017-06-09,400.0,South West,tomato,2017,6,23
+2017-06-09,358.0,West,tomato,2017,6,23
+2017-06-09,361.0,Adamawa,tomato,2017,6,23
+2017-06-09,403.0,Far North,tomato,2017,6,23
+2017-06-09,344.0,Centre,tomato,2017,6,23
+2017-06-09,433.0,East,tomato,2017,6,23
+2017-06-09,379.0,North,tomato,2017,6,23
+2017-06-09,385.0,South,tomato,2017,6,23
+2017-06-09,369.0,Littoral,tomato,2017,6,23
+2017-06-16,373.0,North West,tomato,2017,6,24
+2017-06-16,386.0,South West,tomato,2017,6,24
+2017-06-16,366.0,West,tomato,2017,6,24
+2017-06-16,374.0,Adamawa,tomato,2017,6,24
+2017-06-16,363.0,Far North,tomato,2017,6,24
+2017-06-16,369.0,Centre,tomato,2017,6,24
+2017-06-16,359.0,East,tomato,2017,6,24
+2017-06-16,335.0,North,tomato,2017,6,24
+2017-06-16,331.0,South,tomato,2017,6,24
+2017-06-16,345.0,Littoral,tomato,2017,6,24
+2017-06-23,351.0,North West,tomato,2017,6,25
+2017-06-23,415.0,South West,tomato,2017,6,25
+2017-06-23,387.0,West,tomato,2017,6,25
+2017-06-23,422.0,Adamawa,tomato,2017,6,25
+2017-06-23,360.0,Far North,tomato,2017,6,25
+2017-06-23,367.0,Centre,tomato,2017,6,25
+2017-06-23,398.0,East,tomato,2017,6,25
+2017-06-23,384.0,North,tomato,2017,6,25
+2017-06-23,379.0,South,tomato,2017,6,25
+2017-06-23,384.0,Littoral,tomato,2017,6,25
+2017-06-30,404.0,North West,tomato,2017,6,26
+2017-06-30,434.0,South West,tomato,2017,6,26
+2017-06-30,433.0,West,tomato,2017,6,26
+2017-06-30,379.0,Adamawa,tomato,2017,6,26
+2017-06-30,339.0,Far North,tomato,2017,6,26
+2017-06-30,336.0,Centre,tomato,2017,6,26
+2017-06-30,348.0,East,tomato,2017,6,26
+2017-06-30,343.0,North,tomato,2017,6,26
+2017-06-30,374.0,South,tomato,2017,6,26
+2017-06-30,341.0,Littoral,tomato,2017,6,26
+2017-07-07,355.0,North West,tomato,2017,7,27
+2017-07-07,315.0,South West,tomato,2017,7,27
+2017-07-07,345.0,West,tomato,2017,7,27
+2017-07-07,307.0,Adamawa,tomato,2017,7,27
+2017-07-07,374.0,Far North,tomato,2017,7,27
+2017-07-07,369.0,Centre,tomato,2017,7,27
+2017-07-07,333.0,East,tomato,2017,7,27
+2017-07-07,381.0,North,tomato,2017,7,27
+2017-07-07,315.0,South,tomato,2017,7,27
+2017-07-07,373.0,Littoral,tomato,2017,7,27
+2017-07-14,250.0,North West,tomato,2017,7,28
+2017-07-14,257.0,South West,tomato,2017,7,28
+2017-07-14,308.0,West,tomato,2017,7,28
+2017-07-14,289.0,Adamawa,tomato,2017,7,28
+2017-07-14,262.0,Far North,tomato,2017,7,28
+2017-07-14,281.0,Centre,tomato,2017,7,28
+2017-07-14,252.0,East,tomato,2017,7,28
+2017-07-14,251.0,North,tomato,2017,7,28
+2017-07-14,312.0,South,tomato,2017,7,28
+2017-07-14,278.0,Littoral,tomato,2017,7,28
+2017-07-21,261.0,North West,tomato,2017,7,29
+2017-07-21,303.0,South West,tomato,2017,7,29
+2017-07-21,264.0,West,tomato,2017,7,29
+2017-07-21,259.0,Adamawa,tomato,2017,7,29
+2017-07-21,255.0,Far North,tomato,2017,7,29
+2017-07-21,276.0,Centre,tomato,2017,7,29
+2017-07-21,275.0,East,tomato,2017,7,29
+2017-07-21,236.0,North,tomato,2017,7,29
+2017-07-21,282.0,South,tomato,2017,7,29
+2017-07-21,292.0,Littoral,tomato,2017,7,29
+2017-07-28,253.0,North West,tomato,2017,7,30
+2017-07-28,247.0,South West,tomato,2017,7,30
+2017-07-28,284.0,West,tomato,2017,7,30
+2017-07-28,247.0,Adamawa,tomato,2017,7,30
+2017-07-28,240.0,Far North,tomato,2017,7,30
+2017-07-28,241.0,Centre,tomato,2017,7,30
+2017-07-28,289.0,East,tomato,2017,7,30
+2017-07-28,236.0,North,tomato,2017,7,30
+2017-07-28,254.0,South,tomato,2017,7,30
+2017-07-28,243.0,Littoral,tomato,2017,7,30
+2017-08-04,254.0,North West,tomato,2017,8,31
+2017-08-04,238.0,South West,tomato,2017,8,31
+2017-08-04,219.0,West,tomato,2017,8,31
+2017-08-04,253.0,Adamawa,tomato,2017,8,31
+2017-08-04,253.0,Far North,tomato,2017,8,31
+2017-08-04,239.0,Centre,tomato,2017,8,31
+2017-08-04,223.0,East,tomato,2017,8,31
+2017-08-04,243.0,North,tomato,2017,8,31
+2017-08-04,265.0,South,tomato,2017,8,31
+2017-08-04,209.0,Littoral,tomato,2017,8,31
+2017-08-11,211.0,North West,tomato,2017,8,32
+2017-08-11,212.0,South West,tomato,2017,8,32
+2017-08-11,188.0,West,tomato,2017,8,32
+2017-08-11,188.0,Adamawa,tomato,2017,8,32
+2017-08-11,227.0,Far North,tomato,2017,8,32
+2017-08-11,218.0,Centre,tomato,2017,8,32
+2017-08-11,227.0,East,tomato,2017,8,32
+2017-08-11,222.0,North,tomato,2017,8,32
+2017-08-11,199.0,South,tomato,2017,8,32
+2017-08-11,183.0,Littoral,tomato,2017,8,32
+2017-08-18,186.0,North West,tomato,2017,8,33
+2017-08-18,173.0,South West,tomato,2017,8,33
+2017-08-18,176.0,West,tomato,2017,8,33
+2017-08-18,176.0,Adamawa,tomato,2017,8,33
+2017-08-18,200.0,Far North,tomato,2017,8,33
+2017-08-18,159.0,Centre,tomato,2017,8,33
+2017-08-18,165.0,East,tomato,2017,8,33
+2017-08-18,185.0,North,tomato,2017,8,33
+2017-08-18,198.0,South,tomato,2017,8,33
+2017-08-18,200.0,Littoral,tomato,2017,8,33
+2017-08-25,161.0,North West,tomato,2017,8,34
+2017-08-25,186.0,South West,tomato,2017,8,34
+2017-08-25,167.0,West,tomato,2017,8,34
+2017-08-25,177.0,Adamawa,tomato,2017,8,34
+2017-08-25,157.0,Far North,tomato,2017,8,34
+2017-08-25,146.0,Centre,tomato,2017,8,34
+2017-08-25,171.0,East,tomato,2017,8,34
+2017-08-25,182.0,North,tomato,2017,8,34
+2017-08-25,189.0,South,tomato,2017,8,34
+2017-08-25,183.0,Littoral,tomato,2017,8,34
+2017-09-01,158.0,North West,tomato,2017,9,35
+2017-09-01,160.0,South West,tomato,2017,9,35
+2017-09-01,169.0,West,tomato,2017,9,35
+2017-09-01,136.0,Adamawa,tomato,2017,9,35
+2017-09-01,175.0,Far North,tomato,2017,9,35
+2017-09-01,157.0,Centre,tomato,2017,9,35
+2017-09-01,175.0,East,tomato,2017,9,35
+2017-09-01,167.0,North,tomato,2017,9,35
+2017-09-01,141.0,South,tomato,2017,9,35
+2017-09-01,142.0,Littoral,tomato,2017,9,35
+2017-09-08,135.0,North West,tomato,2017,9,36
+2017-09-08,141.0,South West,tomato,2017,9,36
+2017-09-08,135.0,West,tomato,2017,9,36
+2017-09-08,121.0,Adamawa,tomato,2017,9,36
+2017-09-08,155.0,Far North,tomato,2017,9,36
+2017-09-08,135.0,Centre,tomato,2017,9,36
+2017-09-08,150.0,East,tomato,2017,9,36
+2017-09-08,122.0,North,tomato,2017,9,36
+2017-09-08,149.0,South,tomato,2017,9,36
+2017-09-08,126.0,Littoral,tomato,2017,9,36
+2017-09-15,135.0,North West,tomato,2017,9,37
+2017-09-15,134.0,South West,tomato,2017,9,37
+2017-09-15,143.0,West,tomato,2017,9,37
+2017-09-15,122.0,Adamawa,tomato,2017,9,37
+2017-09-15,115.0,Far North,tomato,2017,9,37
+2017-09-15,141.0,Centre,tomato,2017,9,37
+2017-09-15,123.0,East,tomato,2017,9,37
+2017-09-15,119.0,North,tomato,2017,9,37
+2017-09-15,128.0,South,tomato,2017,9,37
+2017-09-15,116.0,Littoral,tomato,2017,9,37
+2017-09-22,115.0,North West,tomato,2017,9,38
+2017-09-22,120.0,South West,tomato,2017,9,38
+2017-09-22,118.0,West,tomato,2017,9,38
+2017-09-22,131.0,Adamawa,tomato,2017,9,38
+2017-09-22,135.0,Far North,tomato,2017,9,38
+2017-09-22,109.0,Centre,tomato,2017,9,38
+2017-09-22,132.0,East,tomato,2017,9,38
+2017-09-22,136.0,North,tomato,2017,9,38
+2017-09-22,128.0,South,tomato,2017,9,38
+2017-09-22,138.0,Littoral,tomato,2017,9,38
+2017-09-29,107.0,North West,tomato,2017,9,39
+2017-09-29,122.0,South West,tomato,2017,9,39
+2017-09-29,117.0,West,tomato,2017,9,39
+2017-09-29,107.0,Adamawa,tomato,2017,9,39
+2017-09-29,118.0,Far North,tomato,2017,9,39
+2017-09-29,112.0,Centre,tomato,2017,9,39
+2017-09-29,103.0,East,tomato,2017,9,39
+2017-09-29,102.0,North,tomato,2017,9,39
+2017-09-29,118.0,South,tomato,2017,9,39
+2017-09-29,118.0,Littoral,tomato,2017,9,39
+2017-10-06,115.0,North West,tomato,2017,10,40
+2017-10-06,124.0,South West,tomato,2017,10,40
+2017-10-06,139.0,West,tomato,2017,10,40
+2017-10-06,138.0,Adamawa,tomato,2017,10,40
+2017-10-06,131.0,Far North,tomato,2017,10,40
+2017-10-06,143.0,Centre,tomato,2017,10,40
+2017-10-06,139.0,East,tomato,2017,10,40
+2017-10-06,114.0,North,tomato,2017,10,40
+2017-10-06,123.0,South,tomato,2017,10,40
+2017-10-06,114.0,Littoral,tomato,2017,10,40
+2017-10-13,164.0,North West,tomato,2017,10,41
+2017-10-13,178.0,South West,tomato,2017,10,41
+2017-10-13,150.0,West,tomato,2017,10,41
+2017-10-13,182.0,Adamawa,tomato,2017,10,41
+2017-10-13,168.0,Far North,tomato,2017,10,41
+2017-10-13,176.0,Centre,tomato,2017,10,41
+2017-10-13,145.0,East,tomato,2017,10,41
+2017-10-13,148.0,North,tomato,2017,10,41
+2017-10-13,171.0,South,tomato,2017,10,41
+2017-10-13,180.0,Littoral,tomato,2017,10,41
+2017-10-20,152.0,North West,tomato,2017,10,42
+2017-10-20,152.0,South West,tomato,2017,10,42
+2017-10-20,182.0,West,tomato,2017,10,42
+2017-10-20,149.0,Adamawa,tomato,2017,10,42
+2017-10-20,174.0,Far North,tomato,2017,10,42
+2017-10-20,167.0,Centre,tomato,2017,10,42
+2017-10-20,162.0,East,tomato,2017,10,42
+2017-10-20,163.0,North,tomato,2017,10,42
+2017-10-20,185.0,South,tomato,2017,10,42
+2017-10-20,181.0,Littoral,tomato,2017,10,42
+2017-10-27,186.0,North West,tomato,2017,10,43
+2017-10-27,165.0,South West,tomato,2017,10,43
+2017-10-27,152.0,West,tomato,2017,10,43
+2017-10-27,192.0,Adamawa,tomato,2017,10,43
+2017-10-27,153.0,Far North,tomato,2017,10,43
+2017-10-27,170.0,Centre,tomato,2017,10,43
+2017-10-27,159.0,East,tomato,2017,10,43
+2017-10-27,170.0,North,tomato,2017,10,43
+2017-10-27,160.0,South,tomato,2017,10,43
+2017-10-27,187.0,Littoral,tomato,2017,10,43
+2017-11-03,164.0,North West,tomato,2017,11,44
+2017-11-03,193.0,South West,tomato,2017,11,44
+2017-11-03,179.0,West,tomato,2017,11,44
+2017-11-03,209.0,Adamawa,tomato,2017,11,44
+2017-11-03,165.0,Far North,tomato,2017,11,44
+2017-11-03,166.0,Centre,tomato,2017,11,44
+2017-11-03,195.0,East,tomato,2017,11,44
+2017-11-03,198.0,North,tomato,2017,11,44
+2017-11-03,183.0,South,tomato,2017,11,44
+2017-11-03,174.0,Littoral,tomato,2017,11,44
+2017-11-10,192.0,North West,tomato,2017,11,45
+2017-11-10,194.0,South West,tomato,2017,11,45
+2017-11-10,188.0,West,tomato,2017,11,45
+2017-11-10,222.0,Adamawa,tomato,2017,11,45
+2017-11-10,179.0,Far North,tomato,2017,11,45
+2017-11-10,198.0,Centre,tomato,2017,11,45
+2017-11-10,216.0,East,tomato,2017,11,45
+2017-11-10,176.0,North,tomato,2017,11,45
+2017-11-10,223.0,South,tomato,2017,11,45
+2017-11-10,214.0,Littoral,tomato,2017,11,45
+2017-11-17,263.0,North West,tomato,2017,11,46
+2017-11-17,263.0,South West,tomato,2017,11,46
+2017-11-17,233.0,West,tomato,2017,11,46
+2017-11-17,222.0,Adamawa,tomato,2017,11,46
+2017-11-17,223.0,Far North,tomato,2017,11,46
+2017-11-17,256.0,Centre,tomato,2017,11,46
+2017-11-17,266.0,East,tomato,2017,11,46
+2017-11-17,212.0,North,tomato,2017,11,46
+2017-11-17,208.0,South,tomato,2017,11,46
+2017-11-17,259.0,Littoral,tomato,2017,11,46
+2017-11-24,225.0,North West,tomato,2017,11,47
+2017-11-24,219.0,South West,tomato,2017,11,47
+2017-11-24,213.0,West,tomato,2017,11,47
+2017-11-24,223.0,Adamawa,tomato,2017,11,47
+2017-11-24,262.0,Far North,tomato,2017,11,47
+2017-11-24,262.0,Centre,tomato,2017,11,47
+2017-11-24,222.0,East,tomato,2017,11,47
+2017-11-24,261.0,North,tomato,2017,11,47
+2017-11-24,220.0,South,tomato,2017,11,47
+2017-11-24,254.0,Littoral,tomato,2017,11,47
+2017-12-01,260.0,North West,tomato,2017,12,48
+2017-12-01,248.0,South West,tomato,2017,12,48
+2017-12-01,301.0,West,tomato,2017,12,48
+2017-12-01,250.0,Adamawa,tomato,2017,12,48
+2017-12-01,306.0,Far North,tomato,2017,12,48
+2017-12-01,242.0,Centre,tomato,2017,12,48
+2017-12-01,235.0,East,tomato,2017,12,48
+2017-12-01,297.0,North,tomato,2017,12,48
+2017-12-01,276.0,South,tomato,2017,12,48
+2017-12-01,265.0,Littoral,tomato,2017,12,48
+2017-12-08,246.0,North West,tomato,2017,12,49
+2017-12-08,282.0,South West,tomato,2017,12,49
+2017-12-08,269.0,West,tomato,2017,12,49
+2017-12-08,275.0,Adamawa,tomato,2017,12,49
+2017-12-08,286.0,Far North,tomato,2017,12,49
+2017-12-08,287.0,Centre,tomato,2017,12,49
+2017-12-08,310.0,East,tomato,2017,12,49
+2017-12-08,288.0,North,tomato,2017,12,49
+2017-12-08,265.0,South,tomato,2017,12,49
+2017-12-08,264.0,Littoral,tomato,2017,12,49
+2017-12-15,249.0,North West,tomato,2017,12,50
+2017-12-15,281.0,South West,tomato,2017,12,50
+2017-12-15,282.0,West,tomato,2017,12,50
+2017-12-15,266.0,Adamawa,tomato,2017,12,50
+2017-12-15,263.0,Far North,tomato,2017,12,50
+2017-12-15,252.0,Centre,tomato,2017,12,50
+2017-12-15,267.0,East,tomato,2017,12,50
+2017-12-15,278.0,North,tomato,2017,12,50
+2017-12-15,274.0,South,tomato,2017,12,50
+2017-12-15,226.0,Littoral,tomato,2017,12,50
+2017-12-22,291.0,North West,tomato,2017,12,51
+2017-12-22,290.0,South West,tomato,2017,12,51
+2017-12-22,245.0,West,tomato,2017,12,51
+2017-12-22,248.0,Adamawa,tomato,2017,12,51
+2017-12-22,295.0,Far North,tomato,2017,12,51
+2017-12-22,278.0,Centre,tomato,2017,12,51
+2017-12-22,297.0,East,tomato,2017,12,51
+2017-12-22,251.0,North,tomato,2017,12,51
+2017-12-22,240.0,South,tomato,2017,12,51
+2017-12-22,249.0,Littoral,tomato,2017,12,51
+2017-12-29,344.0,North West,tomato,2017,12,52
+2017-12-29,332.0,South West,tomato,2017,12,52
+2017-12-29,355.0,West,tomato,2017,12,52
+2017-12-29,279.0,Adamawa,tomato,2017,12,52
+2017-12-29,283.0,Far North,tomato,2017,12,52
+2017-12-29,280.0,Centre,tomato,2017,12,52
+2017-12-29,317.0,East,tomato,2017,12,52
+2017-12-29,295.0,North,tomato,2017,12,52
+2017-12-29,330.0,South,tomato,2017,12,52
+2017-12-29,284.0,Littoral,tomato,2017,12,52
+2018-01-05,249.0,North West,tomato,2018,1,1
+2018-01-05,275.0,South West,tomato,2018,1,1
+2018-01-05,269.0,West,tomato,2018,1,1
+2018-01-05,303.0,Adamawa,tomato,2018,1,1
+2018-01-05,303.0,Far North,tomato,2018,1,1
+2018-01-05,250.0,Centre,tomato,2018,1,1
+2018-01-05,301.0,East,tomato,2018,1,1
+2018-01-05,283.0,North,tomato,2018,1,1
+2018-01-05,278.0,South,tomato,2018,1,1
+2018-01-05,248.0,Littoral,tomato,2018,1,1
+2018-01-12,311.0,North West,tomato,2018,1,2
+2018-01-12,320.0,South West,tomato,2018,1,2
+2018-01-12,340.0,West,tomato,2018,1,2
+2018-01-12,328.0,Adamawa,tomato,2018,1,2
+2018-01-12,346.0,Far North,tomato,2018,1,2
+2018-01-12,330.0,Centre,tomato,2018,1,2
+2018-01-12,292.0,East,tomato,2018,1,2
+2018-01-12,312.0,North,tomato,2018,1,2
+2018-01-12,305.0,South,tomato,2018,1,2
+2018-01-12,314.0,Littoral,tomato,2018,1,2
+2018-01-19,342.0,North West,tomato,2018,1,3
+2018-01-19,353.0,South West,tomato,2018,1,3
+2018-01-19,298.0,West,tomato,2018,1,3
+2018-01-19,357.0,Adamawa,tomato,2018,1,3
+2018-01-19,303.0,Far North,tomato,2018,1,3
+2018-01-19,293.0,Centre,tomato,2018,1,3
+2018-01-19,337.0,East,tomato,2018,1,3
+2018-01-19,342.0,North,tomato,2018,1,3
+2018-01-19,294.0,South,tomato,2018,1,3
+2018-01-19,337.0,Littoral,tomato,2018,1,3
+2018-01-26,364.0,North West,tomato,2018,1,4
+2018-01-26,318.0,South West,tomato,2018,1,4
+2018-01-26,371.0,West,tomato,2018,1,4
+2018-01-26,327.0,Adamawa,tomato,2018,1,4
+2018-01-26,342.0,Far North,tomato,2018,1,4
+2018-01-26,380.0,Centre,tomato,2018,1,4
+2018-01-26,372.0,East,tomato,2018,1,4
+2018-01-26,370.0,North,tomato,2018,1,4
+2018-01-26,313.0,South,tomato,2018,1,4
+2018-01-26,303.0,Littoral,tomato,2018,1,4
+2018-02-02,401.0,North West,tomato,2018,2,5
+2018-02-02,381.0,South West,tomato,2018,2,5
+2018-02-02,433.0,West,tomato,2018,2,5
+2018-02-02,375.0,Adamawa,tomato,2018,2,5
+2018-02-02,381.0,Far North,tomato,2018,2,5
+2018-02-02,393.0,Centre,tomato,2018,2,5
+2018-02-02,421.0,East,tomato,2018,2,5
+2018-02-02,366.0,North,tomato,2018,2,5
+2018-02-02,436.0,South,tomato,2018,2,5
+2018-02-02,394.0,Littoral,tomato,2018,2,5
+2018-02-09,454.0,North West,tomato,2018,2,6
+2018-02-09,373.0,South West,tomato,2018,2,6
+2018-02-09,457.0,West,tomato,2018,2,6
+2018-02-09,426.0,Adamawa,tomato,2018,2,6
+2018-02-09,418.0,Far North,tomato,2018,2,6
+2018-02-09,380.0,Centre,tomato,2018,2,6
+2018-02-09,451.0,East,tomato,2018,2,6
+2018-02-09,382.0,North,tomato,2018,2,6
+2018-02-09,389.0,South,tomato,2018,2,6
+2018-02-09,382.0,Littoral,tomato,2018,2,6
+2018-02-16,418.0,North West,tomato,2018,2,7
+2018-02-16,501.0,South West,tomato,2018,2,7
+2018-02-16,451.0,West,tomato,2018,2,7
+2018-02-16,436.0,Adamawa,tomato,2018,2,7
+2018-02-16,458.0,Far North,tomato,2018,2,7
+2018-02-16,481.0,Centre,tomato,2018,2,7
+2018-02-16,481.0,East,tomato,2018,2,7
+2018-02-16,464.0,North,tomato,2018,2,7
+2018-02-16,480.0,South,tomato,2018,2,7
+2018-02-16,471.0,Littoral,tomato,2018,2,7
+2018-02-23,501.0,North West,tomato,2018,2,8
+2018-02-23,461.0,South West,tomato,2018,2,8
+2018-02-23,447.0,West,tomato,2018,2,8
+2018-02-23,488.0,Adamawa,tomato,2018,2,8
+2018-02-23,507.0,Far North,tomato,2018,2,8
+2018-02-23,467.0,Centre,tomato,2018,2,8
+2018-02-23,469.0,East,tomato,2018,2,8
+2018-02-23,418.0,North,tomato,2018,2,8
+2018-02-23,527.0,South,tomato,2018,2,8
+2018-02-23,517.0,Littoral,tomato,2018,2,8
+2018-03-02,490.0,North West,tomato,2018,3,9
+2018-03-02,540.0,South West,tomato,2018,3,9
+2018-03-02,479.0,West,tomato,2018,3,9
+2018-03-02,535.0,Adamawa,tomato,2018,3,9
+2018-03-02,506.0,Far North,tomato,2018,3,9
+2018-03-02,499.0,Centre,tomato,2018,3,9
+2018-03-02,445.0,East,tomato,2018,3,9
+2018-03-02,566.0,North,tomato,2018,3,9
+2018-03-02,549.0,South,tomato,2018,3,9
+2018-03-02,543.0,Littoral,tomato,2018,3,9
+2018-03-09,484.0,North West,tomato,2018,3,10
+2018-03-09,518.0,South West,tomato,2018,3,10
+2018-03-09,530.0,West,tomato,2018,3,10
+2018-03-09,446.0,Adamawa,tomato,2018,3,10
+2018-03-09,488.0,Far North,tomato,2018,3,10
+2018-03-09,503.0,Centre,tomato,2018,3,10
+2018-03-09,440.0,East,tomato,2018,3,10
+2018-03-09,463.0,North,tomato,2018,3,10
+2018-03-09,435.0,South,tomato,2018,3,10
+2018-03-09,500.0,Littoral,tomato,2018,3,10
+2018-03-16,501.0,North West,tomato,2018,3,11
+2018-03-16,503.0,South West,tomato,2018,3,11
+2018-03-16,477.0,West,tomato,2018,3,11
+2018-03-16,438.0,Adamawa,tomato,2018,3,11
+2018-03-16,476.0,Far North,tomato,2018,3,11
+2018-03-16,501.0,Centre,tomato,2018,3,11
+2018-03-16,472.0,East,tomato,2018,3,11
+2018-03-16,446.0,North,tomato,2018,3,11
+2018-03-16,508.0,South,tomato,2018,3,11
+2018-03-16,497.0,Littoral,tomato,2018,3,11
+2018-03-23,517.0,North West,tomato,2018,3,12
+2018-03-23,446.0,South West,tomato,2018,3,12
+2018-03-23,526.0,West,tomato,2018,3,12
+2018-03-23,504.0,Adamawa,tomato,2018,3,12
+2018-03-23,478.0,Far North,tomato,2018,3,12
+2018-03-23,572.0,Centre,tomato,2018,3,12
+2018-03-23,448.0,East,tomato,2018,3,12
+2018-03-23,568.0,North,tomato,2018,3,12
+2018-03-23,462.0,South,tomato,2018,3,12
+2018-03-23,491.0,Littoral,tomato,2018,3,12
+2018-03-30,491.0,North West,tomato,2018,3,13
+2018-03-30,533.0,South West,tomato,2018,3,13
+2018-03-30,464.0,West,tomato,2018,3,13
+2018-03-30,567.0,Adamawa,tomato,2018,3,13
+2018-03-30,536.0,Far North,tomato,2018,3,13
+2018-03-30,541.0,Centre,tomato,2018,3,13
+2018-03-30,450.0,East,tomato,2018,3,13
+2018-03-30,499.0,North,tomato,2018,3,13
+2018-03-30,562.0,South,tomato,2018,3,13
+2018-03-30,472.0,Littoral,tomato,2018,3,13
+2018-04-06,556.0,North West,tomato,2018,4,14
+2018-04-06,497.0,South West,tomato,2018,4,14
+2018-04-06,486.0,West,tomato,2018,4,14
+2018-04-06,519.0,Adamawa,tomato,2018,4,14
+2018-04-06,557.0,Far North,tomato,2018,4,14
+2018-04-06,439.0,Centre,tomato,2018,4,14
+2018-04-06,453.0,East,tomato,2018,4,14
+2018-04-06,450.0,North,tomato,2018,4,14
+2018-04-06,444.0,South,tomato,2018,4,14
+2018-04-06,472.0,Littoral,tomato,2018,4,14
+2018-04-13,429.0,North West,tomato,2018,4,15
+2018-04-13,469.0,South West,tomato,2018,4,15
+2018-04-13,442.0,West,tomato,2018,4,15
+2018-04-13,451.0,Adamawa,tomato,2018,4,15
+2018-04-13,517.0,Far North,tomato,2018,4,15
+2018-04-13,420.0,Centre,tomato,2018,4,15
+2018-04-13,449.0,East,tomato,2018,4,15
+2018-04-13,433.0,North,tomato,2018,4,15
+2018-04-13,469.0,South,tomato,2018,4,15
+2018-04-13,492.0,Littoral,tomato,2018,4,15
+2018-04-20,519.0,North West,tomato,2018,4,16
+2018-04-20,510.0,South West,tomato,2018,4,16
+2018-04-20,431.0,West,tomato,2018,4,16
+2018-04-20,442.0,Adamawa,tomato,2018,4,16
+2018-04-20,496.0,Far North,tomato,2018,4,16
+2018-04-20,534.0,Centre,tomato,2018,4,16
+2018-04-20,459.0,East,tomato,2018,4,16
+2018-04-20,440.0,North,tomato,2018,4,16
+2018-04-20,521.0,South,tomato,2018,4,16
+2018-04-20,437.0,Littoral,tomato,2018,4,16
+2018-04-27,548.0,North West,tomato,2018,4,17
+2018-04-27,456.0,South West,tomato,2018,4,17
+2018-04-27,454.0,West,tomato,2018,4,17
+2018-04-27,514.0,Adamawa,tomato,2018,4,17
+2018-04-27,543.0,Far North,tomato,2018,4,17
+2018-04-27,471.0,Centre,tomato,2018,4,17
+2018-04-27,557.0,East,tomato,2018,4,17
+2018-04-27,469.0,North,tomato,2018,4,17
+2018-04-27,526.0,South,tomato,2018,4,17
+2018-04-27,494.0,Littoral,tomato,2018,4,17
+2018-05-04,452.0,North West,tomato,2018,5,18
+2018-05-04,469.0,South West,tomato,2018,5,18
+2018-05-04,564.0,West,tomato,2018,5,18
+2018-05-04,499.0,Adamawa,tomato,2018,5,18
+2018-05-04,508.0,Far North,tomato,2018,5,18
+2018-05-04,466.0,Centre,tomato,2018,5,18
+2018-05-04,578.0,East,tomato,2018,5,18
+2018-05-04,568.0,North,tomato,2018,5,18
+2018-05-04,443.0,South,tomato,2018,5,18
+2018-05-04,518.0,Littoral,tomato,2018,5,18
+2018-05-11,550.0,North West,tomato,2018,5,19
+2018-05-11,492.0,South West,tomato,2018,5,19
+2018-05-11,492.0,West,tomato,2018,5,19
+2018-05-11,485.0,Adamawa,tomato,2018,5,19
+2018-05-11,438.0,Far North,tomato,2018,5,19
+2018-05-11,539.0,Centre,tomato,2018,5,19
+2018-05-11,495.0,East,tomato,2018,5,19
+2018-05-11,505.0,North,tomato,2018,5,19
+2018-05-11,468.0,South,tomato,2018,5,19
+2018-05-11,539.0,Littoral,tomato,2018,5,19
+2018-05-18,537.0,North West,tomato,2018,5,20
+2018-05-18,435.0,South West,tomato,2018,5,20
+2018-05-18,521.0,West,tomato,2018,5,20
+2018-05-18,492.0,Adamawa,tomato,2018,5,20
+2018-05-18,450.0,Far North,tomato,2018,5,20
+2018-05-18,437.0,Centre,tomato,2018,5,20
+2018-05-18,459.0,East,tomato,2018,5,20
+2018-05-18,530.0,North,tomato,2018,5,20
+2018-05-18,522.0,South,tomato,2018,5,20
+2018-05-18,503.0,Littoral,tomato,2018,5,20
+2018-05-25,448.0,North West,tomato,2018,5,21
+2018-05-25,564.0,South West,tomato,2018,5,21
+2018-05-25,477.0,West,tomato,2018,5,21
+2018-05-25,517.0,Adamawa,tomato,2018,5,21
+2018-05-25,543.0,Far North,tomato,2018,5,21
+2018-05-25,454.0,Centre,tomato,2018,5,21
+2018-05-25,523.0,East,tomato,2018,5,21
+2018-05-25,440.0,North,tomato,2018,5,21
+2018-05-25,449.0,South,tomato,2018,5,21
+2018-05-25,533.0,Littoral,tomato,2018,5,21
+2018-06-01,416.0,North West,tomato,2018,6,22
+2018-06-01,437.0,South West,tomato,2018,6,22
+2018-06-01,396.0,West,tomato,2018,6,22
+2018-06-01,476.0,Adamawa,tomato,2018,6,22
+2018-06-01,396.0,Far North,tomato,2018,6,22
+2018-06-01,486.0,Centre,tomato,2018,6,22
+2018-06-01,466.0,East,tomato,2018,6,22
+2018-06-01,436.0,North,tomato,2018,6,22
+2018-06-01,490.0,South,tomato,2018,6,22
+2018-06-01,409.0,Littoral,tomato,2018,6,22
+2018-06-08,363.0,North West,tomato,2018,6,23
+2018-06-08,350.0,South West,tomato,2018,6,23
+2018-06-08,375.0,West,tomato,2018,6,23
+2018-06-08,437.0,Adamawa,tomato,2018,6,23
+2018-06-08,352.0,Far North,tomato,2018,6,23
+2018-06-08,421.0,Centre,tomato,2018,6,23
+2018-06-08,403.0,East,tomato,2018,6,23
+2018-06-08,337.0,North,tomato,2018,6,23
+2018-06-08,433.0,South,tomato,2018,6,23
+2018-06-08,436.0,Littoral,tomato,2018,6,23
+2018-06-15,342.0,North West,tomato,2018,6,24
+2018-06-15,359.0,South West,tomato,2018,6,24
+2018-06-15,381.0,West,tomato,2018,6,24
+2018-06-15,358.0,Adamawa,tomato,2018,6,24
+2018-06-15,390.0,Far North,tomato,2018,6,24
+2018-06-15,398.0,Centre,tomato,2018,6,24
+2018-06-15,341.0,East,tomato,2018,6,24
+2018-06-15,360.0,North,tomato,2018,6,24
+2018-06-15,414.0,South,tomato,2018,6,24
+2018-06-15,345.0,Littoral,tomato,2018,6,24
+2018-06-22,358.0,North West,tomato,2018,6,25
+2018-06-22,327.0,South West,tomato,2018,6,25
+2018-06-22,356.0,West,tomato,2018,6,25
+2018-06-22,360.0,Adamawa,tomato,2018,6,25
+2018-06-22,333.0,Far North,tomato,2018,6,25
+2018-06-22,323.0,Centre,tomato,2018,6,25
+2018-06-22,380.0,East,tomato,2018,6,25
+2018-06-22,353.0,North,tomato,2018,6,25
+2018-06-22,325.0,South,tomato,2018,6,25
+2018-06-22,408.0,Littoral,tomato,2018,6,25
+2018-06-29,368.0,North West,tomato,2018,6,26
+2018-06-29,314.0,South West,tomato,2018,6,26
+2018-06-29,311.0,West,tomato,2018,6,26
+2018-06-29,371.0,Adamawa,tomato,2018,6,26
+2018-06-29,307.0,Far North,tomato,2018,6,26
+2018-06-29,369.0,Centre,tomato,2018,6,26
+2018-06-29,363.0,East,tomato,2018,6,26
+2018-06-29,319.0,North,tomato,2018,6,26
+2018-06-29,294.0,South,tomato,2018,6,26
+2018-06-29,298.0,Littoral,tomato,2018,6,26
+2018-07-06,276.0,North West,tomato,2018,7,27
+2018-07-06,340.0,South West,tomato,2018,7,27
+2018-07-06,300.0,West,tomato,2018,7,27
+2018-07-06,270.0,Adamawa,tomato,2018,7,27
+2018-07-06,313.0,Far North,tomato,2018,7,27
+2018-07-06,284.0,Centre,tomato,2018,7,27
+2018-07-06,286.0,East,tomato,2018,7,27
+2018-07-06,280.0,North,tomato,2018,7,27
+2018-07-06,330.0,South,tomato,2018,7,27
+2018-07-06,267.0,Littoral,tomato,2018,7,27
+2018-07-13,277.0,North West,tomato,2018,7,28
+2018-07-13,262.0,South West,tomato,2018,7,28
+2018-07-13,239.0,West,tomato,2018,7,28
+2018-07-13,270.0,Adamawa,tomato,2018,7,28
+2018-07-13,278.0,Far North,tomato,2018,7,28
+2018-07-13,255.0,Centre,tomato,2018,7,28
+2018-07-13,292.0,East,tomato,2018,7,28
+2018-07-13,264.0,North,tomato,2018,7,28
+2018-07-13,291.0,South,tomato,2018,7,28
+2018-07-13,279.0,Littoral,tomato,2018,7,28
+2018-07-20,284.0,North West,tomato,2018,7,29
+2018-07-20,262.0,South West,tomato,2018,7,29
+2018-07-20,237.0,West,tomato,2018,7,29
+2018-07-20,281.0,Adamawa,tomato,2018,7,29
+2018-07-20,278.0,Far North,tomato,2018,7,29
+2018-07-20,291.0,Centre,tomato,2018,7,29
+2018-07-20,230.0,East,tomato,2018,7,29
+2018-07-20,265.0,North,tomato,2018,7,29
+2018-07-20,258.0,South,tomato,2018,7,29
+2018-07-20,270.0,Littoral,tomato,2018,7,29
+2018-07-27,263.0,North West,tomato,2018,7,30
+2018-07-27,240.0,South West,tomato,2018,7,30
+2018-07-27,237.0,West,tomato,2018,7,30
+2018-07-27,239.0,Adamawa,tomato,2018,7,30
+2018-07-27,220.0,Far North,tomato,2018,7,30
+2018-07-27,236.0,Centre,tomato,2018,7,30
+2018-07-27,228.0,East,tomato,2018,7,30
+2018-07-27,247.0,North,tomato,2018,7,30
+2018-07-27,248.0,South,tomato,2018,7,30
+2018-07-27,268.0,Littoral,tomato,2018,7,30
+2018-08-03,226.0,North West,tomato,2018,8,31
+2018-08-03,224.0,South West,tomato,2018,8,31
+2018-08-03,210.0,West,tomato,2018,8,31
+2018-08-03,247.0,Adamawa,tomato,2018,8,31
+2018-08-03,202.0,Far North,tomato,2018,8,31
+2018-08-03,255.0,Centre,tomato,2018,8,31
+2018-08-03,225.0,East,tomato,2018,8,31
+2018-08-03,207.0,North,tomato,2018,8,31
+2018-08-03,217.0,South,tomato,2018,8,31
+2018-08-03,197.0,Littoral,tomato,2018,8,31
+2018-08-10,204.0,North West,tomato,2018,8,32
+2018-08-10,181.0,South West,tomato,2018,8,32
+2018-08-10,211.0,West,tomato,2018,8,32
+2018-08-10,220.0,Adamawa,tomato,2018,8,32
+2018-08-10,205.0,Far North,tomato,2018,8,32
+2018-08-10,190.0,Centre,tomato,2018,8,32
+2018-08-10,181.0,East,tomato,2018,8,32
+2018-08-10,175.0,North,tomato,2018,8,32
+2018-08-10,214.0,South,tomato,2018,8,32
+2018-08-10,208.0,Littoral,tomato,2018,8,32
+2018-08-17,178.0,North West,tomato,2018,8,33
+2018-08-17,160.0,South West,tomato,2018,8,33
+2018-08-17,165.0,West,tomato,2018,8,33
+2018-08-17,194.0,Adamawa,tomato,2018,8,33
+2018-08-17,178.0,Far North,tomato,2018,8,33
+2018-08-17,201.0,Centre,tomato,2018,8,33
+2018-08-17,203.0,East,tomato,2018,8,33
+2018-08-17,193.0,North,tomato,2018,8,33
+2018-08-17,168.0,South,tomato,2018,8,33
+2018-08-17,166.0,Littoral,tomato,2018,8,33
+2018-08-24,207.0,North West,tomato,2018,8,34
+2018-08-24,200.0,South West,tomato,2018,8,34
+2018-08-24,189.0,West,tomato,2018,8,34
+2018-08-24,168.0,Adamawa,tomato,2018,8,34
+2018-08-24,169.0,Far North,tomato,2018,8,34
+2018-08-24,184.0,Centre,tomato,2018,8,34
+2018-08-24,207.0,East,tomato,2018,8,34
+2018-08-24,205.0,North,tomato,2018,8,34
+2018-08-24,168.0,South,tomato,2018,8,34
+2018-08-24,174.0,Littoral,tomato,2018,8,34
+2018-08-31,171.0,North West,tomato,2018,8,35
+2018-08-31,166.0,South West,tomato,2018,8,35
+2018-08-31,150.0,West,tomato,2018,8,35
+2018-08-31,161.0,Adamawa,tomato,2018,8,35
+2018-08-31,188.0,Far North,tomato,2018,8,35
+2018-08-31,187.0,Centre,tomato,2018,8,35
+2018-08-31,170.0,East,tomato,2018,8,35
+2018-08-31,173.0,North,tomato,2018,8,35
+2018-08-31,155.0,South,tomato,2018,8,35
+2018-08-31,178.0,Littoral,tomato,2018,8,35
+2018-09-07,156.0,North West,tomato,2018,9,36
+2018-09-07,167.0,South West,tomato,2018,9,36
+2018-09-07,177.0,West,tomato,2018,9,36
+2018-09-07,166.0,Adamawa,tomato,2018,9,36
+2018-09-07,148.0,Far North,tomato,2018,9,36
+2018-09-07,177.0,Centre,tomato,2018,9,36
+2018-09-07,154.0,East,tomato,2018,9,36
+2018-09-07,148.0,North,tomato,2018,9,36
+2018-09-07,165.0,South,tomato,2018,9,36
+2018-09-07,147.0,Littoral,tomato,2018,9,36
+2018-09-14,168.0,North West,tomato,2018,9,37
+2018-09-14,168.0,South West,tomato,2018,9,37
+2018-09-14,152.0,West,tomato,2018,9,37
+2018-09-14,182.0,Adamawa,tomato,2018,9,37
+2018-09-14,176.0,Far North,tomato,2018,9,37
+2018-09-14,145.0,Centre,tomato,2018,9,37
+2018-09-14,173.0,East,tomato,2018,9,37
+2018-09-14,156.0,North,tomato,2018,9,37
+2018-09-14,173.0,South,tomato,2018,9,37
+2018-09-14,175.0,Littoral,tomato,2018,9,37
+2018-09-21,172.0,North West,tomato,2018,9,38
+2018-09-21,149.0,South West,tomato,2018,9,38
+2018-09-21,139.0,West,tomato,2018,9,38
+2018-09-21,137.0,Adamawa,tomato,2018,9,38
+2018-09-21,140.0,Far North,tomato,2018,9,38
+2018-09-21,136.0,Centre,tomato,2018,9,38
+2018-09-21,149.0,East,tomato,2018,9,38
+2018-09-21,148.0,North,tomato,2018,9,38
+2018-09-21,140.0,South,tomato,2018,9,38
+2018-09-21,163.0,Littoral,tomato,2018,9,38
+2018-09-28,160.0,North West,tomato,2018,9,39
+2018-09-28,157.0,South West,tomato,2018,9,39
+2018-09-28,133.0,West,tomato,2018,9,39
+2018-09-28,152.0,Adamawa,tomato,2018,9,39
+2018-09-28,158.0,Far North,tomato,2018,9,39
+2018-09-28,157.0,Centre,tomato,2018,9,39
+2018-09-28,156.0,East,tomato,2018,9,39
+2018-09-28,153.0,North,tomato,2018,9,39
+2018-09-28,134.0,South,tomato,2018,9,39
+2018-09-28,126.0,Littoral,tomato,2018,9,39
+2018-10-05,159.0,North West,tomato,2018,10,40
+2018-10-05,135.0,South West,tomato,2018,10,40
+2018-10-05,158.0,West,tomato,2018,10,40
+2018-10-05,151.0,Adamawa,tomato,2018,10,40
+2018-10-05,137.0,Far North,tomato,2018,10,40
+2018-10-05,126.0,Centre,tomato,2018,10,40
+2018-10-05,131.0,East,tomato,2018,10,40
+2018-10-05,147.0,North,tomato,2018,10,40
+2018-10-05,153.0,South,tomato,2018,10,40
+2018-10-05,158.0,Littoral,tomato,2018,10,40
+2018-10-12,132.0,North West,tomato,2018,10,41
+2018-10-12,132.0,South West,tomato,2018,10,41
+2018-10-12,128.0,West,tomato,2018,10,41
+2018-10-12,137.0,Adamawa,tomato,2018,10,41
+2018-10-12,158.0,Far North,tomato,2018,10,41
+2018-10-12,134.0,Centre,tomato,2018,10,41
+2018-10-12,148.0,East,tomato,2018,10,41
+2018-10-12,144.0,North,tomato,2018,10,41
+2018-10-12,139.0,South,tomato,2018,10,41
+2018-10-12,150.0,Littoral,tomato,2018,10,41
+2018-10-19,136.0,North West,tomato,2018,10,42
+2018-10-19,122.0,South West,tomato,2018,10,42
+2018-10-19,135.0,West,tomato,2018,10,42
+2018-10-19,145.0,Adamawa,tomato,2018,10,42
+2018-10-19,138.0,Far North,tomato,2018,10,42
+2018-10-19,127.0,Centre,tomato,2018,10,42
+2018-10-19,138.0,East,tomato,2018,10,42
+2018-10-19,140.0,North,tomato,2018,10,42
+2018-10-19,124.0,South,tomato,2018,10,42
+2018-10-19,137.0,Littoral,tomato,2018,10,42
+2018-10-26,136.0,North West,tomato,2018,10,43
+2018-10-26,151.0,South West,tomato,2018,10,43
+2018-10-26,131.0,West,tomato,2018,10,43
+2018-10-26,155.0,Adamawa,tomato,2018,10,43
+2018-10-26,142.0,Far North,tomato,2018,10,43
+2018-10-26,133.0,Centre,tomato,2018,10,43
+2018-10-26,136.0,East,tomato,2018,10,43
+2018-10-26,133.0,North,tomato,2018,10,43
+2018-10-26,126.0,South,tomato,2018,10,43
+2018-10-26,123.0,Littoral,tomato,2018,10,43
+2018-11-02,155.0,North West,tomato,2018,11,44
+2018-11-02,140.0,South West,tomato,2018,11,44
+2018-11-02,164.0,West,tomato,2018,11,44
+2018-11-02,145.0,Adamawa,tomato,2018,11,44
+2018-11-02,148.0,Far North,tomato,2018,11,44
+2018-11-02,144.0,Centre,tomato,2018,11,44
+2018-11-02,161.0,East,tomato,2018,11,44
+2018-11-02,143.0,North,tomato,2018,11,44
+2018-11-02,150.0,South,tomato,2018,11,44
+2018-11-02,158.0,Littoral,tomato,2018,11,44
+2018-11-09,141.0,North West,tomato,2018,11,45
+2018-11-09,152.0,South West,tomato,2018,11,45
+2018-11-09,148.0,West,tomato,2018,11,45
+2018-11-09,170.0,Adamawa,tomato,2018,11,45
+2018-11-09,167.0,Far North,tomato,2018,11,45
+2018-11-09,175.0,Centre,tomato,2018,11,45
+2018-11-09,156.0,East,tomato,2018,11,45
+2018-11-09,158.0,North,tomato,2018,11,45
+2018-11-09,173.0,South,tomato,2018,11,45
+2018-11-09,151.0,Littoral,tomato,2018,11,45
+2018-11-16,151.0,North West,tomato,2018,11,46
+2018-11-16,132.0,South West,tomato,2018,11,46
+2018-11-16,160.0,West,tomato,2018,11,46
+2018-11-16,168.0,Adamawa,tomato,2018,11,46
+2018-11-16,132.0,Far North,tomato,2018,11,46
+2018-11-16,161.0,Centre,tomato,2018,11,46
+2018-11-16,139.0,East,tomato,2018,11,46
+2018-11-16,137.0,North,tomato,2018,11,46
+2018-11-16,156.0,South,tomato,2018,11,46
+2018-11-16,131.0,Littoral,tomato,2018,11,46
+2018-11-23,185.0,North West,tomato,2018,11,47
+2018-11-23,162.0,South West,tomato,2018,11,47
+2018-11-23,190.0,West,tomato,2018,11,47
+2018-11-23,185.0,Adamawa,tomato,2018,11,47
+2018-11-23,208.0,Far North,tomato,2018,11,47
+2018-11-23,198.0,Centre,tomato,2018,11,47
+2018-11-23,169.0,East,tomato,2018,11,47
+2018-11-23,180.0,North,tomato,2018,11,47
+2018-11-23,209.0,South,tomato,2018,11,47
+2018-11-23,198.0,Littoral,tomato,2018,11,47
+2018-11-30,213.0,North West,tomato,2018,11,48
+2018-11-30,224.0,South West,tomato,2018,11,48
+2018-11-30,235.0,West,tomato,2018,11,48
+2018-11-30,197.0,Adamawa,tomato,2018,11,48
+2018-11-30,246.0,Far North,tomato,2018,11,48
+2018-11-30,204.0,Centre,tomato,2018,11,48
+2018-11-30,216.0,East,tomato,2018,11,48
+2018-11-30,191.0,North,tomato,2018,11,48
+2018-11-30,222.0,South,tomato,2018,11,48
+2018-11-30,212.0,Littoral,tomato,2018,11,48
+2018-12-07,275.0,North West,tomato,2018,12,49
+2018-12-07,332.0,South West,tomato,2018,12,49
+2018-12-07,289.0,West,tomato,2018,12,49
+2018-12-07,288.0,Adamawa,tomato,2018,12,49
+2018-12-07,291.0,Far North,tomato,2018,12,49
+2018-12-07,264.0,Centre,tomato,2018,12,49
+2018-12-07,286.0,East,tomato,2018,12,49
+2018-12-07,282.0,North,tomato,2018,12,49
+2018-12-07,292.0,South,tomato,2018,12,49
+2018-12-07,322.0,Littoral,tomato,2018,12,49
+2018-12-14,276.0,North West,tomato,2018,12,50
+2018-12-14,299.0,South West,tomato,2018,12,50
+2018-12-14,312.0,West,tomato,2018,12,50
+2018-12-14,279.0,Adamawa,tomato,2018,12,50
+2018-12-14,318.0,Far North,tomato,2018,12,50
+2018-12-14,299.0,Centre,tomato,2018,12,50
+2018-12-14,356.0,East,tomato,2018,12,50
+2018-12-14,325.0,North,tomato,2018,12,50
+2018-12-14,293.0,South,tomato,2018,12,50
+2018-12-14,281.0,Littoral,tomato,2018,12,50
+2018-12-21,271.0,North West,tomato,2018,12,51
+2018-12-21,275.0,South West,tomato,2018,12,51
+2018-12-21,324.0,West,tomato,2018,12,51
+2018-12-21,338.0,Adamawa,tomato,2018,12,51
+2018-12-21,281.0,Far North,tomato,2018,12,51
+2018-12-21,301.0,Centre,tomato,2018,12,51
+2018-12-21,297.0,East,tomato,2018,12,51
+2018-12-21,321.0,North,tomato,2018,12,51
+2018-12-21,283.0,South,tomato,2018,12,51
+2018-12-21,346.0,Littoral,tomato,2018,12,51
+2018-12-28,349.0,North West,tomato,2018,12,52
+2018-12-28,347.0,South West,tomato,2018,12,52
+2018-12-28,287.0,West,tomato,2018,12,52
+2018-12-28,372.0,Adamawa,tomato,2018,12,52
+2018-12-28,366.0,Far North,tomato,2018,12,52
+2018-12-28,295.0,Centre,tomato,2018,12,52
+2018-12-28,332.0,East,tomato,2018,12,52
+2018-12-28,312.0,North,tomato,2018,12,52
+2018-12-28,362.0,South,tomato,2018,12,52
+2018-12-28,346.0,Littoral,tomato,2018,12,52
+2019-01-04,295.0,North West,tomato,2019,1,1
+2019-01-04,279.0,South West,tomato,2019,1,1
+2019-01-04,301.0,West,tomato,2019,1,1
+2019-01-04,279.0,Adamawa,tomato,2019,1,1
+2019-01-04,288.0,Far North,tomato,2019,1,1
+2019-01-04,330.0,Centre,tomato,2019,1,1
+2019-01-04,339.0,East,tomato,2019,1,1
+2019-01-04,316.0,North,tomato,2019,1,1
+2019-01-04,327.0,South,tomato,2019,1,1
+2019-01-04,289.0,Littoral,tomato,2019,1,1
+2019-01-11,369.0,North West,tomato,2019,1,2
+2019-01-11,367.0,South West,tomato,2019,1,2
+2019-01-11,352.0,West,tomato,2019,1,2
+2019-01-11,392.0,Adamawa,tomato,2019,1,2
+2019-01-11,414.0,Far North,tomato,2019,1,2
+2019-01-11,380.0,Centre,tomato,2019,1,2
+2019-01-11,344.0,East,tomato,2019,1,2
+2019-01-11,417.0,North,tomato,2019,1,2
+2019-01-11,339.0,South,tomato,2019,1,2
+2019-01-11,380.0,Littoral,tomato,2019,1,2
+2019-01-18,348.0,North West,tomato,2019,1,3
+2019-01-18,415.0,South West,tomato,2019,1,3
+2019-01-18,396.0,West,tomato,2019,1,3
+2019-01-18,379.0,Adamawa,tomato,2019,1,3
+2019-01-18,389.0,Far North,tomato,2019,1,3
+2019-01-18,375.0,Centre,tomato,2019,1,3
+2019-01-18,337.0,East,tomato,2019,1,3
+2019-01-18,393.0,North,tomato,2019,1,3
+2019-01-18,371.0,South,tomato,2019,1,3
+2019-01-18,385.0,Littoral,tomato,2019,1,3
+2019-01-25,337.0,North West,tomato,2019,1,4
+2019-01-25,338.0,South West,tomato,2019,1,4
+2019-01-25,376.0,West,tomato,2019,1,4
+2019-01-25,320.0,Adamawa,tomato,2019,1,4
+2019-01-25,357.0,Far North,tomato,2019,1,4
+2019-01-25,365.0,Centre,tomato,2019,1,4
+2019-01-25,345.0,East,tomato,2019,1,4
+2019-01-25,394.0,North,tomato,2019,1,4
+2019-01-25,320.0,South,tomato,2019,1,4
+2019-01-25,398.0,Littoral,tomato,2019,1,4
+2019-02-01,505.0,North West,tomato,2019,2,5
+2019-02-01,470.0,South West,tomato,2019,2,5
+2019-02-01,531.0,West,tomato,2019,2,5
+2019-02-01,503.0,Adamawa,tomato,2019,2,5
+2019-02-01,532.0,Far North,tomato,2019,2,5
+2019-02-01,474.0,Centre,tomato,2019,2,5
+2019-02-01,471.0,East,tomato,2019,2,5
+2019-02-01,481.0,North,tomato,2019,2,5
+2019-02-01,422.0,South,tomato,2019,2,5
+2019-02-01,529.0,Littoral,tomato,2019,2,5
+2019-02-08,578.0,North West,tomato,2019,2,6
+2019-02-08,587.0,South West,tomato,2019,2,6
+2019-02-08,473.0,West,tomato,2019,2,6
+2019-02-08,553.0,Adamawa,tomato,2019,2,6
+2019-02-08,530.0,Far North,tomato,2019,2,6
+2019-02-08,514.0,Centre,tomato,2019,2,6
+2019-02-08,585.0,East,tomato,2019,2,6
+2019-02-08,567.0,North,tomato,2019,2,6
+2019-02-08,546.0,South,tomato,2019,2,6
+2019-02-08,503.0,Littoral,tomato,2019,2,6
+2019-02-15,588.0,North West,tomato,2019,2,7
+2019-02-15,568.0,South West,tomato,2019,2,7
+2019-02-15,525.0,West,tomato,2019,2,7
+2019-02-15,555.0,Adamawa,tomato,2019,2,7
+2019-02-15,520.0,Far North,tomato,2019,2,7
+2019-02-15,563.0,Centre,tomato,2019,2,7
+2019-02-15,596.0,East,tomato,2019,2,7
+2019-02-15,493.0,North,tomato,2019,2,7
+2019-02-15,603.0,South,tomato,2019,2,7
+2019-02-15,491.0,Littoral,tomato,2019,2,7
+2019-02-22,672.0,North West,tomato,2019,2,8
+2019-02-22,672.0,South West,tomato,2019,2,8
+2019-02-22,614.0,West,tomato,2019,2,8
+2019-02-22,555.0,Adamawa,tomato,2019,2,8
+2019-02-22,660.0,Far North,tomato,2019,2,8
+2019-02-22,630.0,Centre,tomato,2019,2,8
+2019-02-22,600.0,East,tomato,2019,2,8
+2019-02-22,584.0,North,tomato,2019,2,8
+2019-02-22,564.0,South,tomato,2019,2,8
+2019-02-22,594.0,Littoral,tomato,2019,2,8
+2019-03-01,613.0,North West,tomato,2019,3,9
+2019-03-01,617.0,South West,tomato,2019,3,9
+2019-03-01,634.0,West,tomato,2019,3,9
+2019-03-01,598.0,Adamawa,tomato,2019,3,9
+2019-03-01,690.0,Far North,tomato,2019,3,9
+2019-03-01,620.0,Centre,tomato,2019,3,9
+2019-03-01,608.0,East,tomato,2019,3,9
+2019-03-01,546.0,North,tomato,2019,3,9
+2019-03-01,637.0,South,tomato,2019,3,9
+2019-03-01,637.0,Littoral,tomato,2019,3,9
+2019-03-08,669.0,North West,tomato,2019,3,10
+2019-03-08,686.0,South West,tomato,2019,3,10
+2019-03-08,552.0,West,tomato,2019,3,10
+2019-03-08,595.0,Adamawa,tomato,2019,3,10
+2019-03-08,595.0,Far North,tomato,2019,3,10
+2019-03-08,651.0,Centre,tomato,2019,3,10
+2019-03-08,617.0,East,tomato,2019,3,10
+2019-03-08,671.0,North,tomato,2019,3,10
+2019-03-08,606.0,South,tomato,2019,3,10
+2019-03-08,579.0,Littoral,tomato,2019,3,10
+2019-03-15,571.0,North West,tomato,2019,3,11
+2019-03-15,554.0,South West,tomato,2019,3,11
+2019-03-15,556.0,West,tomato,2019,3,11
+2019-03-15,559.0,Adamawa,tomato,2019,3,11
+2019-03-15,527.0,Far North,tomato,2019,3,11
+2019-03-15,640.0,Centre,tomato,2019,3,11
+2019-03-15,589.0,East,tomato,2019,3,11
+2019-03-15,528.0,North,tomato,2019,3,11
+2019-03-15,584.0,South,tomato,2019,3,11
+2019-03-15,670.0,Littoral,tomato,2019,3,11
+2019-03-22,601.0,North West,tomato,2019,3,12
+2019-03-22,668.0,South West,tomato,2019,3,12
+2019-03-22,547.0,West,tomato,2019,3,12
+2019-03-22,561.0,Adamawa,tomato,2019,3,12
+2019-03-22,626.0,Far North,tomato,2019,3,12
+2019-03-22,672.0,Centre,tomato,2019,3,12
+2019-03-22,646.0,East,tomato,2019,3,12
+2019-03-22,603.0,North,tomato,2019,3,12
+2019-03-22,529.0,South,tomato,2019,3,12
+2019-03-22,573.0,Littoral,tomato,2019,3,12
+2019-03-29,514.0,North West,tomato,2019,3,13
+2019-03-29,548.0,South West,tomato,2019,3,13
+2019-03-29,540.0,West,tomato,2019,3,13
+2019-03-29,560.0,Adamawa,tomato,2019,3,13
+2019-03-29,629.0,Far North,tomato,2019,3,13
+2019-03-29,524.0,Centre,tomato,2019,3,13
+2019-03-29,548.0,East,tomato,2019,3,13
+2019-03-29,541.0,North,tomato,2019,3,13
+2019-03-29,546.0,South,tomato,2019,3,13
+2019-03-29,556.0,Littoral,tomato,2019,3,13
+2019-04-05,523.0,North West,tomato,2019,4,14
+2019-04-05,484.0,South West,tomato,2019,4,14
+2019-04-05,488.0,West,tomato,2019,4,14
+2019-04-05,498.0,Adamawa,tomato,2019,4,14
+2019-04-05,475.0,Far North,tomato,2019,4,14
+2019-04-05,559.0,Centre,tomato,2019,4,14
+2019-04-05,569.0,East,tomato,2019,4,14
+2019-04-05,513.0,North,tomato,2019,4,14
+2019-04-05,554.0,South,tomato,2019,4,14
+2019-04-05,512.0,Littoral,tomato,2019,4,14
+2019-04-12,470.0,North West,tomato,2019,4,15
+2019-04-12,502.0,South West,tomato,2019,4,15
+2019-04-12,524.0,West,tomato,2019,4,15
+2019-04-12,453.0,Adamawa,tomato,2019,4,15
+2019-04-12,538.0,Far North,tomato,2019,4,15
+2019-04-12,550.0,Centre,tomato,2019,4,15
+2019-04-12,566.0,East,tomato,2019,4,15
+2019-04-12,462.0,North,tomato,2019,4,15
+2019-04-12,448.0,South,tomato,2019,4,15
+2019-04-12,458.0,Littoral,tomato,2019,4,15
+2019-04-19,520.0,North West,tomato,2019,4,16
+2019-04-19,489.0,South West,tomato,2019,4,16
+2019-04-19,564.0,West,tomato,2019,4,16
+2019-04-19,562.0,Adamawa,tomato,2019,4,16
+2019-04-19,502.0,Far North,tomato,2019,4,16
+2019-04-19,493.0,Centre,tomato,2019,4,16
+2019-04-19,549.0,East,tomato,2019,4,16
+2019-04-19,451.0,North,tomato,2019,4,16
+2019-04-19,566.0,South,tomato,2019,4,16
+2019-04-19,509.0,Littoral,tomato,2019,4,16
+2019-04-26,545.0,North West,tomato,2019,4,17
+2019-04-26,578.0,South West,tomato,2019,4,17
+2019-04-26,575.0,West,tomato,2019,4,17
+2019-04-26,519.0,Adamawa,tomato,2019,4,17
+2019-04-26,619.0,Far North,tomato,2019,4,17
+2019-04-26,625.0,Centre,tomato,2019,4,17
+2019-04-26,557.0,East,tomato,2019,4,17
+2019-04-26,562.0,North,tomato,2019,4,17
+2019-04-26,561.0,South,tomato,2019,4,17
+2019-04-26,551.0,Littoral,tomato,2019,4,17
+2019-05-03,494.0,North West,tomato,2019,5,18
+2019-05-03,602.0,South West,tomato,2019,5,18
+2019-05-03,578.0,West,tomato,2019,5,18
+2019-05-03,596.0,Adamawa,tomato,2019,5,18
+2019-05-03,601.0,Far North,tomato,2019,5,18
+2019-05-03,477.0,Centre,tomato,2019,5,18
+2019-05-03,527.0,East,tomato,2019,5,18
+2019-05-03,558.0,North,tomato,2019,5,18
+2019-05-03,580.0,South,tomato,2019,5,18
+2019-05-03,500.0,Littoral,tomato,2019,5,18
+2019-05-10,540.0,North West,tomato,2019,5,19
+2019-05-10,450.0,South West,tomato,2019,5,19
+2019-05-10,533.0,West,tomato,2019,5,19
+2019-05-10,488.0,Adamawa,tomato,2019,5,19
+2019-05-10,488.0,Far North,tomato,2019,5,19
+2019-05-10,470.0,Centre,tomato,2019,5,19
+2019-05-10,435.0,East,tomato,2019,5,19
+2019-05-10,466.0,North,tomato,2019,5,19
+2019-05-10,476.0,South,tomato,2019,5,19
+2019-05-10,483.0,Littoral,tomato,2019,5,19
+2019-05-17,439.0,North West,tomato,2019,5,20
+2019-05-17,499.0,South West,tomato,2019,5,20
+2019-05-17,481.0,West,tomato,2019,5,20
+2019-05-17,393.0,Adamawa,tomato,2019,5,20
+2019-05-17,488.0,Far North,tomato,2019,5,20
+2019-05-17,509.0,Centre,tomato,2019,5,20
+2019-05-17,503.0,East,tomato,2019,5,20
+2019-05-17,491.0,North,tomato,2019,5,20
+2019-05-17,466.0,South,tomato,2019,5,20
+2019-05-17,424.0,Littoral,tomato,2019,5,20
+2019-05-24,500.0,North West,tomato,2019,5,21
+2019-05-24,506.0,South West,tomato,2019,5,21
+2019-05-24,453.0,West,tomato,2019,5,21
+2019-05-24,449.0,Adamawa,tomato,2019,5,21
+2019-05-24,467.0,Far North,tomato,2019,5,21
+2019-05-24,499.0,Centre,tomato,2019,5,21
+2019-05-24,454.0,East,tomato,2019,5,21
+2019-05-24,488.0,North,tomato,2019,5,21
+2019-05-24,532.0,South,tomato,2019,5,21
+2019-05-24,454.0,Littoral,tomato,2019,5,21
+2019-05-31,417.0,North West,tomato,2019,5,22
+2019-05-31,412.0,South West,tomato,2019,5,22
+2019-05-31,447.0,West,tomato,2019,5,22
+2019-05-31,437.0,Adamawa,tomato,2019,5,22
+2019-05-31,510.0,Far North,tomato,2019,5,22
+2019-05-31,497.0,Centre,tomato,2019,5,22
+2019-05-31,515.0,East,tomato,2019,5,22
+2019-05-31,478.0,North,tomato,2019,5,22
+2019-05-31,459.0,South,tomato,2019,5,22
+2019-05-31,438.0,Littoral,tomato,2019,5,22
+2019-06-07,448.0,North West,tomato,2019,6,23
+2019-06-07,452.0,South West,tomato,2019,6,23
+2019-06-07,426.0,West,tomato,2019,6,23
+2019-06-07,490.0,Adamawa,tomato,2019,6,23
+2019-06-07,455.0,Far North,tomato,2019,6,23
+2019-06-07,478.0,Centre,tomato,2019,6,23
+2019-06-07,453.0,East,tomato,2019,6,23
+2019-06-07,417.0,North,tomato,2019,6,23
+2019-06-07,466.0,South,tomato,2019,6,23
+2019-06-07,407.0,Littoral,tomato,2019,6,23
+2019-06-14,341.0,North West,tomato,2019,6,24
+2019-06-14,367.0,South West,tomato,2019,6,24
+2019-06-14,357.0,West,tomato,2019,6,24
+2019-06-14,337.0,Adamawa,tomato,2019,6,24
+2019-06-14,408.0,Far North,tomato,2019,6,24
+2019-06-14,375.0,Centre,tomato,2019,6,24
+2019-06-14,360.0,East,tomato,2019,6,24
+2019-06-14,376.0,North,tomato,2019,6,24
+2019-06-14,401.0,South,tomato,2019,6,24
+2019-06-14,327.0,Littoral,tomato,2019,6,24
+2019-06-21,401.0,North West,tomato,2019,6,25
+2019-06-21,394.0,South West,tomato,2019,6,25
+2019-06-21,438.0,West,tomato,2019,6,25
+2019-06-21,402.0,Adamawa,tomato,2019,6,25
+2019-06-21,358.0,Far North,tomato,2019,6,25
+2019-06-21,385.0,Centre,tomato,2019,6,25
+2019-06-21,409.0,East,tomato,2019,6,25
+2019-06-21,349.0,North,tomato,2019,6,25
+2019-06-21,437.0,South,tomato,2019,6,25
+2019-06-21,351.0,Littoral,tomato,2019,6,25
+2019-06-28,330.0,North West,tomato,2019,6,26
+2019-06-28,405.0,South West,tomato,2019,6,26
+2019-06-28,340.0,West,tomato,2019,6,26
+2019-06-28,352.0,Adamawa,tomato,2019,6,26
+2019-06-28,338.0,Far North,tomato,2019,6,26
+2019-06-28,411.0,Centre,tomato,2019,6,26
+2019-06-28,395.0,East,tomato,2019,6,26
+2019-06-28,392.0,North,tomato,2019,6,26
+2019-06-28,325.0,South,tomato,2019,6,26
+2019-06-28,372.0,Littoral,tomato,2019,6,26
+2019-07-05,364.0,North West,tomato,2019,7,27
+2019-07-05,346.0,South West,tomato,2019,7,27
+2019-07-05,340.0,West,tomato,2019,7,27
+2019-07-05,390.0,Adamawa,tomato,2019,7,27
+2019-07-05,312.0,Far North,tomato,2019,7,27
+2019-07-05,369.0,Centre,tomato,2019,7,27
+2019-07-05,347.0,East,tomato,2019,7,27
+2019-07-05,373.0,North,tomato,2019,7,27
+2019-07-05,328.0,South,tomato,2019,7,27
+2019-07-05,332.0,Littoral,tomato,2019,7,27
+2019-07-12,366.0,North West,tomato,2019,7,28
+2019-07-12,303.0,South West,tomato,2019,7,28
+2019-07-12,291.0,West,tomato,2019,7,28
+2019-07-12,333.0,Adamawa,tomato,2019,7,28
+2019-07-12,318.0,Far North,tomato,2019,7,28
+2019-07-12,348.0,Centre,tomato,2019,7,28
+2019-07-12,328.0,East,tomato,2019,7,28
+2019-07-12,326.0,North,tomato,2019,7,28
+2019-07-12,338.0,South,tomato,2019,7,28
+2019-07-12,293.0,Littoral,tomato,2019,7,28
+2019-07-19,314.0,North West,tomato,2019,7,29
+2019-07-19,299.0,South West,tomato,2019,7,29
+2019-07-19,325.0,West,tomato,2019,7,29
+2019-07-19,271.0,Adamawa,tomato,2019,7,29
+2019-07-19,284.0,Far North,tomato,2019,7,29
+2019-07-19,335.0,Centre,tomato,2019,7,29
+2019-07-19,304.0,East,tomato,2019,7,29
+2019-07-19,334.0,North,tomato,2019,7,29
+2019-07-19,315.0,South,tomato,2019,7,29
+2019-07-19,333.0,Littoral,tomato,2019,7,29
+2019-07-26,294.0,North West,tomato,2019,7,30
+2019-07-26,294.0,South West,tomato,2019,7,30
+2019-07-26,281.0,West,tomato,2019,7,30
+2019-07-26,278.0,Adamawa,tomato,2019,7,30
+2019-07-26,302.0,Far North,tomato,2019,7,30
+2019-07-26,249.0,Centre,tomato,2019,7,30
+2019-07-26,281.0,East,tomato,2019,7,30
+2019-07-26,240.0,North,tomato,2019,7,30
+2019-07-26,246.0,South,tomato,2019,7,30
+2019-07-26,268.0,Littoral,tomato,2019,7,30
+2019-08-02,257.0,North West,tomato,2019,8,31
+2019-08-02,251.0,South West,tomato,2019,8,31
+2019-08-02,267.0,West,tomato,2019,8,31
+2019-08-02,208.0,Adamawa,tomato,2019,8,31
+2019-08-02,229.0,Far North,tomato,2019,8,31
+2019-08-02,215.0,Centre,tomato,2019,8,31
+2019-08-02,208.0,East,tomato,2019,8,31
+2019-08-02,222.0,North,tomato,2019,8,31
+2019-08-02,221.0,South,tomato,2019,8,31
+2019-08-02,232.0,Littoral,tomato,2019,8,31
+2019-08-09,238.0,North West,tomato,2019,8,32
+2019-08-09,228.0,South West,tomato,2019,8,32
+2019-08-09,234.0,West,tomato,2019,8,32
+2019-08-09,231.0,Adamawa,tomato,2019,8,32
+2019-08-09,208.0,Far North,tomato,2019,8,32
+2019-08-09,226.0,Centre,tomato,2019,8,32
+2019-08-09,229.0,East,tomato,2019,8,32
+2019-08-09,197.0,North,tomato,2019,8,32
+2019-08-09,235.0,South,tomato,2019,8,32
+2019-08-09,212.0,Littoral,tomato,2019,8,32
+2019-08-16,163.0,North West,tomato,2019,8,33
+2019-08-16,195.0,South West,tomato,2019,8,33
+2019-08-16,196.0,West,tomato,2019,8,33
+2019-08-16,190.0,Adamawa,tomato,2019,8,33
+2019-08-16,173.0,Far North,tomato,2019,8,33
+2019-08-16,187.0,Centre,tomato,2019,8,33
+2019-08-16,183.0,East,tomato,2019,8,33
+2019-08-16,211.0,North,tomato,2019,8,33
+2019-08-16,204.0,South,tomato,2019,8,33
+2019-08-16,201.0,Littoral,tomato,2019,8,33
+2019-08-23,169.0,North West,tomato,2019,8,34
+2019-08-23,175.0,South West,tomato,2019,8,34
+2019-08-23,153.0,West,tomato,2019,8,34
+2019-08-23,179.0,Adamawa,tomato,2019,8,34
+2019-08-23,168.0,Far North,tomato,2019,8,34
+2019-08-23,178.0,Centre,tomato,2019,8,34
+2019-08-23,152.0,East,tomato,2019,8,34
+2019-08-23,167.0,North,tomato,2019,8,34
+2019-08-23,187.0,South,tomato,2019,8,34
+2019-08-23,175.0,Littoral,tomato,2019,8,34
+2019-08-30,174.0,North West,tomato,2019,8,35
+2019-08-30,170.0,South West,tomato,2019,8,35
+2019-08-30,177.0,West,tomato,2019,8,35
+2019-08-30,140.0,Adamawa,tomato,2019,8,35
+2019-08-30,151.0,Far North,tomato,2019,8,35
+2019-08-30,164.0,Centre,tomato,2019,8,35
+2019-08-30,180.0,East,tomato,2019,8,35
+2019-08-30,169.0,North,tomato,2019,8,35
+2019-08-30,160.0,South,tomato,2019,8,35
+2019-08-30,146.0,Littoral,tomato,2019,8,35
+2019-09-06,140.0,North West,tomato,2019,9,36
+2019-09-06,127.0,South West,tomato,2019,9,36
+2019-09-06,124.0,West,tomato,2019,9,36
+2019-09-06,116.0,Adamawa,tomato,2019,9,36
+2019-09-06,114.0,Far North,tomato,2019,9,36
+2019-09-06,128.0,Centre,tomato,2019,9,36
+2019-09-06,125.0,East,tomato,2019,9,36
+2019-09-06,132.0,North,tomato,2019,9,36
+2019-09-06,138.0,South,tomato,2019,9,36
+2019-09-06,114.0,Littoral,tomato,2019,9,36
+2019-09-13,129.0,North West,tomato,2019,9,37
+2019-09-13,142.0,South West,tomato,2019,9,37
+2019-09-13,128.0,West,tomato,2019,9,37
+2019-09-13,130.0,Adamawa,tomato,2019,9,37
+2019-09-13,129.0,Far North,tomato,2019,9,37
+2019-09-13,125.0,Centre,tomato,2019,9,37
+2019-09-13,116.0,East,tomato,2019,9,37
+2019-09-13,116.0,North,tomato,2019,9,37
+2019-09-13,118.0,South,tomato,2019,9,37
+2019-09-13,139.0,Littoral,tomato,2019,9,37
+2019-09-20,144.0,North West,tomato,2019,9,38
+2019-09-20,120.0,South West,tomato,2019,9,38
+2019-09-20,138.0,West,tomato,2019,9,38
+2019-09-20,152.0,Adamawa,tomato,2019,9,38
+2019-09-20,119.0,Far North,tomato,2019,9,38
+2019-09-20,128.0,Centre,tomato,2019,9,38
+2019-09-20,120.0,East,tomato,2019,9,38
+2019-09-20,139.0,North,tomato,2019,9,38
+2019-09-20,122.0,South,tomato,2019,9,38
+2019-09-20,135.0,Littoral,tomato,2019,9,38
+2019-09-27,152.0,North West,tomato,2019,9,39
+2019-09-27,131.0,South West,tomato,2019,9,39
+2019-09-27,154.0,West,tomato,2019,9,39
+2019-09-27,127.0,Adamawa,tomato,2019,9,39
+2019-09-27,131.0,Far North,tomato,2019,9,39
+2019-09-27,136.0,Centre,tomato,2019,9,39
+2019-09-27,155.0,East,tomato,2019,9,39
+2019-09-27,157.0,North,tomato,2019,9,39
+2019-09-27,133.0,South,tomato,2019,9,39
+2019-09-27,129.0,Littoral,tomato,2019,9,39
+2019-10-04,140.0,North West,tomato,2019,10,40
+2019-10-04,156.0,South West,tomato,2019,10,40
+2019-10-04,169.0,West,tomato,2019,10,40
+2019-10-04,136.0,Adamawa,tomato,2019,10,40
+2019-10-04,137.0,Far North,tomato,2019,10,40
+2019-10-04,145.0,Centre,tomato,2019,10,40
+2019-10-04,160.0,East,tomato,2019,10,40
+2019-10-04,141.0,North,tomato,2019,10,40
+2019-10-04,167.0,South,tomato,2019,10,40
+2019-10-04,164.0,Littoral,tomato,2019,10,40
+2019-10-11,169.0,North West,tomato,2019,10,41
+2019-10-11,149.0,South West,tomato,2019,10,41
+2019-10-11,188.0,West,tomato,2019,10,41
+2019-10-11,166.0,Adamawa,tomato,2019,10,41
+2019-10-11,164.0,Far North,tomato,2019,10,41
+2019-10-11,188.0,Centre,tomato,2019,10,41
+2019-10-11,182.0,East,tomato,2019,10,41
+2019-10-11,164.0,North,tomato,2019,10,41
+2019-10-11,163.0,South,tomato,2019,10,41
+2019-10-11,148.0,Littoral,tomato,2019,10,41
+2019-10-18,188.0,North West,tomato,2019,10,42
+2019-10-18,163.0,South West,tomato,2019,10,42
+2019-10-18,182.0,West,tomato,2019,10,42
+2019-10-18,165.0,Adamawa,tomato,2019,10,42
+2019-10-18,190.0,Far North,tomato,2019,10,42
+2019-10-18,160.0,Centre,tomato,2019,10,42
+2019-10-18,184.0,East,tomato,2019,10,42
+2019-10-18,168.0,North,tomato,2019,10,42
+2019-10-18,154.0,South,tomato,2019,10,42
+2019-10-18,159.0,Littoral,tomato,2019,10,42
+2019-10-25,171.0,North West,tomato,2019,10,43
+2019-10-25,153.0,South West,tomato,2019,10,43
+2019-10-25,170.0,West,tomato,2019,10,43
+2019-10-25,161.0,Adamawa,tomato,2019,10,43
+2019-10-25,173.0,Far North,tomato,2019,10,43
+2019-10-25,164.0,Centre,tomato,2019,10,43
+2019-10-25,156.0,East,tomato,2019,10,43
+2019-10-25,149.0,North,tomato,2019,10,43
+2019-10-25,158.0,South,tomato,2019,10,43
+2019-10-25,170.0,Littoral,tomato,2019,10,43
+2019-11-01,184.0,North West,tomato,2019,11,44
+2019-11-01,162.0,South West,tomato,2019,11,44
+2019-11-01,164.0,West,tomato,2019,11,44
+2019-11-01,178.0,Adamawa,tomato,2019,11,44
+2019-11-01,167.0,Far North,tomato,2019,11,44
+2019-11-01,184.0,Centre,tomato,2019,11,44
+2019-11-01,198.0,East,tomato,2019,11,44
+2019-11-01,160.0,North,tomato,2019,11,44
+2019-11-01,180.0,South,tomato,2019,11,44
+2019-11-01,197.0,Littoral,tomato,2019,11,44
+2019-11-08,185.0,North West,tomato,2019,11,45
+2019-11-08,195.0,South West,tomato,2019,11,45
+2019-11-08,182.0,West,tomato,2019,11,45
+2019-11-08,210.0,Adamawa,tomato,2019,11,45
+2019-11-08,212.0,Far North,tomato,2019,11,45
+2019-11-08,211.0,Centre,tomato,2019,11,45
+2019-11-08,205.0,East,tomato,2019,11,45
+2019-11-08,216.0,North,tomato,2019,11,45
+2019-11-08,178.0,South,tomato,2019,11,45
+2019-11-08,227.0,Littoral,tomato,2019,11,45
+2019-11-15,232.0,North West,tomato,2019,11,46
+2019-11-15,226.0,South West,tomato,2019,11,46
+2019-11-15,222.0,West,tomato,2019,11,46
+2019-11-15,186.0,Adamawa,tomato,2019,11,46
+2019-11-15,225.0,Far North,tomato,2019,11,46
+2019-11-15,214.0,Centre,tomato,2019,11,46
+2019-11-15,221.0,East,tomato,2019,11,46
+2019-11-15,234.0,North,tomato,2019,11,46
+2019-11-15,191.0,South,tomato,2019,11,46
+2019-11-15,208.0,Littoral,tomato,2019,11,46
+2019-11-22,227.0,North West,tomato,2019,11,47
+2019-11-22,209.0,South West,tomato,2019,11,47
+2019-11-22,188.0,West,tomato,2019,11,47
+2019-11-22,191.0,Adamawa,tomato,2019,11,47
+2019-11-22,219.0,Far North,tomato,2019,11,47
+2019-11-22,201.0,Centre,tomato,2019,11,47
+2019-11-22,192.0,East,tomato,2019,11,47
+2019-11-22,204.0,North,tomato,2019,11,47
+2019-11-22,196.0,South,tomato,2019,11,47
+2019-11-22,186.0,Littoral,tomato,2019,11,47
+2019-11-29,209.0,North West,tomato,2019,11,48
+2019-11-29,249.0,South West,tomato,2019,11,48
+2019-11-29,225.0,West,tomato,2019,11,48
+2019-11-29,207.0,Adamawa,tomato,2019,11,48
+2019-11-29,222.0,Far North,tomato,2019,11,48
+2019-11-29,208.0,Centre,tomato,2019,11,48
+2019-11-29,219.0,East,tomato,2019,11,48
+2019-11-29,226.0,North,tomato,2019,11,48
+2019-11-29,218.0,South,tomato,2019,11,48
+2019-11-29,236.0,Littoral,tomato,2019,11,48
+2019-12-06,327.0,North West,tomato,2019,12,49
+2019-12-06,281.0,South West,tomato,2019,12,49
+2019-12-06,282.0,West,tomato,2019,12,49
+2019-12-06,312.0,Adamawa,tomato,2019,12,49
+2019-12-06,296.0,Far North,tomato,2019,12,49
+2019-12-06,288.0,Centre,tomato,2019,12,49
+2019-12-06,318.0,East,tomato,2019,12,49
+2019-12-06,324.0,North,tomato,2019,12,49
+2019-12-06,300.0,South,tomato,2019,12,49
+2019-12-06,269.0,Littoral,tomato,2019,12,49
+2019-12-13,311.0,North West,tomato,2019,12,50
+2019-12-13,297.0,South West,tomato,2019,12,50
+2019-12-13,314.0,West,tomato,2019,12,50
+2019-12-13,312.0,Adamawa,tomato,2019,12,50
+2019-12-13,292.0,Far North,tomato,2019,12,50
+2019-12-13,351.0,Centre,tomato,2019,12,50
+2019-12-13,349.0,East,tomato,2019,12,50
+2019-12-13,338.0,North,tomato,2019,12,50
+2019-12-13,308.0,South,tomato,2019,12,50
+2019-12-13,306.0,Littoral,tomato,2019,12,50
+2019-12-20,272.0,North West,tomato,2019,12,51
+2019-12-20,265.0,South West,tomato,2019,12,51
+2019-12-20,264.0,West,tomato,2019,12,51
+2019-12-20,232.0,Adamawa,tomato,2019,12,51
+2019-12-20,266.0,Far North,tomato,2019,12,51
+2019-12-20,285.0,Centre,tomato,2019,12,51
+2019-12-20,229.0,East,tomato,2019,12,51
+2019-12-20,247.0,North,tomato,2019,12,51
+2019-12-20,258.0,South,tomato,2019,12,51
+2019-12-20,270.0,Littoral,tomato,2019,12,51
+2019-12-27,328.0,North West,tomato,2019,12,52
+2019-12-27,261.0,South West,tomato,2019,12,52
+2019-12-27,293.0,West,tomato,2019,12,52
+2019-12-27,258.0,Adamawa,tomato,2019,12,52
+2019-12-27,264.0,Far North,tomato,2019,12,52
+2019-12-27,266.0,Centre,tomato,2019,12,52
+2019-12-27,257.0,East,tomato,2019,12,52
+2019-12-27,322.0,North,tomato,2019,12,52
+2019-12-27,262.0,South,tomato,2019,12,52
+2019-12-27,301.0,Littoral,tomato,2019,12,52
+2020-01-03,358.0,North West,tomato,2020,1,1
+2020-01-03,318.0,South West,tomato,2020,1,1
+2020-01-03,392.0,West,tomato,2020,1,1
+2020-01-03,332.0,Adamawa,tomato,2020,1,1
+2020-01-03,383.0,Far North,tomato,2020,1,1
+2020-01-03,387.0,Centre,tomato,2020,1,1
+2020-01-03,388.0,East,tomato,2020,1,1
+2020-01-03,369.0,North,tomato,2020,1,1
+2020-01-03,324.0,South,tomato,2020,1,1
+2020-01-03,311.0,Littoral,tomato,2020,1,1
+2020-01-10,353.0,North West,tomato,2020,1,2
+2020-01-10,346.0,South West,tomato,2020,1,2
+2020-01-10,305.0,West,tomato,2020,1,2
+2020-01-10,283.0,Adamawa,tomato,2020,1,2
+2020-01-10,302.0,Far North,tomato,2020,1,2
+2020-01-10,330.0,Centre,tomato,2020,1,2
+2020-01-10,288.0,East,tomato,2020,1,2
+2020-01-10,338.0,North,tomato,2020,1,2
+2020-01-10,339.0,South,tomato,2020,1,2
+2020-01-10,296.0,Littoral,tomato,2020,1,2
+2020-01-17,397.0,North West,tomato,2020,1,3
+2020-01-17,398.0,South West,tomato,2020,1,3
+2020-01-17,385.0,West,tomato,2020,1,3
+2020-01-17,433.0,Adamawa,tomato,2020,1,3
+2020-01-17,347.0,Far North,tomato,2020,1,3
+2020-01-17,377.0,Centre,tomato,2020,1,3
+2020-01-17,426.0,East,tomato,2020,1,3
+2020-01-17,375.0,North,tomato,2020,1,3
+2020-01-17,379.0,South,tomato,2020,1,3
+2020-01-17,404.0,Littoral,tomato,2020,1,3
+2020-01-24,363.0,North West,tomato,2020,1,4
+2020-01-24,357.0,South West,tomato,2020,1,4
+2020-01-24,365.0,West,tomato,2020,1,4
+2020-01-24,366.0,Adamawa,tomato,2020,1,4
+2020-01-24,328.0,Far North,tomato,2020,1,4
+2020-01-24,328.0,Centre,tomato,2020,1,4
+2020-01-24,339.0,East,tomato,2020,1,4
+2020-01-24,327.0,North,tomato,2020,1,4
+2020-01-24,368.0,South,tomato,2020,1,4
+2020-01-24,361.0,Littoral,tomato,2020,1,4
+2020-01-31,338.0,North West,tomato,2020,1,5
+2020-01-31,403.0,South West,tomato,2020,1,5
+2020-01-31,362.0,West,tomato,2020,1,5
+2020-01-31,329.0,Adamawa,tomato,2020,1,5
+2020-01-31,338.0,Far North,tomato,2020,1,5
+2020-01-31,370.0,Centre,tomato,2020,1,5
+2020-01-31,350.0,East,tomato,2020,1,5
+2020-01-31,400.0,North,tomato,2020,1,5
+2020-01-31,365.0,South,tomato,2020,1,5
+2020-01-31,406.0,Littoral,tomato,2020,1,5
+2020-02-07,465.0,North West,tomato,2020,2,6
+2020-02-07,399.0,South West,tomato,2020,2,6
+2020-02-07,381.0,West,tomato,2020,2,6
+2020-02-07,417.0,Adamawa,tomato,2020,2,6
+2020-02-07,474.0,Far North,tomato,2020,2,6
+2020-02-07,437.0,Centre,tomato,2020,2,6
+2020-02-07,438.0,East,tomato,2020,2,6
+2020-02-07,441.0,North,tomato,2020,2,6
+2020-02-07,370.0,South,tomato,2020,2,6
+2020-02-07,416.0,Littoral,tomato,2020,2,6
+2020-02-14,382.0,North West,tomato,2020,2,7
+2020-02-14,409.0,South West,tomato,2020,2,7
+2020-02-14,467.0,West,tomato,2020,2,7
+2020-02-14,448.0,Adamawa,tomato,2020,2,7
+2020-02-14,487.0,Far North,tomato,2020,2,7
+2020-02-14,393.0,Centre,tomato,2020,2,7
+2020-02-14,419.0,East,tomato,2020,2,7
+2020-02-14,466.0,North,tomato,2020,2,7
+2020-02-14,398.0,South,tomato,2020,2,7
+2020-02-14,391.0,Littoral,tomato,2020,2,7
+2020-02-21,448.0,North West,tomato,2020,2,8
+2020-02-21,393.0,South West,tomato,2020,2,8
+2020-02-21,436.0,West,tomato,2020,2,8
+2020-02-21,439.0,Adamawa,tomato,2020,2,8
+2020-02-21,361.0,Far North,tomato,2020,2,8
+2020-02-21,420.0,Centre,tomato,2020,2,8
+2020-02-21,374.0,East,tomato,2020,2,8
+2020-02-21,355.0,North,tomato,2020,2,8
+2020-02-21,437.0,South,tomato,2020,2,8
+2020-02-21,376.0,Littoral,tomato,2020,2,8
+2020-02-28,381.0,North West,tomato,2020,2,9
+2020-02-28,379.0,South West,tomato,2020,2,9
+2020-02-28,366.0,West,tomato,2020,2,9
+2020-02-28,391.0,Adamawa,tomato,2020,2,9
+2020-02-28,390.0,Far North,tomato,2020,2,9
+2020-02-28,388.0,Centre,tomato,2020,2,9
+2020-02-28,442.0,East,tomato,2020,2,9
+2020-02-28,381.0,North,tomato,2020,2,9
+2020-02-28,348.0,South,tomato,2020,2,9
+2020-02-28,364.0,Littoral,tomato,2020,2,9
+2020-03-06,521.0,North West,tomato,2020,3,10
+2020-03-06,489.0,South West,tomato,2020,3,10
+2020-03-06,427.0,West,tomato,2020,3,10
+2020-03-06,418.0,Adamawa,tomato,2020,3,10
+2020-03-06,468.0,Far North,tomato,2020,3,10
+2020-03-06,486.0,Centre,tomato,2020,3,10
+2020-03-06,424.0,East,tomato,2020,3,10
+2020-03-06,478.0,North,tomato,2020,3,10
+2020-03-06,510.0,South,tomato,2020,3,10
+2020-03-06,493.0,Littoral,tomato,2020,3,10
+2020-03-13,568.0,North West,tomato,2020,3,11
+2020-03-13,586.0,South West,tomato,2020,3,11
+2020-03-13,487.0,West,tomato,2020,3,11
+2020-03-13,501.0,Adamawa,tomato,2020,3,11
+2020-03-13,477.0,Far North,tomato,2020,3,11
+2020-03-13,492.0,Centre,tomato,2020,3,11
+2020-03-13,604.0,East,tomato,2020,3,11
+2020-03-13,504.0,North,tomato,2020,3,11
+2020-03-13,567.0,South,tomato,2020,3,11
+2020-03-13,572.0,Littoral,tomato,2020,3,11
+2020-03-20,569.0,North West,tomato,2020,3,12
+2020-03-20,559.0,South West,tomato,2020,3,12
+2020-03-20,635.0,West,tomato,2020,3,12
+2020-03-20,497.0,Adamawa,tomato,2020,3,12
+2020-03-20,503.0,Far North,tomato,2020,3,12
+2020-03-20,570.0,Centre,tomato,2020,3,12
+2020-03-20,545.0,East,tomato,2020,3,12
+2020-03-20,557.0,North,tomato,2020,3,12
+2020-03-20,647.0,South,tomato,2020,3,12
+2020-03-20,613.0,Littoral,tomato,2020,3,12
+2020-03-27,733.0,North West,tomato,2020,3,13
+2020-03-27,643.0,South West,tomato,2020,3,13
+2020-03-27,620.0,West,tomato,2020,3,13
+2020-03-27,714.0,Adamawa,tomato,2020,3,13
+2020-03-27,721.0,Far North,tomato,2020,3,13
+2020-03-27,675.0,Centre,tomato,2020,3,13
+2020-03-27,736.0,East,tomato,2020,3,13
+2020-03-27,749.0,North,tomato,2020,3,13
+2020-03-27,661.0,South,tomato,2020,3,13
+2020-03-27,617.0,Littoral,tomato,2020,3,13
+2020-04-03,598.0,North West,tomato,2020,4,14
+2020-04-03,653.0,South West,tomato,2020,4,14
+2020-04-03,665.0,West,tomato,2020,4,14
+2020-04-03,585.0,Adamawa,tomato,2020,4,14
+2020-04-03,648.0,Far North,tomato,2020,4,14
+2020-04-03,602.0,Centre,tomato,2020,4,14
+2020-04-03,692.0,East,tomato,2020,4,14
+2020-04-03,669.0,North,tomato,2020,4,14
+2020-04-03,688.0,South,tomato,2020,4,14
+2020-04-03,582.0,Littoral,tomato,2020,4,14
+2020-04-10,526.0,North West,tomato,2020,4,15
+2020-04-10,657.0,South West,tomato,2020,4,15
+2020-04-10,583.0,West,tomato,2020,4,15
+2020-04-10,550.0,Adamawa,tomato,2020,4,15
+2020-04-10,536.0,Far North,tomato,2020,4,15
+2020-04-10,603.0,Centre,tomato,2020,4,15
+2020-04-10,545.0,East,tomato,2020,4,15
+2020-04-10,611.0,North,tomato,2020,4,15
+2020-04-10,637.0,South,tomato,2020,4,15
+2020-04-10,606.0,Littoral,tomato,2020,4,15
+2020-04-17,592.0,North West,tomato,2020,4,16
+2020-04-17,601.0,South West,tomato,2020,4,16
+2020-04-17,524.0,West,tomato,2020,4,16
+2020-04-17,511.0,Adamawa,tomato,2020,4,16
+2020-04-17,507.0,Far North,tomato,2020,4,16
+2020-04-17,590.0,Centre,tomato,2020,4,16
+2020-04-17,565.0,East,tomato,2020,4,16
+2020-04-17,593.0,North,tomato,2020,4,16
+2020-04-17,484.0,South,tomato,2020,4,16
+2020-04-17,535.0,Littoral,tomato,2020,4,16
+2020-04-24,559.0,North West,tomato,2020,4,17
+2020-04-24,590.0,South West,tomato,2020,4,17
+2020-04-24,517.0,West,tomato,2020,4,17
+2020-04-24,508.0,Adamawa,tomato,2020,4,17
+2020-04-24,593.0,Far North,tomato,2020,4,17
+2020-04-24,470.0,Centre,tomato,2020,4,17
+2020-04-24,531.0,East,tomato,2020,4,17
+2020-04-24,528.0,North,tomato,2020,4,17
+2020-04-24,484.0,South,tomato,2020,4,17
+2020-04-24,519.0,Littoral,tomato,2020,4,17
+2020-05-01,462.0,North West,tomato,2020,5,18
+2020-05-01,523.0,South West,tomato,2020,5,18
+2020-05-01,550.0,West,tomato,2020,5,18
+2020-05-01,523.0,Adamawa,tomato,2020,5,18
+2020-05-01,531.0,Far North,tomato,2020,5,18
+2020-05-01,543.0,Centre,tomato,2020,5,18
+2020-05-01,525.0,East,tomato,2020,5,18
+2020-05-01,549.0,North,tomato,2020,5,18
+2020-05-01,518.0,South,tomato,2020,5,18
+2020-05-01,507.0,Littoral,tomato,2020,5,18
+2020-05-08,540.0,North West,tomato,2020,5,19
+2020-05-08,568.0,South West,tomato,2020,5,19
+2020-05-08,538.0,West,tomato,2020,5,19
+2020-05-08,549.0,Adamawa,tomato,2020,5,19
+2020-05-08,474.0,Far North,tomato,2020,5,19
+2020-05-08,570.0,Centre,tomato,2020,5,19
+2020-05-08,506.0,East,tomato,2020,5,19
+2020-05-08,467.0,North,tomato,2020,5,19
+2020-05-08,554.0,South,tomato,2020,5,19
+2020-05-08,494.0,Littoral,tomato,2020,5,19
+2020-05-15,420.0,North West,tomato,2020,5,20
+2020-05-15,427.0,South West,tomato,2020,5,20
+2020-05-15,491.0,West,tomato,2020,5,20
+2020-05-15,525.0,Adamawa,tomato,2020,5,20
+2020-05-15,472.0,Far North,tomato,2020,5,20
+2020-05-15,495.0,Centre,tomato,2020,5,20
+2020-05-15,518.0,East,tomato,2020,5,20
+2020-05-15,460.0,North,tomato,2020,5,20
+2020-05-15,498.0,South,tomato,2020,5,20
+2020-05-15,460.0,Littoral,tomato,2020,5,20
+2020-05-22,467.0,North West,tomato,2020,5,21
+2020-05-22,416.0,South West,tomato,2020,5,21
+2020-05-22,507.0,West,tomato,2020,5,21
+2020-05-22,399.0,Adamawa,tomato,2020,5,21
+2020-05-22,451.0,Far North,tomato,2020,5,21
+2020-05-22,424.0,Centre,tomato,2020,5,21
+2020-05-22,462.0,East,tomato,2020,5,21
+2020-05-22,441.0,North,tomato,2020,5,21
+2020-05-22,427.0,South,tomato,2020,5,21
+2020-05-22,420.0,Littoral,tomato,2020,5,21
+2020-05-29,431.0,North West,tomato,2020,5,22
+2020-05-29,499.0,South West,tomato,2020,5,22
+2020-05-29,463.0,West,tomato,2020,5,22
+2020-05-29,412.0,Adamawa,tomato,2020,5,22
+2020-05-29,423.0,Far North,tomato,2020,5,22
+2020-05-29,513.0,Centre,tomato,2020,5,22
+2020-05-29,478.0,East,tomato,2020,5,22
+2020-05-29,426.0,North,tomato,2020,5,22
+2020-05-29,490.0,South,tomato,2020,5,22
+2020-05-29,505.0,Littoral,tomato,2020,5,22
+2020-06-05,398.0,North West,tomato,2020,6,23
+2020-06-05,423.0,South West,tomato,2020,6,23
+2020-06-05,394.0,West,tomato,2020,6,23
+2020-06-05,370.0,Adamawa,tomato,2020,6,23
+2020-06-05,406.0,Far North,tomato,2020,6,23
+2020-06-05,445.0,Centre,tomato,2020,6,23
+2020-06-05,412.0,East,tomato,2020,6,23
+2020-06-05,407.0,North,tomato,2020,6,23
+2020-06-05,402.0,South,tomato,2020,6,23
+2020-06-05,412.0,Littoral,tomato,2020,6,23
+2020-06-12,368.0,North West,tomato,2020,6,24
+2020-06-12,450.0,South West,tomato,2020,6,24
+2020-06-12,380.0,West,tomato,2020,6,24
+2020-06-12,431.0,Adamawa,tomato,2020,6,24
+2020-06-12,411.0,Far North,tomato,2020,6,24
+2020-06-12,447.0,Centre,tomato,2020,6,24
+2020-06-12,452.0,East,tomato,2020,6,24
+2020-06-12,384.0,North,tomato,2020,6,24
+2020-06-12,436.0,South,tomato,2020,6,24
+2020-06-12,382.0,Littoral,tomato,2020,6,24
+2020-06-19,327.0,North West,tomato,2020,6,25
+2020-06-19,405.0,South West,tomato,2020,6,25
+2020-06-19,331.0,West,tomato,2020,6,25
+2020-06-19,337.0,Adamawa,tomato,2020,6,25
+2020-06-19,327.0,Far North,tomato,2020,6,25
+2020-06-19,360.0,Centre,tomato,2020,6,25
+2020-06-19,404.0,East,tomato,2020,6,25
+2020-06-19,340.0,North,tomato,2020,6,25
+2020-06-19,367.0,South,tomato,2020,6,25
+2020-06-19,354.0,Littoral,tomato,2020,6,25
+2020-06-26,381.0,North West,tomato,2020,6,26
+2020-06-26,361.0,South West,tomato,2020,6,26
+2020-06-26,410.0,West,tomato,2020,6,26
+2020-06-26,331.0,Adamawa,tomato,2020,6,26
+2020-06-26,334.0,Far North,tomato,2020,6,26
+2020-06-26,424.0,Centre,tomato,2020,6,26
+2020-06-26,400.0,East,tomato,2020,6,26
+2020-06-26,406.0,North,tomato,2020,6,26
+2020-06-26,386.0,South,tomato,2020,6,26
+2020-06-26,367.0,Littoral,tomato,2020,6,26
+2020-07-03,319.0,North West,tomato,2020,7,27
+2020-07-03,275.0,South West,tomato,2020,7,27
+2020-07-03,330.0,West,tomato,2020,7,27
+2020-07-03,312.0,Adamawa,tomato,2020,7,27
+2020-07-03,346.0,Far North,tomato,2020,7,27
+2020-07-03,320.0,Centre,tomato,2020,7,27
+2020-07-03,280.0,East,tomato,2020,7,27
+2020-07-03,307.0,North,tomato,2020,7,27
+2020-07-03,272.0,South,tomato,2020,7,27
+2020-07-03,329.0,Littoral,tomato,2020,7,27
+2020-07-10,287.0,North West,tomato,2020,7,28
+2020-07-10,285.0,South West,tomato,2020,7,28
+2020-07-10,286.0,West,tomato,2020,7,28
+2020-07-10,236.0,Adamawa,tomato,2020,7,28
+2020-07-10,271.0,Far North,tomato,2020,7,28
+2020-07-10,286.0,Centre,tomato,2020,7,28
+2020-07-10,260.0,East,tomato,2020,7,28
+2020-07-10,236.0,North,tomato,2020,7,28
+2020-07-10,277.0,South,tomato,2020,7,28
+2020-07-10,281.0,Littoral,tomato,2020,7,28
+2020-07-17,266.0,North West,tomato,2020,7,29
+2020-07-17,239.0,South West,tomato,2020,7,29
+2020-07-17,232.0,West,tomato,2020,7,29
+2020-07-17,261.0,Adamawa,tomato,2020,7,29
+2020-07-17,251.0,Far North,tomato,2020,7,29
+2020-07-17,264.0,Centre,tomato,2020,7,29
+2020-07-17,226.0,East,tomato,2020,7,29
+2020-07-17,228.0,North,tomato,2020,7,29
+2020-07-17,243.0,South,tomato,2020,7,29
+2020-07-17,236.0,Littoral,tomato,2020,7,29
+2020-07-24,239.0,North West,tomato,2020,7,30
+2020-07-24,244.0,South West,tomato,2020,7,30
+2020-07-24,209.0,West,tomato,2020,7,30
+2020-07-24,253.0,Adamawa,tomato,2020,7,30
+2020-07-24,245.0,Far North,tomato,2020,7,30
+2020-07-24,235.0,Centre,tomato,2020,7,30
+2020-07-24,253.0,East,tomato,2020,7,30
+2020-07-24,214.0,North,tomato,2020,7,30
+2020-07-24,223.0,South,tomato,2020,7,30
+2020-07-24,203.0,Littoral,tomato,2020,7,30
+2020-07-31,250.0,North West,tomato,2020,7,31
+2020-07-31,253.0,South West,tomato,2020,7,31
+2020-07-31,260.0,West,tomato,2020,7,31
+2020-07-31,223.0,Adamawa,tomato,2020,7,31
+2020-07-31,221.0,Far North,tomato,2020,7,31
+2020-07-31,247.0,Centre,tomato,2020,7,31
+2020-07-31,232.0,East,tomato,2020,7,31
+2020-07-31,270.0,North,tomato,2020,7,31
+2020-07-31,264.0,South,tomato,2020,7,31
+2020-07-31,241.0,Littoral,tomato,2020,7,31
+2020-08-07,261.0,North West,tomato,2020,8,32
+2020-08-07,209.0,South West,tomato,2020,8,32
+2020-08-07,264.0,West,tomato,2020,8,32
+2020-08-07,235.0,Adamawa,tomato,2020,8,32
+2020-08-07,267.0,Far North,tomato,2020,8,32
+2020-08-07,240.0,Centre,tomato,2020,8,32
+2020-08-07,221.0,East,tomato,2020,8,32
+2020-08-07,268.0,North,tomato,2020,8,32
+2020-08-07,221.0,South,tomato,2020,8,32
+2020-08-07,262.0,Littoral,tomato,2020,8,32
+2020-08-14,192.0,North West,tomato,2020,8,33
+2020-08-14,220.0,South West,tomato,2020,8,33
+2020-08-14,206.0,West,tomato,2020,8,33
+2020-08-14,237.0,Adamawa,tomato,2020,8,33
+2020-08-14,193.0,Far North,tomato,2020,8,33
+2020-08-14,206.0,Centre,tomato,2020,8,33
+2020-08-14,218.0,East,tomato,2020,8,33
+2020-08-14,237.0,North,tomato,2020,8,33
+2020-08-14,200.0,South,tomato,2020,8,33
+2020-08-14,205.0,Littoral,tomato,2020,8,33
+2020-08-21,197.0,North West,tomato,2020,8,34
+2020-08-21,162.0,South West,tomato,2020,8,34
+2020-08-21,191.0,West,tomato,2020,8,34
+2020-08-21,183.0,Adamawa,tomato,2020,8,34
+2020-08-21,169.0,Far North,tomato,2020,8,34
+2020-08-21,181.0,Centre,tomato,2020,8,34
+2020-08-21,197.0,East,tomato,2020,8,34
+2020-08-21,179.0,North,tomato,2020,8,34
+2020-08-21,163.0,South,tomato,2020,8,34
+2020-08-21,159.0,Littoral,tomato,2020,8,34
+2020-08-28,188.0,North West,tomato,2020,8,35
+2020-08-28,167.0,South West,tomato,2020,8,35
+2020-08-28,195.0,West,tomato,2020,8,35
+2020-08-28,180.0,Adamawa,tomato,2020,8,35
+2020-08-28,172.0,Far North,tomato,2020,8,35
+2020-08-28,178.0,Centre,tomato,2020,8,35
+2020-08-28,173.0,East,tomato,2020,8,35
+2020-08-28,194.0,North,tomato,2020,8,35
+2020-08-28,173.0,South,tomato,2020,8,35
+2020-08-28,156.0,Littoral,tomato,2020,8,35
+2020-09-04,191.0,North West,tomato,2020,9,36
+2020-09-04,199.0,South West,tomato,2020,9,36
+2020-09-04,176.0,West,tomato,2020,9,36
+2020-09-04,171.0,Adamawa,tomato,2020,9,36
+2020-09-04,178.0,Far North,tomato,2020,9,36
+2020-09-04,197.0,Centre,tomato,2020,9,36
+2020-09-04,201.0,East,tomato,2020,9,36
+2020-09-04,201.0,North,tomato,2020,9,36
+2020-09-04,166.0,South,tomato,2020,9,36
+2020-09-04,178.0,Littoral,tomato,2020,9,36
+2020-09-11,167.0,North West,tomato,2020,9,37
+2020-09-11,172.0,South West,tomato,2020,9,37
+2020-09-11,156.0,West,tomato,2020,9,37
+2020-09-11,162.0,Adamawa,tomato,2020,9,37
+2020-09-11,173.0,Far North,tomato,2020,9,37
+2020-09-11,172.0,Centre,tomato,2020,9,37
+2020-09-11,168.0,East,tomato,2020,9,37
+2020-09-11,165.0,North,tomato,2020,9,37
+2020-09-11,190.0,South,tomato,2020,9,37
+2020-09-11,168.0,Littoral,tomato,2020,9,37
+2020-09-18,172.0,North West,tomato,2020,9,38
+2020-09-18,145.0,South West,tomato,2020,9,38
+2020-09-18,145.0,West,tomato,2020,9,38
+2020-09-18,167.0,Adamawa,tomato,2020,9,38
+2020-09-18,177.0,Far North,tomato,2020,9,38
+2020-09-18,144.0,Centre,tomato,2020,9,38
+2020-09-18,141.0,East,tomato,2020,9,38
+2020-09-18,177.0,North,tomato,2020,9,38
+2020-09-18,143.0,South,tomato,2020,9,38
+2020-09-18,149.0,Littoral,tomato,2020,9,38
+2020-09-25,184.0,North West,tomato,2020,9,39
+2020-09-25,179.0,South West,tomato,2020,9,39
+2020-09-25,158.0,West,tomato,2020,9,39
+2020-09-25,185.0,Adamawa,tomato,2020,9,39
+2020-09-25,168.0,Far North,tomato,2020,9,39
+2020-09-25,147.0,Centre,tomato,2020,9,39
+2020-09-25,174.0,East,tomato,2020,9,39
+2020-09-25,167.0,North,tomato,2020,9,39
+2020-09-25,169.0,South,tomato,2020,9,39
+2020-09-25,187.0,Littoral,tomato,2020,9,39
+2020-10-02,169.0,North West,tomato,2020,10,40
+2020-10-02,160.0,South West,tomato,2020,10,40
+2020-10-02,179.0,West,tomato,2020,10,40
+2020-10-02,178.0,Adamawa,tomato,2020,10,40
+2020-10-02,187.0,Far North,tomato,2020,10,40
+2020-10-02,188.0,Centre,tomato,2020,10,40
+2020-10-02,173.0,East,tomato,2020,10,40
+2020-10-02,163.0,North,tomato,2020,10,40
+2020-10-02,172.0,South,tomato,2020,10,40
+2020-10-02,164.0,Littoral,tomato,2020,10,40
+2020-10-09,151.0,North West,tomato,2020,10,41
+2020-10-09,163.0,South West,tomato,2020,10,41
+2020-10-09,167.0,West,tomato,2020,10,41
+2020-10-09,164.0,Adamawa,tomato,2020,10,41
+2020-10-09,180.0,Far North,tomato,2020,10,41
+2020-10-09,152.0,Centre,tomato,2020,10,41
+2020-10-09,155.0,East,tomato,2020,10,41
+2020-10-09,168.0,North,tomato,2020,10,41
+2020-10-09,165.0,South,tomato,2020,10,41
+2020-10-09,139.0,Littoral,tomato,2020,10,41
+2020-10-16,165.0,North West,tomato,2020,10,42
+2020-10-16,167.0,South West,tomato,2020,10,42
+2020-10-16,143.0,West,tomato,2020,10,42
+2020-10-16,136.0,Adamawa,tomato,2020,10,42
+2020-10-16,140.0,Far North,tomato,2020,10,42
+2020-10-16,139.0,Centre,tomato,2020,10,42
+2020-10-16,141.0,East,tomato,2020,10,42
+2020-10-16,141.0,North,tomato,2020,10,42
+2020-10-16,151.0,South,tomato,2020,10,42
+2020-10-16,144.0,Littoral,tomato,2020,10,42
+2020-10-23,151.0,North West,tomato,2020,10,43
+2020-10-23,142.0,South West,tomato,2020,10,43
+2020-10-23,161.0,West,tomato,2020,10,43
+2020-10-23,166.0,Adamawa,tomato,2020,10,43
+2020-10-23,145.0,Far North,tomato,2020,10,43
+2020-10-23,131.0,Centre,tomato,2020,10,43
+2020-10-23,138.0,East,tomato,2020,10,43
+2020-10-23,133.0,North,tomato,2020,10,43
+2020-10-23,142.0,South,tomato,2020,10,43
+2020-10-23,154.0,Littoral,tomato,2020,10,43
+2020-10-30,148.0,North West,tomato,2020,10,44
+2020-10-30,124.0,South West,tomato,2020,10,44
+2020-10-30,128.0,West,tomato,2020,10,44
+2020-10-30,144.0,Adamawa,tomato,2020,10,44
+2020-10-30,127.0,Far North,tomato,2020,10,44
+2020-10-30,145.0,Centre,tomato,2020,10,44
+2020-10-30,156.0,East,tomato,2020,10,44
+2020-10-30,150.0,North,tomato,2020,10,44
+2020-10-30,126.0,South,tomato,2020,10,44
+2020-10-30,139.0,Littoral,tomato,2020,10,44
+2020-11-06,169.0,North West,tomato,2020,11,45
+2020-11-06,195.0,South West,tomato,2020,11,45
+2020-11-06,193.0,West,tomato,2020,11,45
+2020-11-06,155.0,Adamawa,tomato,2020,11,45
+2020-11-06,191.0,Far North,tomato,2020,11,45
+2020-11-06,158.0,Centre,tomato,2020,11,45
+2020-11-06,164.0,East,tomato,2020,11,45
+2020-11-06,166.0,North,tomato,2020,11,45
+2020-11-06,162.0,South,tomato,2020,11,45
+2020-11-06,188.0,Littoral,tomato,2020,11,45
+2020-11-13,237.0,North West,tomato,2020,11,46
+2020-11-13,228.0,South West,tomato,2020,11,46
+2020-11-13,201.0,West,tomato,2020,11,46
+2020-11-13,221.0,Adamawa,tomato,2020,11,46
+2020-11-13,211.0,Far North,tomato,2020,11,46
+2020-11-13,225.0,Centre,tomato,2020,11,46
+2020-11-13,190.0,East,tomato,2020,11,46
+2020-11-13,217.0,North,tomato,2020,11,46
+2020-11-13,225.0,South,tomato,2020,11,46
+2020-11-13,224.0,Littoral,tomato,2020,11,46
+2020-11-20,239.0,North West,tomato,2020,11,47
+2020-11-20,187.0,South West,tomato,2020,11,47
+2020-11-20,204.0,West,tomato,2020,11,47
+2020-11-20,211.0,Adamawa,tomato,2020,11,47
+2020-11-20,202.0,Far North,tomato,2020,11,47
+2020-11-20,202.0,Centre,tomato,2020,11,47
+2020-11-20,194.0,East,tomato,2020,11,47
+2020-11-20,230.0,North,tomato,2020,11,47
+2020-11-20,236.0,South,tomato,2020,11,47
+2020-11-20,189.0,Littoral,tomato,2020,11,47
+2020-11-27,217.0,North West,tomato,2020,11,48
+2020-11-27,233.0,South West,tomato,2020,11,48
+2020-11-27,191.0,West,tomato,2020,11,48
+2020-11-27,224.0,Adamawa,tomato,2020,11,48
+2020-11-27,196.0,Far North,tomato,2020,11,48
+2020-11-27,243.0,Centre,tomato,2020,11,48
+2020-11-27,239.0,East,tomato,2020,11,48
+2020-11-27,242.0,North,tomato,2020,11,48
+2020-11-27,193.0,South,tomato,2020,11,48
+2020-11-27,215.0,Littoral,tomato,2020,11,48
+2020-12-04,223.0,North West,tomato,2020,12,49
+2020-12-04,252.0,South West,tomato,2020,12,49
+2020-12-04,228.0,West,tomato,2020,12,49
+2020-12-04,263.0,Adamawa,tomato,2020,12,49
+2020-12-04,254.0,Far North,tomato,2020,12,49
+2020-12-04,250.0,Centre,tomato,2020,12,49
+2020-12-04,266.0,East,tomato,2020,12,49
+2020-12-04,245.0,North,tomato,2020,12,49
+2020-12-04,230.0,South,tomato,2020,12,49
+2020-12-04,253.0,Littoral,tomato,2020,12,49
+2020-12-11,267.0,North West,tomato,2020,12,50
+2020-12-11,288.0,South West,tomato,2020,12,50
+2020-12-11,260.0,West,tomato,2020,12,50
+2020-12-11,293.0,Adamawa,tomato,2020,12,50
+2020-12-11,235.0,Far North,tomato,2020,12,50
+2020-12-11,261.0,Centre,tomato,2020,12,50
+2020-12-11,239.0,East,tomato,2020,12,50
+2020-12-11,255.0,North,tomato,2020,12,50
+2020-12-11,236.0,South,tomato,2020,12,50
+2020-12-11,239.0,Littoral,tomato,2020,12,50
+2020-12-18,275.0,North West,tomato,2020,12,51
+2020-12-18,283.0,South West,tomato,2020,12,51
+2020-12-18,268.0,West,tomato,2020,12,51
+2020-12-18,322.0,Adamawa,tomato,2020,12,51
+2020-12-18,275.0,Far North,tomato,2020,12,51
+2020-12-18,291.0,Centre,tomato,2020,12,51
+2020-12-18,259.0,East,tomato,2020,12,51
+2020-12-18,266.0,North,tomato,2020,12,51
+2020-12-18,329.0,South,tomato,2020,12,51
+2020-12-18,324.0,Littoral,tomato,2020,12,51
+2020-12-25,278.0,North West,tomato,2020,12,52
+2020-12-25,276.0,South West,tomato,2020,12,52
+2020-12-25,316.0,West,tomato,2020,12,52
+2020-12-25,335.0,Adamawa,tomato,2020,12,52
+2020-12-25,341.0,Far North,tomato,2020,12,52
+2020-12-25,290.0,Centre,tomato,2020,12,52
+2020-12-25,293.0,East,tomato,2020,12,52
+2020-12-25,275.0,North,tomato,2020,12,52
+2020-12-25,330.0,South,tomato,2020,12,52
+2020-12-25,289.0,Littoral,tomato,2020,12,52
+2021-01-01,383.0,North West,tomato,2021,1,53
+2021-01-01,429.0,South West,tomato,2021,1,53
+2021-01-01,411.0,West,tomato,2021,1,53
+2021-01-01,339.0,Adamawa,tomato,2021,1,53
+2021-01-01,334.0,Far North,tomato,2021,1,53
+2021-01-01,414.0,Centre,tomato,2021,1,53
+2021-01-01,390.0,East,tomato,2021,1,53
+2021-01-01,407.0,North,tomato,2021,1,53
+2021-01-01,350.0,South,tomato,2021,1,53
+2021-01-01,423.0,Littoral,tomato,2021,1,53
+2021-01-08,399.0,North West,tomato,2021,1,1
+2021-01-08,392.0,South West,tomato,2021,1,1
+2021-01-08,378.0,West,tomato,2021,1,1
+2021-01-08,465.0,Adamawa,tomato,2021,1,1
+2021-01-08,381.0,Far North,tomato,2021,1,1
+2021-01-08,375.0,Centre,tomato,2021,1,1
+2021-01-08,383.0,East,tomato,2021,1,1
+2021-01-08,447.0,North,tomato,2021,1,1
+2021-01-08,460.0,South,tomato,2021,1,1
+2021-01-08,451.0,Littoral,tomato,2021,1,1
+2021-01-15,444.0,North West,tomato,2021,1,2
+2021-01-15,494.0,South West,tomato,2021,1,2
+2021-01-15,387.0,West,tomato,2021,1,2
+2021-01-15,479.0,Adamawa,tomato,2021,1,2
+2021-01-15,428.0,Far North,tomato,2021,1,2
+2021-01-15,431.0,Centre,tomato,2021,1,2
+2021-01-15,393.0,East,tomato,2021,1,2
+2021-01-15,382.0,North,tomato,2021,1,2
+2021-01-15,415.0,South,tomato,2021,1,2
+2021-01-15,399.0,Littoral,tomato,2021,1,2
+2021-01-22,372.0,North West,tomato,2021,1,3
+2021-01-22,452.0,South West,tomato,2021,1,3
+2021-01-22,457.0,West,tomato,2021,1,3
+2021-01-22,462.0,Adamawa,tomato,2021,1,3
+2021-01-22,431.0,Far North,tomato,2021,1,3
+2021-01-22,441.0,Centre,tomato,2021,1,3
+2021-01-22,448.0,East,tomato,2021,1,3
+2021-01-22,428.0,North,tomato,2021,1,3
+2021-01-22,393.0,South,tomato,2021,1,3
+2021-01-22,374.0,Littoral,tomato,2021,1,3
+2021-01-29,395.0,North West,tomato,2021,1,4
+2021-01-29,463.0,South West,tomato,2021,1,4
+2021-01-29,446.0,West,tomato,2021,1,4
+2021-01-29,419.0,Adamawa,tomato,2021,1,4
+2021-01-29,371.0,Far North,tomato,2021,1,4
+2021-01-29,398.0,Centre,tomato,2021,1,4
+2021-01-29,450.0,East,tomato,2021,1,4
+2021-01-29,426.0,North,tomato,2021,1,4
+2021-01-29,417.0,South,tomato,2021,1,4
+2021-01-29,403.0,Littoral,tomato,2021,1,4
+2021-02-05,522.0,North West,tomato,2021,2,5
+2021-02-05,413.0,South West,tomato,2021,2,5
+2021-02-05,469.0,West,tomato,2021,2,5
+2021-02-05,450.0,Adamawa,tomato,2021,2,5
+2021-02-05,473.0,Far North,tomato,2021,2,5
+2021-02-05,485.0,Centre,tomato,2021,2,5
+2021-02-05,434.0,East,tomato,2021,2,5
+2021-02-05,507.0,North,tomato,2021,2,5
+2021-02-05,469.0,South,tomato,2021,2,5
+2021-02-05,533.0,Littoral,tomato,2021,2,5
+2021-02-12,432.0,North West,tomato,2021,2,6
+2021-02-12,454.0,South West,tomato,2021,2,6
+2021-02-12,520.0,West,tomato,2021,2,6
+2021-02-12,520.0,Adamawa,tomato,2021,2,6
+2021-02-12,506.0,Far North,tomato,2021,2,6
+2021-02-12,557.0,Centre,tomato,2021,2,6
+2021-02-12,484.0,East,tomato,2021,2,6
+2021-02-12,484.0,North,tomato,2021,2,6
+2021-02-12,549.0,South,tomato,2021,2,6
+2021-02-12,500.0,Littoral,tomato,2021,2,6
+2021-02-19,569.0,North West,tomato,2021,2,7
+2021-02-19,523.0,South West,tomato,2021,2,7
+2021-02-19,521.0,West,tomato,2021,2,7
+2021-02-19,536.0,Adamawa,tomato,2021,2,7
+2021-02-19,488.0,Far North,tomato,2021,2,7
+2021-02-19,616.0,Centre,tomato,2021,2,7
+2021-02-19,505.0,East,tomato,2021,2,7
+2021-02-19,506.0,North,tomato,2021,2,7
+2021-02-19,573.0,South,tomato,2021,2,7
+2021-02-19,584.0,Littoral,tomato,2021,2,7
+2021-02-26,551.0,North West,tomato,2021,2,8
+2021-02-26,501.0,South West,tomato,2021,2,8
+2021-02-26,570.0,West,tomato,2021,2,8
+2021-02-26,525.0,Adamawa,tomato,2021,2,8
+2021-02-26,510.0,Far North,tomato,2021,2,8
+2021-02-26,562.0,Centre,tomato,2021,2,8
+2021-02-26,483.0,East,tomato,2021,2,8
+2021-02-26,568.0,North,tomato,2021,2,8
+2021-02-26,524.0,South,tomato,2021,2,8
+2021-02-26,574.0,Littoral,tomato,2021,2,8
+2021-03-05,554.0,North West,tomato,2021,3,9
+2021-03-05,635.0,South West,tomato,2021,3,9
+2021-03-05,558.0,West,tomato,2021,3,9
+2021-03-05,566.0,Adamawa,tomato,2021,3,9
+2021-03-05,609.0,Far North,tomato,2021,3,9
+2021-03-05,534.0,Centre,tomato,2021,3,9
+2021-03-05,535.0,East,tomato,2021,3,9
+2021-03-05,608.0,North,tomato,2021,3,9
+2021-03-05,510.0,South,tomato,2021,3,9
+2021-03-05,615.0,Littoral,tomato,2021,3,9
+2021-03-12,639.0,North West,tomato,2021,3,10
+2021-03-12,625.0,South West,tomato,2021,3,10
+2021-03-12,574.0,West,tomato,2021,3,10
+2021-03-12,666.0,Adamawa,tomato,2021,3,10
+2021-03-12,669.0,Far North,tomato,2021,3,10
+2021-03-12,616.0,Centre,tomato,2021,3,10
+2021-03-12,601.0,East,tomato,2021,3,10
+2021-03-12,577.0,North,tomato,2021,3,10
+2021-03-12,661.0,South,tomato,2021,3,10
+2021-03-12,642.0,Littoral,tomato,2021,3,10
+2021-03-19,688.0,North West,tomato,2021,3,11
+2021-03-19,551.0,South West,tomato,2021,3,11
+2021-03-19,670.0,West,tomato,2021,3,11
+2021-03-19,683.0,Adamawa,tomato,2021,3,11
+2021-03-19,706.0,Far North,tomato,2021,3,11
+2021-03-19,581.0,Centre,tomato,2021,3,11
+2021-03-19,603.0,East,tomato,2021,3,11
+2021-03-19,702.0,North,tomato,2021,3,11
+2021-03-19,557.0,South,tomato,2021,3,11
+2021-03-19,629.0,Littoral,tomato,2021,3,11
+2021-03-26,588.0,North West,tomato,2021,3,12
+2021-03-26,604.0,South West,tomato,2021,3,12
+2021-03-26,561.0,West,tomato,2021,3,12
+2021-03-26,654.0,Adamawa,tomato,2021,3,12
+2021-03-26,551.0,Far North,tomato,2021,3,12
+2021-03-26,611.0,Centre,tomato,2021,3,12
+2021-03-26,587.0,East,tomato,2021,3,12
+2021-03-26,551.0,North,tomato,2021,3,12
+2021-03-26,539.0,South,tomato,2021,3,12
+2021-03-26,659.0,Littoral,tomato,2021,3,12
+2021-04-02,688.0,North West,tomato,2021,4,13
+2021-04-02,569.0,South West,tomato,2021,4,13
+2021-04-02,676.0,West,tomato,2021,4,13
+2021-04-02,583.0,Adamawa,tomato,2021,4,13
+2021-04-02,681.0,Far North,tomato,2021,4,13
+2021-04-02,579.0,Centre,tomato,2021,4,13
+2021-04-02,696.0,East,tomato,2021,4,13
+2021-04-02,671.0,North,tomato,2021,4,13
+2021-04-02,620.0,South,tomato,2021,4,13
+2021-04-02,616.0,Littoral,tomato,2021,4,13
+2021-04-09,589.0,North West,tomato,2021,4,14
+2021-04-09,719.0,South West,tomato,2021,4,14
+2021-04-09,584.0,West,tomato,2021,4,14
+2021-04-09,645.0,Adamawa,tomato,2021,4,14
+2021-04-09,604.0,Far North,tomato,2021,4,14
+2021-04-09,735.0,Centre,tomato,2021,4,14
+2021-04-09,664.0,East,tomato,2021,4,14
+2021-04-09,589.0,North,tomato,2021,4,14
+2021-04-09,678.0,South,tomato,2021,4,14
+2021-04-09,734.0,Littoral,tomato,2021,4,14
+2021-04-16,555.0,North West,tomato,2021,4,15
+2021-04-16,524.0,South West,tomato,2021,4,15
+2021-04-16,545.0,West,tomato,2021,4,15
+2021-04-16,596.0,Adamawa,tomato,2021,4,15
+2021-04-16,627.0,Far North,tomato,2021,4,15
+2021-04-16,646.0,Centre,tomato,2021,4,15
+2021-04-16,633.0,East,tomato,2021,4,15
+2021-04-16,529.0,North,tomato,2021,4,15
+2021-04-16,630.0,South,tomato,2021,4,15
+2021-04-16,600.0,Littoral,tomato,2021,4,15
+2021-04-23,642.0,North West,tomato,2021,4,16
+2021-04-23,659.0,South West,tomato,2021,4,16
+2021-04-23,562.0,West,tomato,2021,4,16
+2021-04-23,573.0,Adamawa,tomato,2021,4,16
+2021-04-23,651.0,Far North,tomato,2021,4,16
+2021-04-23,591.0,Centre,tomato,2021,4,16
+2021-04-23,655.0,East,tomato,2021,4,16
+2021-04-23,622.0,North,tomato,2021,4,16
+2021-04-23,717.0,South,tomato,2021,4,16
+2021-04-23,724.0,Littoral,tomato,2021,4,16
+2021-04-30,670.0,North West,tomato,2021,4,17
+2021-04-30,558.0,South West,tomato,2021,4,17
+2021-04-30,649.0,West,tomato,2021,4,17
+2021-04-30,690.0,Adamawa,tomato,2021,4,17
+2021-04-30,626.0,Far North,tomato,2021,4,17
+2021-04-30,568.0,Centre,tomato,2021,4,17
+2021-04-30,624.0,East,tomato,2021,4,17
+2021-04-30,653.0,North,tomato,2021,4,17
+2021-04-30,664.0,South,tomato,2021,4,17
+2021-04-30,623.0,Littoral,tomato,2021,4,17
+2021-05-07,539.0,North West,tomato,2021,5,18
+2021-05-07,649.0,South West,tomato,2021,5,18
+2021-05-07,625.0,West,tomato,2021,5,18
+2021-05-07,547.0,Adamawa,tomato,2021,5,18
+2021-05-07,631.0,Far North,tomato,2021,5,18
+2021-05-07,559.0,Centre,tomato,2021,5,18
+2021-05-07,554.0,East,tomato,2021,5,18
+2021-05-07,639.0,North,tomato,2021,5,18
+2021-05-07,641.0,South,tomato,2021,5,18
+2021-05-07,567.0,Littoral,tomato,2021,5,18
+2021-05-14,470.0,North West,tomato,2021,5,19
+2021-05-14,548.0,South West,tomato,2021,5,19
+2021-05-14,472.0,West,tomato,2021,5,19
+2021-05-14,497.0,Adamawa,tomato,2021,5,19
+2021-05-14,526.0,Far North,tomato,2021,5,19
+2021-05-14,457.0,Centre,tomato,2021,5,19
+2021-05-14,463.0,East,tomato,2021,5,19
+2021-05-14,477.0,North,tomato,2021,5,19
+2021-05-14,516.0,South,tomato,2021,5,19
+2021-05-14,537.0,Littoral,tomato,2021,5,19
+2021-05-21,480.0,North West,tomato,2021,5,20
+2021-05-21,428.0,South West,tomato,2021,5,20
+2021-05-21,467.0,West,tomato,2021,5,20
+2021-05-21,427.0,Adamawa,tomato,2021,5,20
+2021-05-21,422.0,Far North,tomato,2021,5,20
+2021-05-21,485.0,Centre,tomato,2021,5,20
+2021-05-21,531.0,East,tomato,2021,5,20
+2021-05-21,516.0,North,tomato,2021,5,20
+2021-05-21,508.0,South,tomato,2021,5,20
+2021-05-21,502.0,Littoral,tomato,2021,5,20
+2021-05-28,495.0,North West,tomato,2021,5,21
+2021-05-28,461.0,South West,tomato,2021,5,21
+2021-05-28,428.0,West,tomato,2021,5,21
+2021-05-28,473.0,Adamawa,tomato,2021,5,21
+2021-05-28,533.0,Far North,tomato,2021,5,21
+2021-05-28,489.0,Centre,tomato,2021,5,21
+2021-05-28,438.0,East,tomato,2021,5,21
+2021-05-28,497.0,North,tomato,2021,5,21
+2021-05-28,474.0,South,tomato,2021,5,21
+2021-05-28,533.0,Littoral,tomato,2021,5,21
+2021-06-04,410.0,North West,tomato,2021,6,22
+2021-06-04,477.0,South West,tomato,2021,6,22
+2021-06-04,473.0,West,tomato,2021,6,22
+2021-06-04,509.0,Adamawa,tomato,2021,6,22
+2021-06-04,459.0,Far North,tomato,2021,6,22
+2021-06-04,496.0,Centre,tomato,2021,6,22
+2021-06-04,394.0,East,tomato,2021,6,22
+2021-06-04,406.0,North,tomato,2021,6,22
+2021-06-04,433.0,South,tomato,2021,6,22
+2021-06-04,465.0,Littoral,tomato,2021,6,22
+2021-06-11,402.0,North West,tomato,2021,6,23
+2021-06-11,400.0,South West,tomato,2021,6,23
+2021-06-11,396.0,West,tomato,2021,6,23
+2021-06-11,350.0,Adamawa,tomato,2021,6,23
+2021-06-11,438.0,Far North,tomato,2021,6,23
+2021-06-11,403.0,Centre,tomato,2021,6,23
+2021-06-11,368.0,East,tomato,2021,6,23
+2021-06-11,413.0,North,tomato,2021,6,23
+2021-06-11,374.0,South,tomato,2021,6,23
+2021-06-11,394.0,Littoral,tomato,2021,6,23
+2021-06-18,361.0,North West,tomato,2021,6,24
+2021-06-18,416.0,South West,tomato,2021,6,24
+2021-06-18,427.0,West,tomato,2021,6,24
+2021-06-18,343.0,Adamawa,tomato,2021,6,24
+2021-06-18,330.0,Far North,tomato,2021,6,24
+2021-06-18,349.0,Centre,tomato,2021,6,24
+2021-06-18,386.0,East,tomato,2021,6,24
+2021-06-18,345.0,North,tomato,2021,6,24
+2021-06-18,409.0,South,tomato,2021,6,24
+2021-06-18,368.0,Littoral,tomato,2021,6,24
+2021-06-25,390.0,North West,tomato,2021,6,25
+2021-06-25,309.0,South West,tomato,2021,6,25
+2021-06-25,374.0,West,tomato,2021,6,25
+2021-06-25,367.0,Adamawa,tomato,2021,6,25
+2021-06-25,366.0,Far North,tomato,2021,6,25
+2021-06-25,344.0,Centre,tomato,2021,6,25
+2021-06-25,307.0,East,tomato,2021,6,25
+2021-06-25,370.0,North,tomato,2021,6,25
+2021-06-25,383.0,South,tomato,2021,6,25
+2021-06-25,314.0,Littoral,tomato,2021,6,25
+2021-07-02,333.0,North West,tomato,2021,7,26
+2021-07-02,308.0,South West,tomato,2021,7,26
+2021-07-02,349.0,West,tomato,2021,7,26
+2021-07-02,364.0,Adamawa,tomato,2021,7,26
+2021-07-02,354.0,Far North,tomato,2021,7,26
+2021-07-02,322.0,Centre,tomato,2021,7,26
+2021-07-02,306.0,East,tomato,2021,7,26
+2021-07-02,365.0,North,tomato,2021,7,26
+2021-07-02,323.0,South,tomato,2021,7,26
+2021-07-02,296.0,Littoral,tomato,2021,7,26
+2021-07-09,315.0,North West,tomato,2021,7,27
+2021-07-09,262.0,South West,tomato,2021,7,27
+2021-07-09,284.0,West,tomato,2021,7,27
+2021-07-09,270.0,Adamawa,tomato,2021,7,27
+2021-07-09,304.0,Far North,tomato,2021,7,27
+2021-07-09,293.0,Centre,tomato,2021,7,27
+2021-07-09,311.0,East,tomato,2021,7,27
+2021-07-09,286.0,North,tomato,2021,7,27
+2021-07-09,251.0,South,tomato,2021,7,27
+2021-07-09,267.0,Littoral,tomato,2021,7,27
+2021-07-16,322.0,North West,tomato,2021,7,28
+2021-07-16,277.0,South West,tomato,2021,7,28
+2021-07-16,293.0,West,tomato,2021,7,28
+2021-07-16,315.0,Adamawa,tomato,2021,7,28
+2021-07-16,248.0,Far North,tomato,2021,7,28
+2021-07-16,296.0,Centre,tomato,2021,7,28
+2021-07-16,268.0,East,tomato,2021,7,28
+2021-07-16,268.0,North,tomato,2021,7,28
+2021-07-16,263.0,South,tomato,2021,7,28
+2021-07-16,309.0,Littoral,tomato,2021,7,28
+2021-07-23,237.0,North West,tomato,2021,7,29
+2021-07-23,240.0,South West,tomato,2021,7,29
+2021-07-23,293.0,West,tomato,2021,7,29
+2021-07-23,260.0,Adamawa,tomato,2021,7,29
+2021-07-23,294.0,Far North,tomato,2021,7,29
+2021-07-23,288.0,Centre,tomato,2021,7,29
+2021-07-23,289.0,East,tomato,2021,7,29
+2021-07-23,250.0,North,tomato,2021,7,29
+2021-07-23,249.0,South,tomato,2021,7,29
+2021-07-23,269.0,Littoral,tomato,2021,7,29
+2021-07-30,253.0,North West,tomato,2021,7,30
+2021-07-30,259.0,South West,tomato,2021,7,30
+2021-07-30,228.0,West,tomato,2021,7,30
+2021-07-30,291.0,Adamawa,tomato,2021,7,30
+2021-07-30,228.0,Far North,tomato,2021,7,30
+2021-07-30,236.0,Centre,tomato,2021,7,30
+2021-07-30,271.0,East,tomato,2021,7,30
+2021-07-30,235.0,North,tomato,2021,7,30
+2021-07-30,231.0,South,tomato,2021,7,30
+2021-07-30,235.0,Littoral,tomato,2021,7,30
+2021-08-06,229.0,North West,tomato,2021,8,31
+2021-08-06,231.0,South West,tomato,2021,8,31
+2021-08-06,240.0,West,tomato,2021,8,31
+2021-08-06,216.0,Adamawa,tomato,2021,8,31
+2021-08-06,210.0,Far North,tomato,2021,8,31
+2021-08-06,256.0,Centre,tomato,2021,8,31
+2021-08-06,241.0,East,tomato,2021,8,31
+2021-08-06,205.0,North,tomato,2021,8,31
+2021-08-06,261.0,South,tomato,2021,8,31
+2021-08-06,244.0,Littoral,tomato,2021,8,31
+2021-08-13,178.0,North West,tomato,2021,8,32
+2021-08-13,221.0,South West,tomato,2021,8,32
+2021-08-13,189.0,West,tomato,2021,8,32
+2021-08-13,222.0,Adamawa,tomato,2021,8,32
+2021-08-13,176.0,Far North,tomato,2021,8,32
+2021-08-13,179.0,Centre,tomato,2021,8,32
+2021-08-13,204.0,East,tomato,2021,8,32
+2021-08-13,171.0,North,tomato,2021,8,32
+2021-08-13,171.0,South,tomato,2021,8,32
+2021-08-13,212.0,Littoral,tomato,2021,8,32
+2021-08-20,195.0,North West,tomato,2021,8,33
+2021-08-20,201.0,South West,tomato,2021,8,33
+2021-08-20,190.0,West,tomato,2021,8,33
+2021-08-20,208.0,Adamawa,tomato,2021,8,33
+2021-08-20,190.0,Far North,tomato,2021,8,33
+2021-08-20,185.0,Centre,tomato,2021,8,33
+2021-08-20,178.0,East,tomato,2021,8,33
+2021-08-20,176.0,North,tomato,2021,8,33
+2021-08-20,190.0,South,tomato,2021,8,33
+2021-08-20,212.0,Littoral,tomato,2021,8,33
+2021-08-27,175.0,North West,tomato,2021,8,34
+2021-08-27,180.0,South West,tomato,2021,8,34
+2021-08-27,210.0,West,tomato,2021,8,34
+2021-08-27,197.0,Adamawa,tomato,2021,8,34
+2021-08-27,211.0,Far North,tomato,2021,8,34
+2021-08-27,210.0,Centre,tomato,2021,8,34
+2021-08-27,168.0,East,tomato,2021,8,34
+2021-08-27,213.0,North,tomato,2021,8,34
+2021-08-27,167.0,South,tomato,2021,8,34
+2021-08-27,211.0,Littoral,tomato,2021,8,34
+2021-09-03,202.0,North West,tomato,2021,9,35
+2021-09-03,210.0,South West,tomato,2021,9,35
+2021-09-03,197.0,West,tomato,2021,9,35
+2021-09-03,187.0,Adamawa,tomato,2021,9,35
+2021-09-03,171.0,Far North,tomato,2021,9,35
+2021-09-03,205.0,Centre,tomato,2021,9,35
+2021-09-03,172.0,East,tomato,2021,9,35
+2021-09-03,202.0,North,tomato,2021,9,35
+2021-09-03,192.0,South,tomato,2021,9,35
+2021-09-03,185.0,Littoral,tomato,2021,9,35
+2021-09-10,203.0,North West,tomato,2021,9,36
+2021-09-10,212.0,South West,tomato,2021,9,36
+2021-09-10,221.0,West,tomato,2021,9,36
+2021-09-10,185.0,Adamawa,tomato,2021,9,36
+2021-09-10,221.0,Far North,tomato,2021,9,36
+2021-09-10,222.0,Centre,tomato,2021,9,36
+2021-09-10,214.0,East,tomato,2021,9,36
+2021-09-10,218.0,North,tomato,2021,9,36
+2021-09-10,208.0,South,tomato,2021,9,36
+2021-09-10,173.0,Littoral,tomato,2021,9,36
+2021-09-17,218.0,North West,tomato,2021,9,37
+2021-09-17,199.0,South West,tomato,2021,9,37
+2021-09-17,210.0,West,tomato,2021,9,37
+2021-09-17,206.0,Adamawa,tomato,2021,9,37
+2021-09-17,184.0,Far North,tomato,2021,9,37
+2021-09-17,177.0,Centre,tomato,2021,9,37
+2021-09-17,208.0,East,tomato,2021,9,37
+2021-09-17,181.0,North,tomato,2021,9,37
+2021-09-17,182.0,South,tomato,2021,9,37
+2021-09-17,203.0,Littoral,tomato,2021,9,37
+2021-09-24,198.0,North West,tomato,2021,9,38
+2021-09-24,188.0,South West,tomato,2021,9,38
+2021-09-24,203.0,West,tomato,2021,9,38
+2021-09-24,170.0,Adamawa,tomato,2021,9,38
+2021-09-24,172.0,Far North,tomato,2021,9,38
+2021-09-24,191.0,Centre,tomato,2021,9,38
+2021-09-24,200.0,East,tomato,2021,9,38
+2021-09-24,186.0,North,tomato,2021,9,38
+2021-09-24,160.0,South,tomato,2021,9,38
+2021-09-24,193.0,Littoral,tomato,2021,9,38
+2021-10-01,154.0,North West,tomato,2021,10,39
+2021-10-01,175.0,South West,tomato,2021,10,39
+2021-10-01,153.0,West,tomato,2021,10,39
+2021-10-01,171.0,Adamawa,tomato,2021,10,39
+2021-10-01,152.0,Far North,tomato,2021,10,39
+2021-10-01,162.0,Centre,tomato,2021,10,39
+2021-10-01,169.0,East,tomato,2021,10,39
+2021-10-01,157.0,North,tomato,2021,10,39
+2021-10-01,157.0,South,tomato,2021,10,39
+2021-10-01,190.0,Littoral,tomato,2021,10,39
+2021-10-08,161.0,North West,tomato,2021,10,40
+2021-10-08,192.0,South West,tomato,2021,10,40
+2021-10-08,198.0,West,tomato,2021,10,40
+2021-10-08,165.0,Adamawa,tomato,2021,10,40
+2021-10-08,168.0,Far North,tomato,2021,10,40
+2021-10-08,190.0,Centre,tomato,2021,10,40
+2021-10-08,174.0,East,tomato,2021,10,40
+2021-10-08,182.0,North,tomato,2021,10,40
+2021-10-08,199.0,South,tomato,2021,10,40
+2021-10-08,165.0,Littoral,tomato,2021,10,40
+2021-10-15,164.0,North West,tomato,2021,10,41
+2021-10-15,164.0,South West,tomato,2021,10,41
+2021-10-15,189.0,West,tomato,2021,10,41
+2021-10-15,209.0,Adamawa,tomato,2021,10,41
+2021-10-15,172.0,Far North,tomato,2021,10,41
+2021-10-15,178.0,Centre,tomato,2021,10,41
+2021-10-15,166.0,East,tomato,2021,10,41
+2021-10-15,179.0,North,tomato,2021,10,41
+2021-10-15,164.0,South,tomato,2021,10,41
+2021-10-15,181.0,Littoral,tomato,2021,10,41
+2021-10-22,187.0,North West,tomato,2021,10,42
+2021-10-22,207.0,South West,tomato,2021,10,42
+2021-10-22,200.0,West,tomato,2021,10,42
+2021-10-22,200.0,Adamawa,tomato,2021,10,42
+2021-10-22,171.0,Far North,tomato,2021,10,42
+2021-10-22,164.0,Centre,tomato,2021,10,42
+2021-10-22,189.0,East,tomato,2021,10,42
+2021-10-22,185.0,North,tomato,2021,10,42
+2021-10-22,185.0,South,tomato,2021,10,42
+2021-10-22,165.0,Littoral,tomato,2021,10,42
+2021-10-29,165.0,North West,tomato,2021,10,43
+2021-10-29,149.0,South West,tomato,2021,10,43
+2021-10-29,184.0,West,tomato,2021,10,43
+2021-10-29,147.0,Adamawa,tomato,2021,10,43
+2021-10-29,188.0,Far North,tomato,2021,10,43
+2021-10-29,185.0,Centre,tomato,2021,10,43
+2021-10-29,180.0,East,tomato,2021,10,43
+2021-10-29,190.0,North,tomato,2021,10,43
+2021-10-29,149.0,South,tomato,2021,10,43
+2021-10-29,175.0,Littoral,tomato,2021,10,43
+2021-11-05,212.0,North West,tomato,2021,11,44
+2021-11-05,174.0,South West,tomato,2021,11,44
+2021-11-05,198.0,West,tomato,2021,11,44
+2021-11-05,188.0,Adamawa,tomato,2021,11,44
+2021-11-05,190.0,Far North,tomato,2021,11,44
+2021-11-05,215.0,Centre,tomato,2021,11,44
+2021-11-05,196.0,East,tomato,2021,11,44
+2021-11-05,173.0,North,tomato,2021,11,44
+2021-11-05,216.0,South,tomato,2021,11,44
+2021-11-05,177.0,Littoral,tomato,2021,11,44
+2021-11-12,231.0,North West,tomato,2021,11,45
+2021-11-12,229.0,South West,tomato,2021,11,45
+2021-11-12,215.0,West,tomato,2021,11,45
+2021-11-12,204.0,Adamawa,tomato,2021,11,45
+2021-11-12,205.0,Far North,tomato,2021,11,45
+2021-11-12,231.0,Centre,tomato,2021,11,45
+2021-11-12,224.0,East,tomato,2021,11,45
+2021-11-12,222.0,North,tomato,2021,11,45
+2021-11-12,226.0,South,tomato,2021,11,45
+2021-11-12,233.0,Littoral,tomato,2021,11,45
+2021-11-19,256.0,North West,tomato,2021,11,46
+2021-11-19,215.0,South West,tomato,2021,11,46
+2021-11-19,231.0,West,tomato,2021,11,46
+2021-11-19,225.0,Adamawa,tomato,2021,11,46
+2021-11-19,242.0,Far North,tomato,2021,11,46
+2021-11-19,212.0,Centre,tomato,2021,11,46
+2021-11-19,257.0,East,tomato,2021,11,46
+2021-11-19,215.0,North,tomato,2021,11,46
+2021-11-19,225.0,South,tomato,2021,11,46
+2021-11-19,258.0,Littoral,tomato,2021,11,46
+2021-11-26,274.0,North West,tomato,2021,11,47
+2021-11-26,254.0,South West,tomato,2021,11,47
+2021-11-26,260.0,West,tomato,2021,11,47
+2021-11-26,266.0,Adamawa,tomato,2021,11,47
+2021-11-26,228.0,Far North,tomato,2021,11,47
+2021-11-26,252.0,Centre,tomato,2021,11,47
+2021-11-26,234.0,East,tomato,2021,11,47
+2021-11-26,230.0,North,tomato,2021,11,47
+2021-11-26,226.0,South,tomato,2021,11,47
+2021-11-26,252.0,Littoral,tomato,2021,11,47
+2021-12-03,294.0,North West,tomato,2021,12,48
+2021-12-03,300.0,South West,tomato,2021,12,48
+2021-12-03,267.0,West,tomato,2021,12,48
+2021-12-03,263.0,Adamawa,tomato,2021,12,48
+2021-12-03,286.0,Far North,tomato,2021,12,48
+2021-12-03,293.0,Centre,tomato,2021,12,48
+2021-12-03,254.0,East,tomato,2021,12,48
+2021-12-03,258.0,North,tomato,2021,12,48
+2021-12-03,275.0,South,tomato,2021,12,48
+2021-12-03,268.0,Littoral,tomato,2021,12,48
+2021-12-10,269.0,North West,tomato,2021,12,49
+2021-12-10,274.0,South West,tomato,2021,12,49
+2021-12-10,333.0,West,tomato,2021,12,49
+2021-12-10,279.0,Adamawa,tomato,2021,12,49
+2021-12-10,264.0,Far North,tomato,2021,12,49
+2021-12-10,319.0,Centre,tomato,2021,12,49
+2021-12-10,315.0,East,tomato,2021,12,49
+2021-12-10,308.0,North,tomato,2021,12,49
+2021-12-10,301.0,South,tomato,2021,12,49
+2021-12-10,338.0,Littoral,tomato,2021,12,49
+2021-12-17,324.0,North West,tomato,2021,12,50
+2021-12-17,361.0,South West,tomato,2021,12,50
+2021-12-17,367.0,West,tomato,2021,12,50
+2021-12-17,315.0,Adamawa,tomato,2021,12,50
+2021-12-17,352.0,Far North,tomato,2021,12,50
+2021-12-17,388.0,Centre,tomato,2021,12,50
+2021-12-17,358.0,East,tomato,2021,12,50
+2021-12-17,396.0,North,tomato,2021,12,50
+2021-12-17,374.0,South,tomato,2021,12,50
+2021-12-17,386.0,Littoral,tomato,2021,12,50
+2021-12-24,399.0,North West,tomato,2021,12,51
+2021-12-24,394.0,South West,tomato,2021,12,51
+2021-12-24,380.0,West,tomato,2021,12,51
+2021-12-24,381.0,Adamawa,tomato,2021,12,51
+2021-12-24,344.0,Far North,tomato,2021,12,51
+2021-12-24,407.0,Centre,tomato,2021,12,51
+2021-12-24,356.0,East,tomato,2021,12,51
+2021-12-24,378.0,North,tomato,2021,12,51
+2021-12-24,350.0,South,tomato,2021,12,51
+2021-12-24,394.0,Littoral,tomato,2021,12,51
+2021-12-31,442.0,North West,tomato,2021,12,52
+2021-12-31,424.0,South West,tomato,2021,12,52
+2021-12-31,405.0,West,tomato,2021,12,52
+2021-12-31,400.0,Adamawa,tomato,2021,12,52
+2021-12-31,392.0,Far North,tomato,2021,12,52
+2021-12-31,362.0,Centre,tomato,2021,12,52
+2021-12-31,377.0,East,tomato,2021,12,52
+2021-12-31,383.0,North,tomato,2021,12,52
+2021-12-31,439.0,South,tomato,2021,12,52
+2021-12-31,385.0,Littoral,tomato,2021,12,52
+2022-01-07,440.0,North West,tomato,2022,1,1
+2022-01-07,409.0,South West,tomato,2022,1,1
+2022-01-07,424.0,West,tomato,2022,1,1
+2022-01-07,424.0,Adamawa,tomato,2022,1,1
+2022-01-07,463.0,Far North,tomato,2022,1,1
+2022-01-07,415.0,Centre,tomato,2022,1,1
+2022-01-07,465.0,East,tomato,2022,1,1
+2022-01-07,484.0,North,tomato,2022,1,1
+2022-01-07,419.0,South,tomato,2022,1,1
+2022-01-07,396.0,Littoral,tomato,2022,1,1
+2022-01-14,470.0,North West,tomato,2022,1,2
+2022-01-14,436.0,South West,tomato,2022,1,2
+2022-01-14,457.0,West,tomato,2022,1,2
+2022-01-14,469.0,Adamawa,tomato,2022,1,2
+2022-01-14,442.0,Far North,tomato,2022,1,2
+2022-01-14,504.0,Centre,tomato,2022,1,2
+2022-01-14,441.0,East,tomato,2022,1,2
+2022-01-14,430.0,North,tomato,2022,1,2
+2022-01-14,500.0,South,tomato,2022,1,2
+2022-01-14,409.0,Littoral,tomato,2022,1,2
+2022-01-21,450.0,North West,tomato,2022,1,3
+2022-01-21,392.0,South West,tomato,2022,1,3
+2022-01-21,460.0,West,tomato,2022,1,3
+2022-01-21,441.0,Adamawa,tomato,2022,1,3
+2022-01-21,463.0,Far North,tomato,2022,1,3
+2022-01-21,421.0,Centre,tomato,2022,1,3
+2022-01-21,494.0,East,tomato,2022,1,3
+2022-01-21,419.0,North,tomato,2022,1,3
+2022-01-21,462.0,South,tomato,2022,1,3
+2022-01-21,499.0,Littoral,tomato,2022,1,3
+2022-01-28,432.0,North West,tomato,2022,1,4
+2022-01-28,404.0,South West,tomato,2022,1,4
+2022-01-28,393.0,West,tomato,2022,1,4
+2022-01-28,498.0,Adamawa,tomato,2022,1,4
+2022-01-28,475.0,Far North,tomato,2022,1,4
+2022-01-28,493.0,Centre,tomato,2022,1,4
+2022-01-28,467.0,East,tomato,2022,1,4
+2022-01-28,425.0,North,tomato,2022,1,4
+2022-01-28,399.0,South,tomato,2022,1,4
+2022-01-28,494.0,Littoral,tomato,2022,1,4
+2022-02-04,402.0,North West,tomato,2022,2,5
+2022-02-04,353.0,South West,tomato,2022,2,5
+2022-02-04,374.0,West,tomato,2022,2,5
+2022-02-04,408.0,Adamawa,tomato,2022,2,5
+2022-02-04,352.0,Far North,tomato,2022,2,5
+2022-02-04,356.0,Centre,tomato,2022,2,5
+2022-02-04,395.0,East,tomato,2022,2,5
+2022-02-04,407.0,North,tomato,2022,2,5
+2022-02-04,361.0,South,tomato,2022,2,5
+2022-02-04,345.0,Littoral,tomato,2022,2,5
+2022-02-11,487.0,North West,tomato,2022,2,6
+2022-02-11,379.0,South West,tomato,2022,2,6
+2022-02-11,376.0,West,tomato,2022,2,6
+2022-02-11,413.0,Adamawa,tomato,2022,2,6
+2022-02-11,402.0,Far North,tomato,2022,2,6
+2022-02-11,442.0,Centre,tomato,2022,2,6
+2022-02-11,479.0,East,tomato,2022,2,6
+2022-02-11,432.0,North,tomato,2022,2,6
+2022-02-11,465.0,South,tomato,2022,2,6
+2022-02-11,481.0,Littoral,tomato,2022,2,6
+2022-02-18,486.0,North West,tomato,2022,2,7
+2022-02-18,447.0,South West,tomato,2022,2,7
+2022-02-18,498.0,West,tomato,2022,2,7
+2022-02-18,494.0,Adamawa,tomato,2022,2,7
+2022-02-18,459.0,Far North,tomato,2022,2,7
+2022-02-18,417.0,Centre,tomato,2022,2,7
+2022-02-18,408.0,East,tomato,2022,2,7
+2022-02-18,452.0,North,tomato,2022,2,7
+2022-02-18,416.0,South,tomato,2022,2,7
+2022-02-18,504.0,Littoral,tomato,2022,2,7
+2022-02-25,429.0,North West,tomato,2022,2,8
+2022-02-25,468.0,South West,tomato,2022,2,8
+2022-02-25,430.0,West,tomato,2022,2,8
+2022-02-25,484.0,Adamawa,tomato,2022,2,8
+2022-02-25,495.0,Far North,tomato,2022,2,8
+2022-02-25,489.0,Centre,tomato,2022,2,8
+2022-02-25,447.0,East,tomato,2022,2,8
+2022-02-25,399.0,North,tomato,2022,2,8
+2022-02-25,433.0,South,tomato,2022,2,8
+2022-02-25,440.0,Littoral,tomato,2022,2,8
+2022-03-04,511.0,North West,tomato,2022,3,9
+2022-03-04,529.0,South West,tomato,2022,3,9
+2022-03-04,501.0,West,tomato,2022,3,9
+2022-03-04,505.0,Adamawa,tomato,2022,3,9
+2022-03-04,459.0,Far North,tomato,2022,3,9
+2022-03-04,434.0,Centre,tomato,2022,3,9
+2022-03-04,521.0,East,tomato,2022,3,9
+2022-03-04,538.0,North,tomato,2022,3,9
+2022-03-04,481.0,South,tomato,2022,3,9
+2022-03-04,499.0,Littoral,tomato,2022,3,9
+2022-03-11,511.0,North West,tomato,2022,3,10
+2022-03-11,532.0,South West,tomato,2022,3,10
+2022-03-11,497.0,West,tomato,2022,3,10
+2022-03-11,576.0,Adamawa,tomato,2022,3,10
+2022-03-11,538.0,Far North,tomato,2022,3,10
+2022-03-11,546.0,Centre,tomato,2022,3,10
+2022-03-11,473.0,East,tomato,2022,3,10
+2022-03-11,556.0,North,tomato,2022,3,10
+2022-03-11,496.0,South,tomato,2022,3,10
+2022-03-11,522.0,Littoral,tomato,2022,3,10
+2022-03-18,471.0,North West,tomato,2022,3,11
+2022-03-18,555.0,South West,tomato,2022,3,11
+2022-03-18,498.0,West,tomato,2022,3,11
+2022-03-18,523.0,Adamawa,tomato,2022,3,11
+2022-03-18,523.0,Far North,tomato,2022,3,11
+2022-03-18,522.0,Centre,tomato,2022,3,11
+2022-03-18,516.0,East,tomato,2022,3,11
+2022-03-18,552.0,North,tomato,2022,3,11
+2022-03-18,550.0,South,tomato,2022,3,11
+2022-03-18,497.0,Littoral,tomato,2022,3,11
+2022-03-25,471.0,North West,tomato,2022,3,12
+2022-03-25,407.0,South West,tomato,2022,3,12
+2022-03-25,405.0,West,tomato,2022,3,12
+2022-03-25,452.0,Adamawa,tomato,2022,3,12
+2022-03-25,503.0,Far North,tomato,2022,3,12
+2022-03-25,473.0,Centre,tomato,2022,3,12
+2022-03-25,475.0,East,tomato,2022,3,12
+2022-03-25,413.0,North,tomato,2022,3,12
+2022-03-25,449.0,South,tomato,2022,3,12
+2022-03-25,443.0,Littoral,tomato,2022,3,12
+2022-04-01,475.0,North West,tomato,2022,4,13
+2022-04-01,522.0,South West,tomato,2022,4,13
+2022-04-01,519.0,West,tomato,2022,4,13
+2022-04-01,514.0,Adamawa,tomato,2022,4,13
+2022-04-01,454.0,Far North,tomato,2022,4,13
+2022-04-01,525.0,Centre,tomato,2022,4,13
+2022-04-01,508.0,East,tomato,2022,4,13
+2022-04-01,514.0,North,tomato,2022,4,13
+2022-04-01,524.0,South,tomato,2022,4,13
+2022-04-01,525.0,Littoral,tomato,2022,4,13
+2022-04-08,473.0,North West,tomato,2022,4,14
+2022-04-08,458.0,South West,tomato,2022,4,14
+2022-04-08,534.0,West,tomato,2022,4,14
+2022-04-08,517.0,Adamawa,tomato,2022,4,14
+2022-04-08,485.0,Far North,tomato,2022,4,14
+2022-04-08,533.0,Centre,tomato,2022,4,14
+2022-04-08,449.0,East,tomato,2022,4,14
+2022-04-08,447.0,North,tomato,2022,4,14
+2022-04-08,489.0,South,tomato,2022,4,14
+2022-04-08,467.0,Littoral,tomato,2022,4,14
+2022-04-15,549.0,North West,tomato,2022,4,15
+2022-04-15,548.0,South West,tomato,2022,4,15
+2022-04-15,457.0,West,tomato,2022,4,15
+2022-04-15,528.0,Adamawa,tomato,2022,4,15
+2022-04-15,571.0,Far North,tomato,2022,4,15
+2022-04-15,548.0,Centre,tomato,2022,4,15
+2022-04-15,488.0,East,tomato,2022,4,15
+2022-04-15,575.0,North,tomato,2022,4,15
+2022-04-15,591.0,South,tomato,2022,4,15
+2022-04-15,495.0,Littoral,tomato,2022,4,15
+2022-04-22,496.0,North West,tomato,2022,4,16
+2022-04-22,514.0,South West,tomato,2022,4,16
+2022-04-22,475.0,West,tomato,2022,4,16
+2022-04-22,591.0,Adamawa,tomato,2022,4,16
+2022-04-22,599.0,Far North,tomato,2022,4,16
+2022-04-22,556.0,Centre,tomato,2022,4,16
+2022-04-22,575.0,East,tomato,2022,4,16
+2022-04-22,562.0,North,tomato,2022,4,16
+2022-04-22,520.0,South,tomato,2022,4,16
+2022-04-22,556.0,Littoral,tomato,2022,4,16
+2022-04-29,495.0,North West,tomato,2022,4,17
+2022-04-29,552.0,South West,tomato,2022,4,17
+2022-04-29,542.0,West,tomato,2022,4,17
+2022-04-29,595.0,Adamawa,tomato,2022,4,17
+2022-04-29,557.0,Far North,tomato,2022,4,17
+2022-04-29,535.0,Centre,tomato,2022,4,17
+2022-04-29,588.0,East,tomato,2022,4,17
+2022-04-29,553.0,North,tomato,2022,4,17
+2022-04-29,521.0,South,tomato,2022,4,17
+2022-04-29,615.0,Littoral,tomato,2022,4,17
+2022-05-06,490.0,North West,tomato,2022,5,18
+2022-05-06,476.0,South West,tomato,2022,5,18
+2022-05-06,494.0,West,tomato,2022,5,18
+2022-05-06,497.0,Adamawa,tomato,2022,5,18
+2022-05-06,551.0,Far North,tomato,2022,5,18
+2022-05-06,564.0,Centre,tomato,2022,5,18
+2022-05-06,539.0,East,tomato,2022,5,18
+2022-05-06,503.0,North,tomato,2022,5,18
+2022-05-06,493.0,South,tomato,2022,5,18
+2022-05-06,545.0,Littoral,tomato,2022,5,18
+2022-05-13,439.0,North West,tomato,2022,5,19
+2022-05-13,422.0,South West,tomato,2022,5,19
+2022-05-13,415.0,West,tomato,2022,5,19
+2022-05-13,425.0,Adamawa,tomato,2022,5,19
+2022-05-13,505.0,Far North,tomato,2022,5,19
+2022-05-13,455.0,Centre,tomato,2022,5,19
+2022-05-13,415.0,East,tomato,2022,5,19
+2022-05-13,475.0,North,tomato,2022,5,19
+2022-05-13,479.0,South,tomato,2022,5,19
+2022-05-13,465.0,Littoral,tomato,2022,5,19
+2022-05-20,442.0,North West,tomato,2022,5,20
+2022-05-20,526.0,South West,tomato,2022,5,20
+2022-05-20,517.0,West,tomato,2022,5,20
+2022-05-20,479.0,Adamawa,tomato,2022,5,20
+2022-05-20,477.0,Far North,tomato,2022,5,20
+2022-05-20,448.0,Centre,tomato,2022,5,20
+2022-05-20,526.0,East,tomato,2022,5,20
+2022-05-20,506.0,North,tomato,2022,5,20
+2022-05-20,438.0,South,tomato,2022,5,20
+2022-05-20,477.0,Littoral,tomato,2022,5,20
+2022-05-27,463.0,North West,tomato,2022,5,21
+2022-05-27,504.0,South West,tomato,2022,5,21
+2022-05-27,447.0,West,tomato,2022,5,21
+2022-05-27,488.0,Adamawa,tomato,2022,5,21
+2022-05-27,507.0,Far North,tomato,2022,5,21
+2022-05-27,531.0,Centre,tomato,2022,5,21
+2022-05-27,510.0,East,tomato,2022,5,21
+2022-05-27,470.0,North,tomato,2022,5,21
+2022-05-27,520.0,South,tomato,2022,5,21
+2022-05-27,537.0,Littoral,tomato,2022,5,21
+2022-06-03,468.0,North West,tomato,2022,6,22
+2022-06-03,408.0,South West,tomato,2022,6,22
+2022-06-03,518.0,West,tomato,2022,6,22
+2022-06-03,428.0,Adamawa,tomato,2022,6,22
+2022-06-03,424.0,Far North,tomato,2022,6,22
+2022-06-03,446.0,Centre,tomato,2022,6,22
+2022-06-03,455.0,East,tomato,2022,6,22
+2022-06-03,508.0,North,tomato,2022,6,22
+2022-06-03,456.0,South,tomato,2022,6,22
+2022-06-03,414.0,Littoral,tomato,2022,6,22
+2022-06-10,511.0,North West,tomato,2022,6,23
+2022-06-10,459.0,South West,tomato,2022,6,23
+2022-06-10,419.0,West,tomato,2022,6,23
+2022-06-10,478.0,Adamawa,tomato,2022,6,23
+2022-06-10,424.0,Far North,tomato,2022,6,23
+2022-06-10,411.0,Centre,tomato,2022,6,23
+2022-06-10,506.0,East,tomato,2022,6,23
+2022-06-10,459.0,North,tomato,2022,6,23
+2022-06-10,474.0,South,tomato,2022,6,23
+2022-06-10,492.0,Littoral,tomato,2022,6,23
+2022-06-17,486.0,North West,tomato,2022,6,24
+2022-06-17,440.0,South West,tomato,2022,6,24
+2022-06-17,467.0,West,tomato,2022,6,24
+2022-06-17,459.0,Adamawa,tomato,2022,6,24
+2022-06-17,563.0,Far North,tomato,2022,6,24
+2022-06-17,531.0,Centre,tomato,2022,6,24
+2022-06-17,493.0,East,tomato,2022,6,24
+2022-06-17,441.0,North,tomato,2022,6,24
+2022-06-17,448.0,South,tomato,2022,6,24
+2022-06-17,541.0,Littoral,tomato,2022,6,24
+2022-06-24,421.0,North West,tomato,2022,6,25
+2022-06-24,407.0,South West,tomato,2022,6,25
+2022-06-24,488.0,West,tomato,2022,6,25
+2022-06-24,452.0,Adamawa,tomato,2022,6,25
+2022-06-24,496.0,Far North,tomato,2022,6,25
+2022-06-24,422.0,Centre,tomato,2022,6,25
+2022-06-24,477.0,East,tomato,2022,6,25
+2022-06-24,409.0,North,tomato,2022,6,25
+2022-06-24,406.0,South,tomato,2022,6,25
+2022-06-24,411.0,Littoral,tomato,2022,6,25
+2022-07-01,442.0,North West,tomato,2022,7,26
+2022-07-01,425.0,South West,tomato,2022,7,26
+2022-07-01,372.0,West,tomato,2022,7,26
+2022-07-01,396.0,Adamawa,tomato,2022,7,26
+2022-07-01,437.0,Far North,tomato,2022,7,26
+2022-07-01,385.0,Centre,tomato,2022,7,26
+2022-07-01,454.0,East,tomato,2022,7,26
+2022-07-01,453.0,North,tomato,2022,7,26
+2022-07-01,414.0,South,tomato,2022,7,26
+2022-07-01,422.0,Littoral,tomato,2022,7,26
+2022-07-08,331.0,North West,tomato,2022,7,27
+2022-07-08,310.0,South West,tomato,2022,7,27
+2022-07-08,382.0,West,tomato,2022,7,27
+2022-07-08,364.0,Adamawa,tomato,2022,7,27
+2022-07-08,302.0,Far North,tomato,2022,7,27
+2022-07-08,348.0,Centre,tomato,2022,7,27
+2022-07-08,329.0,East,tomato,2022,7,27
+2022-07-08,372.0,North,tomato,2022,7,27
+2022-07-08,329.0,South,tomato,2022,7,27
+2022-07-08,357.0,Littoral,tomato,2022,7,27
+2022-07-15,301.0,North West,tomato,2022,7,28
+2022-07-15,336.0,South West,tomato,2022,7,28
+2022-07-15,312.0,West,tomato,2022,7,28
+2022-07-15,301.0,Adamawa,tomato,2022,7,28
+2022-07-15,341.0,Far North,tomato,2022,7,28
+2022-07-15,343.0,Centre,tomato,2022,7,28
+2022-07-15,373.0,East,tomato,2022,7,28
+2022-07-15,345.0,North,tomato,2022,7,28
+2022-07-15,332.0,South,tomato,2022,7,28
+2022-07-15,367.0,Littoral,tomato,2022,7,28
+2022-07-22,313.0,North West,tomato,2022,7,29
+2022-07-22,349.0,South West,tomato,2022,7,29
+2022-07-22,322.0,West,tomato,2022,7,29
+2022-07-22,330.0,Adamawa,tomato,2022,7,29
+2022-07-22,278.0,Far North,tomato,2022,7,29
+2022-07-22,330.0,Centre,tomato,2022,7,29
+2022-07-22,292.0,East,tomato,2022,7,29
+2022-07-22,280.0,North,tomato,2022,7,29
+2022-07-22,341.0,South,tomato,2022,7,29
+2022-07-22,328.0,Littoral,tomato,2022,7,29
+2022-07-29,308.0,North West,tomato,2022,7,30
+2022-07-29,310.0,South West,tomato,2022,7,30
+2022-07-29,290.0,West,tomato,2022,7,30
+2022-07-29,275.0,Adamawa,tomato,2022,7,30
+2022-07-29,303.0,Far North,tomato,2022,7,30
+2022-07-29,286.0,Centre,tomato,2022,7,30
+2022-07-29,309.0,East,tomato,2022,7,30
+2022-07-29,344.0,North,tomato,2022,7,30
+2022-07-29,283.0,South,tomato,2022,7,30
+2022-07-29,282.0,Littoral,tomato,2022,7,30
+2022-08-05,244.0,North West,tomato,2022,8,31
+2022-08-05,246.0,South West,tomato,2022,8,31
+2022-08-05,291.0,West,tomato,2022,8,31
+2022-08-05,268.0,Adamawa,tomato,2022,8,31
+2022-08-05,294.0,Far North,tomato,2022,8,31
+2022-08-05,270.0,Centre,tomato,2022,8,31
+2022-08-05,312.0,East,tomato,2022,8,31
+2022-08-05,291.0,North,tomato,2022,8,31
+2022-08-05,244.0,South,tomato,2022,8,31
+2022-08-05,265.0,Littoral,tomato,2022,8,31
+2022-08-12,256.0,North West,tomato,2022,8,32
+2022-08-12,228.0,South West,tomato,2022,8,32
+2022-08-12,219.0,West,tomato,2022,8,32
+2022-08-12,224.0,Adamawa,tomato,2022,8,32
+2022-08-12,253.0,Far North,tomato,2022,8,32
+2022-08-12,261.0,Centre,tomato,2022,8,32
+2022-08-12,225.0,East,tomato,2022,8,32
+2022-08-12,263.0,North,tomato,2022,8,32
+2022-08-12,260.0,South,tomato,2022,8,32
+2022-08-12,281.0,Littoral,tomato,2022,8,32
+2022-08-19,228.0,North West,tomato,2022,8,33
+2022-08-19,216.0,South West,tomato,2022,8,33
+2022-08-19,230.0,West,tomato,2022,8,33
+2022-08-19,208.0,Adamawa,tomato,2022,8,33
+2022-08-19,239.0,Far North,tomato,2022,8,33
+2022-08-19,200.0,Centre,tomato,2022,8,33
+2022-08-19,213.0,East,tomato,2022,8,33
+2022-08-19,211.0,North,tomato,2022,8,33
+2022-08-19,256.0,South,tomato,2022,8,33
+2022-08-19,207.0,Littoral,tomato,2022,8,33
+2022-08-26,242.0,North West,tomato,2022,8,34
+2022-08-26,197.0,South West,tomato,2022,8,34
+2022-08-26,228.0,West,tomato,2022,8,34
+2022-08-26,209.0,Adamawa,tomato,2022,8,34
+2022-08-26,208.0,Far North,tomato,2022,8,34
+2022-08-26,248.0,Centre,tomato,2022,8,34
+2022-08-26,203.0,East,tomato,2022,8,34
+2022-08-26,202.0,North,tomato,2022,8,34
+2022-08-26,224.0,South,tomato,2022,8,34
+2022-08-26,233.0,Littoral,tomato,2022,8,34
+2022-09-02,184.0,North West,tomato,2022,9,35
+2022-09-02,185.0,South West,tomato,2022,9,35
+2022-09-02,166.0,West,tomato,2022,9,35
+2022-09-02,188.0,Adamawa,tomato,2022,9,35
+2022-09-02,166.0,Far North,tomato,2022,9,35
+2022-09-02,179.0,Centre,tomato,2022,9,35
+2022-09-02,168.0,East,tomato,2022,9,35
+2022-09-02,171.0,North,tomato,2022,9,35
+2022-09-02,185.0,South,tomato,2022,9,35
+2022-09-02,159.0,Littoral,tomato,2022,9,35
+2022-09-09,159.0,North West,tomato,2022,9,36
+2022-09-09,165.0,South West,tomato,2022,9,36
+2022-09-09,167.0,West,tomato,2022,9,36
+2022-09-09,168.0,Adamawa,tomato,2022,9,36
+2022-09-09,196.0,Far North,tomato,2022,9,36
+2022-09-09,180.0,Centre,tomato,2022,9,36
+2022-09-09,181.0,East,tomato,2022,9,36
+2022-09-09,190.0,North,tomato,2022,9,36
+2022-09-09,194.0,South,tomato,2022,9,36
+2022-09-09,159.0,Littoral,tomato,2022,9,36
+2022-09-16,152.0,North West,tomato,2022,9,37
+2022-09-16,154.0,South West,tomato,2022,9,37
+2022-09-16,165.0,West,tomato,2022,9,37
+2022-09-16,192.0,Adamawa,tomato,2022,9,37
+2022-09-16,183.0,Far North,tomato,2022,9,37
+2022-09-16,173.0,Centre,tomato,2022,9,37
+2022-09-16,173.0,East,tomato,2022,9,37
+2022-09-16,174.0,North,tomato,2022,9,37
+2022-09-16,167.0,South,tomato,2022,9,37
+2022-09-16,193.0,Littoral,tomato,2022,9,37
+2022-09-23,163.0,North West,tomato,2022,9,38
+2022-09-23,159.0,South West,tomato,2022,9,38
+2022-09-23,158.0,West,tomato,2022,9,38
+2022-09-23,178.0,Adamawa,tomato,2022,9,38
+2022-09-23,169.0,Far North,tomato,2022,9,38
+2022-09-23,145.0,Centre,tomato,2022,9,38
+2022-09-23,157.0,East,tomato,2022,9,38
+2022-09-23,151.0,North,tomato,2022,9,38
+2022-09-23,181.0,South,tomato,2022,9,38
+2022-09-23,156.0,Littoral,tomato,2022,9,38
+2022-09-30,148.0,North West,tomato,2022,9,39
+2022-09-30,159.0,South West,tomato,2022,9,39
+2022-09-30,144.0,West,tomato,2022,9,39
+2022-09-30,136.0,Adamawa,tomato,2022,9,39
+2022-09-30,139.0,Far North,tomato,2022,9,39
+2022-09-30,146.0,Centre,tomato,2022,9,39
+2022-09-30,149.0,East,tomato,2022,9,39
+2022-09-30,169.0,North,tomato,2022,9,39
+2022-09-30,146.0,South,tomato,2022,9,39
+2022-09-30,136.0,Littoral,tomato,2022,9,39
+2022-10-07,166.0,North West,tomato,2022,10,40
+2022-10-07,170.0,South West,tomato,2022,10,40
+2022-10-07,155.0,West,tomato,2022,10,40
+2022-10-07,146.0,Adamawa,tomato,2022,10,40
+2022-10-07,166.0,Far North,tomato,2022,10,40
+2022-10-07,135.0,Centre,tomato,2022,10,40
+2022-10-07,172.0,East,tomato,2022,10,40
+2022-10-07,170.0,North,tomato,2022,10,40
+2022-10-07,157.0,South,tomato,2022,10,40
+2022-10-07,146.0,Littoral,tomato,2022,10,40
+2022-10-14,135.0,North West,tomato,2022,10,41
+2022-10-14,160.0,South West,tomato,2022,10,41
+2022-10-14,174.0,West,tomato,2022,10,41
+2022-10-14,163.0,Adamawa,tomato,2022,10,41
+2022-10-14,137.0,Far North,tomato,2022,10,41
+2022-10-14,150.0,Centre,tomato,2022,10,41
+2022-10-14,138.0,East,tomato,2022,10,41
+2022-10-14,171.0,North,tomato,2022,10,41
+2022-10-14,147.0,South,tomato,2022,10,41
+2022-10-14,164.0,Littoral,tomato,2022,10,41
+2022-10-21,155.0,North West,tomato,2022,10,42
+2022-10-21,157.0,South West,tomato,2022,10,42
+2022-10-21,183.0,West,tomato,2022,10,42
+2022-10-21,190.0,Adamawa,tomato,2022,10,42
+2022-10-21,161.0,Far North,tomato,2022,10,42
+2022-10-21,171.0,Centre,tomato,2022,10,42
+2022-10-21,180.0,East,tomato,2022,10,42
+2022-10-21,188.0,North,tomato,2022,10,42
+2022-10-21,180.0,South,tomato,2022,10,42
+2022-10-21,156.0,Littoral,tomato,2022,10,42
+2022-10-28,205.0,North West,tomato,2022,10,43
+2022-10-28,191.0,South West,tomato,2022,10,43
+2022-10-28,211.0,West,tomato,2022,10,43
+2022-10-28,167.0,Adamawa,tomato,2022,10,43
+2022-10-28,186.0,Far North,tomato,2022,10,43
+2022-10-28,200.0,Centre,tomato,2022,10,43
+2022-10-28,169.0,East,tomato,2022,10,43
+2022-10-28,210.0,North,tomato,2022,10,43
+2022-10-28,179.0,South,tomato,2022,10,43
+2022-10-28,179.0,Littoral,tomato,2022,10,43
+2022-11-04,195.0,North West,tomato,2022,11,44
+2022-11-04,199.0,South West,tomato,2022,11,44
+2022-11-04,215.0,West,tomato,2022,11,44
+2022-11-04,207.0,Adamawa,tomato,2022,11,44
+2022-11-04,194.0,Far North,tomato,2022,11,44
+2022-11-04,228.0,Centre,tomato,2022,11,44
+2022-11-04,186.0,East,tomato,2022,11,44
+2022-11-04,229.0,North,tomato,2022,11,44
+2022-11-04,198.0,South,tomato,2022,11,44
+2022-11-04,211.0,Littoral,tomato,2022,11,44
+2022-11-11,263.0,North West,tomato,2022,11,45
+2022-11-11,276.0,South West,tomato,2022,11,45
+2022-11-11,231.0,West,tomato,2022,11,45
+2022-11-11,248.0,Adamawa,tomato,2022,11,45
+2022-11-11,242.0,Far North,tomato,2022,11,45
+2022-11-11,276.0,Centre,tomato,2022,11,45
+2022-11-11,264.0,East,tomato,2022,11,45
+2022-11-11,237.0,North,tomato,2022,11,45
+2022-11-11,243.0,South,tomato,2022,11,45
+2022-11-11,228.0,Littoral,tomato,2022,11,45
+2022-11-18,234.0,North West,tomato,2022,11,46
+2022-11-18,239.0,South West,tomato,2022,11,46
+2022-11-18,246.0,West,tomato,2022,11,46
+2022-11-18,222.0,Adamawa,tomato,2022,11,46
+2022-11-18,229.0,Far North,tomato,2022,11,46
+2022-11-18,216.0,Centre,tomato,2022,11,46
+2022-11-18,225.0,East,tomato,2022,11,46
+2022-11-18,210.0,North,tomato,2022,11,46
+2022-11-18,232.0,South,tomato,2022,11,46
+2022-11-18,191.0,Littoral,tomato,2022,11,46
+2022-11-25,249.0,North West,tomato,2022,11,47
+2022-11-25,255.0,South West,tomato,2022,11,47
+2022-11-25,226.0,West,tomato,2022,11,47
+2022-11-25,210.0,Adamawa,tomato,2022,11,47
+2022-11-25,262.0,Far North,tomato,2022,11,47
+2022-11-25,262.0,Centre,tomato,2022,11,47
+2022-11-25,231.0,East,tomato,2022,11,47
+2022-11-25,217.0,North,tomato,2022,11,47
+2022-11-25,259.0,South,tomato,2022,11,47
+2022-11-25,248.0,Littoral,tomato,2022,11,47
+2022-12-02,252.0,North West,tomato,2022,12,48
+2022-12-02,260.0,South West,tomato,2022,12,48
+2022-12-02,327.0,West,tomato,2022,12,48
+2022-12-02,255.0,Adamawa,tomato,2022,12,48
+2022-12-02,273.0,Far North,tomato,2022,12,48
+2022-12-02,294.0,Centre,tomato,2022,12,48
+2022-12-02,266.0,East,tomato,2022,12,48
+2022-12-02,269.0,North,tomato,2022,12,48
+2022-12-02,279.0,South,tomato,2022,12,48
+2022-12-02,272.0,Littoral,tomato,2022,12,48
+2022-12-09,297.0,North West,tomato,2022,12,49
+2022-12-09,300.0,South West,tomato,2022,12,49
+2022-12-09,277.0,West,tomato,2022,12,49
+2022-12-09,278.0,Adamawa,tomato,2022,12,49
+2022-12-09,334.0,Far North,tomato,2022,12,49
+2022-12-09,283.0,Centre,tomato,2022,12,49
+2022-12-09,313.0,East,tomato,2022,12,49
+2022-12-09,344.0,North,tomato,2022,12,49
+2022-12-09,304.0,South,tomato,2022,12,49
+2022-12-09,302.0,Littoral,tomato,2022,12,49
+2022-12-16,401.0,North West,tomato,2022,12,50
+2022-12-16,400.0,South West,tomato,2022,12,50
+2022-12-16,402.0,West,tomato,2022,12,50
+2022-12-16,372.0,Adamawa,tomato,2022,12,50
+2022-12-16,409.0,Far North,tomato,2022,12,50
+2022-12-16,396.0,Centre,tomato,2022,12,50
+2022-12-16,357.0,East,tomato,2022,12,50
+2022-12-16,377.0,North,tomato,2022,12,50
+2022-12-16,328.0,South,tomato,2022,12,50
+2022-12-16,370.0,Littoral,tomato,2022,12,50
+2022-12-23,313.0,North West,tomato,2022,12,51
+2022-12-23,334.0,South West,tomato,2022,12,51
+2022-12-23,346.0,West,tomato,2022,12,51
+2022-12-23,357.0,Adamawa,tomato,2022,12,51
+2022-12-23,329.0,Far North,tomato,2022,12,51
+2022-12-23,375.0,Centre,tomato,2022,12,51
+2022-12-23,349.0,East,tomato,2022,12,51
+2022-12-23,360.0,North,tomato,2022,12,51
+2022-12-23,327.0,South,tomato,2022,12,51
+2022-12-23,377.0,Littoral,tomato,2022,12,51
+2022-12-30,345.0,North West,tomato,2022,12,52
+2022-12-30,366.0,South West,tomato,2022,12,52
+2022-12-30,303.0,West,tomato,2022,12,52
+2022-12-30,323.0,Adamawa,tomato,2022,12,52
+2022-12-30,299.0,Far North,tomato,2022,12,52
+2022-12-30,308.0,Centre,tomato,2022,12,52
+2022-12-30,324.0,East,tomato,2022,12,52
+2022-12-30,369.0,North,tomato,2022,12,52
+2022-12-30,339.0,South,tomato,2022,12,52
+2022-12-30,319.0,Littoral,tomato,2022,12,52
+2023-01-06,427.0,North West,tomato,2023,1,1
+2023-01-06,429.0,South West,tomato,2023,1,1
+2023-01-06,385.0,West,tomato,2023,1,1
+2023-01-06,399.0,Adamawa,tomato,2023,1,1
+2023-01-06,465.0,Far North,tomato,2023,1,1
+2023-01-06,470.0,Centre,tomato,2023,1,1
+2023-01-06,397.0,East,tomato,2023,1,1
+2023-01-06,434.0,North,tomato,2023,1,1
+2023-01-06,389.0,South,tomato,2023,1,1
+2023-01-06,403.0,Littoral,tomato,2023,1,1
+2023-01-13,420.0,North West,tomato,2023,1,2
+2023-01-13,390.0,South West,tomato,2023,1,2
+2023-01-13,426.0,West,tomato,2023,1,2
+2023-01-13,403.0,Adamawa,tomato,2023,1,2
+2023-01-13,403.0,Far North,tomato,2023,1,2
+2023-01-13,341.0,Centre,tomato,2023,1,2
+2023-01-13,416.0,East,tomato,2023,1,2
+2023-01-13,439.0,North,tomato,2023,1,2
+2023-01-13,387.0,South,tomato,2023,1,2
+2023-01-13,354.0,Littoral,tomato,2023,1,2
+2023-01-20,356.0,North West,tomato,2023,1,3
+2023-01-20,367.0,South West,tomato,2023,1,3
+2023-01-20,403.0,West,tomato,2023,1,3
+2023-01-20,404.0,Adamawa,tomato,2023,1,3
+2023-01-20,409.0,Far North,tomato,2023,1,3
+2023-01-20,406.0,Centre,tomato,2023,1,3
+2023-01-20,397.0,East,tomato,2023,1,3
+2023-01-20,429.0,North,tomato,2023,1,3
+2023-01-20,443.0,South,tomato,2023,1,3
+2023-01-20,373.0,Littoral,tomato,2023,1,3
+2023-01-27,379.0,North West,tomato,2023,1,4
+2023-01-27,412.0,South West,tomato,2023,1,4
+2023-01-27,367.0,West,tomato,2023,1,4
+2023-01-27,463.0,Adamawa,tomato,2023,1,4
+2023-01-27,391.0,Far North,tomato,2023,1,4
+2023-01-27,425.0,Centre,tomato,2023,1,4
+2023-01-27,377.0,East,tomato,2023,1,4
+2023-01-27,426.0,North,tomato,2023,1,4
+2023-01-27,368.0,South,tomato,2023,1,4
+2023-01-27,450.0,Littoral,tomato,2023,1,4
+2023-02-03,433.0,North West,tomato,2023,2,5
+2023-02-03,456.0,South West,tomato,2023,2,5
+2023-02-03,477.0,West,tomato,2023,2,5
+2023-02-03,424.0,Adamawa,tomato,2023,2,5
+2023-02-03,500.0,Far North,tomato,2023,2,5
+2023-02-03,425.0,Centre,tomato,2023,2,5
+2023-02-03,402.0,East,tomato,2023,2,5
+2023-02-03,465.0,North,tomato,2023,2,5
+2023-02-03,415.0,South,tomato,2023,2,5
+2023-02-03,487.0,Littoral,tomato,2023,2,5
+2023-02-10,457.0,North West,tomato,2023,2,6
+2023-02-10,544.0,South West,tomato,2023,2,6
+2023-02-10,498.0,West,tomato,2023,2,6
+2023-02-10,511.0,Adamawa,tomato,2023,2,6
+2023-02-10,460.0,Far North,tomato,2023,2,6
+2023-02-10,455.0,Centre,tomato,2023,2,6
+2023-02-10,519.0,East,tomato,2023,2,6
+2023-02-10,469.0,North,tomato,2023,2,6
+2023-02-10,486.0,South,tomato,2023,2,6
+2023-02-10,499.0,Littoral,tomato,2023,2,6
+2023-02-17,610.0,North West,tomato,2023,2,7
+2023-02-17,537.0,South West,tomato,2023,2,7
+2023-02-17,607.0,West,tomato,2023,2,7
+2023-02-17,602.0,Adamawa,tomato,2023,2,7
+2023-02-17,498.0,Far North,tomato,2023,2,7
+2023-02-17,499.0,Centre,tomato,2023,2,7
+2023-02-17,543.0,East,tomato,2023,2,7
+2023-02-17,550.0,North,tomato,2023,2,7
+2023-02-17,523.0,South,tomato,2023,2,7
+2023-02-17,519.0,Littoral,tomato,2023,2,7
+2023-02-24,523.0,North West,tomato,2023,2,8
+2023-02-24,559.0,South West,tomato,2023,2,8
+2023-02-24,474.0,West,tomato,2023,2,8
+2023-02-24,562.0,Adamawa,tomato,2023,2,8
+2023-02-24,593.0,Far North,tomato,2023,2,8
+2023-02-24,570.0,Centre,tomato,2023,2,8
+2023-02-24,489.0,East,tomato,2023,2,8
+2023-02-24,474.0,North,tomato,2023,2,8
+2023-02-24,531.0,South,tomato,2023,2,8
+2023-02-24,597.0,Littoral,tomato,2023,2,8
+2023-03-03,509.0,North West,tomato,2023,3,9
+2023-03-03,595.0,South West,tomato,2023,3,9
+2023-03-03,609.0,West,tomato,2023,3,9
+2023-03-03,628.0,Adamawa,tomato,2023,3,9
+2023-03-03,579.0,Far North,tomato,2023,3,9
+2023-03-03,565.0,Centre,tomato,2023,3,9
+2023-03-03,580.0,East,tomato,2023,3,9
+2023-03-03,629.0,North,tomato,2023,3,9
+2023-03-03,582.0,South,tomato,2023,3,9
+2023-03-03,526.0,Littoral,tomato,2023,3,9
+2023-03-10,644.0,North West,tomato,2023,3,10
+2023-03-10,684.0,South West,tomato,2023,3,10
+2023-03-10,632.0,West,tomato,2023,3,10
+2023-03-10,622.0,Adamawa,tomato,2023,3,10
+2023-03-10,660.0,Far North,tomato,2023,3,10
+2023-03-10,648.0,Centre,tomato,2023,3,10
+2023-03-10,548.0,East,tomato,2023,3,10
+2023-03-10,658.0,North,tomato,2023,3,10
+2023-03-10,606.0,South,tomato,2023,3,10
+2023-03-10,694.0,Littoral,tomato,2023,3,10
+2023-03-17,691.0,North West,tomato,2023,3,11
+2023-03-17,583.0,South West,tomato,2023,3,11
+2023-03-17,644.0,West,tomato,2023,3,11
+2023-03-17,545.0,Adamawa,tomato,2023,3,11
+2023-03-17,556.0,Far North,tomato,2023,3,11
+2023-03-17,674.0,Centre,tomato,2023,3,11
+2023-03-17,678.0,East,tomato,2023,3,11
+2023-03-17,619.0,North,tomato,2023,3,11
+2023-03-17,588.0,South,tomato,2023,3,11
+2023-03-17,606.0,Littoral,tomato,2023,3,11
+2023-03-24,689.0,North West,tomato,2023,3,12
+2023-03-24,579.0,South West,tomato,2023,3,12
+2023-03-24,593.0,West,tomato,2023,3,12
+2023-03-24,675.0,Adamawa,tomato,2023,3,12
+2023-03-24,700.0,Far North,tomato,2023,3,12
+2023-03-24,560.0,Centre,tomato,2023,3,12
+2023-03-24,678.0,East,tomato,2023,3,12
+2023-03-24,652.0,North,tomato,2023,3,12
+2023-03-24,583.0,South,tomato,2023,3,12
+2023-03-24,670.0,Littoral,tomato,2023,3,12
+2023-03-31,596.0,North West,tomato,2023,3,13
+2023-03-31,637.0,South West,tomato,2023,3,13
+2023-03-31,547.0,West,tomato,2023,3,13
+2023-03-31,590.0,Adamawa,tomato,2023,3,13
+2023-03-31,536.0,Far North,tomato,2023,3,13
+2023-03-31,565.0,Centre,tomato,2023,3,13
+2023-03-31,551.0,East,tomato,2023,3,13
+2023-03-31,597.0,North,tomato,2023,3,13
+2023-03-31,539.0,South,tomato,2023,3,13
+2023-03-31,577.0,Littoral,tomato,2023,3,13
+2023-04-07,568.0,North West,tomato,2023,4,14
+2023-04-07,644.0,South West,tomato,2023,4,14
+2023-04-07,636.0,West,tomato,2023,4,14
+2023-04-07,539.0,Adamawa,tomato,2023,4,14
+2023-04-07,677.0,Far North,tomato,2023,4,14
+2023-04-07,644.0,Centre,tomato,2023,4,14
+2023-04-07,623.0,East,tomato,2023,4,14
+2023-04-07,601.0,North,tomato,2023,4,14
+2023-04-07,552.0,South,tomato,2023,4,14
+2023-04-07,679.0,Littoral,tomato,2023,4,14
+2023-04-14,607.0,North West,tomato,2023,4,15
+2023-04-14,630.0,South West,tomato,2023,4,15
+2023-04-14,668.0,West,tomato,2023,4,15
+2023-04-14,552.0,Adamawa,tomato,2023,4,15
+2023-04-14,553.0,Far North,tomato,2023,4,15
+2023-04-14,579.0,Centre,tomato,2023,4,15
+2023-04-14,568.0,East,tomato,2023,4,15
+2023-04-14,545.0,North,tomato,2023,4,15
+2023-04-14,648.0,South,tomato,2023,4,15
+2023-04-14,677.0,Littoral,tomato,2023,4,15
+2023-04-21,687.0,North West,tomato,2023,4,16
+2023-04-21,602.0,South West,tomato,2023,4,16
+2023-04-21,576.0,West,tomato,2023,4,16
+2023-04-21,671.0,Adamawa,tomato,2023,4,16
+2023-04-21,668.0,Far North,tomato,2023,4,16
+2023-04-21,632.0,Centre,tomato,2023,4,16
+2023-04-21,575.0,East,tomato,2023,4,16
+2023-04-21,679.0,North,tomato,2023,4,16
+2023-04-21,560.0,South,tomato,2023,4,16
+2023-04-21,538.0,Littoral,tomato,2023,4,16
+2023-04-28,570.0,North West,tomato,2023,4,17
+2023-04-28,639.0,South West,tomato,2023,4,17
+2023-04-28,655.0,West,tomato,2023,4,17
+2023-04-28,667.0,Adamawa,tomato,2023,4,17
+2023-04-28,576.0,Far North,tomato,2023,4,17
+2023-04-28,534.0,Centre,tomato,2023,4,17
+2023-04-28,613.0,East,tomato,2023,4,17
+2023-04-28,669.0,North,tomato,2023,4,17
+2023-04-28,564.0,South,tomato,2023,4,17
+2023-04-28,598.0,Littoral,tomato,2023,4,17
+2023-05-05,576.0,North West,tomato,2023,5,18
+2023-05-05,537.0,South West,tomato,2023,5,18
+2023-05-05,682.0,West,tomato,2023,5,18
+2023-05-05,556.0,Adamawa,tomato,2023,5,18
+2023-05-05,660.0,Far North,tomato,2023,5,18
+2023-05-05,591.0,Centre,tomato,2023,5,18
+2023-05-05,580.0,East,tomato,2023,5,18
+2023-05-05,689.0,North,tomato,2023,5,18
+2023-05-05,642.0,South,tomato,2023,5,18
+2023-05-05,647.0,Littoral,tomato,2023,5,18
+2023-05-12,567.0,North West,tomato,2023,5,19
+2023-05-12,523.0,South West,tomato,2023,5,19
+2023-05-12,607.0,West,tomato,2023,5,19
+2023-05-12,572.0,Adamawa,tomato,2023,5,19
+2023-05-12,519.0,Far North,tomato,2023,5,19
+2023-05-12,617.0,Centre,tomato,2023,5,19
+2023-05-12,569.0,East,tomato,2023,5,19
+2023-05-12,557.0,North,tomato,2023,5,19
+2023-05-12,488.0,South,tomato,2023,5,19
+2023-05-12,618.0,Littoral,tomato,2023,5,19
+2023-05-19,642.0,North West,tomato,2023,5,20
+2023-05-19,583.0,South West,tomato,2023,5,20
+2023-05-19,565.0,West,tomato,2023,5,20
+2023-05-19,552.0,Adamawa,tomato,2023,5,20
+2023-05-19,538.0,Far North,tomato,2023,5,20
+2023-05-19,585.0,Centre,tomato,2023,5,20
+2023-05-19,517.0,East,tomato,2023,5,20
+2023-05-19,637.0,North,tomato,2023,5,20
+2023-05-19,524.0,South,tomato,2023,5,20
+2023-05-19,611.0,Littoral,tomato,2023,5,20
+2023-05-26,527.0,North West,tomato,2023,5,21
+2023-05-26,555.0,South West,tomato,2023,5,21
+2023-05-26,550.0,West,tomato,2023,5,21
+2023-05-26,482.0,Adamawa,tomato,2023,5,21
+2023-05-26,495.0,Far North,tomato,2023,5,21
+2023-05-26,570.0,Centre,tomato,2023,5,21
+2023-05-26,550.0,East,tomato,2023,5,21
+2023-05-26,548.0,North,tomato,2023,5,21
+2023-05-26,487.0,South,tomato,2023,5,21
+2023-05-26,559.0,Littoral,tomato,2023,5,21
+2023-06-02,443.0,North West,tomato,2023,6,22
+2023-06-02,448.0,South West,tomato,2023,6,22
+2023-06-02,434.0,West,tomato,2023,6,22
+2023-06-02,414.0,Adamawa,tomato,2023,6,22
+2023-06-02,451.0,Far North,tomato,2023,6,22
+2023-06-02,401.0,Centre,tomato,2023,6,22
+2023-06-02,455.0,East,tomato,2023,6,22
+2023-06-02,488.0,North,tomato,2023,6,22
+2023-06-02,517.0,South,tomato,2023,6,22
+2023-06-02,409.0,Littoral,tomato,2023,6,22
+2023-06-09,397.0,North West,tomato,2023,6,23
+2023-06-09,391.0,South West,tomato,2023,6,23
+2023-06-09,430.0,West,tomato,2023,6,23
+2023-06-09,444.0,Adamawa,tomato,2023,6,23
+2023-06-09,472.0,Far North,tomato,2023,6,23
+2023-06-09,493.0,Centre,tomato,2023,6,23
+2023-06-09,467.0,East,tomato,2023,6,23
+2023-06-09,403.0,North,tomato,2023,6,23
+2023-06-09,464.0,South,tomato,2023,6,23
+2023-06-09,439.0,Littoral,tomato,2023,6,23
+2023-06-16,372.0,North West,tomato,2023,6,24
+2023-06-16,421.0,South West,tomato,2023,6,24
+2023-06-16,397.0,West,tomato,2023,6,24
+2023-06-16,395.0,Adamawa,tomato,2023,6,24
+2023-06-16,328.0,Far North,tomato,2023,6,24
+2023-06-16,414.0,Centre,tomato,2023,6,24
+2023-06-16,406.0,East,tomato,2023,6,24
+2023-06-16,357.0,North,tomato,2023,6,24
+2023-06-16,356.0,South,tomato,2023,6,24
+2023-06-16,332.0,Littoral,tomato,2023,6,24
+2023-06-23,349.0,North West,tomato,2023,6,25
+2023-06-23,424.0,South West,tomato,2023,6,25
+2023-06-23,416.0,West,tomato,2023,6,25
+2023-06-23,366.0,Adamawa,tomato,2023,6,25
+2023-06-23,369.0,Far North,tomato,2023,6,25
+2023-06-23,364.0,Centre,tomato,2023,6,25
+2023-06-23,340.0,East,tomato,2023,6,25
+2023-06-23,334.0,North,tomato,2023,6,25
+2023-06-23,376.0,South,tomato,2023,6,25
+2023-06-23,426.0,Littoral,tomato,2023,6,25
+2023-06-30,414.0,North West,tomato,2023,6,26
+2023-06-30,403.0,South West,tomato,2023,6,26
+2023-06-30,385.0,West,tomato,2023,6,26
+2023-06-30,408.0,Adamawa,tomato,2023,6,26
+2023-06-30,374.0,Far North,tomato,2023,6,26
+2023-06-30,341.0,Centre,tomato,2023,6,26
+2023-06-30,390.0,East,tomato,2023,6,26
+2023-06-30,414.0,North,tomato,2023,6,26
+2023-06-30,325.0,South,tomato,2023,6,26
+2023-06-30,348.0,Littoral,tomato,2023,6,26
+2023-07-07,300.0,North West,tomato,2023,7,27
+2023-07-07,314.0,South West,tomato,2023,7,27
+2023-07-07,362.0,West,tomato,2023,7,27
+2023-07-07,355.0,Adamawa,tomato,2023,7,27
+2023-07-07,362.0,Far North,tomato,2023,7,27
+2023-07-07,291.0,Centre,tomato,2023,7,27
+2023-07-07,283.0,East,tomato,2023,7,27
+2023-07-07,290.0,North,tomato,2023,7,27
+2023-07-07,360.0,South,tomato,2023,7,27
+2023-07-07,295.0,Littoral,tomato,2023,7,27
+2023-07-14,308.0,North West,tomato,2023,7,28
+2023-07-14,280.0,South West,tomato,2023,7,28
+2023-07-14,264.0,West,tomato,2023,7,28
+2023-07-14,269.0,Adamawa,tomato,2023,7,28
+2023-07-14,319.0,Far North,tomato,2023,7,28
+2023-07-14,277.0,Centre,tomato,2023,7,28
+2023-07-14,281.0,East,tomato,2023,7,28
+2023-07-14,293.0,North,tomato,2023,7,28
+2023-07-14,315.0,South,tomato,2023,7,28
+2023-07-14,300.0,Littoral,tomato,2023,7,28
+2023-07-21,267.0,North West,tomato,2023,7,29
+2023-07-21,293.0,South West,tomato,2023,7,29
+2023-07-21,286.0,West,tomato,2023,7,29
+2023-07-21,312.0,Adamawa,tomato,2023,7,29
+2023-07-21,324.0,Far North,tomato,2023,7,29
+2023-07-21,316.0,Centre,tomato,2023,7,29
+2023-07-21,282.0,East,tomato,2023,7,29
+2023-07-21,268.0,North,tomato,2023,7,29
+2023-07-21,322.0,South,tomato,2023,7,29
+2023-07-21,281.0,Littoral,tomato,2023,7,29
+2023-07-28,315.0,North West,tomato,2023,7,30
+2023-07-28,332.0,South West,tomato,2023,7,30
+2023-07-28,300.0,West,tomato,2023,7,30
+2023-07-28,292.0,Adamawa,tomato,2023,7,30
+2023-07-28,309.0,Far North,tomato,2023,7,30
+2023-07-28,270.0,Centre,tomato,2023,7,30
+2023-07-28,293.0,East,tomato,2023,7,30
+2023-07-28,279.0,North,tomato,2023,7,30
+2023-07-28,267.0,South,tomato,2023,7,30
+2023-07-28,302.0,Littoral,tomato,2023,7,30
+2023-08-04,304.0,North West,tomato,2023,8,31
+2023-08-04,256.0,South West,tomato,2023,8,31
+2023-08-04,297.0,West,tomato,2023,8,31
+2023-08-04,267.0,Adamawa,tomato,2023,8,31
+2023-08-04,286.0,Far North,tomato,2023,8,31
+2023-08-04,303.0,Centre,tomato,2023,8,31
+2023-08-04,259.0,East,tomato,2023,8,31
+2023-08-04,284.0,North,tomato,2023,8,31
+2023-08-04,275.0,South,tomato,2023,8,31
+2023-08-04,298.0,Littoral,tomato,2023,8,31
+2023-08-11,267.0,North West,tomato,2023,8,32
+2023-08-11,272.0,South West,tomato,2023,8,32
+2023-08-11,239.0,West,tomato,2023,8,32
+2023-08-11,267.0,Adamawa,tomato,2023,8,32
+2023-08-11,261.0,Far North,tomato,2023,8,32
+2023-08-11,251.0,Centre,tomato,2023,8,32
+2023-08-11,245.0,East,tomato,2023,8,32
+2023-08-11,242.0,North,tomato,2023,8,32
+2023-08-11,221.0,South,tomato,2023,8,32
+2023-08-11,231.0,Littoral,tomato,2023,8,32
+2023-08-18,253.0,North West,tomato,2023,8,33
+2023-08-18,216.0,South West,tomato,2023,8,33
+2023-08-18,233.0,West,tomato,2023,8,33
+2023-08-18,258.0,Adamawa,tomato,2023,8,33
+2023-08-18,249.0,Far North,tomato,2023,8,33
+2023-08-18,202.0,Centre,tomato,2023,8,33
+2023-08-18,230.0,East,tomato,2023,8,33
+2023-08-18,203.0,North,tomato,2023,8,33
+2023-08-18,219.0,South,tomato,2023,8,33
+2023-08-18,229.0,Littoral,tomato,2023,8,33
+2023-08-25,242.0,North West,tomato,2023,8,34
+2023-08-25,228.0,South West,tomato,2023,8,34
+2023-08-25,211.0,West,tomato,2023,8,34
+2023-08-25,218.0,Adamawa,tomato,2023,8,34
+2023-08-25,237.0,Far North,tomato,2023,8,34
+2023-08-25,207.0,Centre,tomato,2023,8,34
+2023-08-25,225.0,East,tomato,2023,8,34
+2023-08-25,205.0,North,tomato,2023,8,34
+2023-08-25,217.0,South,tomato,2023,8,34
+2023-08-25,191.0,Littoral,tomato,2023,8,34
+2023-09-01,199.0,North West,tomato,2023,9,35
+2023-09-01,204.0,South West,tomato,2023,9,35
+2023-09-01,171.0,West,tomato,2023,9,35
+2023-09-01,169.0,Adamawa,tomato,2023,9,35
+2023-09-01,208.0,Far North,tomato,2023,9,35
+2023-09-01,204.0,Centre,tomato,2023,9,35
+2023-09-01,210.0,East,tomato,2023,9,35
+2023-09-01,202.0,North,tomato,2023,9,35
+2023-09-01,206.0,South,tomato,2023,9,35
+2023-09-01,186.0,Littoral,tomato,2023,9,35
+2023-09-08,174.0,North West,tomato,2023,9,36
+2023-09-08,184.0,South West,tomato,2023,9,36
+2023-09-08,155.0,West,tomato,2023,9,36
+2023-09-08,167.0,Adamawa,tomato,2023,9,36
+2023-09-08,181.0,Far North,tomato,2023,9,36
+2023-09-08,172.0,Centre,tomato,2023,9,36
+2023-09-08,179.0,East,tomato,2023,9,36
+2023-09-08,161.0,North,tomato,2023,9,36
+2023-09-08,149.0,South,tomato,2023,9,36
+2023-09-08,149.0,Littoral,tomato,2023,9,36
+2023-09-15,140.0,North West,tomato,2023,9,37
+2023-09-15,149.0,South West,tomato,2023,9,37
+2023-09-15,154.0,West,tomato,2023,9,37
+2023-09-15,150.0,Adamawa,tomato,2023,9,37
+2023-09-15,174.0,Far North,tomato,2023,9,37
+2023-09-15,171.0,Centre,tomato,2023,9,37
+2023-09-15,143.0,East,tomato,2023,9,37
+2023-09-15,169.0,North,tomato,2023,9,37
+2023-09-15,162.0,South,tomato,2023,9,37
+2023-09-15,145.0,Littoral,tomato,2023,9,37
+2023-09-22,165.0,North West,tomato,2023,9,38
+2023-09-22,138.0,South West,tomato,2023,9,38
+2023-09-22,142.0,West,tomato,2023,9,38
+2023-09-22,141.0,Adamawa,tomato,2023,9,38
+2023-09-22,173.0,Far North,tomato,2023,9,38
+2023-09-22,163.0,Centre,tomato,2023,9,38
+2023-09-22,151.0,East,tomato,2023,9,38
+2023-09-22,168.0,North,tomato,2023,9,38
+2023-09-22,143.0,South,tomato,2023,9,38
+2023-09-22,173.0,Littoral,tomato,2023,9,38
+2023-09-29,172.0,North West,tomato,2023,9,39
+2023-09-29,166.0,South West,tomato,2023,9,39
+2023-09-29,176.0,West,tomato,2023,9,39
+2023-09-29,173.0,Adamawa,tomato,2023,9,39
+2023-09-29,147.0,Far North,tomato,2023,9,39
+2023-09-29,148.0,Centre,tomato,2023,9,39
+2023-09-29,141.0,East,tomato,2023,9,39
+2023-09-29,148.0,North,tomato,2023,9,39
+2023-09-29,153.0,South,tomato,2023,9,39
+2023-09-29,139.0,Littoral,tomato,2023,9,39
+2023-10-06,178.0,North West,tomato,2023,10,40
+2023-10-06,200.0,South West,tomato,2023,10,40
+2023-10-06,204.0,West,tomato,2023,10,40
+2023-10-06,162.0,Adamawa,tomato,2023,10,40
+2023-10-06,162.0,Far North,tomato,2023,10,40
+2023-10-06,169.0,Centre,tomato,2023,10,40
+2023-10-06,205.0,East,tomato,2023,10,40
+2023-10-06,185.0,North,tomato,2023,10,40
+2023-10-06,211.0,South,tomato,2023,10,40
+2023-10-06,206.0,Littoral,tomato,2023,10,40
+2023-10-13,171.0,North West,tomato,2023,10,41
+2023-10-13,192.0,South West,tomato,2023,10,41
+2023-10-13,181.0,West,tomato,2023,10,41
+2023-10-13,183.0,Adamawa,tomato,2023,10,41
+2023-10-13,208.0,Far North,tomato,2023,10,41
+2023-10-13,193.0,Centre,tomato,2023,10,41
+2023-10-13,201.0,East,tomato,2023,10,41
+2023-10-13,197.0,North,tomato,2023,10,41
+2023-10-13,190.0,South,tomato,2023,10,41
+2023-10-13,203.0,Littoral,tomato,2023,10,41
+2023-10-20,211.0,North West,tomato,2023,10,42
+2023-10-20,210.0,South West,tomato,2023,10,42
+2023-10-20,201.0,West,tomato,2023,10,42
+2023-10-20,186.0,Adamawa,tomato,2023,10,42
+2023-10-20,170.0,Far North,tomato,2023,10,42
+2023-10-20,164.0,Centre,tomato,2023,10,42
+2023-10-20,174.0,East,tomato,2023,10,42
+2023-10-20,179.0,North,tomato,2023,10,42
+2023-10-20,169.0,South,tomato,2023,10,42
+2023-10-20,173.0,Littoral,tomato,2023,10,42
+2023-10-27,168.0,North West,tomato,2023,10,43
+2023-10-27,199.0,South West,tomato,2023,10,43
+2023-10-27,179.0,West,tomato,2023,10,43
+2023-10-27,195.0,Adamawa,tomato,2023,10,43
+2023-10-27,206.0,Far North,tomato,2023,10,43
+2023-10-27,166.0,Centre,tomato,2023,10,43
+2023-10-27,211.0,East,tomato,2023,10,43
+2023-10-27,194.0,North,tomato,2023,10,43
+2023-10-27,165.0,South,tomato,2023,10,43
+2023-10-27,178.0,Littoral,tomato,2023,10,43
+2023-11-03,218.0,North West,tomato,2023,11,44
+2023-11-03,203.0,South West,tomato,2023,11,44
+2023-11-03,187.0,West,tomato,2023,11,44
+2023-11-03,221.0,Adamawa,tomato,2023,11,44
+2023-11-03,213.0,Far North,tomato,2023,11,44
+2023-11-03,210.0,Centre,tomato,2023,11,44
+2023-11-03,218.0,East,tomato,2023,11,44
+2023-11-03,212.0,North,tomato,2023,11,44
+2023-11-03,187.0,South,tomato,2023,11,44
+2023-11-03,202.0,Littoral,tomato,2023,11,44
+2023-11-10,194.0,North West,tomato,2023,11,45
+2023-11-10,194.0,South West,tomato,2023,11,45
+2023-11-10,196.0,West,tomato,2023,11,45
+2023-11-10,191.0,Adamawa,tomato,2023,11,45
+2023-11-10,233.0,Far North,tomato,2023,11,45
+2023-11-10,232.0,Centre,tomato,2023,11,45
+2023-11-10,194.0,East,tomato,2023,11,45
+2023-11-10,225.0,North,tomato,2023,11,45
+2023-11-10,221.0,South,tomato,2023,11,45
+2023-11-10,201.0,Littoral,tomato,2023,11,45
+2023-11-17,219.0,North West,tomato,2023,11,46
+2023-11-17,221.0,South West,tomato,2023,11,46
+2023-11-17,251.0,West,tomato,2023,11,46
+2023-11-17,225.0,Adamawa,tomato,2023,11,46
+2023-11-17,222.0,Far North,tomato,2023,11,46
+2023-11-17,206.0,Centre,tomato,2023,11,46
+2023-11-17,262.0,East,tomato,2023,11,46
+2023-11-17,252.0,North,tomato,2023,11,46
+2023-11-17,235.0,South,tomato,2023,11,46
+2023-11-17,264.0,Littoral,tomato,2023,11,46
+2023-11-24,249.0,North West,tomato,2023,11,47
+2023-11-24,250.0,South West,tomato,2023,11,47
+2023-11-24,287.0,West,tomato,2023,11,47
+2023-11-24,283.0,Adamawa,tomato,2023,11,47
+2023-11-24,248.0,Far North,tomato,2023,11,47
+2023-11-24,233.0,Centre,tomato,2023,11,47
+2023-11-24,253.0,East,tomato,2023,11,47
+2023-11-24,281.0,North,tomato,2023,11,47
+2023-11-24,235.0,South,tomato,2023,11,47
+2023-11-24,275.0,Littoral,tomato,2023,11,47
+2023-12-01,300.0,North West,tomato,2023,12,48
+2023-12-01,249.0,South West,tomato,2023,12,48
+2023-12-01,298.0,West,tomato,2023,12,48
+2023-12-01,239.0,Adamawa,tomato,2023,12,48
+2023-12-01,284.0,Far North,tomato,2023,12,48
+2023-12-01,293.0,Centre,tomato,2023,12,48
+2023-12-01,268.0,East,tomato,2023,12,48
+2023-12-01,250.0,North,tomato,2023,12,48
+2023-12-01,302.0,South,tomato,2023,12,48
+2023-12-01,237.0,Littoral,tomato,2023,12,48
+2023-12-08,255.0,North West,tomato,2023,12,49
+2023-12-08,260.0,South West,tomato,2023,12,49
+2023-12-08,260.0,West,tomato,2023,12,49
+2023-12-08,237.0,Adamawa,tomato,2023,12,49
+2023-12-08,270.0,Far North,tomato,2023,12,49
+2023-12-08,225.0,Centre,tomato,2023,12,49
+2023-12-08,225.0,East,tomato,2023,12,49
+2023-12-08,256.0,North,tomato,2023,12,49
+2023-12-08,261.0,South,tomato,2023,12,49
+2023-12-08,242.0,Littoral,tomato,2023,12,49
+2023-12-15,321.0,North West,tomato,2023,12,50
+2023-12-15,318.0,South West,tomato,2023,12,50
+2023-12-15,304.0,West,tomato,2023,12,50
+2023-12-15,330.0,Adamawa,tomato,2023,12,50
+2023-12-15,355.0,Far North,tomato,2023,12,50
+2023-12-15,316.0,Centre,tomato,2023,12,50
+2023-12-15,341.0,East,tomato,2023,12,50
+2023-12-15,296.0,North,tomato,2023,12,50
+2023-12-15,339.0,South,tomato,2023,12,50
+2023-12-15,329.0,Littoral,tomato,2023,12,50

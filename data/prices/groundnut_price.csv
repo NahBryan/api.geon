@@ -1,0 +1,4161 @@
+date,price_xaf_per_kg,region,crop,year,month,week
+2016-01-01,665.0,North West,groundnut,2016,1,53
+2016-01-01,697.0,South West,groundnut,2016,1,53
+2016-01-01,649.0,West,groundnut,2016,1,53
+2016-01-01,696.0,Adamawa,groundnut,2016,1,53
+2016-01-01,711.0,Far North,groundnut,2016,1,53
+2016-01-01,694.0,Centre,groundnut,2016,1,53
+2016-01-01,674.0,East,groundnut,2016,1,53
+2016-01-01,636.0,North,groundnut,2016,1,53
+2016-01-01,697.0,South,groundnut,2016,1,53
+2016-01-01,745.0,Littoral,groundnut,2016,1,53
+2016-01-08,611.0,North West,groundnut,2016,1,1
+2016-01-08,634.0,South West,groundnut,2016,1,1
+2016-01-08,632.0,West,groundnut,2016,1,1
+2016-01-08,782.0,Adamawa,groundnut,2016,1,1
+2016-01-08,733.0,Far North,groundnut,2016,1,1
+2016-01-08,787.0,Centre,groundnut,2016,1,1
+2016-01-08,718.0,East,groundnut,2016,1,1
+2016-01-08,696.0,North,groundnut,2016,1,1
+2016-01-08,757.0,South,groundnut,2016,1,1
+2016-01-08,639.0,Littoral,groundnut,2016,1,1
+2016-01-15,673.0,North West,groundnut,2016,1,2
+2016-01-15,686.0,South West,groundnut,2016,1,2
+2016-01-15,631.0,West,groundnut,2016,1,2
+2016-01-15,654.0,Adamawa,groundnut,2016,1,2
+2016-01-15,680.0,Far North,groundnut,2016,1,2
+2016-01-15,767.0,Centre,groundnut,2016,1,2
+2016-01-15,651.0,East,groundnut,2016,1,2
+2016-01-15,682.0,North,groundnut,2016,1,2
+2016-01-15,629.0,South,groundnut,2016,1,2
+2016-01-15,722.0,Littoral,groundnut,2016,1,2
+2016-01-22,698.0,North West,groundnut,2016,1,3
+2016-01-22,744.0,South West,groundnut,2016,1,3
+2016-01-22,736.0,West,groundnut,2016,1,3
+2016-01-22,640.0,Adamawa,groundnut,2016,1,3
+2016-01-22,613.0,Far North,groundnut,2016,1,3
+2016-01-22,616.0,Centre,groundnut,2016,1,3
+2016-01-22,763.0,East,groundnut,2016,1,3
+2016-01-22,710.0,North,groundnut,2016,1,3
+2016-01-22,596.0,South,groundnut,2016,1,3
+2016-01-22,613.0,Littoral,groundnut,2016,1,3
+2016-01-29,729.0,North West,groundnut,2016,1,4
+2016-01-29,688.0,South West,groundnut,2016,1,4
+2016-01-29,695.0,West,groundnut,2016,1,4
+2016-01-29,668.0,Adamawa,groundnut,2016,1,4
+2016-01-29,631.0,Far North,groundnut,2016,1,4
+2016-01-29,691.0,Centre,groundnut,2016,1,4
+2016-01-29,714.0,East,groundnut,2016,1,4
+2016-01-29,652.0,North,groundnut,2016,1,4
+2016-01-29,676.0,South,groundnut,2016,1,4
+2016-01-29,736.0,Littoral,groundnut,2016,1,4
+2016-02-05,633.0,North West,groundnut,2016,2,5
+2016-02-05,707.0,South West,groundnut,2016,2,5
+2016-02-05,670.0,West,groundnut,2016,2,5
+2016-02-05,736.0,Adamawa,groundnut,2016,2,5
+2016-02-05,609.0,Far North,groundnut,2016,2,5
+2016-02-05,730.0,Centre,groundnut,2016,2,5
+2016-02-05,624.0,East,groundnut,2016,2,5
+2016-02-05,617.0,North,groundnut,2016,2,5
+2016-02-05,740.0,South,groundnut,2016,2,5
+2016-02-05,724.0,Littoral,groundnut,2016,2,5
+2016-02-12,723.0,North West,groundnut,2016,2,6
+2016-02-12,757.0,South West,groundnut,2016,2,6
+2016-02-12,684.0,West,groundnut,2016,2,6
+2016-02-12,629.0,Adamawa,groundnut,2016,2,6
+2016-02-12,666.0,Far North,groundnut,2016,2,6
+2016-02-12,667.0,Centre,groundnut,2016,2,6
+2016-02-12,686.0,East,groundnut,2016,2,6
+2016-02-12,802.0,North,groundnut,2016,2,6
+2016-02-12,776.0,South,groundnut,2016,2,6
+2016-02-12,801.0,Littoral,groundnut,2016,2,6
+2016-02-19,852.0,North West,groundnut,2016,2,7
+2016-02-19,739.0,South West,groundnut,2016,2,7
+2016-02-19,697.0,West,groundnut,2016,2,7
+2016-02-19,764.0,Adamawa,groundnut,2016,2,7
+2016-02-19,828.0,Far North,groundnut,2016,2,7
+2016-02-19,745.0,Centre,groundnut,2016,2,7
+2016-02-19,753.0,East,groundnut,2016,2,7
+2016-02-19,679.0,North,groundnut,2016,2,7
+2016-02-19,736.0,South,groundnut,2016,2,7
+2016-02-19,729.0,Littoral,groundnut,2016,2,7
+2016-02-26,682.0,North West,groundnut,2016,2,8
+2016-02-26,869.0,South West,groundnut,2016,2,8
+2016-02-26,671.0,West,groundnut,2016,2,8
+2016-02-26,864.0,Adamawa,groundnut,2016,2,8
+2016-02-26,782.0,Far North,groundnut,2016,2,8
+2016-02-26,814.0,Centre,groundnut,2016,2,8
+2016-02-26,708.0,East,groundnut,2016,2,8
+2016-02-26,804.0,North,groundnut,2016,2,8
+2016-02-26,851.0,South,groundnut,2016,2,8
+2016-02-26,698.0,Littoral,groundnut,2016,2,8
+2016-03-04,669.0,North West,groundnut,2016,3,9
+2016-03-04,704.0,South West,groundnut,2016,3,9
+2016-03-04,676.0,West,groundnut,2016,3,9
+2016-03-04,666.0,Adamawa,groundnut,2016,3,9
+2016-03-04,778.0,Far North,groundnut,2016,3,9
+2016-03-04,687.0,Centre,groundnut,2016,3,9
+2016-03-04,776.0,East,groundnut,2016,3,9
+2016-03-04,815.0,North,groundnut,2016,3,9
+2016-03-04,773.0,South,groundnut,2016,3,9
+2016-03-04,668.0,Littoral,groundnut,2016,3,9
+2016-03-11,661.0,North West,groundnut,2016,3,10
+2016-03-11,656.0,South West,groundnut,2016,3,10
+2016-03-11,768.0,West,groundnut,2016,3,10
+2016-03-11,734.0,Adamawa,groundnut,2016,3,10
+2016-03-11,622.0,Far North,groundnut,2016,3,10
+2016-03-11,685.0,Centre,groundnut,2016,3,10
+2016-03-11,656.0,East,groundnut,2016,3,10
+2016-03-11,777.0,North,groundnut,2016,3,10
+2016-03-11,777.0,South,groundnut,2016,3,10
+2016-03-11,656.0,Littoral,groundnut,2016,3,10
+2016-03-18,691.0,North West,groundnut,2016,3,11
+2016-03-18,738.0,South West,groundnut,2016,3,11
+2016-03-18,715.0,West,groundnut,2016,3,11
+2016-03-18,664.0,Adamawa,groundnut,2016,3,11
+2016-03-18,750.0,Far North,groundnut,2016,3,11
+2016-03-18,688.0,Centre,groundnut,2016,3,11
+2016-03-18,749.0,East,groundnut,2016,3,11
+2016-03-18,697.0,North,groundnut,2016,3,11
+2016-03-18,758.0,South,groundnut,2016,3,11
+2016-03-18,751.0,Littoral,groundnut,2016,3,11
+2016-03-25,744.0,North West,groundnut,2016,3,12
+2016-03-25,675.0,South West,groundnut,2016,3,12
+2016-03-25,689.0,West,groundnut,2016,3,12
+2016-03-25,701.0,Adamawa,groundnut,2016,3,12
+2016-03-25,665.0,Far North,groundnut,2016,3,12
+2016-03-25,795.0,Centre,groundnut,2016,3,12
+2016-03-25,726.0,East,groundnut,2016,3,12
+2016-03-25,671.0,North,groundnut,2016,3,12
+2016-03-25,816.0,South,groundnut,2016,3,12
+2016-03-25,789.0,Littoral,groundnut,2016,3,12
+2016-04-01,703.0,North West,groundnut,2016,4,13
+2016-04-01,664.0,South West,groundnut,2016,4,13
+2016-04-01,646.0,West,groundnut,2016,4,13
+2016-04-01,704.0,Adamawa,groundnut,2016,4,13
+2016-04-01,785.0,Far North,groundnut,2016,4,13
+2016-04-01,653.0,Centre,groundnut,2016,4,13
+2016-04-01,725.0,East,groundnut,2016,4,13
+2016-04-01,799.0,North,groundnut,2016,4,13
+2016-04-01,738.0,South,groundnut,2016,4,13
+2016-04-01,700.0,Littoral,groundnut,2016,4,13
+2016-04-08,714.0,North West,groundnut,2016,4,14
+2016-04-08,766.0,South West,groundnut,2016,4,14
+2016-04-08,700.0,West,groundnut,2016,4,14
+2016-04-08,758.0,Adamawa,groundnut,2016,4,14
+2016-04-08,781.0,Far North,groundnut,2016,4,14
+2016-04-08,697.0,Centre,groundnut,2016,4,14
+2016-04-08,717.0,East,groundnut,2016,4,14
+2016-04-08,717.0,North,groundnut,2016,4,14
+2016-04-08,749.0,South,groundnut,2016,4,14
+2016-04-08,757.0,Littoral,groundnut,2016,4,14
+2016-04-15,596.0,North West,groundnut,2016,4,15
+2016-04-15,724.0,South West,groundnut,2016,4,15
+2016-04-15,733.0,West,groundnut,2016,4,15
+2016-04-15,718.0,Adamawa,groundnut,2016,4,15
+2016-04-15,721.0,Far North,groundnut,2016,4,15
+2016-04-15,599.0,Centre,groundnut,2016,4,15
+2016-04-15,671.0,East,groundnut,2016,4,15
+2016-04-15,740.0,North,groundnut,2016,4,15
+2016-04-15,761.0,South,groundnut,2016,4,15
+2016-04-15,633.0,Littoral,groundnut,2016,4,15
+2016-04-22,731.0,North West,groundnut,2016,4,16
+2016-04-22,707.0,South West,groundnut,2016,4,16
+2016-04-22,598.0,West,groundnut,2016,4,16
+2016-04-22,726.0,Adamawa,groundnut,2016,4,16
+2016-04-22,735.0,Far North,groundnut,2016,4,16
+2016-04-22,726.0,Centre,groundnut,2016,4,16
+2016-04-22,734.0,East,groundnut,2016,4,16
+2016-04-22,673.0,North,groundnut,2016,4,16
+2016-04-22,775.0,South,groundnut,2016,4,16
+2016-04-22,735.0,Littoral,groundnut,2016,4,16
+2016-04-29,684.0,North West,groundnut,2016,4,17
+2016-04-29,747.0,South West,groundnut,2016,4,17
+2016-04-29,743.0,West,groundnut,2016,4,17
+2016-04-29,726.0,Adamawa,groundnut,2016,4,17
+2016-04-29,681.0,Far North,groundnut,2016,4,17
+2016-04-29,675.0,Centre,groundnut,2016,4,17
+2016-04-29,639.0,East,groundnut,2016,4,17
+2016-04-29,626.0,North,groundnut,2016,4,17
+2016-04-29,672.0,South,groundnut,2016,4,17
+2016-04-29,684.0,Littoral,groundnut,2016,4,17
+2016-05-06,640.0,North West,groundnut,2016,5,18
+2016-05-06,635.0,South West,groundnut,2016,5,18
+2016-05-06,619.0,West,groundnut,2016,5,18
+2016-05-06,556.0,Adamawa,groundnut,2016,5,18
+2016-05-06,694.0,Far North,groundnut,2016,5,18
+2016-05-06,599.0,Centre,groundnut,2016,5,18
+2016-05-06,654.0,East,groundnut,2016,5,18
+2016-05-06,648.0,North,groundnut,2016,5,18
+2016-05-06,644.0,South,groundnut,2016,5,18
+2016-05-06,634.0,Littoral,groundnut,2016,5,18
+2016-05-13,547.0,North West,groundnut,2016,5,19
+2016-05-13,563.0,South West,groundnut,2016,5,19
+2016-05-13,601.0,West,groundnut,2016,5,19
+2016-05-13,644.0,Adamawa,groundnut,2016,5,19
+2016-05-13,587.0,Far North,groundnut,2016,5,19
+2016-05-13,550.0,Centre,groundnut,2016,5,19
+2016-05-13,532.0,East,groundnut,2016,5,19
+2016-05-13,623.0,North,groundnut,2016,5,19
+2016-05-13,585.0,South,groundnut,2016,5,19
+2016-05-13,538.0,Littoral,groundnut,2016,5,19
+2016-05-20,561.0,North West,groundnut,2016,5,20
+2016-05-20,531.0,South West,groundnut,2016,5,20
+2016-05-20,624.0,West,groundnut,2016,5,20
+2016-05-20,519.0,Adamawa,groundnut,2016,5,20
+2016-05-20,548.0,Far North,groundnut,2016,5,20
+2016-05-20,628.0,Centre,groundnut,2016,5,20
+2016-05-20,533.0,East,groundnut,2016,5,20
+2016-05-20,581.0,North,groundnut,2016,5,20
+2016-05-20,532.0,South,groundnut,2016,5,20
+2016-05-20,502.0,Littoral,groundnut,2016,5,20
+2016-05-27,579.0,North West,groundnut,2016,5,21
+2016-05-27,622.0,South West,groundnut,2016,5,21
+2016-05-27,553.0,West,groundnut,2016,5,21
+2016-05-27,579.0,Adamawa,groundnut,2016,5,21
+2016-05-27,577.0,Far North,groundnut,2016,5,21
+2016-05-27,548.0,Centre,groundnut,2016,5,21
+2016-05-27,577.0,East,groundnut,2016,5,21
+2016-05-27,524.0,North,groundnut,2016,5,21
+2016-05-27,542.0,South,groundnut,2016,5,21
+2016-05-27,552.0,Littoral,groundnut,2016,5,21
+2016-06-03,545.0,North West,groundnut,2016,6,22
+2016-06-03,486.0,South West,groundnut,2016,6,22
+2016-06-03,492.0,West,groundnut,2016,6,22
+2016-06-03,547.0,Adamawa,groundnut,2016,6,22
+2016-06-03,563.0,Far North,groundnut,2016,6,22
+2016-06-03,521.0,Centre,groundnut,2016,6,22
+2016-06-03,503.0,East,groundnut,2016,6,22
+2016-06-03,584.0,North,groundnut,2016,6,22
+2016-06-03,476.0,South,groundnut,2016,6,22
+2016-06-03,557.0,Littoral,groundnut,2016,6,22
+2016-06-10,547.0,North West,groundnut,2016,6,23
+2016-06-10,547.0,South West,groundnut,2016,6,23
+2016-06-10,581.0,West,groundnut,2016,6,23
+2016-06-10,552.0,Adamawa,groundnut,2016,6,23
+2016-06-10,493.0,Far North,groundnut,2016,6,23
+2016-06-10,500.0,Centre,groundnut,2016,6,23
+2016-06-10,506.0,East,groundnut,2016,6,23
+2016-06-10,456.0,North,groundnut,2016,6,23
+2016-06-10,578.0,South,groundnut,2016,6,23
+2016-06-10,462.0,Littoral,groundnut,2016,6,23
+2016-06-17,566.0,North West,groundnut,2016,6,24
+2016-06-17,526.0,South West,groundnut,2016,6,24
+2016-06-17,550.0,West,groundnut,2016,6,24
+2016-06-17,492.0,Adamawa,groundnut,2016,6,24
+2016-06-17,553.0,Far North,groundnut,2016,6,24
+2016-06-17,497.0,Centre,groundnut,2016,6,24
+2016-06-17,575.0,East,groundnut,2016,6,24
+2016-06-17,473.0,North,groundnut,2016,6,24
+2016-06-17,494.0,South,groundnut,2016,6,24
+2016-06-17,519.0,Littoral,groundnut,2016,6,24
+2016-06-24,554.0,North West,groundnut,2016,6,25
+2016-06-24,550.0,South West,groundnut,2016,6,25
+2016-06-24,476.0,West,groundnut,2016,6,25
+2016-06-24,467.0,Adamawa,groundnut,2016,6,25
+2016-06-24,489.0,Far North,groundnut,2016,6,25
+2016-06-24,514.0,Centre,groundnut,2016,6,25
+2016-06-24,521.0,East,groundnut,2016,6,25
+2016-06-24,506.0,North,groundnut,2016,6,25
+2016-06-24,538.0,South,groundnut,2016,6,25
+2016-06-24,506.0,Littoral,groundnut,2016,6,25
+2016-07-01,480.0,North West,groundnut,2016,7,26
+2016-07-01,497.0,South West,groundnut,2016,7,26
+2016-07-01,491.0,West,groundnut,2016,7,26
+2016-07-01,465.0,Adamawa,groundnut,2016,7,26
+2016-07-01,506.0,Far North,groundnut,2016,7,26
+2016-07-01,494.0,Centre,groundnut,2016,7,26
+2016-07-01,466.0,East,groundnut,2016,7,26
+2016-07-01,503.0,North,groundnut,2016,7,26
+2016-07-01,499.0,South,groundnut,2016,7,26
+2016-07-01,459.0,Littoral,groundnut,2016,7,26
+2016-07-08,460.0,North West,groundnut,2016,7,27
+2016-07-08,530.0,South West,groundnut,2016,7,27
+2016-07-08,538.0,West,groundnut,2016,7,27
+2016-07-08,570.0,Adamawa,groundnut,2016,7,27
+2016-07-08,454.0,Far North,groundnut,2016,7,27
+2016-07-08,458.0,Centre,groundnut,2016,7,27
+2016-07-08,449.0,East,groundnut,2016,7,27
+2016-07-08,515.0,North,groundnut,2016,7,27
+2016-07-08,527.0,South,groundnut,2016,7,27
+2016-07-08,497.0,Littoral,groundnut,2016,7,27
+2016-07-15,563.0,North West,groundnut,2016,7,28
+2016-07-15,451.0,South West,groundnut,2016,7,28
+2016-07-15,440.0,West,groundnut,2016,7,28
+2016-07-15,469.0,Adamawa,groundnut,2016,7,28
+2016-07-15,435.0,Far North,groundnut,2016,7,28
+2016-07-15,556.0,Centre,groundnut,2016,7,28
+2016-07-15,473.0,East,groundnut,2016,7,28
+2016-07-15,506.0,North,groundnut,2016,7,28
+2016-07-15,474.0,South,groundnut,2016,7,28
+2016-07-15,465.0,Littoral,groundnut,2016,7,28
+2016-07-22,450.0,North West,groundnut,2016,7,29
+2016-07-22,472.0,South West,groundnut,2016,7,29
+2016-07-22,511.0,West,groundnut,2016,7,29
+2016-07-22,558.0,Adamawa,groundnut,2016,7,29
+2016-07-22,503.0,Far North,groundnut,2016,7,29
+2016-07-22,500.0,Centre,groundnut,2016,7,29
+2016-07-22,434.0,East,groundnut,2016,7,29
+2016-07-22,540.0,North,groundnut,2016,7,29
+2016-07-22,435.0,South,groundnut,2016,7,29
+2016-07-22,549.0,Littoral,groundnut,2016,7,29
+2016-07-29,457.0,North West,groundnut,2016,7,30
+2016-07-29,524.0,South West,groundnut,2016,7,30
+2016-07-29,439.0,West,groundnut,2016,7,30
+2016-07-29,435.0,Adamawa,groundnut,2016,7,30
+2016-07-29,416.0,Far North,groundnut,2016,7,30
+2016-07-29,475.0,Centre,groundnut,2016,7,30
+2016-07-29,412.0,East,groundnut,2016,7,30
+2016-07-29,496.0,North,groundnut,2016,7,30
+2016-07-29,515.0,South,groundnut,2016,7,30
+2016-07-29,516.0,Littoral,groundnut,2016,7,30
+2016-08-05,418.0,North West,groundnut,2016,8,31
+2016-08-05,473.0,South West,groundnut,2016,8,31
+2016-08-05,416.0,West,groundnut,2016,8,31
+2016-08-05,475.0,Adamawa,groundnut,2016,8,31
+2016-08-05,505.0,Far North,groundnut,2016,8,31
+2016-08-05,471.0,Centre,groundnut,2016,8,31
+2016-08-05,512.0,East,groundnut,2016,8,31
+2016-08-05,504.0,North,groundnut,2016,8,31
+2016-08-05,439.0,South,groundnut,2016,8,31
+2016-08-05,482.0,Littoral,groundnut,2016,8,31
+2016-08-12,521.0,North West,groundnut,2016,8,32
+2016-08-12,526.0,South West,groundnut,2016,8,32
+2016-08-12,521.0,West,groundnut,2016,8,32
+2016-08-12,463.0,Adamawa,groundnut,2016,8,32
+2016-08-12,515.0,Far North,groundnut,2016,8,32
+2016-08-12,497.0,Centre,groundnut,2016,8,32
+2016-08-12,503.0,East,groundnut,2016,8,32
+2016-08-12,425.0,North,groundnut,2016,8,32
+2016-08-12,459.0,South,groundnut,2016,8,32
+2016-08-12,547.0,Littoral,groundnut,2016,8,32
+2016-08-19,443.0,North West,groundnut,2016,8,33
+2016-08-19,461.0,South West,groundnut,2016,8,33
+2016-08-19,430.0,West,groundnut,2016,8,33
+2016-08-19,424.0,Adamawa,groundnut,2016,8,33
+2016-08-19,432.0,Far North,groundnut,2016,8,33
+2016-08-19,475.0,Centre,groundnut,2016,8,33
+2016-08-19,521.0,East,groundnut,2016,8,33
+2016-08-19,447.0,North,groundnut,2016,8,33
+2016-08-19,447.0,South,groundnut,2016,8,33
+2016-08-19,477.0,Littoral,groundnut,2016,8,33
+2016-08-26,463.0,North West,groundnut,2016,8,34
+2016-08-26,477.0,South West,groundnut,2016,8,34
+2016-08-26,482.0,West,groundnut,2016,8,34
+2016-08-26,514.0,Adamawa,groundnut,2016,8,34
+2016-08-26,486.0,Far North,groundnut,2016,8,34
+2016-08-26,445.0,Centre,groundnut,2016,8,34
+2016-08-26,430.0,East,groundnut,2016,8,34
+2016-08-26,534.0,North,groundnut,2016,8,34
+2016-08-26,517.0,South,groundnut,2016,8,34
+2016-08-26,418.0,Littoral,groundnut,2016,8,34
+2016-09-02,532.0,North West,groundnut,2016,9,35
+2016-09-02,502.0,South West,groundnut,2016,9,35
+2016-09-02,493.0,West,groundnut,2016,9,35
+2016-09-02,426.0,Adamawa,groundnut,2016,9,35
+2016-09-02,527.0,Far North,groundnut,2016,9,35
+2016-09-02,451.0,Centre,groundnut,2016,9,35
+2016-09-02,520.0,East,groundnut,2016,9,35
+2016-09-02,427.0,North,groundnut,2016,9,35
+2016-09-02,529.0,South,groundnut,2016,9,35
+2016-09-02,428.0,Littoral,groundnut,2016,9,35
+2016-09-09,445.0,North West,groundnut,2016,9,36
+2016-09-09,487.0,South West,groundnut,2016,9,36
+2016-09-09,462.0,West,groundnut,2016,9,36
+2016-09-09,554.0,Adamawa,groundnut,2016,9,36
+2016-09-09,500.0,Far North,groundnut,2016,9,36
+2016-09-09,499.0,Centre,groundnut,2016,9,36
+2016-09-09,453.0,East,groundnut,2016,9,36
+2016-09-09,478.0,North,groundnut,2016,9,36
+2016-09-09,441.0,South,groundnut,2016,9,36
+2016-09-09,524.0,Littoral,groundnut,2016,9,36
+2016-09-16,466.0,North West,groundnut,2016,9,37
+2016-09-16,521.0,South West,groundnut,2016,9,37
+2016-09-16,471.0,West,groundnut,2016,9,37
+2016-09-16,551.0,Adamawa,groundnut,2016,9,37
+2016-09-16,445.0,Far North,groundnut,2016,9,37
+2016-09-16,423.0,Centre,groundnut,2016,9,37
+2016-09-16,500.0,East,groundnut,2016,9,37
+2016-09-16,547.0,North,groundnut,2016,9,37
+2016-09-16,507.0,South,groundnut,2016,9,37
+2016-09-16,434.0,Littoral,groundnut,2016,9,37
+2016-09-23,447.0,North West,groundnut,2016,9,38
+2016-09-23,469.0,South West,groundnut,2016,9,38
+2016-09-23,558.0,West,groundnut,2016,9,38
+2016-09-23,569.0,Adamawa,groundnut,2016,9,38
+2016-09-23,543.0,Far North,groundnut,2016,9,38
+2016-09-23,582.0,Centre,groundnut,2016,9,38
+2016-09-23,459.0,East,groundnut,2016,9,38
+2016-09-23,521.0,North,groundnut,2016,9,38
+2016-09-23,540.0,South,groundnut,2016,9,38
+2016-09-23,543.0,Littoral,groundnut,2016,9,38
+2016-09-30,562.0,North West,groundnut,2016,9,39
+2016-09-30,579.0,South West,groundnut,2016,9,39
+2016-09-30,502.0,West,groundnut,2016,9,39
+2016-09-30,458.0,Adamawa,groundnut,2016,9,39
+2016-09-30,502.0,Far North,groundnut,2016,9,39
+2016-09-30,545.0,Centre,groundnut,2016,9,39
+2016-09-30,482.0,East,groundnut,2016,9,39
+2016-09-30,564.0,North,groundnut,2016,9,39
+2016-09-30,483.0,South,groundnut,2016,9,39
+2016-09-30,453.0,Littoral,groundnut,2016,9,39
+2016-10-07,560.0,North West,groundnut,2016,10,40
+2016-10-07,622.0,South West,groundnut,2016,10,40
+2016-10-07,574.0,West,groundnut,2016,10,40
+2016-10-07,533.0,Adamawa,groundnut,2016,10,40
+2016-10-07,520.0,Far North,groundnut,2016,10,40
+2016-10-07,616.0,Centre,groundnut,2016,10,40
+2016-10-07,566.0,East,groundnut,2016,10,40
+2016-10-07,648.0,North,groundnut,2016,10,40
+2016-10-07,590.0,South,groundnut,2016,10,40
+2016-10-07,560.0,Littoral,groundnut,2016,10,40
+2016-10-14,571.0,North West,groundnut,2016,10,41
+2016-10-14,537.0,South West,groundnut,2016,10,41
+2016-10-14,610.0,West,groundnut,2016,10,41
+2016-10-14,608.0,Adamawa,groundnut,2016,10,41
+2016-10-14,643.0,Far North,groundnut,2016,10,41
+2016-10-14,548.0,Centre,groundnut,2016,10,41
+2016-10-14,562.0,East,groundnut,2016,10,41
+2016-10-14,531.0,North,groundnut,2016,10,41
+2016-10-14,563.0,South,groundnut,2016,10,41
+2016-10-14,584.0,Littoral,groundnut,2016,10,41
+2016-10-21,649.0,North West,groundnut,2016,10,42
+2016-10-21,576.0,South West,groundnut,2016,10,42
+2016-10-21,547.0,West,groundnut,2016,10,42
+2016-10-21,565.0,Adamawa,groundnut,2016,10,42
+2016-10-21,565.0,Far North,groundnut,2016,10,42
+2016-10-21,617.0,Centre,groundnut,2016,10,42
+2016-10-21,579.0,East,groundnut,2016,10,42
+2016-10-21,661.0,North,groundnut,2016,10,42
+2016-10-21,683.0,South,groundnut,2016,10,42
+2016-10-21,579.0,Littoral,groundnut,2016,10,42
+2016-10-28,647.0,North West,groundnut,2016,10,43
+2016-10-28,640.0,South West,groundnut,2016,10,43
+2016-10-28,564.0,West,groundnut,2016,10,43
+2016-10-28,682.0,Adamawa,groundnut,2016,10,43
+2016-10-28,565.0,Far North,groundnut,2016,10,43
+2016-10-28,653.0,Centre,groundnut,2016,10,43
+2016-10-28,589.0,East,groundnut,2016,10,43
+2016-10-28,592.0,North,groundnut,2016,10,43
+2016-10-28,607.0,South,groundnut,2016,10,43
+2016-10-28,673.0,Littoral,groundnut,2016,10,43
+2016-11-04,660.0,North West,groundnut,2016,11,44
+2016-11-04,672.0,South West,groundnut,2016,11,44
+2016-11-04,688.0,West,groundnut,2016,11,44
+2016-11-04,670.0,Adamawa,groundnut,2016,11,44
+2016-11-04,698.0,Far North,groundnut,2016,11,44
+2016-11-04,670.0,Centre,groundnut,2016,11,44
+2016-11-04,702.0,East,groundnut,2016,11,44
+2016-11-04,577.0,North,groundnut,2016,11,44
+2016-11-04,629.0,South,groundnut,2016,11,44
+2016-11-04,711.0,Littoral,groundnut,2016,11,44
+2016-11-11,681.0,North West,groundnut,2016,11,45
+2016-11-11,715.0,South West,groundnut,2016,11,45
+2016-11-11,568.0,West,groundnut,2016,11,45
+2016-11-11,713.0,Adamawa,groundnut,2016,11,45
+2016-11-11,683.0,Far North,groundnut,2016,11,45
+2016-11-11,592.0,Centre,groundnut,2016,11,45
+2016-11-11,567.0,East,groundnut,2016,11,45
+2016-11-11,608.0,North,groundnut,2016,11,45
+2016-11-11,721.0,South,groundnut,2016,11,45
+2016-11-11,678.0,Littoral,groundnut,2016,11,45
+2016-11-18,741.0,North West,groundnut,2016,11,46
+2016-11-18,658.0,South West,groundnut,2016,11,46
+2016-11-18,612.0,West,groundnut,2016,11,46
+2016-11-18,603.0,Adamawa,groundnut,2016,11,46
+2016-11-18,751.0,Far North,groundnut,2016,11,46
+2016-11-18,635.0,Centre,groundnut,2016,11,46
+2016-11-18,604.0,East,groundnut,2016,11,46
+2016-11-18,577.0,North,groundnut,2016,11,46
+2016-11-18,626.0,South,groundnut,2016,11,46
+2016-11-18,733.0,Littoral,groundnut,2016,11,46
+2016-11-25,700.0,North West,groundnut,2016,11,47
+2016-11-25,719.0,South West,groundnut,2016,11,47
+2016-11-25,772.0,West,groundnut,2016,11,47
+2016-11-25,697.0,Adamawa,groundnut,2016,11,47
+2016-11-25,757.0,Far North,groundnut,2016,11,47
+2016-11-25,662.0,Centre,groundnut,2016,11,47
+2016-11-25,782.0,East,groundnut,2016,11,47
+2016-11-25,616.0,North,groundnut,2016,11,47
+2016-11-25,736.0,South,groundnut,2016,11,47
+2016-11-25,724.0,Littoral,groundnut,2016,11,47
+2016-12-02,672.0,North West,groundnut,2016,12,48
+2016-12-02,631.0,South West,groundnut,2016,12,48
+2016-12-02,723.0,West,groundnut,2016,12,48
+2016-12-02,800.0,Adamawa,groundnut,2016,12,48
+2016-12-02,718.0,Far North,groundnut,2016,12,48
+2016-12-02,715.0,Centre,groundnut,2016,12,48
+2016-12-02,621.0,East,groundnut,2016,12,48
+2016-12-02,639.0,North,groundnut,2016,12,48
+2016-12-02,709.0,South,groundnut,2016,12,48
+2016-12-02,798.0,Littoral,groundnut,2016,12,48
+2016-12-09,768.0,North West,groundnut,2016,12,49
+2016-12-09,668.0,South West,groundnut,2016,12,49
+2016-12-09,706.0,West,groundnut,2016,12,49
+2016-12-09,708.0,Adamawa,groundnut,2016,12,49
+2016-12-09,732.0,Far North,groundnut,2016,12,49
+2016-12-09,733.0,Centre,groundnut,2016,12,49
+2016-12-09,752.0,East,groundnut,2016,12,49
+2016-12-09,610.0,North,groundnut,2016,12,49
+2016-12-09,780.0,South,groundnut,2016,12,49
+2016-12-09,618.0,Littoral,groundnut,2016,12,49
+2016-12-16,737.0,North West,groundnut,2016,12,50
+2016-12-16,653.0,South West,groundnut,2016,12,50
+2016-12-16,686.0,West,groundnut,2016,12,50
+2016-12-16,755.0,Adamawa,groundnut,2016,12,50
+2016-12-16,658.0,Far North,groundnut,2016,12,50
+2016-12-16,724.0,Centre,groundnut,2016,12,50
+2016-12-16,706.0,East,groundnut,2016,12,50
+2016-12-16,801.0,North,groundnut,2016,12,50
+2016-12-16,662.0,South,groundnut,2016,12,50
+2016-12-16,775.0,Littoral,groundnut,2016,12,50
+2016-12-23,729.0,North West,groundnut,2016,12,51
+2016-12-23,765.0,South West,groundnut,2016,12,51
+2016-12-23,689.0,West,groundnut,2016,12,51
+2016-12-23,770.0,Adamawa,groundnut,2016,12,51
+2016-12-23,782.0,Far North,groundnut,2016,12,51
+2016-12-23,662.0,Centre,groundnut,2016,12,51
+2016-12-23,812.0,East,groundnut,2016,12,51
+2016-12-23,820.0,North,groundnut,2016,12,51
+2016-12-23,661.0,South,groundnut,2016,12,51
+2016-12-23,768.0,Littoral,groundnut,2016,12,51
+2016-12-30,720.0,North West,groundnut,2016,12,52
+2016-12-30,845.0,South West,groundnut,2016,12,52
+2016-12-30,762.0,West,groundnut,2016,12,52
+2016-12-30,838.0,Adamawa,groundnut,2016,12,52
+2016-12-30,786.0,Far North,groundnut,2016,12,52
+2016-12-30,657.0,Centre,groundnut,2016,12,52
+2016-12-30,667.0,East,groundnut,2016,12,52
+2016-12-30,796.0,North,groundnut,2016,12,52
+2016-12-30,762.0,South,groundnut,2016,12,52
+2016-12-30,677.0,Littoral,groundnut,2016,12,52
+2017-01-06,788.0,North West,groundnut,2017,1,1
+2017-01-06,828.0,South West,groundnut,2017,1,1
+2017-01-06,817.0,West,groundnut,2017,1,1
+2017-01-06,714.0,Adamawa,groundnut,2017,1,1
+2017-01-06,716.0,Far North,groundnut,2017,1,1
+2017-01-06,860.0,Centre,groundnut,2017,1,1
+2017-01-06,844.0,East,groundnut,2017,1,1
+2017-01-06,728.0,North,groundnut,2017,1,1
+2017-01-06,831.0,South,groundnut,2017,1,1
+2017-01-06,696.0,Littoral,groundnut,2017,1,1
+2017-01-13,678.0,North West,groundnut,2017,1,2
+2017-01-13,834.0,South West,groundnut,2017,1,2
+2017-01-13,778.0,West,groundnut,2017,1,2
+2017-01-13,713.0,Adamawa,groundnut,2017,1,2
+2017-01-13,833.0,Far North,groundnut,2017,1,2
+2017-01-13,823.0,Centre,groundnut,2017,1,2
+2017-01-13,681.0,East,groundnut,2017,1,2
+2017-01-13,791.0,North,groundnut,2017,1,2
+2017-01-13,807.0,South,groundnut,2017,1,2
+2017-01-13,806.0,Littoral,groundnut,2017,1,2
+2017-01-20,806.0,North West,groundnut,2017,1,3
+2017-01-20,694.0,South West,groundnut,2017,1,3
+2017-01-20,723.0,West,groundnut,2017,1,3
+2017-01-20,830.0,Adamawa,groundnut,2017,1,3
+2017-01-20,841.0,Far North,groundnut,2017,1,3
+2017-01-20,716.0,Centre,groundnut,2017,1,3
+2017-01-20,664.0,East,groundnut,2017,1,3
+2017-01-20,833.0,North,groundnut,2017,1,3
+2017-01-20,736.0,South,groundnut,2017,1,3
+2017-01-20,726.0,Littoral,groundnut,2017,1,3
+2017-01-27,723.0,North West,groundnut,2017,1,4
+2017-01-27,761.0,South West,groundnut,2017,1,4
+2017-01-27,664.0,West,groundnut,2017,1,4
+2017-01-27,841.0,Adamawa,groundnut,2017,1,4
+2017-01-27,834.0,Far North,groundnut,2017,1,4
+2017-01-27,834.0,Centre,groundnut,2017,1,4
+2017-01-27,823.0,East,groundnut,2017,1,4
+2017-01-27,779.0,North,groundnut,2017,1,4
+2017-01-27,692.0,South,groundnut,2017,1,4
+2017-01-27,658.0,Littoral,groundnut,2017,1,4
+2017-02-03,638.0,North West,groundnut,2017,2,5
+2017-02-03,680.0,South West,groundnut,2017,2,5
+2017-02-03,714.0,West,groundnut,2017,2,5
+2017-02-03,807.0,Adamawa,groundnut,2017,2,5
+2017-02-03,701.0,Far North,groundnut,2017,2,5
+2017-02-03,718.0,Centre,groundnut,2017,2,5
+2017-02-03,751.0,East,groundnut,2017,2,5
+2017-02-03,653.0,North,groundnut,2017,2,5
+2017-02-03,796.0,South,groundnut,2017,2,5
+2017-02-03,719.0,Littoral,groundnut,2017,2,5
+2017-02-10,762.0,North West,groundnut,2017,2,6
+2017-02-10,734.0,South West,groundnut,2017,2,6
+2017-02-10,753.0,West,groundnut,2017,2,6
+2017-02-10,786.0,Adamawa,groundnut,2017,2,6
+2017-02-10,670.0,Far North,groundnut,2017,2,6
+2017-02-10,809.0,Centre,groundnut,2017,2,6
+2017-02-10,828.0,East,groundnut,2017,2,6
+2017-02-10,751.0,North,groundnut,2017,2,6
+2017-02-10,773.0,South,groundnut,2017,2,6
+2017-02-10,808.0,Littoral,groundnut,2017,2,6
+2017-02-17,721.0,North West,groundnut,2017,2,7
+2017-02-17,843.0,South West,groundnut,2017,2,7
+2017-02-17,781.0,West,groundnut,2017,2,7
+2017-02-17,730.0,Adamawa,groundnut,2017,2,7
+2017-02-17,781.0,Far North,groundnut,2017,2,7
+2017-02-17,750.0,Centre,groundnut,2017,2,7
+2017-02-17,668.0,East,groundnut,2017,2,7
+2017-02-17,804.0,North,groundnut,2017,2,7
+2017-02-17,758.0,South,groundnut,2017,2,7
+2017-02-17,804.0,Littoral,groundnut,2017,2,7
+2017-02-24,811.0,North West,groundnut,2017,2,8
+2017-02-24,855.0,South West,groundnut,2017,2,8
+2017-02-24,835.0,West,groundnut,2017,2,8
+2017-02-24,831.0,Adamawa,groundnut,2017,2,8
+2017-02-24,706.0,Far North,groundnut,2017,2,8
+2017-02-24,825.0,Centre,groundnut,2017,2,8
+2017-02-24,691.0,East,groundnut,2017,2,8
+2017-02-24,696.0,North,groundnut,2017,2,8
+2017-02-24,679.0,South,groundnut,2017,2,8
+2017-02-24,829.0,Littoral,groundnut,2017,2,8
+2017-03-03,643.0,North West,groundnut,2017,3,9
+2017-03-03,648.0,South West,groundnut,2017,3,9
+2017-03-03,669.0,West,groundnut,2017,3,9
+2017-03-03,731.0,Adamawa,groundnut,2017,3,9
+2017-03-03,790.0,Far North,groundnut,2017,3,9
+2017-03-03,702.0,Centre,groundnut,2017,3,9
+2017-03-03,726.0,East,groundnut,2017,3,9
+2017-03-03,654.0,North,groundnut,2017,3,9
+2017-03-03,673.0,South,groundnut,2017,3,9
+2017-03-03,648.0,Littoral,groundnut,2017,3,9
+2017-03-10,708.0,North West,groundnut,2017,3,10
+2017-03-10,820.0,South West,groundnut,2017,3,10
+2017-03-10,847.0,West,groundnut,2017,3,10
+2017-03-10,675.0,Adamawa,groundnut,2017,3,10
+2017-03-10,655.0,Far North,groundnut,2017,3,10
+2017-03-10,809.0,Centre,groundnut,2017,3,10
+2017-03-10,689.0,East,groundnut,2017,3,10
+2017-03-10,722.0,North,groundnut,2017,3,10
+2017-03-10,730.0,South,groundnut,2017,3,10
+2017-03-10,834.0,Littoral,groundnut,2017,3,10
+2017-03-17,733.0,North West,groundnut,2017,3,11
+2017-03-17,618.0,South West,groundnut,2017,3,11
+2017-03-17,613.0,West,groundnut,2017,3,11
+2017-03-17,647.0,Adamawa,groundnut,2017,3,11
+2017-03-17,670.0,Far North,groundnut,2017,3,11
+2017-03-17,701.0,Centre,groundnut,2017,3,11
+2017-03-17,767.0,East,groundnut,2017,3,11
+2017-03-17,669.0,North,groundnut,2017,3,11
+2017-03-17,681.0,South,groundnut,2017,3,11
+2017-03-17,672.0,Littoral,groundnut,2017,3,11
+2017-03-24,628.0,North West,groundnut,2017,3,12
+2017-03-24,695.0,South West,groundnut,2017,3,12
+2017-03-24,777.0,West,groundnut,2017,3,12
+2017-03-24,623.0,Adamawa,groundnut,2017,3,12
+2017-03-24,686.0,Far North,groundnut,2017,3,12
+2017-03-24,608.0,Centre,groundnut,2017,3,12
+2017-03-24,747.0,East,groundnut,2017,3,12
+2017-03-24,723.0,North,groundnut,2017,3,12
+2017-03-24,734.0,South,groundnut,2017,3,12
+2017-03-24,692.0,Littoral,groundnut,2017,3,12
+2017-03-31,760.0,North West,groundnut,2017,3,13
+2017-03-31,669.0,South West,groundnut,2017,3,13
+2017-03-31,688.0,West,groundnut,2017,3,13
+2017-03-31,721.0,Adamawa,groundnut,2017,3,13
+2017-03-31,690.0,Far North,groundnut,2017,3,13
+2017-03-31,629.0,Centre,groundnut,2017,3,13
+2017-03-31,652.0,East,groundnut,2017,3,13
+2017-03-31,611.0,North,groundnut,2017,3,13
+2017-03-31,674.0,South,groundnut,2017,3,13
+2017-03-31,706.0,Littoral,groundnut,2017,3,13
+2017-04-07,743.0,North West,groundnut,2017,4,14
+2017-04-07,644.0,South West,groundnut,2017,4,14
+2017-04-07,623.0,West,groundnut,2017,4,14
+2017-04-07,743.0,Adamawa,groundnut,2017,4,14
+2017-04-07,707.0,Far North,groundnut,2017,4,14
+2017-04-07,602.0,Centre,groundnut,2017,4,14
+2017-04-07,657.0,East,groundnut,2017,4,14
+2017-04-07,704.0,North,groundnut,2017,4,14
+2017-04-07,686.0,South,groundnut,2017,4,14
+2017-04-07,694.0,Littoral,groundnut,2017,4,14
+2017-04-14,654.0,North West,groundnut,2017,4,15
+2017-04-14,693.0,South West,groundnut,2017,4,15
+2017-04-14,611.0,West,groundnut,2017,4,15
+2017-04-14,678.0,Adamawa,groundnut,2017,4,15
+2017-04-14,726.0,Far North,groundnut,2017,4,15
+2017-04-14,623.0,Centre,groundnut,2017,4,15
+2017-04-14,692.0,East,groundnut,2017,4,15
+2017-04-14,599.0,North,groundnut,2017,4,15
+2017-04-14,605.0,South,groundnut,2017,4,15
+2017-04-14,716.0,Littoral,groundnut,2017,4,15
+2017-04-21,610.0,North West,groundnut,2017,4,16
+2017-04-21,542.0,South West,groundnut,2017,4,16
+2017-04-21,523.0,West,groundnut,2017,4,16
+2017-04-21,570.0,Adamawa,groundnut,2017,4,16
+2017-04-21,594.0,Far North,groundnut,2017,4,16
+2017-04-21,600.0,Centre,groundnut,2017,4,16
+2017-04-21,606.0,East,groundnut,2017,4,16
+2017-04-21,598.0,North,groundnut,2017,4,16
+2017-04-21,550.0,South,groundnut,2017,4,16
+2017-04-21,632.0,Littoral,groundnut,2017,4,16
+2017-04-28,527.0,North West,groundnut,2017,4,17
+2017-04-28,545.0,South West,groundnut,2017,4,17
+2017-04-28,630.0,West,groundnut,2017,4,17
+2017-04-28,558.0,Adamawa,groundnut,2017,4,17
+2017-04-28,591.0,Far North,groundnut,2017,4,17
+2017-04-28,565.0,Centre,groundnut,2017,4,17
+2017-04-28,594.0,East,groundnut,2017,4,17
+2017-04-28,568.0,North,groundnut,2017,4,17
+2017-04-28,670.0,South,groundnut,2017,4,17
+2017-04-28,570.0,Littoral,groundnut,2017,4,17
+2017-05-05,611.0,North West,groundnut,2017,5,18
+2017-05-05,600.0,South West,groundnut,2017,5,18
+2017-05-05,601.0,West,groundnut,2017,5,18
+2017-05-05,589.0,Adamawa,groundnut,2017,5,18
+2017-05-05,638.0,Far North,groundnut,2017,5,18
+2017-05-05,519.0,Centre,groundnut,2017,5,18
+2017-05-05,650.0,East,groundnut,2017,5,18
+2017-05-05,603.0,North,groundnut,2017,5,18
+2017-05-05,645.0,South,groundnut,2017,5,18
+2017-05-05,513.0,Littoral,groundnut,2017,5,18
+2017-05-12,636.0,North West,groundnut,2017,5,19
+2017-05-12,520.0,South West,groundnut,2017,5,19
+2017-05-12,613.0,West,groundnut,2017,5,19
+2017-05-12,566.0,Adamawa,groundnut,2017,5,19
+2017-05-12,607.0,Far North,groundnut,2017,5,19
+2017-05-12,599.0,Centre,groundnut,2017,5,19
+2017-05-12,527.0,East,groundnut,2017,5,19
+2017-05-12,581.0,North,groundnut,2017,5,19
+2017-05-12,545.0,South,groundnut,2017,5,19
+2017-05-12,588.0,Littoral,groundnut,2017,5,19
+2017-05-19,564.0,North West,groundnut,2017,5,20
+2017-05-19,579.0,South West,groundnut,2017,5,20
+2017-05-19,531.0,West,groundnut,2017,5,20
+2017-05-19,629.0,Adamawa,groundnut,2017,5,20
+2017-05-19,564.0,Far North,groundnut,2017,5,20
+2017-05-19,514.0,Centre,groundnut,2017,5,20
+2017-05-19,503.0,East,groundnut,2017,5,20
+2017-05-19,567.0,North,groundnut,2017,5,20
+2017-05-19,543.0,South,groundnut,2017,5,20
+2017-05-19,515.0,Littoral,groundnut,2017,5,20
+2017-05-26,488.0,North West,groundnut,2017,5,21
+2017-05-26,567.0,South West,groundnut,2017,5,21
+2017-05-26,572.0,West,groundnut,2017,5,21
+2017-05-26,504.0,Adamawa,groundnut,2017,5,21
+2017-05-26,573.0,Far North,groundnut,2017,5,21
+2017-05-26,625.0,Centre,groundnut,2017,5,21
+2017-05-26,628.0,East,groundnut,2017,5,21
+2017-05-26,615.0,North,groundnut,2017,5,21
+2017-05-26,603.0,South,groundnut,2017,5,21
+2017-05-26,514.0,Littoral,groundnut,2017,5,21
+2017-06-02,547.0,North West,groundnut,2017,6,22
+2017-06-02,579.0,South West,groundnut,2017,6,22
+2017-06-02,492.0,West,groundnut,2017,6,22
+2017-06-02,527.0,Adamawa,groundnut,2017,6,22
+2017-06-02,551.0,Far North,groundnut,2017,6,22
+2017-06-02,522.0,Centre,groundnut,2017,6,22
+2017-06-02,523.0,East,groundnut,2017,6,22
+2017-06-02,491.0,North,groundnut,2017,6,22
+2017-06-02,598.0,South,groundnut,2017,6,22
+2017-06-02,526.0,Littoral,groundnut,2017,6,22
+2017-06-09,501.0,North West,groundnut,2017,6,23
+2017-06-09,459.0,South West,groundnut,2017,6,23
+2017-06-09,498.0,West,groundnut,2017,6,23
+2017-06-09,464.0,Adamawa,groundnut,2017,6,23
+2017-06-09,457.0,Far North,groundnut,2017,6,23
+2017-06-09,467.0,Centre,groundnut,2017,6,23
+2017-06-09,431.0,East,groundnut,2017,6,23
+2017-06-09,506.0,North,groundnut,2017,6,23
+2017-06-09,482.0,South,groundnut,2017,6,23
+2017-06-09,549.0,Littoral,groundnut,2017,6,23
+2017-06-16,476.0,North West,groundnut,2017,6,24
+2017-06-16,519.0,South West,groundnut,2017,6,24
+2017-06-16,498.0,West,groundnut,2017,6,24
+2017-06-16,550.0,Adamawa,groundnut,2017,6,24
+2017-06-16,438.0,Far North,groundnut,2017,6,24
+2017-06-16,538.0,Centre,groundnut,2017,6,24
+2017-06-16,453.0,East,groundnut,2017,6,24
+2017-06-16,482.0,North,groundnut,2017,6,24
+2017-06-16,456.0,South,groundnut,2017,6,24
+2017-06-16,523.0,Littoral,groundnut,2017,6,24
+2017-06-23,521.0,North West,groundnut,2017,6,25
+2017-06-23,504.0,South West,groundnut,2017,6,25
+2017-06-23,524.0,West,groundnut,2017,6,25
+2017-06-23,516.0,Adamawa,groundnut,2017,6,25
+2017-06-23,534.0,Far North,groundnut,2017,6,25
+2017-06-23,463.0,Centre,groundnut,2017,6,25
+2017-06-23,488.0,East,groundnut,2017,6,25
+2017-06-23,451.0,North,groundnut,2017,6,25
+2017-06-23,488.0,South,groundnut,2017,6,25
+2017-06-23,524.0,Littoral,groundnut,2017,6,25
+2017-06-30,481.0,North West,groundnut,2017,6,26
+2017-06-30,528.0,South West,groundnut,2017,6,26
+2017-06-30,489.0,West,groundnut,2017,6,26
+2017-06-30,567.0,Adamawa,groundnut,2017,6,26
+2017-06-30,486.0,Far North,groundnut,2017,6,26
+2017-06-30,520.0,Centre,groundnut,2017,6,26
+2017-06-30,540.0,East,groundnut,2017,6,26
+2017-06-30,561.0,North,groundnut,2017,6,26
+2017-06-30,498.0,South,groundnut,2017,6,26
+2017-06-30,488.0,Littoral,groundnut,2017,6,26
+2017-07-07,495.0,North West,groundnut,2017,7,27
+2017-07-07,480.0,South West,groundnut,2017,7,27
+2017-07-07,525.0,West,groundnut,2017,7,27
+2017-07-07,562.0,Adamawa,groundnut,2017,7,27
+2017-07-07,454.0,Far North,groundnut,2017,7,27
+2017-07-07,512.0,Centre,groundnut,2017,7,27
+2017-07-07,557.0,East,groundnut,2017,7,27
+2017-07-07,450.0,North,groundnut,2017,7,27
+2017-07-07,503.0,South,groundnut,2017,7,27
+2017-07-07,553.0,Littoral,groundnut,2017,7,27
+2017-07-14,427.0,North West,groundnut,2017,7,28
+2017-07-14,438.0,South West,groundnut,2017,7,28
+2017-07-14,500.0,West,groundnut,2017,7,28
+2017-07-14,440.0,Adamawa,groundnut,2017,7,28
+2017-07-14,443.0,Far North,groundnut,2017,7,28
+2017-07-14,524.0,Centre,groundnut,2017,7,28
+2017-07-14,521.0,East,groundnut,2017,7,28
+2017-07-14,533.0,North,groundnut,2017,7,28
+2017-07-14,438.0,South,groundnut,2017,7,28
+2017-07-14,450.0,Littoral,groundnut,2017,7,28
+2017-07-21,534.0,North West,groundnut,2017,7,29
+2017-07-21,519.0,South West,groundnut,2017,7,29
+2017-07-21,531.0,West,groundnut,2017,7,29
+2017-07-21,555.0,Adamawa,groundnut,2017,7,29
+2017-07-21,538.0,Far North,groundnut,2017,7,29
+2017-07-21,493.0,Centre,groundnut,2017,7,29
+2017-07-21,466.0,East,groundnut,2017,7,29
+2017-07-21,500.0,North,groundnut,2017,7,29
+2017-07-21,509.0,South,groundnut,2017,7,29
+2017-07-21,469.0,Littoral,groundnut,2017,7,29
+2017-07-28,511.0,North West,groundnut,2017,7,30
+2017-07-28,417.0,South West,groundnut,2017,7,30
+2017-07-28,476.0,West,groundnut,2017,7,30
+2017-07-28,522.0,Adamawa,groundnut,2017,7,30
+2017-07-28,423.0,Far North,groundnut,2017,7,30
+2017-07-28,478.0,Centre,groundnut,2017,7,30
+2017-07-28,433.0,East,groundnut,2017,7,30
+2017-07-28,526.0,North,groundnut,2017,7,30
+2017-07-28,518.0,South,groundnut,2017,7,30
+2017-07-28,531.0,Littoral,groundnut,2017,7,30
+2017-08-04,526.0,North West,groundnut,2017,8,31
+2017-08-04,508.0,South West,groundnut,2017,8,31
+2017-08-04,438.0,West,groundnut,2017,8,31
+2017-08-04,453.0,Adamawa,groundnut,2017,8,31
+2017-08-04,478.0,Far North,groundnut,2017,8,31
+2017-08-04,490.0,Centre,groundnut,2017,8,31
+2017-08-04,514.0,East,groundnut,2017,8,31
+2017-08-04,444.0,North,groundnut,2017,8,31
+2017-08-04,431.0,South,groundnut,2017,8,31
+2017-08-04,476.0,Littoral,groundnut,2017,8,31
+2017-08-11,494.0,North West,groundnut,2017,8,32
+2017-08-11,516.0,South West,groundnut,2017,8,32
+2017-08-11,428.0,West,groundnut,2017,8,32
+2017-08-11,544.0,Adamawa,groundnut,2017,8,32
+2017-08-11,420.0,Far North,groundnut,2017,8,32
+2017-08-11,462.0,Centre,groundnut,2017,8,32
+2017-08-11,508.0,East,groundnut,2017,8,32
+2017-08-11,426.0,North,groundnut,2017,8,32
+2017-08-11,431.0,South,groundnut,2017,8,32
+2017-08-11,430.0,Littoral,groundnut,2017,8,32
+2017-08-18,480.0,North West,groundnut,2017,8,33
+2017-08-18,519.0,South West,groundnut,2017,8,33
+2017-08-18,477.0,West,groundnut,2017,8,33
+2017-08-18,483.0,Adamawa,groundnut,2017,8,33
+2017-08-18,451.0,Far North,groundnut,2017,8,33
+2017-08-18,410.0,Centre,groundnut,2017,8,33
+2017-08-18,410.0,East,groundnut,2017,8,33
+2017-08-18,518.0,North,groundnut,2017,8,33
+2017-08-18,420.0,South,groundnut,2017,8,33
+2017-08-18,532.0,Littoral,groundnut,2017,8,33
+2017-08-25,536.0,North West,groundnut,2017,8,34
+2017-08-25,461.0,South West,groundnut,2017,8,34
+2017-08-25,509.0,West,groundnut,2017,8,34
+2017-08-25,460.0,Adamawa,groundnut,2017,8,34
+2017-08-25,454.0,Far North,groundnut,2017,8,34
+2017-08-25,441.0,Centre,groundnut,2017,8,34
+2017-08-25,520.0,East,groundnut,2017,8,34
+2017-08-25,448.0,North,groundnut,2017,8,34
+2017-08-25,451.0,South,groundnut,2017,8,34
+2017-08-25,543.0,Littoral,groundnut,2017,8,34
+2017-09-01,460.0,North West,groundnut,2017,9,35
+2017-09-01,473.0,South West,groundnut,2017,9,35
+2017-09-01,545.0,West,groundnut,2017,9,35
+2017-09-01,466.0,Adamawa,groundnut,2017,9,35
+2017-09-01,465.0,Far North,groundnut,2017,9,35
+2017-09-01,525.0,Centre,groundnut,2017,9,35
+2017-09-01,458.0,East,groundnut,2017,9,35
+2017-09-01,448.0,North,groundnut,2017,9,35
+2017-09-01,473.0,South,groundnut,2017,9,35
+2017-09-01,508.0,Littoral,groundnut,2017,9,35
+2017-09-08,478.0,North West,groundnut,2017,9,36
+2017-09-08,464.0,South West,groundnut,2017,9,36
+2017-09-08,519.0,West,groundnut,2017,9,36
+2017-09-08,470.0,Adamawa,groundnut,2017,9,36
+2017-09-08,512.0,Far North,groundnut,2017,9,36
+2017-09-08,499.0,Centre,groundnut,2017,9,36
+2017-09-08,461.0,East,groundnut,2017,9,36
+2017-09-08,467.0,North,groundnut,2017,9,36
+2017-09-08,455.0,South,groundnut,2017,9,36
+2017-09-08,439.0,Littoral,groundnut,2017,9,36
+2017-09-15,520.0,North West,groundnut,2017,9,37
+2017-09-15,527.0,South West,groundnut,2017,9,37
+2017-09-15,459.0,West,groundnut,2017,9,37
+2017-09-15,519.0,Adamawa,groundnut,2017,9,37
+2017-09-15,569.0,Far North,groundnut,2017,9,37
+2017-09-15,447.0,Centre,groundnut,2017,9,37
+2017-09-15,503.0,East,groundnut,2017,9,37
+2017-09-15,535.0,North,groundnut,2017,9,37
+2017-09-15,443.0,South,groundnut,2017,9,37
+2017-09-15,541.0,Littoral,groundnut,2017,9,37
+2017-09-22,460.0,North West,groundnut,2017,9,38
+2017-09-22,507.0,South West,groundnut,2017,9,38
+2017-09-22,450.0,West,groundnut,2017,9,38
+2017-09-22,511.0,Adamawa,groundnut,2017,9,38
+2017-09-22,443.0,Far North,groundnut,2017,9,38
+2017-09-22,539.0,Centre,groundnut,2017,9,38
+2017-09-22,507.0,East,groundnut,2017,9,38
+2017-09-22,503.0,North,groundnut,2017,9,38
+2017-09-22,467.0,South,groundnut,2017,9,38
+2017-09-22,490.0,Littoral,groundnut,2017,9,38
+2017-09-29,492.0,North West,groundnut,2017,9,39
+2017-09-29,571.0,South West,groundnut,2017,9,39
+2017-09-29,494.0,West,groundnut,2017,9,39
+2017-09-29,554.0,Adamawa,groundnut,2017,9,39
+2017-09-29,506.0,Far North,groundnut,2017,9,39
+2017-09-29,560.0,Centre,groundnut,2017,9,39
+2017-09-29,543.0,East,groundnut,2017,9,39
+2017-09-29,526.0,North,groundnut,2017,9,39
+2017-09-29,562.0,South,groundnut,2017,9,39
+2017-09-29,525.0,Littoral,groundnut,2017,9,39
+2017-10-06,582.0,North West,groundnut,2017,10,40
+2017-10-06,634.0,South West,groundnut,2017,10,40
+2017-10-06,626.0,West,groundnut,2017,10,40
+2017-10-06,581.0,Adamawa,groundnut,2017,10,40
+2017-10-06,510.0,Far North,groundnut,2017,10,40
+2017-10-06,586.0,Centre,groundnut,2017,10,40
+2017-10-06,554.0,East,groundnut,2017,10,40
+2017-10-06,582.0,North,groundnut,2017,10,40
+2017-10-06,598.0,South,groundnut,2017,10,40
+2017-10-06,598.0,Littoral,groundnut,2017,10,40
+2017-10-13,635.0,North West,groundnut,2017,10,41
+2017-10-13,636.0,South West,groundnut,2017,10,41
+2017-10-13,544.0,West,groundnut,2017,10,41
+2017-10-13,558.0,Adamawa,groundnut,2017,10,41
+2017-10-13,628.0,Far North,groundnut,2017,10,41
+2017-10-13,593.0,Centre,groundnut,2017,10,41
+2017-10-13,650.0,East,groundnut,2017,10,41
+2017-10-13,547.0,North,groundnut,2017,10,41
+2017-10-13,558.0,South,groundnut,2017,10,41
+2017-10-13,617.0,Littoral,groundnut,2017,10,41
+2017-10-20,567.0,North West,groundnut,2017,10,42
+2017-10-20,510.0,South West,groundnut,2017,10,42
+2017-10-20,510.0,West,groundnut,2017,10,42
+2017-10-20,519.0,Adamawa,groundnut,2017,10,42
+2017-10-20,593.0,Far North,groundnut,2017,10,42
+2017-10-20,638.0,Centre,groundnut,2017,10,42
+2017-10-20,544.0,East,groundnut,2017,10,42
+2017-10-20,509.0,North,groundnut,2017,10,42
+2017-10-20,614.0,South,groundnut,2017,10,42
+2017-10-20,636.0,Littoral,groundnut,2017,10,42
+2017-10-27,539.0,North West,groundnut,2017,10,43
+2017-10-27,578.0,South West,groundnut,2017,10,43
+2017-10-27,542.0,West,groundnut,2017,10,43
+2017-10-27,534.0,Adamawa,groundnut,2017,10,43
+2017-10-27,620.0,Far North,groundnut,2017,10,43
+2017-10-27,671.0,Centre,groundnut,2017,10,43
+2017-10-27,625.0,East,groundnut,2017,10,43
+2017-10-27,674.0,North,groundnut,2017,10,43
+2017-10-27,586.0,South,groundnut,2017,10,43
+2017-10-27,660.0,Littoral,groundnut,2017,10,43
+2017-11-03,661.0,North West,groundnut,2017,11,44
+2017-11-03,606.0,South West,groundnut,2017,11,44
+2017-11-03,597.0,West,groundnut,2017,11,44
+2017-11-03,656.0,Adamawa,groundnut,2017,11,44
+2017-11-03,599.0,Far North,groundnut,2017,11,44
+2017-11-03,639.0,Centre,groundnut,2017,11,44
+2017-11-03,594.0,East,groundnut,2017,11,44
+2017-11-03,675.0,North,groundnut,2017,11,44
+2017-11-03,596.0,South,groundnut,2017,11,44
+2017-11-03,633.0,Littoral,groundnut,2017,11,44
+2017-11-10,568.0,North West,groundnut,2017,11,45
+2017-11-10,701.0,South West,groundnut,2017,11,45
+2017-11-10,671.0,West,groundnut,2017,11,45
+2017-11-10,597.0,Adamawa,groundnut,2017,11,45
+2017-11-10,601.0,Far North,groundnut,2017,11,45
+2017-11-10,609.0,Centre,groundnut,2017,11,45
+2017-11-10,663.0,East,groundnut,2017,11,45
+2017-11-10,659.0,North,groundnut,2017,11,45
+2017-11-10,611.0,South,groundnut,2017,11,45
+2017-11-10,684.0,Littoral,groundnut,2017,11,45
+2017-11-17,726.0,North West,groundnut,2017,11,46
+2017-11-17,619.0,South West,groundnut,2017,11,46
+2017-11-17,655.0,West,groundnut,2017,11,46
+2017-11-17,627.0,Adamawa,groundnut,2017,11,46
+2017-11-17,722.0,Far North,groundnut,2017,11,46
+2017-11-17,737.0,Centre,groundnut,2017,11,46
+2017-11-17,645.0,East,groundnut,2017,11,46
+2017-11-17,678.0,North,groundnut,2017,11,46
+2017-11-17,677.0,South,groundnut,2017,11,46
+2017-11-17,770.0,Littoral,groundnut,2017,11,46
+2017-11-24,624.0,North West,groundnut,2017,11,47
+2017-11-24,688.0,South West,groundnut,2017,11,47
+2017-11-24,730.0,West,groundnut,2017,11,47
+2017-11-24,739.0,Adamawa,groundnut,2017,11,47
+2017-11-24,709.0,Far North,groundnut,2017,11,47
+2017-11-24,643.0,Centre,groundnut,2017,11,47
+2017-11-24,737.0,East,groundnut,2017,11,47
+2017-11-24,723.0,North,groundnut,2017,11,47
+2017-11-24,716.0,South,groundnut,2017,11,47
+2017-11-24,601.0,Littoral,groundnut,2017,11,47
+2017-12-01,797.0,North West,groundnut,2017,12,48
+2017-12-01,765.0,South West,groundnut,2017,12,48
+2017-12-01,776.0,West,groundnut,2017,12,48
+2017-12-01,721.0,Adamawa,groundnut,2017,12,48
+2017-12-01,676.0,Far North,groundnut,2017,12,48
+2017-12-01,746.0,Centre,groundnut,2017,12,48
+2017-12-01,753.0,East,groundnut,2017,12,48
+2017-12-01,746.0,North,groundnut,2017,12,48
+2017-12-01,797.0,South,groundnut,2017,12,48
+2017-12-01,688.0,Littoral,groundnut,2017,12,48
+2017-12-08,642.0,North West,groundnut,2017,12,49
+2017-12-08,811.0,South West,groundnut,2017,12,49
+2017-12-08,665.0,West,groundnut,2017,12,49
+2017-12-08,770.0,Adamawa,groundnut,2017,12,49
+2017-12-08,804.0,Far North,groundnut,2017,12,49
+2017-12-08,694.0,Centre,groundnut,2017,12,49
+2017-12-08,796.0,East,groundnut,2017,12,49
+2017-12-08,699.0,North,groundnut,2017,12,49
+2017-12-08,789.0,South,groundnut,2017,12,49
+2017-12-08,648.0,Littoral,groundnut,2017,12,49
+2017-12-15,777.0,North West,groundnut,2017,12,50
+2017-12-15,817.0,South West,groundnut,2017,12,50
+2017-12-15,866.0,West,groundnut,2017,12,50
+2017-12-15,827.0,Adamawa,groundnut,2017,12,50
+2017-12-15,874.0,Far North,groundnut,2017,12,50
+2017-12-15,768.0,Centre,groundnut,2017,12,50
+2017-12-15,785.0,East,groundnut,2017,12,50
+2017-12-15,730.0,North,groundnut,2017,12,50
+2017-12-15,879.0,South,groundnut,2017,12,50
+2017-12-15,687.0,Littoral,groundnut,2017,12,50
+2017-12-22,778.0,North West,groundnut,2017,12,51
+2017-12-22,765.0,South West,groundnut,2017,12,51
+2017-12-22,784.0,West,groundnut,2017,12,51
+2017-12-22,898.0,Adamawa,groundnut,2017,12,51
+2017-12-22,780.0,Far North,groundnut,2017,12,51
+2017-12-22,898.0,Centre,groundnut,2017,12,51
+2017-12-22,792.0,East,groundnut,2017,12,51
+2017-12-22,884.0,North,groundnut,2017,12,51
+2017-12-22,813.0,South,groundnut,2017,12,51
+2017-12-22,768.0,Littoral,groundnut,2017,12,51
+2017-12-29,703.0,North West,groundnut,2017,12,52
+2017-12-29,709.0,South West,groundnut,2017,12,52
+2017-12-29,688.0,West,groundnut,2017,12,52
+2017-12-29,718.0,Adamawa,groundnut,2017,12,52
+2017-12-29,776.0,Far North,groundnut,2017,12,52
+2017-12-29,728.0,Centre,groundnut,2017,12,52
+2017-12-29,793.0,East,groundnut,2017,12,52
+2017-12-29,848.0,North,groundnut,2017,12,52
+2017-12-29,726.0,South,groundnut,2017,12,52
+2017-12-29,743.0,Littoral,groundnut,2017,12,52
+2018-01-05,668.0,North West,groundnut,2018,1,1
+2018-01-05,712.0,South West,groundnut,2018,1,1
+2018-01-05,778.0,West,groundnut,2018,1,1
+2018-01-05,678.0,Adamawa,groundnut,2018,1,1
+2018-01-05,671.0,Far North,groundnut,2018,1,1
+2018-01-05,709.0,Centre,groundnut,2018,1,1
+2018-01-05,796.0,East,groundnut,2018,1,1
+2018-01-05,758.0,North,groundnut,2018,1,1
+2018-01-05,823.0,South,groundnut,2018,1,1
+2018-01-05,812.0,Littoral,groundnut,2018,1,1
+2018-01-12,773.0,North West,groundnut,2018,1,2
+2018-01-12,695.0,South West,groundnut,2018,1,2
+2018-01-12,693.0,West,groundnut,2018,1,2
+2018-01-12,677.0,Adamawa,groundnut,2018,1,2
+2018-01-12,842.0,Far North,groundnut,2018,1,2
+2018-01-12,862.0,Centre,groundnut,2018,1,2
+2018-01-12,691.0,East,groundnut,2018,1,2
+2018-01-12,711.0,North,groundnut,2018,1,2
+2018-01-12,686.0,South,groundnut,2018,1,2
+2018-01-12,847.0,Littoral,groundnut,2018,1,2
+2018-01-19,811.0,North West,groundnut,2018,1,3
+2018-01-19,677.0,South West,groundnut,2018,1,3
+2018-01-19,685.0,West,groundnut,2018,1,3
+2018-01-19,696.0,Adamawa,groundnut,2018,1,3
+2018-01-19,723.0,Far North,groundnut,2018,1,3
+2018-01-19,758.0,Centre,groundnut,2018,1,3
+2018-01-19,724.0,East,groundnut,2018,1,3
+2018-01-19,810.0,North,groundnut,2018,1,3
+2018-01-19,646.0,South,groundnut,2018,1,3
+2018-01-19,780.0,Littoral,groundnut,2018,1,3
+2018-01-26,762.0,North West,groundnut,2018,1,4
+2018-01-26,805.0,South West,groundnut,2018,1,4
+2018-01-26,764.0,West,groundnut,2018,1,4
+2018-01-26,775.0,Adamawa,groundnut,2018,1,4
+2018-01-26,771.0,Far North,groundnut,2018,1,4
+2018-01-26,688.0,Centre,groundnut,2018,1,4
+2018-01-26,772.0,East,groundnut,2018,1,4
+2018-01-26,777.0,North,groundnut,2018,1,4
+2018-01-26,729.0,South,groundnut,2018,1,4
+2018-01-26,729.0,Littoral,groundnut,2018,1,4
+2018-02-02,755.0,North West,groundnut,2018,2,5
+2018-02-02,766.0,South West,groundnut,2018,2,5
+2018-02-02,676.0,West,groundnut,2018,2,5
+2018-02-02,763.0,Adamawa,groundnut,2018,2,5
+2018-02-02,765.0,Far North,groundnut,2018,2,5
+2018-02-02,656.0,Centre,groundnut,2018,2,5
+2018-02-02,747.0,East,groundnut,2018,2,5
+2018-02-02,648.0,North,groundnut,2018,2,5
+2018-02-02,630.0,South,groundnut,2018,2,5
+2018-02-02,720.0,Littoral,groundnut,2018,2,5
+2018-02-09,802.0,North West,groundnut,2018,2,6
+2018-02-09,799.0,South West,groundnut,2018,2,6
+2018-02-09,805.0,West,groundnut,2018,2,6
+2018-02-09,784.0,Adamawa,groundnut,2018,2,6
+2018-02-09,799.0,Far North,groundnut,2018,2,6
+2018-02-09,669.0,Centre,groundnut,2018,2,6
+2018-02-09,694.0,East,groundnut,2018,2,6
+2018-02-09,682.0,North,groundnut,2018,2,6
+2018-02-09,779.0,South,groundnut,2018,2,6
+2018-02-09,664.0,Littoral,groundnut,2018,2,6
+2018-02-16,714.0,North West,groundnut,2018,2,7
+2018-02-16,859.0,South West,groundnut,2018,2,7
+2018-02-16,823.0,West,groundnut,2018,2,7
+2018-02-16,858.0,Adamawa,groundnut,2018,2,7
+2018-02-16,705.0,Far North,groundnut,2018,2,7
+2018-02-16,759.0,Centre,groundnut,2018,2,7
+2018-02-16,735.0,East,groundnut,2018,2,7
+2018-02-16,678.0,North,groundnut,2018,2,7
+2018-02-16,735.0,South,groundnut,2018,2,7
+2018-02-16,755.0,Littoral,groundnut,2018,2,7
+2018-02-23,762.0,North West,groundnut,2018,2,8
+2018-02-23,691.0,South West,groundnut,2018,2,8
+2018-02-23,829.0,West,groundnut,2018,2,8
+2018-02-23,834.0,Adamawa,groundnut,2018,2,8
+2018-02-23,856.0,Far North,groundnut,2018,2,8
+2018-02-23,783.0,Centre,groundnut,2018,2,8
+2018-02-23,884.0,East,groundnut,2018,2,8
+2018-02-23,873.0,North,groundnut,2018,2,8
+2018-02-23,797.0,South,groundnut,2018,2,8
+2018-02-23,775.0,Littoral,groundnut,2018,2,8
+2018-03-02,650.0,North West,groundnut,2018,3,9
+2018-03-02,791.0,South West,groundnut,2018,3,9
+2018-03-02,762.0,West,groundnut,2018,3,9
+2018-03-02,836.0,Adamawa,groundnut,2018,3,9
+2018-03-02,768.0,Far North,groundnut,2018,3,9
+2018-03-02,847.0,Centre,groundnut,2018,3,9
+2018-03-02,820.0,East,groundnut,2018,3,9
+2018-03-02,839.0,North,groundnut,2018,3,9
+2018-03-02,715.0,South,groundnut,2018,3,9
+2018-03-02,679.0,Littoral,groundnut,2018,3,9
+2018-03-09,697.0,North West,groundnut,2018,3,10
+2018-03-09,808.0,South West,groundnut,2018,3,10
+2018-03-09,772.0,West,groundnut,2018,3,10
+2018-03-09,677.0,Adamawa,groundnut,2018,3,10
+2018-03-09,755.0,Far North,groundnut,2018,3,10
+2018-03-09,842.0,Centre,groundnut,2018,3,10
+2018-03-09,756.0,East,groundnut,2018,3,10
+2018-03-09,813.0,North,groundnut,2018,3,10
+2018-03-09,660.0,South,groundnut,2018,3,10
+2018-03-09,801.0,Littoral,groundnut,2018,3,10
+2018-03-16,850.0,North West,groundnut,2018,3,11
+2018-03-16,760.0,South West,groundnut,2018,3,11
+2018-03-16,727.0,West,groundnut,2018,3,11
+2018-03-16,790.0,Adamawa,groundnut,2018,3,11
+2018-03-16,844.0,Far North,groundnut,2018,3,11
+2018-03-16,695.0,Centre,groundnut,2018,3,11
+2018-03-16,740.0,East,groundnut,2018,3,11
+2018-03-16,690.0,North,groundnut,2018,3,11
+2018-03-16,759.0,South,groundnut,2018,3,11
+2018-03-16,768.0,Littoral,groundnut,2018,3,11
+2018-03-23,760.0,North West,groundnut,2018,3,12
+2018-03-23,824.0,South West,groundnut,2018,3,12
+2018-03-23,711.0,West,groundnut,2018,3,12
+2018-03-23,782.0,Adamawa,groundnut,2018,3,12
+2018-03-23,798.0,Far North,groundnut,2018,3,12
+2018-03-23,713.0,Centre,groundnut,2018,3,12
+2018-03-23,680.0,East,groundnut,2018,3,12
+2018-03-23,748.0,North,groundnut,2018,3,12
+2018-03-23,719.0,South,groundnut,2018,3,12
+2018-03-23,701.0,Littoral,groundnut,2018,3,12
+2018-03-30,849.0,North West,groundnut,2018,3,13
+2018-03-30,755.0,South West,groundnut,2018,3,13
+2018-03-30,826.0,West,groundnut,2018,3,13
+2018-03-30,693.0,Adamawa,groundnut,2018,3,13
+2018-03-30,842.0,Far North,groundnut,2018,3,13
+2018-03-30,813.0,Centre,groundnut,2018,3,13
+2018-03-30,816.0,East,groundnut,2018,3,13
+2018-03-30,732.0,North,groundnut,2018,3,13
+2018-03-30,751.0,South,groundnut,2018,3,13
+2018-03-30,773.0,Littoral,groundnut,2018,3,13
+2018-04-06,646.0,North West,groundnut,2018,4,14
+2018-04-06,806.0,South West,groundnut,2018,4,14
+2018-04-06,813.0,West,groundnut,2018,4,14
+2018-04-06,746.0,Adamawa,groundnut,2018,4,14
+2018-04-06,667.0,Far North,groundnut,2018,4,14
+2018-04-06,790.0,Centre,groundnut,2018,4,14
+2018-04-06,738.0,East,groundnut,2018,4,14
+2018-04-06,790.0,North,groundnut,2018,4,14
+2018-04-06,789.0,South,groundnut,2018,4,14
+2018-04-06,648.0,Littoral,groundnut,2018,4,14
+2018-04-13,729.0,North West,groundnut,2018,4,15
+2018-04-13,705.0,South West,groundnut,2018,4,15
+2018-04-13,793.0,West,groundnut,2018,4,15
+2018-04-13,670.0,Adamawa,groundnut,2018,4,15
+2018-04-13,653.0,Far North,groundnut,2018,4,15
+2018-04-13,783.0,Centre,groundnut,2018,4,15
+2018-04-13,642.0,East,groundnut,2018,4,15
+2018-04-13,744.0,North,groundnut,2018,4,15
+2018-04-13,671.0,South,groundnut,2018,4,15
+2018-04-13,721.0,Littoral,groundnut,2018,4,15
+2018-04-20,746.0,North West,groundnut,2018,4,16
+2018-04-20,597.0,South West,groundnut,2018,4,16
+2018-04-20,643.0,West,groundnut,2018,4,16
+2018-04-20,650.0,Adamawa,groundnut,2018,4,16
+2018-04-20,685.0,Far North,groundnut,2018,4,16
+2018-04-20,646.0,Centre,groundnut,2018,4,16
+2018-04-20,591.0,East,groundnut,2018,4,16
+2018-04-20,741.0,North,groundnut,2018,4,16
+2018-04-20,648.0,South,groundnut,2018,4,16
+2018-04-20,635.0,Littoral,groundnut,2018,4,16
+2018-04-27,680.0,North West,groundnut,2018,4,17
+2018-04-27,638.0,South West,groundnut,2018,4,17
+2018-04-27,617.0,West,groundnut,2018,4,17
+2018-04-27,625.0,Adamawa,groundnut,2018,4,17
+2018-04-27,629.0,Far North,groundnut,2018,4,17
+2018-04-27,634.0,Centre,groundnut,2018,4,17
+2018-04-27,675.0,East,groundnut,2018,4,17
+2018-04-27,713.0,North,groundnut,2018,4,17
+2018-04-27,714.0,South,groundnut,2018,4,17
+2018-04-27,598.0,Littoral,groundnut,2018,4,17
+2018-05-04,674.0,North West,groundnut,2018,5,18
+2018-05-04,589.0,South West,groundnut,2018,5,18
+2018-05-04,700.0,West,groundnut,2018,5,18
+2018-05-04,588.0,Adamawa,groundnut,2018,5,18
+2018-05-04,616.0,Far North,groundnut,2018,5,18
+2018-05-04,644.0,Centre,groundnut,2018,5,18
+2018-05-04,662.0,East,groundnut,2018,5,18
+2018-05-04,656.0,North,groundnut,2018,5,18
+2018-05-04,577.0,South,groundnut,2018,5,18
+2018-05-04,632.0,Littoral,groundnut,2018,5,18
+2018-05-11,692.0,North West,groundnut,2018,5,19
+2018-05-11,684.0,South West,groundnut,2018,5,19
+2018-05-11,637.0,West,groundnut,2018,5,19
+2018-05-11,634.0,Adamawa,groundnut,2018,5,19
+2018-05-11,558.0,Far North,groundnut,2018,5,19
+2018-05-11,573.0,Centre,groundnut,2018,5,19
+2018-05-11,581.0,East,groundnut,2018,5,19
+2018-05-11,620.0,North,groundnut,2018,5,19
+2018-05-11,661.0,South,groundnut,2018,5,19
+2018-05-11,616.0,Littoral,groundnut,2018,5,19
+2018-05-18,544.0,North West,groundnut,2018,5,20
+2018-05-18,637.0,South West,groundnut,2018,5,20
+2018-05-18,545.0,West,groundnut,2018,5,20
+2018-05-18,595.0,Adamawa,groundnut,2018,5,20
+2018-05-18,628.0,Far North,groundnut,2018,5,20
+2018-05-18,554.0,Centre,groundnut,2018,5,20
+2018-05-18,530.0,East,groundnut,2018,5,20
+2018-05-18,608.0,North,groundnut,2018,5,20
+2018-05-18,527.0,South,groundnut,2018,5,20
+2018-05-18,612.0,Littoral,groundnut,2018,5,20
+2018-05-25,604.0,North West,groundnut,2018,5,21
+2018-05-25,540.0,South West,groundnut,2018,5,21
+2018-05-25,564.0,West,groundnut,2018,5,21
+2018-05-25,630.0,Adamawa,groundnut,2018,5,21
+2018-05-25,562.0,Far North,groundnut,2018,5,21
+2018-05-25,641.0,Centre,groundnut,2018,5,21
+2018-05-25,514.0,East,groundnut,2018,5,21
+2018-05-25,597.0,North,groundnut,2018,5,21
+2018-05-25,589.0,South,groundnut,2018,5,21
+2018-05-25,622.0,Littoral,groundnut,2018,5,21
+2018-06-01,485.0,North West,groundnut,2018,6,22
+2018-06-01,599.0,South West,groundnut,2018,6,22
+2018-06-01,527.0,West,groundnut,2018,6,22
+2018-06-01,596.0,Adamawa,groundnut,2018,6,22
+2018-06-01,508.0,Far North,groundnut,2018,6,22
+2018-06-01,484.0,Centre,groundnut,2018,6,22
+2018-06-01,508.0,East,groundnut,2018,6,22
+2018-06-01,551.0,North,groundnut,2018,6,22
+2018-06-01,587.0,South,groundnut,2018,6,22
+2018-06-01,521.0,Littoral,groundnut,2018,6,22
+2018-06-08,571.0,North West,groundnut,2018,6,23
+2018-06-08,479.0,South West,groundnut,2018,6,23
+2018-06-08,541.0,West,groundnut,2018,6,23
+2018-06-08,547.0,Adamawa,groundnut,2018,6,23
+2018-06-08,484.0,Far North,groundnut,2018,6,23
+2018-06-08,450.0,Centre,groundnut,2018,6,23
+2018-06-08,496.0,East,groundnut,2018,6,23
+2018-06-08,452.0,North,groundnut,2018,6,23
+2018-06-08,569.0,South,groundnut,2018,6,23
+2018-06-08,577.0,Littoral,groundnut,2018,6,23
+2018-06-15,483.0,North West,groundnut,2018,6,24
+2018-06-15,460.0,South West,groundnut,2018,6,24
+2018-06-15,560.0,West,groundnut,2018,6,24
+2018-06-15,527.0,Adamawa,groundnut,2018,6,24
+2018-06-15,544.0,Far North,groundnut,2018,6,24
+2018-06-15,557.0,Centre,groundnut,2018,6,24
+2018-06-15,506.0,East,groundnut,2018,6,24
+2018-06-15,470.0,North,groundnut,2018,6,24
+2018-06-15,559.0,South,groundnut,2018,6,24
+2018-06-15,512.0,Littoral,groundnut,2018,6,24
+2018-06-22,567.0,North West,groundnut,2018,6,25
+2018-06-22,513.0,South West,groundnut,2018,6,25
+2018-06-22,483.0,West,groundnut,2018,6,25
+2018-06-22,476.0,Adamawa,groundnut,2018,6,25
+2018-06-22,556.0,Far North,groundnut,2018,6,25
+2018-06-22,532.0,Centre,groundnut,2018,6,25
+2018-06-22,509.0,East,groundnut,2018,6,25
+2018-06-22,521.0,North,groundnut,2018,6,25
+2018-06-22,529.0,South,groundnut,2018,6,25
+2018-06-22,486.0,Littoral,groundnut,2018,6,25
+2018-06-29,475.0,North West,groundnut,2018,6,26
+2018-06-29,489.0,South West,groundnut,2018,6,26
+2018-06-29,447.0,West,groundnut,2018,6,26
+2018-06-29,476.0,Adamawa,groundnut,2018,6,26
+2018-06-29,474.0,Far North,groundnut,2018,6,26
+2018-06-29,462.0,Centre,groundnut,2018,6,26
+2018-06-29,554.0,East,groundnut,2018,6,26
+2018-06-29,434.0,North,groundnut,2018,6,26
+2018-06-29,508.0,South,groundnut,2018,6,26
+2018-06-29,447.0,Littoral,groundnut,2018,6,26
+2018-07-06,511.0,North West,groundnut,2018,7,27
+2018-07-06,521.0,South West,groundnut,2018,7,27
+2018-07-06,457.0,West,groundnut,2018,7,27
+2018-07-06,509.0,Adamawa,groundnut,2018,7,27
+2018-07-06,438.0,Far North,groundnut,2018,7,27
+2018-07-06,424.0,Centre,groundnut,2018,7,27
+2018-07-06,446.0,East,groundnut,2018,7,27
+2018-07-06,449.0,North,groundnut,2018,7,27
+2018-07-06,456.0,South,groundnut,2018,7,27
+2018-07-06,453.0,Littoral,groundnut,2018,7,27
+2018-07-13,456.0,North West,groundnut,2018,7,28
+2018-07-13,426.0,South West,groundnut,2018,7,28
+2018-07-13,488.0,West,groundnut,2018,7,28
+2018-07-13,482.0,Adamawa,groundnut,2018,7,28
+2018-07-13,432.0,Far North,groundnut,2018,7,28
+2018-07-13,441.0,Centre,groundnut,2018,7,28
+2018-07-13,490.0,East,groundnut,2018,7,28
+2018-07-13,455.0,North,groundnut,2018,7,28
+2018-07-13,538.0,South,groundnut,2018,7,28
+2018-07-13,447.0,Littoral,groundnut,2018,7,28
+2018-07-20,411.0,North West,groundnut,2018,7,29
+2018-07-20,465.0,South West,groundnut,2018,7,29
+2018-07-20,532.0,West,groundnut,2018,7,29
+2018-07-20,488.0,Adamawa,groundnut,2018,7,29
+2018-07-20,453.0,Far North,groundnut,2018,7,29
+2018-07-20,411.0,Centre,groundnut,2018,7,29
+2018-07-20,469.0,East,groundnut,2018,7,29
+2018-07-20,434.0,North,groundnut,2018,7,29
+2018-07-20,490.0,South,groundnut,2018,7,29
+2018-07-20,482.0,Littoral,groundnut,2018,7,29
+2018-07-27,497.0,North West,groundnut,2018,7,30
+2018-07-27,476.0,South West,groundnut,2018,7,30
+2018-07-27,507.0,West,groundnut,2018,7,30
+2018-07-27,435.0,Adamawa,groundnut,2018,7,30
+2018-07-27,484.0,Far North,groundnut,2018,7,30
+2018-07-27,418.0,Centre,groundnut,2018,7,30
+2018-07-27,439.0,East,groundnut,2018,7,30
+2018-07-27,484.0,North,groundnut,2018,7,30
+2018-07-27,505.0,South,groundnut,2018,7,30
+2018-07-27,443.0,Littoral,groundnut,2018,7,30
+2018-08-03,507.0,North West,groundnut,2018,8,31
+2018-08-03,491.0,South West,groundnut,2018,8,31
+2018-08-03,450.0,West,groundnut,2018,8,31
+2018-08-03,516.0,Adamawa,groundnut,2018,8,31
+2018-08-03,470.0,Far North,groundnut,2018,8,31
+2018-08-03,488.0,Centre,groundnut,2018,8,31
+2018-08-03,469.0,East,groundnut,2018,8,31
+2018-08-03,463.0,North,groundnut,2018,8,31
+2018-08-03,513.0,South,groundnut,2018,8,31
+2018-08-03,444.0,Littoral,groundnut,2018,8,31
+2018-08-10,429.0,North West,groundnut,2018,8,32
+2018-08-10,490.0,South West,groundnut,2018,8,32
+2018-08-10,415.0,West,groundnut,2018,8,32
+2018-08-10,458.0,Adamawa,groundnut,2018,8,32
+2018-08-10,416.0,Far North,groundnut,2018,8,32
+2018-08-10,480.0,Centre,groundnut,2018,8,32
+2018-08-10,409.0,East,groundnut,2018,8,32
+2018-08-10,484.0,North,groundnut,2018,8,32
+2018-08-10,489.0,South,groundnut,2018,8,32
+2018-08-10,466.0,Littoral,groundnut,2018,8,32
+2018-08-17,447.0,North West,groundnut,2018,8,33
+2018-08-17,437.0,South West,groundnut,2018,8,33
+2018-08-17,465.0,West,groundnut,2018,8,33
+2018-08-17,485.0,Adamawa,groundnut,2018,8,33
+2018-08-17,508.0,Far North,groundnut,2018,8,33
+2018-08-17,424.0,Centre,groundnut,2018,8,33
+2018-08-17,517.0,East,groundnut,2018,8,33
+2018-08-17,517.0,North,groundnut,2018,8,33
+2018-08-17,482.0,South,groundnut,2018,8,33
+2018-08-17,469.0,Littoral,groundnut,2018,8,33
+2018-08-24,558.0,North West,groundnut,2018,8,34
+2018-08-24,478.0,South West,groundnut,2018,8,34
+2018-08-24,548.0,West,groundnut,2018,8,34
+2018-08-24,440.0,Adamawa,groundnut,2018,8,34
+2018-08-24,483.0,Far North,groundnut,2018,8,34
+2018-08-24,490.0,Centre,groundnut,2018,8,34
+2018-08-24,487.0,East,groundnut,2018,8,34
+2018-08-24,511.0,North,groundnut,2018,8,34
+2018-08-24,451.0,South,groundnut,2018,8,34
+2018-08-24,543.0,Littoral,groundnut,2018,8,34
+2018-08-31,507.0,North West,groundnut,2018,8,35
+2018-08-31,554.0,South West,groundnut,2018,8,35
+2018-08-31,434.0,West,groundnut,2018,8,35
+2018-08-31,517.0,Adamawa,groundnut,2018,8,35
+2018-08-31,488.0,Far North,groundnut,2018,8,35
+2018-08-31,501.0,Centre,groundnut,2018,8,35
+2018-08-31,532.0,East,groundnut,2018,8,35
+2018-08-31,464.0,North,groundnut,2018,8,35
+2018-08-31,461.0,South,groundnut,2018,8,35
+2018-08-31,527.0,Littoral,groundnut,2018,8,35
+2018-09-07,487.0,North West,groundnut,2018,9,36
+2018-09-07,484.0,South West,groundnut,2018,9,36
+2018-09-07,514.0,West,groundnut,2018,9,36
+2018-09-07,425.0,Adamawa,groundnut,2018,9,36
+2018-09-07,501.0,Far North,groundnut,2018,9,36
+2018-09-07,503.0,Centre,groundnut,2018,9,36
+2018-09-07,521.0,East,groundnut,2018,9,36
+2018-09-07,540.0,North,groundnut,2018,9,36
+2018-09-07,482.0,South,groundnut,2018,9,36
+2018-09-07,469.0,Littoral,groundnut,2018,9,36
+2018-09-14,457.0,North West,groundnut,2018,9,37
+2018-09-14,488.0,South West,groundnut,2018,9,37
+2018-09-14,452.0,West,groundnut,2018,9,37
+2018-09-14,552.0,Adamawa,groundnut,2018,9,37
+2018-09-14,552.0,Far North,groundnut,2018,9,37
+2018-09-14,499.0,Centre,groundnut,2018,9,37
+2018-09-14,478.0,East,groundnut,2018,9,37
+2018-09-14,459.0,North,groundnut,2018,9,37
+2018-09-14,558.0,South,groundnut,2018,9,37
+2018-09-14,562.0,Littoral,groundnut,2018,9,37
+2018-09-21,501.0,North West,groundnut,2018,9,38
+2018-09-21,496.0,South West,groundnut,2018,9,38
+2018-09-21,467.0,West,groundnut,2018,9,38
+2018-09-21,546.0,Adamawa,groundnut,2018,9,38
+2018-09-21,486.0,Far North,groundnut,2018,9,38
+2018-09-21,466.0,Centre,groundnut,2018,9,38
+2018-09-21,479.0,East,groundnut,2018,9,38
+2018-09-21,509.0,North,groundnut,2018,9,38
+2018-09-21,560.0,South,groundnut,2018,9,38
+2018-09-21,493.0,Littoral,groundnut,2018,9,38
+2018-09-28,571.0,North West,groundnut,2018,9,39
+2018-09-28,488.0,South West,groundnut,2018,9,39
+2018-09-28,494.0,West,groundnut,2018,9,39
+2018-09-28,478.0,Adamawa,groundnut,2018,9,39
+2018-09-28,483.0,Far North,groundnut,2018,9,39
+2018-09-28,459.0,Centre,groundnut,2018,9,39
+2018-09-28,489.0,East,groundnut,2018,9,39
+2018-09-28,567.0,North,groundnut,2018,9,39
+2018-09-28,543.0,South,groundnut,2018,9,39
+2018-09-28,569.0,Littoral,groundnut,2018,9,39
+2018-10-05,513.0,North West,groundnut,2018,10,40
+2018-10-05,586.0,South West,groundnut,2018,10,40
+2018-10-05,622.0,West,groundnut,2018,10,40
+2018-10-05,599.0,Adamawa,groundnut,2018,10,40
+2018-10-05,485.0,Far North,groundnut,2018,10,40
+2018-10-05,526.0,Centre,groundnut,2018,10,40
+2018-10-05,484.0,East,groundnut,2018,10,40
+2018-10-05,485.0,North,groundnut,2018,10,40
+2018-10-05,491.0,South,groundnut,2018,10,40
+2018-10-05,520.0,Littoral,groundnut,2018,10,40
+2018-10-12,533.0,North West,groundnut,2018,10,41
+2018-10-12,547.0,South West,groundnut,2018,10,41
+2018-10-12,548.0,West,groundnut,2018,10,41
+2018-10-12,602.0,Adamawa,groundnut,2018,10,41
+2018-10-12,508.0,Far North,groundnut,2018,10,41
+2018-10-12,511.0,Centre,groundnut,2018,10,41
+2018-10-12,581.0,East,groundnut,2018,10,41
+2018-10-12,573.0,North,groundnut,2018,10,41
+2018-10-12,510.0,South,groundnut,2018,10,41
+2018-10-12,614.0,Littoral,groundnut,2018,10,41
+2018-10-19,553.0,North West,groundnut,2018,10,42
+2018-10-19,538.0,South West,groundnut,2018,10,42
+2018-10-19,573.0,West,groundnut,2018,10,42
+2018-10-19,548.0,Adamawa,groundnut,2018,10,42
+2018-10-19,529.0,Far North,groundnut,2018,10,42
+2018-10-19,625.0,Centre,groundnut,2018,10,42
+2018-10-19,536.0,East,groundnut,2018,10,42
+2018-10-19,595.0,North,groundnut,2018,10,42
+2018-10-19,542.0,South,groundnut,2018,10,42
+2018-10-19,555.0,Littoral,groundnut,2018,10,42
+2018-10-26,521.0,North West,groundnut,2018,10,43
+2018-10-26,598.0,South West,groundnut,2018,10,43
+2018-10-26,596.0,West,groundnut,2018,10,43
+2018-10-26,489.0,Adamawa,groundnut,2018,10,43
+2018-10-26,495.0,Far North,groundnut,2018,10,43
+2018-10-26,624.0,Centre,groundnut,2018,10,43
+2018-10-26,619.0,East,groundnut,2018,10,43
+2018-10-26,562.0,North,groundnut,2018,10,43
+2018-10-26,560.0,South,groundnut,2018,10,43
+2018-10-26,607.0,Littoral,groundnut,2018,10,43
+2018-11-02,617.0,North West,groundnut,2018,11,44
+2018-11-02,661.0,South West,groundnut,2018,11,44
+2018-11-02,544.0,West,groundnut,2018,11,44
+2018-11-02,637.0,Adamawa,groundnut,2018,11,44
+2018-11-02,631.0,Far North,groundnut,2018,11,44
+2018-11-02,678.0,Centre,groundnut,2018,11,44
+2018-11-02,650.0,East,groundnut,2018,11,44
+2018-11-02,684.0,North,groundnut,2018,11,44
+2018-11-02,685.0,South,groundnut,2018,11,44
+2018-11-02,606.0,Littoral,groundnut,2018,11,44
+2018-11-09,574.0,North West,groundnut,2018,11,45
+2018-11-09,657.0,South West,groundnut,2018,11,45
+2018-11-09,699.0,West,groundnut,2018,11,45
+2018-11-09,564.0,Adamawa,groundnut,2018,11,45
+2018-11-09,645.0,Far North,groundnut,2018,11,45
+2018-11-09,570.0,Centre,groundnut,2018,11,45
+2018-11-09,555.0,East,groundnut,2018,11,45
+2018-11-09,666.0,North,groundnut,2018,11,45
+2018-11-09,666.0,South,groundnut,2018,11,45
+2018-11-09,652.0,Littoral,groundnut,2018,11,45
+2018-11-16,666.0,North West,groundnut,2018,11,46
+2018-11-16,692.0,South West,groundnut,2018,11,46
+2018-11-16,658.0,West,groundnut,2018,11,46
+2018-11-16,675.0,Adamawa,groundnut,2018,11,46
+2018-11-16,590.0,Far North,groundnut,2018,11,46
+2018-11-16,591.0,Centre,groundnut,2018,11,46
+2018-11-16,687.0,East,groundnut,2018,11,46
+2018-11-16,645.0,North,groundnut,2018,11,46
+2018-11-16,582.0,South,groundnut,2018,11,46
+2018-11-16,630.0,Littoral,groundnut,2018,11,46
+2018-11-23,692.0,North West,groundnut,2018,11,47
+2018-11-23,610.0,South West,groundnut,2018,11,47
+2018-11-23,687.0,West,groundnut,2018,11,47
+2018-11-23,579.0,Adamawa,groundnut,2018,11,47
+2018-11-23,625.0,Far North,groundnut,2018,11,47
+2018-11-23,690.0,Centre,groundnut,2018,11,47
+2018-11-23,598.0,East,groundnut,2018,11,47
+2018-11-23,611.0,North,groundnut,2018,11,47
+2018-11-23,726.0,South,groundnut,2018,11,47
+2018-11-23,690.0,Littoral,groundnut,2018,11,47
+2018-11-30,622.0,North West,groundnut,2018,11,48
+2018-11-30,662.0,South West,groundnut,2018,11,48
+2018-11-30,590.0,West,groundnut,2018,11,48
+2018-11-30,646.0,Adamawa,groundnut,2018,11,48
+2018-11-30,634.0,Far North,groundnut,2018,11,48
+2018-11-30,646.0,Centre,groundnut,2018,11,48
+2018-11-30,581.0,East,groundnut,2018,11,48
+2018-11-30,582.0,North,groundnut,2018,11,48
+2018-11-30,730.0,South,groundnut,2018,11,48
+2018-11-30,732.0,Littoral,groundnut,2018,11,48
+2018-12-07,682.0,North West,groundnut,2018,12,49
+2018-12-07,749.0,South West,groundnut,2018,12,49
+2018-12-07,724.0,West,groundnut,2018,12,49
+2018-12-07,624.0,Adamawa,groundnut,2018,12,49
+2018-12-07,658.0,Far North,groundnut,2018,12,49
+2018-12-07,661.0,Centre,groundnut,2018,12,49
+2018-12-07,713.0,East,groundnut,2018,12,49
+2018-12-07,710.0,North,groundnut,2018,12,49
+2018-12-07,774.0,South,groundnut,2018,12,49
+2018-12-07,749.0,Littoral,groundnut,2018,12,49
+2018-12-14,659.0,North West,groundnut,2018,12,50
+2018-12-14,727.0,South West,groundnut,2018,12,50
+2018-12-14,749.0,West,groundnut,2018,12,50
+2018-12-14,692.0,Adamawa,groundnut,2018,12,50
+2018-12-14,779.0,Far North,groundnut,2018,12,50
+2018-12-14,800.0,Centre,groundnut,2018,12,50
+2018-12-14,726.0,East,groundnut,2018,12,50
+2018-12-14,705.0,North,groundnut,2018,12,50
+2018-12-14,778.0,South,groundnut,2018,12,50
+2018-12-14,623.0,Littoral,groundnut,2018,12,50
+2018-12-21,690.0,North West,groundnut,2018,12,51
+2018-12-21,836.0,South West,groundnut,2018,12,51
+2018-12-21,813.0,West,groundnut,2018,12,51
+2018-12-21,749.0,Adamawa,groundnut,2018,12,51
+2018-12-21,845.0,Far North,groundnut,2018,12,51
+2018-12-21,735.0,Centre,groundnut,2018,12,51
+2018-12-21,793.0,East,groundnut,2018,12,51
+2018-12-21,793.0,North,groundnut,2018,12,51
+2018-12-21,701.0,South,groundnut,2018,12,51
+2018-12-21,722.0,Littoral,groundnut,2018,12,51
+2018-12-28,691.0,North West,groundnut,2018,12,52
+2018-12-28,856.0,South West,groundnut,2018,12,52
+2018-12-28,693.0,West,groundnut,2018,12,52
+2018-12-28,799.0,Adamawa,groundnut,2018,12,52
+2018-12-28,742.0,Far North,groundnut,2018,12,52
+2018-12-28,838.0,Centre,groundnut,2018,12,52
+2018-12-28,793.0,East,groundnut,2018,12,52
+2018-12-28,752.0,North,groundnut,2018,12,52
+2018-12-28,875.0,South,groundnut,2018,12,52
+2018-12-28,686.0,Littoral,groundnut,2018,12,52
+2019-01-04,774.0,North West,groundnut,2019,1,1
+2019-01-04,857.0,South West,groundnut,2019,1,1
+2019-01-04,797.0,West,groundnut,2019,1,1
+2019-01-04,807.0,Adamawa,groundnut,2019,1,1
+2019-01-04,664.0,Far North,groundnut,2019,1,1
+2019-01-04,662.0,Centre,groundnut,2019,1,1
+2019-01-04,665.0,East,groundnut,2019,1,1
+2019-01-04,858.0,North,groundnut,2019,1,1
+2019-01-04,855.0,South,groundnut,2019,1,1
+2019-01-04,725.0,Littoral,groundnut,2019,1,1
+2019-01-11,726.0,North West,groundnut,2019,1,2
+2019-01-11,734.0,South West,groundnut,2019,1,2
+2019-01-11,811.0,West,groundnut,2019,1,2
+2019-01-11,834.0,Adamawa,groundnut,2019,1,2
+2019-01-11,810.0,Far North,groundnut,2019,1,2
+2019-01-11,790.0,Centre,groundnut,2019,1,2
+2019-01-11,814.0,East,groundnut,2019,1,2
+2019-01-11,809.0,North,groundnut,2019,1,2
+2019-01-11,755.0,South,groundnut,2019,1,2
+2019-01-11,727.0,Littoral,groundnut,2019,1,2
+2019-01-18,725.0,North West,groundnut,2019,1,3
+2019-01-18,806.0,South West,groundnut,2019,1,3
+2019-01-18,864.0,West,groundnut,2019,1,3
+2019-01-18,786.0,Adamawa,groundnut,2019,1,3
+2019-01-18,854.0,Far North,groundnut,2019,1,3
+2019-01-18,670.0,Centre,groundnut,2019,1,3
+2019-01-18,830.0,East,groundnut,2019,1,3
+2019-01-18,842.0,North,groundnut,2019,1,3
+2019-01-18,796.0,South,groundnut,2019,1,3
+2019-01-18,858.0,Littoral,groundnut,2019,1,3
+2019-01-25,694.0,North West,groundnut,2019,1,4
+2019-01-25,762.0,South West,groundnut,2019,1,4
+2019-01-25,832.0,West,groundnut,2019,1,4
+2019-01-25,665.0,Adamawa,groundnut,2019,1,4
+2019-01-25,772.0,Far North,groundnut,2019,1,4
+2019-01-25,805.0,Centre,groundnut,2019,1,4
+2019-01-25,674.0,East,groundnut,2019,1,4
+2019-01-25,674.0,North,groundnut,2019,1,4
+2019-01-25,724.0,South,groundnut,2019,1,4
+2019-01-25,706.0,Littoral,groundnut,2019,1,4
+2019-02-01,717.0,North West,groundnut,2019,2,5
+2019-02-01,717.0,South West,groundnut,2019,2,5
+2019-02-01,703.0,West,groundnut,2019,2,5
+2019-02-01,802.0,Adamawa,groundnut,2019,2,5
+2019-02-01,818.0,Far North,groundnut,2019,2,5
+2019-02-01,821.0,Centre,groundnut,2019,2,5
+2019-02-01,786.0,East,groundnut,2019,2,5
+2019-02-01,873.0,North,groundnut,2019,2,5
+2019-02-01,858.0,South,groundnut,2019,2,5
+2019-02-01,874.0,Littoral,groundnut,2019,2,5
+2019-02-08,866.0,North West,groundnut,2019,2,6
+2019-02-08,775.0,South West,groundnut,2019,2,6
+2019-02-08,725.0,West,groundnut,2019,2,6
+2019-02-08,849.0,Adamawa,groundnut,2019,2,6
+2019-02-08,731.0,Far North,groundnut,2019,2,6
+2019-02-08,765.0,Centre,groundnut,2019,2,6
+2019-02-08,810.0,East,groundnut,2019,2,6
+2019-02-08,848.0,North,groundnut,2019,2,6
+2019-02-08,901.0,South,groundnut,2019,2,6
+2019-02-08,830.0,Littoral,groundnut,2019,2,6
+2019-02-15,838.0,North West,groundnut,2019,2,7
+2019-02-15,761.0,South West,groundnut,2019,2,7
+2019-02-15,841.0,West,groundnut,2019,2,7
+2019-02-15,788.0,Adamawa,groundnut,2019,2,7
+2019-02-15,878.0,Far North,groundnut,2019,2,7
+2019-02-15,779.0,Centre,groundnut,2019,2,7
+2019-02-15,795.0,East,groundnut,2019,2,7
+2019-02-15,787.0,North,groundnut,2019,2,7
+2019-02-15,868.0,South,groundnut,2019,2,7
+2019-02-15,898.0,Littoral,groundnut,2019,2,7
+2019-02-22,839.0,North West,groundnut,2019,2,8
+2019-02-22,879.0,South West,groundnut,2019,2,8
+2019-02-22,794.0,West,groundnut,2019,2,8
+2019-02-22,713.0,Adamawa,groundnut,2019,2,8
+2019-02-22,768.0,Far North,groundnut,2019,2,8
+2019-02-22,806.0,Centre,groundnut,2019,2,8
+2019-02-22,778.0,East,groundnut,2019,2,8
+2019-02-22,729.0,North,groundnut,2019,2,8
+2019-02-22,698.0,South,groundnut,2019,2,8
+2019-02-22,835.0,Littoral,groundnut,2019,2,8
+2019-03-01,830.0,North West,groundnut,2019,3,9
+2019-03-01,815.0,South West,groundnut,2019,3,9
+2019-03-01,769.0,West,groundnut,2019,3,9
+2019-03-01,800.0,Adamawa,groundnut,2019,3,9
+2019-03-01,686.0,Far North,groundnut,2019,3,9
+2019-03-01,758.0,Centre,groundnut,2019,3,9
+2019-03-01,648.0,East,groundnut,2019,3,9
+2019-03-01,774.0,North,groundnut,2019,3,9
+2019-03-01,825.0,South,groundnut,2019,3,9
+2019-03-01,804.0,Littoral,groundnut,2019,3,9
+2019-03-08,859.0,North West,groundnut,2019,3,10
+2019-03-08,710.0,South West,groundnut,2019,3,10
+2019-03-08,828.0,West,groundnut,2019,3,10
+2019-03-08,721.0,Adamawa,groundnut,2019,3,10
+2019-03-08,845.0,Far North,groundnut,2019,3,10
+2019-03-08,686.0,Centre,groundnut,2019,3,10
+2019-03-08,702.0,East,groundnut,2019,3,10
+2019-03-08,813.0,North,groundnut,2019,3,10
+2019-03-08,701.0,South,groundnut,2019,3,10
+2019-03-08,698.0,Littoral,groundnut,2019,3,10
+2019-03-15,775.0,North West,groundnut,2019,3,11
+2019-03-15,831.0,South West,groundnut,2019,3,11
+2019-03-15,716.0,West,groundnut,2019,3,11
+2019-03-15,833.0,Adamawa,groundnut,2019,3,11
+2019-03-15,826.0,Far North,groundnut,2019,3,11
+2019-03-15,779.0,Centre,groundnut,2019,3,11
+2019-03-15,793.0,East,groundnut,2019,3,11
+2019-03-15,670.0,North,groundnut,2019,3,11
+2019-03-15,736.0,South,groundnut,2019,3,11
+2019-03-15,715.0,Littoral,groundnut,2019,3,11
+2019-03-22,720.0,North West,groundnut,2019,3,12
+2019-03-22,795.0,South West,groundnut,2019,3,12
+2019-03-22,768.0,West,groundnut,2019,3,12
+2019-03-22,831.0,Adamawa,groundnut,2019,3,12
+2019-03-22,678.0,Far North,groundnut,2019,3,12
+2019-03-22,661.0,Centre,groundnut,2019,3,12
+2019-03-22,756.0,East,groundnut,2019,3,12
+2019-03-22,650.0,North,groundnut,2019,3,12
+2019-03-22,806.0,South,groundnut,2019,3,12
+2019-03-22,750.0,Littoral,groundnut,2019,3,12
+2019-03-29,721.0,North West,groundnut,2019,3,13
+2019-03-29,696.0,South West,groundnut,2019,3,13
+2019-03-29,699.0,West,groundnut,2019,3,13
+2019-03-29,710.0,Adamawa,groundnut,2019,3,13
+2019-03-29,630.0,Far North,groundnut,2019,3,13
+2019-03-29,643.0,Centre,groundnut,2019,3,13
+2019-03-29,724.0,East,groundnut,2019,3,13
+2019-03-29,656.0,North,groundnut,2019,3,13
+2019-03-29,776.0,South,groundnut,2019,3,13
+2019-03-29,679.0,Littoral,groundnut,2019,3,13
+2019-04-05,670.0,North West,groundnut,2019,4,14
+2019-04-05,611.0,South West,groundnut,2019,4,14
+2019-04-05,630.0,West,groundnut,2019,4,14
+2019-04-05,664.0,Adamawa,groundnut,2019,4,14
+2019-04-05,662.0,Far North,groundnut,2019,4,14
+2019-04-05,752.0,Centre,groundnut,2019,4,14
+2019-04-05,760.0,East,groundnut,2019,4,14
+2019-04-05,640.0,North,groundnut,2019,4,14
+2019-04-05,627.0,South,groundnut,2019,4,14
+2019-04-05,722.0,Littoral,groundnut,2019,4,14
+2019-04-12,731.0,North West,groundnut,2019,4,15
+2019-04-12,760.0,South West,groundnut,2019,4,15
+2019-04-12,588.0,West,groundnut,2019,4,15
+2019-04-12,661.0,Adamawa,groundnut,2019,4,15
+2019-04-12,718.0,Far North,groundnut,2019,4,15
+2019-04-12,735.0,Centre,groundnut,2019,4,15
+2019-04-12,598.0,East,groundnut,2019,4,15
+2019-04-12,709.0,North,groundnut,2019,4,15
+2019-04-12,638.0,South,groundnut,2019,4,15
+2019-04-12,600.0,Littoral,groundnut,2019,4,15
+2019-04-19,685.0,North West,groundnut,2019,4,16
+2019-04-19,686.0,South West,groundnut,2019,4,16
+2019-04-19,703.0,West,groundnut,2019,4,16
+2019-04-19,624.0,Adamawa,groundnut,2019,4,16
+2019-04-19,561.0,Far North,groundnut,2019,4,16
+2019-04-19,603.0,Centre,groundnut,2019,4,16
+2019-04-19,639.0,East,groundnut,2019,4,16
+2019-04-19,678.0,North,groundnut,2019,4,16
+2019-04-19,624.0,South,groundnut,2019,4,16
+2019-04-19,651.0,Littoral,groundnut,2019,4,16
+2019-04-26,650.0,North West,groundnut,2019,4,17
+2019-04-26,588.0,South West,groundnut,2019,4,17
+2019-04-26,667.0,West,groundnut,2019,4,17
+2019-04-26,635.0,Adamawa,groundnut,2019,4,17
+2019-04-26,698.0,Far North,groundnut,2019,4,17
+2019-04-26,678.0,Centre,groundnut,2019,4,17
+2019-04-26,579.0,East,groundnut,2019,4,17
+2019-04-26,644.0,North,groundnut,2019,4,17
+2019-04-26,680.0,South,groundnut,2019,4,17
+2019-04-26,575.0,Littoral,groundnut,2019,4,17
+2019-05-03,610.0,North West,groundnut,2019,5,18
+2019-05-03,680.0,South West,groundnut,2019,5,18
+2019-05-03,621.0,West,groundnut,2019,5,18
+2019-05-03,597.0,Adamawa,groundnut,2019,5,18
+2019-05-03,529.0,Far North,groundnut,2019,5,18
+2019-05-03,550.0,Centre,groundnut,2019,5,18
+2019-05-03,622.0,East,groundnut,2019,5,18
+2019-05-03,608.0,North,groundnut,2019,5,18
+2019-05-03,587.0,South,groundnut,2019,5,18
+2019-05-03,678.0,Littoral,groundnut,2019,5,18
+2019-05-10,579.0,North West,groundnut,2019,5,19
+2019-05-10,612.0,South West,groundnut,2019,5,19
+2019-05-10,617.0,West,groundnut,2019,5,19
+2019-05-10,610.0,Adamawa,groundnut,2019,5,19
+2019-05-10,602.0,Far North,groundnut,2019,5,19
+2019-05-10,579.0,Centre,groundnut,2019,5,19
+2019-05-10,671.0,East,groundnut,2019,5,19
+2019-05-10,598.0,North,groundnut,2019,5,19
+2019-05-10,610.0,South,groundnut,2019,5,19
+2019-05-10,631.0,Littoral,groundnut,2019,5,19
+2019-05-17,673.0,North West,groundnut,2019,5,20
+2019-05-17,690.0,South West,groundnut,2019,5,20
+2019-05-17,610.0,West,groundnut,2019,5,20
+2019-05-17,680.0,Adamawa,groundnut,2019,5,20
+2019-05-17,588.0,Far North,groundnut,2019,5,20
+2019-05-17,655.0,Centre,groundnut,2019,5,20
+2019-05-17,562.0,East,groundnut,2019,5,20
+2019-05-17,548.0,North,groundnut,2019,5,20
+2019-05-17,560.0,South,groundnut,2019,5,20
+2019-05-17,598.0,Littoral,groundnut,2019,5,20
+2019-05-24,534.0,North West,groundnut,2019,5,21
+2019-05-24,632.0,South West,groundnut,2019,5,21
+2019-05-24,581.0,West,groundnut,2019,5,21
+2019-05-24,649.0,Adamawa,groundnut,2019,5,21
+2019-05-24,537.0,Far North,groundnut,2019,5,21
+2019-05-24,564.0,Centre,groundnut,2019,5,21
+2019-05-24,596.0,East,groundnut,2019,5,21
+2019-05-24,591.0,North,groundnut,2019,5,21
+2019-05-24,551.0,South,groundnut,2019,5,21
+2019-05-24,691.0,Littoral,groundnut,2019,5,21
+2019-05-31,567.0,North West,groundnut,2019,5,22
+2019-05-31,674.0,South West,groundnut,2019,5,22
+2019-05-31,594.0,West,groundnut,2019,5,22
+2019-05-31,677.0,Adamawa,groundnut,2019,5,22
+2019-05-31,586.0,Far North,groundnut,2019,5,22
+2019-05-31,532.0,Centre,groundnut,2019,5,22
+2019-05-31,615.0,East,groundnut,2019,5,22
+2019-05-31,616.0,North,groundnut,2019,5,22
+2019-05-31,550.0,South,groundnut,2019,5,22
+2019-05-31,569.0,Littoral,groundnut,2019,5,22
+2019-06-07,605.0,North West,groundnut,2019,6,23
+2019-06-07,493.0,South West,groundnut,2019,6,23
+2019-06-07,561.0,West,groundnut,2019,6,23
+2019-06-07,567.0,Adamawa,groundnut,2019,6,23
+2019-06-07,591.0,Far North,groundnut,2019,6,23
+2019-06-07,493.0,Centre,groundnut,2019,6,23
+2019-06-07,575.0,East,groundnut,2019,6,23
+2019-06-07,488.0,North,groundnut,2019,6,23
+2019-06-07,527.0,South,groundnut,2019,6,23
+2019-06-07,562.0,Littoral,groundnut,2019,6,23
+2019-06-14,531.0,North West,groundnut,2019,6,24
+2019-06-14,567.0,South West,groundnut,2019,6,24
+2019-06-14,622.0,West,groundnut,2019,6,24
+2019-06-14,620.0,Adamawa,groundnut,2019,6,24
+2019-06-14,528.0,Far North,groundnut,2019,6,24
+2019-06-14,550.0,Centre,groundnut,2019,6,24
+2019-06-14,608.0,East,groundnut,2019,6,24
+2019-06-14,490.0,North,groundnut,2019,6,24
+2019-06-14,542.0,South,groundnut,2019,6,24
+2019-06-14,531.0,Littoral,groundnut,2019,6,24
+2019-06-21,490.0,North West,groundnut,2019,6,25
+2019-06-21,586.0,South West,groundnut,2019,6,25
+2019-06-21,551.0,West,groundnut,2019,6,25
+2019-06-21,503.0,Adamawa,groundnut,2019,6,25
+2019-06-21,564.0,Far North,groundnut,2019,6,25
+2019-06-21,517.0,Centre,groundnut,2019,6,25
+2019-06-21,570.0,East,groundnut,2019,6,25
+2019-06-21,486.0,North,groundnut,2019,6,25
+2019-06-21,480.0,South,groundnut,2019,6,25
+2019-06-21,483.0,Littoral,groundnut,2019,6,25
+2019-06-28,439.0,North West,groundnut,2019,6,26
+2019-06-28,548.0,South West,groundnut,2019,6,26
+2019-06-28,536.0,West,groundnut,2019,6,26
+2019-06-28,502.0,Adamawa,groundnut,2019,6,26
+2019-06-28,535.0,Far North,groundnut,2019,6,26
+2019-06-28,540.0,Centre,groundnut,2019,6,26
+2019-06-28,507.0,East,groundnut,2019,6,26
+2019-06-28,487.0,North,groundnut,2019,6,26
+2019-06-28,533.0,South,groundnut,2019,6,26
+2019-06-28,493.0,Littoral,groundnut,2019,6,26
+2019-07-05,437.0,North West,groundnut,2019,7,27
+2019-07-05,468.0,South West,groundnut,2019,7,27
+2019-07-05,478.0,West,groundnut,2019,7,27
+2019-07-05,541.0,Adamawa,groundnut,2019,7,27
+2019-07-05,505.0,Far North,groundnut,2019,7,27
+2019-07-05,533.0,Centre,groundnut,2019,7,27
+2019-07-05,518.0,East,groundnut,2019,7,27
+2019-07-05,460.0,North,groundnut,2019,7,27
+2019-07-05,513.0,South,groundnut,2019,7,27
+2019-07-05,445.0,Littoral,groundnut,2019,7,27
+2019-07-12,513.0,North West,groundnut,2019,7,28
+2019-07-12,542.0,South West,groundnut,2019,7,28
+2019-07-12,466.0,West,groundnut,2019,7,28
+2019-07-12,532.0,Adamawa,groundnut,2019,7,28
+2019-07-12,459.0,Far North,groundnut,2019,7,28
+2019-07-12,504.0,Centre,groundnut,2019,7,28
+2019-07-12,490.0,East,groundnut,2019,7,28
+2019-07-12,506.0,North,groundnut,2019,7,28
+2019-07-12,450.0,South,groundnut,2019,7,28
+2019-07-12,480.0,Littoral,groundnut,2019,7,28
+2019-07-19,506.0,North West,groundnut,2019,7,29
+2019-07-19,492.0,South West,groundnut,2019,7,29
+2019-07-19,491.0,West,groundnut,2019,7,29
+2019-07-19,486.0,Adamawa,groundnut,2019,7,29
+2019-07-19,542.0,Far North,groundnut,2019,7,29
+2019-07-19,541.0,Centre,groundnut,2019,7,29
+2019-07-19,467.0,East,groundnut,2019,7,29
+2019-07-19,466.0,North,groundnut,2019,7,29
+2019-07-19,492.0,South,groundnut,2019,7,29
+2019-07-19,432.0,Littoral,groundnut,2019,7,29
+2019-07-26,432.0,North West,groundnut,2019,7,30
+2019-07-26,483.0,South West,groundnut,2019,7,30
+2019-07-26,452.0,West,groundnut,2019,7,30
+2019-07-26,425.0,Adamawa,groundnut,2019,7,30
+2019-07-26,514.0,Far North,groundnut,2019,7,30
+2019-07-26,512.0,Centre,groundnut,2019,7,30
+2019-07-26,511.0,East,groundnut,2019,7,30
+2019-07-26,452.0,North,groundnut,2019,7,30
+2019-07-26,411.0,South,groundnut,2019,7,30
+2019-07-26,417.0,Littoral,groundnut,2019,7,30
+2019-08-02,436.0,North West,groundnut,2019,8,31
+2019-08-02,429.0,South West,groundnut,2019,8,31
+2019-08-02,510.0,West,groundnut,2019,8,31
+2019-08-02,524.0,Adamawa,groundnut,2019,8,31
+2019-08-02,503.0,Far North,groundnut,2019,8,31
+2019-08-02,492.0,Centre,groundnut,2019,8,31
+2019-08-02,475.0,East,groundnut,2019,8,31
+2019-08-02,497.0,North,groundnut,2019,8,31
+2019-08-02,519.0,South,groundnut,2019,8,31
+2019-08-02,476.0,Littoral,groundnut,2019,8,31
+2019-08-09,480.0,North West,groundnut,2019,8,32
+2019-08-09,448.0,South West,groundnut,2019,8,32
+2019-08-09,520.0,West,groundnut,2019,8,32
+2019-08-09,483.0,Adamawa,groundnut,2019,8,32
+2019-08-09,491.0,Far North,groundnut,2019,8,32
+2019-08-09,408.0,Centre,groundnut,2019,8,32
+2019-08-09,469.0,East,groundnut,2019,8,32
+2019-08-09,461.0,North,groundnut,2019,8,32
+2019-08-09,495.0,South,groundnut,2019,8,32
+2019-08-09,455.0,Littoral,groundnut,2019,8,32
+2019-08-16,533.0,North West,groundnut,2019,8,33
+2019-08-16,495.0,South West,groundnut,2019,8,33
+2019-08-16,493.0,West,groundnut,2019,8,33
+2019-08-16,526.0,Adamawa,groundnut,2019,8,33
+2019-08-16,535.0,Far North,groundnut,2019,8,33
+2019-08-16,435.0,Centre,groundnut,2019,8,33
+2019-08-16,512.0,East,groundnut,2019,8,33
+2019-08-16,431.0,North,groundnut,2019,8,33
+2019-08-16,468.0,South,groundnut,2019,8,33
+2019-08-16,423.0,Littoral,groundnut,2019,8,33
+2019-08-23,487.0,North West,groundnut,2019,8,34
+2019-08-23,494.0,South West,groundnut,2019,8,34
+2019-08-23,486.0,West,groundnut,2019,8,34
+2019-08-23,446.0,Adamawa,groundnut,2019,8,34
+2019-08-23,514.0,Far North,groundnut,2019,8,34
+2019-08-23,478.0,Centre,groundnut,2019,8,34
+2019-08-23,470.0,East,groundnut,2019,8,34
+2019-08-23,532.0,North,groundnut,2019,8,34
+2019-08-23,444.0,South,groundnut,2019,8,34
+2019-08-23,475.0,Littoral,groundnut,2019,8,34
+2019-08-30,537.0,North West,groundnut,2019,8,35
+2019-08-30,461.0,South West,groundnut,2019,8,35
+2019-08-30,493.0,West,groundnut,2019,8,35
+2019-08-30,554.0,Adamawa,groundnut,2019,8,35
+2019-08-30,477.0,Far North,groundnut,2019,8,35
+2019-08-30,512.0,Centre,groundnut,2019,8,35
+2019-08-30,530.0,East,groundnut,2019,8,35
+2019-08-30,536.0,North,groundnut,2019,8,35
+2019-08-30,544.0,South,groundnut,2019,8,35
+2019-08-30,562.0,Littoral,groundnut,2019,8,35
+2019-09-06,588.0,North West,groundnut,2019,9,36
+2019-09-06,525.0,South West,groundnut,2019,9,36
+2019-09-06,623.0,West,groundnut,2019,9,36
+2019-09-06,608.0,Adamawa,groundnut,2019,9,36
+2019-09-06,523.0,Far North,groundnut,2019,9,36
+2019-09-06,580.0,Centre,groundnut,2019,9,36
+2019-09-06,586.0,East,groundnut,2019,9,36
+2019-09-06,544.0,North,groundnut,2019,9,36
+2019-09-06,608.0,South,groundnut,2019,9,36
+2019-09-06,582.0,Littoral,groundnut,2019,9,36
+2019-09-13,566.0,North West,groundnut,2019,9,37
+2019-09-13,503.0,South West,groundnut,2019,9,37
+2019-09-13,530.0,West,groundnut,2019,9,37
+2019-09-13,534.0,Adamawa,groundnut,2019,9,37
+2019-09-13,577.0,Far North,groundnut,2019,9,37
+2019-09-13,560.0,Centre,groundnut,2019,9,37
+2019-09-13,483.0,East,groundnut,2019,9,37
+2019-09-13,516.0,North,groundnut,2019,9,37
+2019-09-13,539.0,South,groundnut,2019,9,37
+2019-09-13,578.0,Littoral,groundnut,2019,9,37
+2019-09-20,493.0,North West,groundnut,2019,9,38
+2019-09-20,518.0,South West,groundnut,2019,9,38
+2019-09-20,513.0,West,groundnut,2019,9,38
+2019-09-20,589.0,Adamawa,groundnut,2019,9,38
+2019-09-20,502.0,Far North,groundnut,2019,9,38
+2019-09-20,543.0,Centre,groundnut,2019,9,38
+2019-09-20,573.0,East,groundnut,2019,9,38
+2019-09-20,616.0,North,groundnut,2019,9,38
+2019-09-20,621.0,South,groundnut,2019,9,38
+2019-09-20,614.0,Littoral,groundnut,2019,9,38
+2019-09-27,616.0,North West,groundnut,2019,9,39
+2019-09-27,620.0,South West,groundnut,2019,9,39
+2019-09-27,622.0,West,groundnut,2019,9,39
+2019-09-27,638.0,Adamawa,groundnut,2019,9,39
+2019-09-27,652.0,Far North,groundnut,2019,9,39
+2019-09-27,573.0,Centre,groundnut,2019,9,39
+2019-09-27,569.0,East,groundnut,2019,9,39
+2019-09-27,576.0,North,groundnut,2019,9,39
+2019-09-27,607.0,South,groundnut,2019,9,39
+2019-09-27,624.0,Littoral,groundnut,2019,9,39
+2019-10-04,580.0,North West,groundnut,2019,10,40
+2019-10-04,679.0,South West,groundnut,2019,10,40
+2019-10-04,559.0,West,groundnut,2019,10,40
+2019-10-04,557.0,Adamawa,groundnut,2019,10,40
+2019-10-04,636.0,Far North,groundnut,2019,10,40
+2019-10-04,550.0,Centre,groundnut,2019,10,40
+2019-10-04,585.0,East,groundnut,2019,10,40
+2019-10-04,568.0,North,groundnut,2019,10,40
+2019-10-04,549.0,South,groundnut,2019,10,40
+2019-10-04,614.0,Littoral,groundnut,2019,10,40
+2019-10-11,618.0,North West,groundnut,2019,10,41
+2019-10-11,633.0,South West,groundnut,2019,10,41
+2019-10-11,587.0,West,groundnut,2019,10,41
+2019-10-11,685.0,Adamawa,groundnut,2019,10,41
+2019-10-11,608.0,Far North,groundnut,2019,10,41
+2019-10-11,612.0,Centre,groundnut,2019,10,41
+2019-10-11,597.0,East,groundnut,2019,10,41
+2019-10-11,628.0,North,groundnut,2019,10,41
+2019-10-11,633.0,South,groundnut,2019,10,41
+2019-10-11,644.0,Littoral,groundnut,2019,10,41
+2019-10-18,655.0,North West,groundnut,2019,10,42
+2019-10-18,566.0,South West,groundnut,2019,10,42
+2019-10-18,671.0,West,groundnut,2019,10,42
+2019-10-18,617.0,Adamawa,groundnut,2019,10,42
+2019-10-18,693.0,Far North,groundnut,2019,10,42
+2019-10-18,710.0,Centre,groundnut,2019,10,42
+2019-10-18,622.0,East,groundnut,2019,10,42
+2019-10-18,629.0,North,groundnut,2019,10,42
+2019-10-18,651.0,South,groundnut,2019,10,42
+2019-10-18,584.0,Littoral,groundnut,2019,10,42
+2019-10-25,717.0,North West,groundnut,2019,10,43
+2019-10-25,633.0,South West,groundnut,2019,10,43
+2019-10-25,587.0,West,groundnut,2019,10,43
+2019-10-25,689.0,Adamawa,groundnut,2019,10,43
+2019-10-25,596.0,Far North,groundnut,2019,10,43
+2019-10-25,583.0,Centre,groundnut,2019,10,43
+2019-10-25,655.0,East,groundnut,2019,10,43
+2019-10-25,673.0,North,groundnut,2019,10,43
+2019-10-25,656.0,South,groundnut,2019,10,43
+2019-10-25,671.0,Littoral,groundnut,2019,10,43
+2019-11-01,649.0,North West,groundnut,2019,11,44
+2019-11-01,759.0,South West,groundnut,2019,11,44
+2019-11-01,593.0,West,groundnut,2019,11,44
+2019-11-01,638.0,Adamawa,groundnut,2019,11,44
+2019-11-01,753.0,Far North,groundnut,2019,11,44
+2019-11-01,761.0,Centre,groundnut,2019,11,44
+2019-11-01,732.0,East,groundnut,2019,11,44
+2019-11-01,598.0,North,groundnut,2019,11,44
+2019-11-01,685.0,South,groundnut,2019,11,44
+2019-11-01,656.0,Littoral,groundnut,2019,11,44
+2019-11-08,729.0,North West,groundnut,2019,11,45
+2019-11-08,594.0,South West,groundnut,2019,11,45
+2019-11-08,620.0,West,groundnut,2019,11,45
+2019-11-08,672.0,Adamawa,groundnut,2019,11,45
+2019-11-08,612.0,Far North,groundnut,2019,11,45
+2019-11-08,708.0,Centre,groundnut,2019,11,45
+2019-11-08,731.0,East,groundnut,2019,11,45
+2019-11-08,711.0,North,groundnut,2019,11,45
+2019-11-08,663.0,South,groundnut,2019,11,45
+2019-11-08,742.0,Littoral,groundnut,2019,11,45
+2019-11-15,685.0,North West,groundnut,2019,11,46
+2019-11-15,607.0,South West,groundnut,2019,11,46
+2019-11-15,613.0,West,groundnut,2019,11,46
+2019-11-15,669.0,Adamawa,groundnut,2019,11,46
+2019-11-15,768.0,Far North,groundnut,2019,11,46
+2019-11-15,762.0,Centre,groundnut,2019,11,46
+2019-11-15,681.0,East,groundnut,2019,11,46
+2019-11-15,622.0,North,groundnut,2019,11,46
+2019-11-15,628.0,South,groundnut,2019,11,46
+2019-11-15,665.0,Littoral,groundnut,2019,11,46
+2019-11-22,639.0,North West,groundnut,2019,11,47
+2019-11-22,615.0,South West,groundnut,2019,11,47
+2019-11-22,724.0,West,groundnut,2019,11,47
+2019-11-22,707.0,Adamawa,groundnut,2019,11,47
+2019-11-22,654.0,Far North,groundnut,2019,11,47
+2019-11-22,743.0,Centre,groundnut,2019,11,47
+2019-11-22,743.0,East,groundnut,2019,11,47
+2019-11-22,690.0,North,groundnut,2019,11,47
+2019-11-22,618.0,South,groundnut,2019,11,47
+2019-11-22,769.0,Littoral,groundnut,2019,11,47
+2019-11-29,703.0,North West,groundnut,2019,11,48
+2019-11-29,666.0,South West,groundnut,2019,11,48
+2019-11-29,708.0,West,groundnut,2019,11,48
+2019-11-29,678.0,Adamawa,groundnut,2019,11,48
+2019-11-29,680.0,Far North,groundnut,2019,11,48
+2019-11-29,726.0,Centre,groundnut,2019,11,48
+2019-11-29,704.0,East,groundnut,2019,11,48
+2019-11-29,607.0,North,groundnut,2019,11,48
+2019-11-29,604.0,South,groundnut,2019,11,48
+2019-11-29,648.0,Littoral,groundnut,2019,11,48
+2019-12-06,729.0,North West,groundnut,2019,12,49
+2019-12-06,698.0,South West,groundnut,2019,12,49
+2019-12-06,773.0,West,groundnut,2019,12,49
+2019-12-06,683.0,Adamawa,groundnut,2019,12,49
+2019-12-06,783.0,Far North,groundnut,2019,12,49
+2019-12-06,797.0,Centre,groundnut,2019,12,49
+2019-12-06,669.0,East,groundnut,2019,12,49
+2019-12-06,773.0,North,groundnut,2019,12,49
+2019-12-06,834.0,South,groundnut,2019,12,49
+2019-12-06,682.0,Littoral,groundnut,2019,12,49
+2019-12-13,789.0,North West,groundnut,2019,12,50
+2019-12-13,679.0,South West,groundnut,2019,12,50
+2019-12-13,821.0,West,groundnut,2019,12,50
+2019-12-13,766.0,Adamawa,groundnut,2019,12,50
+2019-12-13,816.0,Far North,groundnut,2019,12,50
+2019-12-13,834.0,Centre,groundnut,2019,12,50
+2019-12-13,775.0,East,groundnut,2019,12,50
+2019-12-13,722.0,North,groundnut,2019,12,50
+2019-12-13,697.0,South,groundnut,2019,12,50
+2019-12-13,701.0,Littoral,groundnut,2019,12,50
+2019-12-20,883.0,North West,groundnut,2019,12,51
+2019-12-20,724.0,South West,groundnut,2019,12,51
+2019-12-20,780.0,West,groundnut,2019,12,51
+2019-12-20,769.0,Adamawa,groundnut,2019,12,51
+2019-12-20,883.0,Far North,groundnut,2019,12,51
+2019-12-20,800.0,Centre,groundnut,2019,12,51
+2019-12-20,911.0,East,groundnut,2019,12,51
+2019-12-20,855.0,North,groundnut,2019,12,51
+2019-12-20,880.0,South,groundnut,2019,12,51
+2019-12-20,719.0,Littoral,groundnut,2019,12,51
+2019-12-27,787.0,North West,groundnut,2019,12,52
+2019-12-27,840.0,South West,groundnut,2019,12,52
+2019-12-27,724.0,West,groundnut,2019,12,52
+2019-12-27,716.0,Adamawa,groundnut,2019,12,52
+2019-12-27,819.0,Far North,groundnut,2019,12,52
+2019-12-27,737.0,Centre,groundnut,2019,12,52
+2019-12-27,790.0,East,groundnut,2019,12,52
+2019-12-27,699.0,North,groundnut,2019,12,52
+2019-12-27,833.0,South,groundnut,2019,12,52
+2019-12-27,803.0,Littoral,groundnut,2019,12,52
+2020-01-03,830.0,North West,groundnut,2020,1,1
+2020-01-03,751.0,South West,groundnut,2020,1,1
+2020-01-03,752.0,West,groundnut,2020,1,1
+2020-01-03,863.0,Adamawa,groundnut,2020,1,1
+2020-01-03,846.0,Far North,groundnut,2020,1,1
+2020-01-03,816.0,Centre,groundnut,2020,1,1
+2020-01-03,826.0,East,groundnut,2020,1,1
+2020-01-03,713.0,North,groundnut,2020,1,1
+2020-01-03,875.0,South,groundnut,2020,1,1
+2020-01-03,857.0,Littoral,groundnut,2020,1,1
+2020-01-10,759.0,North West,groundnut,2020,1,2
+2020-01-10,874.0,South West,groundnut,2020,1,2
+2020-01-10,935.0,West,groundnut,2020,1,2
+2020-01-10,790.0,Adamawa,groundnut,2020,1,2
+2020-01-10,725.0,Far North,groundnut,2020,1,2
+2020-01-10,884.0,Centre,groundnut,2020,1,2
+2020-01-10,723.0,East,groundnut,2020,1,2
+2020-01-10,915.0,North,groundnut,2020,1,2
+2020-01-10,734.0,South,groundnut,2020,1,2
+2020-01-10,866.0,Littoral,groundnut,2020,1,2
+2020-01-17,813.0,North West,groundnut,2020,1,3
+2020-01-17,774.0,South West,groundnut,2020,1,3
+2020-01-17,929.0,West,groundnut,2020,1,3
+2020-01-17,895.0,Adamawa,groundnut,2020,1,3
+2020-01-17,805.0,Far North,groundnut,2020,1,3
+2020-01-17,792.0,Centre,groundnut,2020,1,3
+2020-01-17,893.0,East,groundnut,2020,1,3
+2020-01-17,915.0,North,groundnut,2020,1,3
+2020-01-17,888.0,South,groundnut,2020,1,3
+2020-01-17,871.0,Littoral,groundnut,2020,1,3
+2020-01-24,912.0,North West,groundnut,2020,1,4
+2020-01-24,859.0,South West,groundnut,2020,1,4
+2020-01-24,858.0,West,groundnut,2020,1,4
+2020-01-24,871.0,Adamawa,groundnut,2020,1,4
+2020-01-24,930.0,Far North,groundnut,2020,1,4
+2020-01-24,910.0,Centre,groundnut,2020,1,4
+2020-01-24,936.0,East,groundnut,2020,1,4
+2020-01-24,857.0,North,groundnut,2020,1,4
+2020-01-24,884.0,South,groundnut,2020,1,4
+2020-01-24,936.0,Littoral,groundnut,2020,1,4
+2020-01-31,782.0,North West,groundnut,2020,1,5
+2020-01-31,829.0,South West,groundnut,2020,1,5
+2020-01-31,869.0,West,groundnut,2020,1,5
+2020-01-31,935.0,Adamawa,groundnut,2020,1,5
+2020-01-31,733.0,Far North,groundnut,2020,1,5
+2020-01-31,777.0,Centre,groundnut,2020,1,5
+2020-01-31,782.0,East,groundnut,2020,1,5
+2020-01-31,803.0,North,groundnut,2020,1,5
+2020-01-31,793.0,South,groundnut,2020,1,5
+2020-01-31,862.0,Littoral,groundnut,2020,1,5
+2020-02-07,785.0,North West,groundnut,2020,2,6
+2020-02-07,924.0,South West,groundnut,2020,2,6
+2020-02-07,873.0,West,groundnut,2020,2,6
+2020-02-07,780.0,Adamawa,groundnut,2020,2,6
+2020-02-07,812.0,Far North,groundnut,2020,2,6
+2020-02-07,908.0,Centre,groundnut,2020,2,6
+2020-02-07,896.0,East,groundnut,2020,2,6
+2020-02-07,860.0,North,groundnut,2020,2,6
+2020-02-07,763.0,South,groundnut,2020,2,6
+2020-02-07,911.0,Littoral,groundnut,2020,2,6
+2020-02-14,813.0,North West,groundnut,2020,2,7
+2020-02-14,919.0,South West,groundnut,2020,2,7
+2020-02-14,891.0,West,groundnut,2020,2,7
+2020-02-14,803.0,Adamawa,groundnut,2020,2,7
+2020-02-14,792.0,Far North,groundnut,2020,2,7
+2020-02-14,773.0,Centre,groundnut,2020,2,7
+2020-02-14,798.0,East,groundnut,2020,2,7
+2020-02-14,779.0,North,groundnut,2020,2,7
+2020-02-14,884.0,South,groundnut,2020,2,7
+2020-02-14,880.0,Littoral,groundnut,2020,2,7
+2020-02-21,965.0,North West,groundnut,2020,2,8
+2020-02-21,989.0,South West,groundnut,2020,2,8
+2020-02-21,827.0,West,groundnut,2020,2,8
+2020-02-21,912.0,Adamawa,groundnut,2020,2,8
+2020-02-21,791.0,Far North,groundnut,2020,2,8
+2020-02-21,801.0,Centre,groundnut,2020,2,8
+2020-02-21,927.0,East,groundnut,2020,2,8
+2020-02-21,888.0,North,groundnut,2020,2,8
+2020-02-21,952.0,South,groundnut,2020,2,8
+2020-02-21,873.0,Littoral,groundnut,2020,2,8
+2020-02-28,808.0,North West,groundnut,2020,2,9
+2020-02-28,986.0,South West,groundnut,2020,2,9
+2020-02-28,797.0,West,groundnut,2020,2,9
+2020-02-28,823.0,Adamawa,groundnut,2020,2,9
+2020-02-28,844.0,Far North,groundnut,2020,2,9
+2020-02-28,1015.0,Centre,groundnut,2020,2,9
+2020-02-28,877.0,East,groundnut,2020,2,9
+2020-02-28,897.0,North,groundnut,2020,2,9
+2020-02-28,961.0,South,groundnut,2020,2,9
+2020-02-28,930.0,Littoral,groundnut,2020,2,9
+2020-03-06,960.0,North West,groundnut,2020,3,10
+2020-03-06,920.0,South West,groundnut,2020,3,10
+2020-03-06,831.0,West,groundnut,2020,3,10
+2020-03-06,826.0,Adamawa,groundnut,2020,3,10
+2020-03-06,951.0,Far North,groundnut,2020,3,10
+2020-03-06,895.0,Centre,groundnut,2020,3,10
+2020-03-06,881.0,East,groundnut,2020,3,10
+2020-03-06,912.0,North,groundnut,2020,3,10
+2020-03-06,867.0,South,groundnut,2020,3,10
+2020-03-06,776.0,Littoral,groundnut,2020,3,10
+2020-03-13,811.0,North West,groundnut,2020,3,11
+2020-03-13,865.0,South West,groundnut,2020,3,11
+2020-03-13,742.0,West,groundnut,2020,3,11
+2020-03-13,837.0,Adamawa,groundnut,2020,3,11
+2020-03-13,909.0,Far North,groundnut,2020,3,11
+2020-03-13,775.0,Centre,groundnut,2020,3,11
+2020-03-13,753.0,East,groundnut,2020,3,11
+2020-03-13,928.0,North,groundnut,2020,3,11
+2020-03-13,878.0,South,groundnut,2020,3,11
+2020-03-13,778.0,Littoral,groundnut,2020,3,11
+2020-03-20,798.0,North West,groundnut,2020,3,12
+2020-03-20,808.0,South West,groundnut,2020,3,12
+2020-03-20,759.0,West,groundnut,2020,3,12
+2020-03-20,910.0,Adamawa,groundnut,2020,3,12
+2020-03-20,837.0,Far North,groundnut,2020,3,12
+2020-03-20,848.0,Centre,groundnut,2020,3,12
+2020-03-20,920.0,East,groundnut,2020,3,12
+2020-03-20,728.0,North,groundnut,2020,3,12
+2020-03-20,739.0,South,groundnut,2020,3,12
+2020-03-20,760.0,Littoral,groundnut,2020,3,12
+2020-03-27,731.0,North West,groundnut,2020,3,13
+2020-03-27,871.0,South West,groundnut,2020,3,13
+2020-03-27,866.0,West,groundnut,2020,3,13
+2020-03-27,771.0,Adamawa,groundnut,2020,3,13
+2020-03-27,758.0,Far North,groundnut,2020,3,13
+2020-03-27,757.0,Centre,groundnut,2020,3,13
+2020-03-27,937.0,East,groundnut,2020,3,13
+2020-03-27,879.0,North,groundnut,2020,3,13
+2020-03-27,855.0,South,groundnut,2020,3,13
+2020-03-27,796.0,Littoral,groundnut,2020,3,13
+2020-04-03,869.0,North West,groundnut,2020,4,14
+2020-04-03,819.0,South West,groundnut,2020,4,14
+2020-04-03,792.0,West,groundnut,2020,4,14
+2020-04-03,785.0,Adamawa,groundnut,2020,4,14
+2020-04-03,768.0,Far North,groundnut,2020,4,14
+2020-04-03,718.0,Centre,groundnut,2020,4,14
+2020-04-03,711.0,East,groundnut,2020,4,14
+2020-04-03,777.0,North,groundnut,2020,4,14
+2020-04-03,679.0,South,groundnut,2020,4,14
+2020-04-03,680.0,Littoral,groundnut,2020,4,14
+2020-04-10,745.0,North West,groundnut,2020,4,15
+2020-04-10,815.0,South West,groundnut,2020,4,15
+2020-04-10,814.0,West,groundnut,2020,4,15
+2020-04-10,638.0,Adamawa,groundnut,2020,4,15
+2020-04-10,656.0,Far North,groundnut,2020,4,15
+2020-04-10,749.0,Centre,groundnut,2020,4,15
+2020-04-10,801.0,East,groundnut,2020,4,15
+2020-04-10,822.0,North,groundnut,2020,4,15
+2020-04-10,803.0,South,groundnut,2020,4,15
+2020-04-10,768.0,Littoral,groundnut,2020,4,15
+2020-04-17,626.0,North West,groundnut,2020,4,16
+2020-04-17,760.0,South West,groundnut,2020,4,16
+2020-04-17,755.0,West,groundnut,2020,4,16
+2020-04-17,635.0,Adamawa,groundnut,2020,4,16
+2020-04-17,792.0,Far North,groundnut,2020,4,16
+2020-04-17,719.0,Centre,groundnut,2020,4,16
+2020-04-17,792.0,East,groundnut,2020,4,16
+2020-04-17,791.0,North,groundnut,2020,4,16
+2020-04-17,657.0,South,groundnut,2020,4,16
+2020-04-17,692.0,Littoral,groundnut,2020,4,16
+2020-04-24,622.0,North West,groundnut,2020,4,17
+2020-04-24,739.0,South West,groundnut,2020,4,17
+2020-04-24,690.0,West,groundnut,2020,4,17
+2020-04-24,768.0,Adamawa,groundnut,2020,4,17
+2020-04-24,636.0,Far North,groundnut,2020,4,17
+2020-04-24,724.0,Centre,groundnut,2020,4,17
+2020-04-24,779.0,East,groundnut,2020,4,17
+2020-04-24,719.0,North,groundnut,2020,4,17
+2020-04-24,610.0,South,groundnut,2020,4,17
+2020-04-24,705.0,Littoral,groundnut,2020,4,17
+2020-05-01,681.0,North West,groundnut,2020,5,18
+2020-05-01,611.0,South West,groundnut,2020,5,18
+2020-05-01,672.0,West,groundnut,2020,5,18
+2020-05-01,551.0,Adamawa,groundnut,2020,5,18
+2020-05-01,551.0,Far North,groundnut,2020,5,18
+2020-05-01,553.0,Centre,groundnut,2020,5,18
+2020-05-01,585.0,East,groundnut,2020,5,18
+2020-05-01,611.0,North,groundnut,2020,5,18
+2020-05-01,651.0,South,groundnut,2020,5,18
+2020-05-01,714.0,Littoral,groundnut,2020,5,18
+2020-05-08,576.0,North West,groundnut,2020,5,19
+2020-05-08,529.0,South West,groundnut,2020,5,19
+2020-05-08,551.0,West,groundnut,2020,5,19
+2020-05-08,663.0,Adamawa,groundnut,2020,5,19
+2020-05-08,631.0,Far North,groundnut,2020,5,19
+2020-05-08,646.0,Centre,groundnut,2020,5,19
+2020-05-08,540.0,East,groundnut,2020,5,19
+2020-05-08,541.0,North,groundnut,2020,5,19
+2020-05-08,538.0,South,groundnut,2020,5,19
+2020-05-08,656.0,Littoral,groundnut,2020,5,19
+2020-05-15,604.0,North West,groundnut,2020,5,20
+2020-05-15,608.0,South West,groundnut,2020,5,20
+2020-05-15,552.0,West,groundnut,2020,5,20
+2020-05-15,623.0,Adamawa,groundnut,2020,5,20
+2020-05-15,528.0,Far North,groundnut,2020,5,20
+2020-05-15,680.0,Centre,groundnut,2020,5,20
+2020-05-15,525.0,East,groundnut,2020,5,20
+2020-05-15,529.0,North,groundnut,2020,5,20
+2020-05-15,573.0,South,groundnut,2020,5,20
+2020-05-15,654.0,Littoral,groundnut,2020,5,20
+2020-05-22,535.0,North West,groundnut,2020,5,21
+2020-05-22,568.0,South West,groundnut,2020,5,21
+2020-05-22,499.0,West,groundnut,2020,5,21
+2020-05-22,508.0,Adamawa,groundnut,2020,5,21
+2020-05-22,588.0,Far North,groundnut,2020,5,21
+2020-05-22,525.0,Centre,groundnut,2020,5,21
+2020-05-22,601.0,East,groundnut,2020,5,21
+2020-05-22,615.0,North,groundnut,2020,5,21
+2020-05-22,625.0,South,groundnut,2020,5,21
+2020-05-22,516.0,Littoral,groundnut,2020,5,21
+2020-05-29,625.0,North West,groundnut,2020,5,22
+2020-05-29,524.0,South West,groundnut,2020,5,22
+2020-05-29,583.0,West,groundnut,2020,5,22
+2020-05-29,648.0,Adamawa,groundnut,2020,5,22
+2020-05-29,574.0,Far North,groundnut,2020,5,22
+2020-05-29,635.0,Centre,groundnut,2020,5,22
+2020-05-29,582.0,East,groundnut,2020,5,22
+2020-05-29,522.0,North,groundnut,2020,5,22
+2020-05-29,528.0,South,groundnut,2020,5,22
+2020-05-29,513.0,Littoral,groundnut,2020,5,22
+2020-06-05,513.0,North West,groundnut,2020,6,23
+2020-06-05,617.0,South West,groundnut,2020,6,23
+2020-06-05,581.0,West,groundnut,2020,6,23
+2020-06-05,594.0,Adamawa,groundnut,2020,6,23
+2020-06-05,576.0,Far North,groundnut,2020,6,23
+2020-06-05,541.0,Centre,groundnut,2020,6,23
+2020-06-05,516.0,East,groundnut,2020,6,23
+2020-06-05,621.0,North,groundnut,2020,6,23
+2020-06-05,560.0,South,groundnut,2020,6,23
+2020-06-05,555.0,Littoral,groundnut,2020,6,23
+2020-06-12,606.0,North West,groundnut,2020,6,24
+2020-06-12,527.0,South West,groundnut,2020,6,24
+2020-06-12,466.0,West,groundnut,2020,6,24
+2020-06-12,537.0,Adamawa,groundnut,2020,6,24
+2020-06-12,555.0,Far North,groundnut,2020,6,24
+2020-06-12,577.0,Centre,groundnut,2020,6,24
+2020-06-12,601.0,East,groundnut,2020,6,24
+2020-06-12,597.0,North,groundnut,2020,6,24
+2020-06-12,601.0,South,groundnut,2020,6,24
+2020-06-12,471.0,Littoral,groundnut,2020,6,24
+2020-06-19,554.0,North West,groundnut,2020,6,25
+2020-06-19,486.0,South West,groundnut,2020,6,25
+2020-06-19,481.0,West,groundnut,2020,6,25
+2020-06-19,567.0,Adamawa,groundnut,2020,6,25
+2020-06-19,513.0,Far North,groundnut,2020,6,25
+2020-06-19,583.0,Centre,groundnut,2020,6,25
+2020-06-19,461.0,East,groundnut,2020,6,25
+2020-06-19,567.0,North,groundnut,2020,6,25
+2020-06-19,474.0,South,groundnut,2020,6,25
+2020-06-19,480.0,Littoral,groundnut,2020,6,25
+2020-06-26,480.0,North West,groundnut,2020,6,26
+2020-06-26,538.0,South West,groundnut,2020,6,26
+2020-06-26,502.0,West,groundnut,2020,6,26
+2020-06-26,455.0,Adamawa,groundnut,2020,6,26
+2020-06-26,440.0,Far North,groundnut,2020,6,26
+2020-06-26,472.0,Centre,groundnut,2020,6,26
+2020-06-26,476.0,East,groundnut,2020,6,26
+2020-06-26,495.0,North,groundnut,2020,6,26
+2020-06-26,452.0,South,groundnut,2020,6,26
+2020-06-26,516.0,Littoral,groundnut,2020,6,26
+2020-07-03,423.0,North West,groundnut,2020,7,27
+2020-07-03,481.0,South West,groundnut,2020,7,27
+2020-07-03,489.0,West,groundnut,2020,7,27
+2020-07-03,437.0,Adamawa,groundnut,2020,7,27
+2020-07-03,515.0,Far North,groundnut,2020,7,27
+2020-07-03,488.0,Centre,groundnut,2020,7,27
+2020-07-03,492.0,East,groundnut,2020,7,27
+2020-07-03,473.0,North,groundnut,2020,7,27
+2020-07-03,525.0,South,groundnut,2020,7,27
+2020-07-03,498.0,Littoral,groundnut,2020,7,27
+2020-07-10,404.0,North West,groundnut,2020,7,28
+2020-07-10,415.0,South West,groundnut,2020,7,28
+2020-07-10,516.0,West,groundnut,2020,7,28
+2020-07-10,445.0,Adamawa,groundnut,2020,7,28
+2020-07-10,504.0,Far North,groundnut,2020,7,28
+2020-07-10,416.0,Centre,groundnut,2020,7,28
+2020-07-10,447.0,East,groundnut,2020,7,28
+2020-07-10,512.0,North,groundnut,2020,7,28
+2020-07-10,406.0,South,groundnut,2020,7,28
+2020-07-10,467.0,Littoral,groundnut,2020,7,28
+2020-07-17,505.0,North West,groundnut,2020,7,29
+2020-07-17,509.0,South West,groundnut,2020,7,29
+2020-07-17,496.0,West,groundnut,2020,7,29
+2020-07-17,497.0,Adamawa,groundnut,2020,7,29
+2020-07-17,473.0,Far North,groundnut,2020,7,29
+2020-07-17,420.0,Centre,groundnut,2020,7,29
+2020-07-17,482.0,East,groundnut,2020,7,29
+2020-07-17,512.0,North,groundnut,2020,7,29
+2020-07-17,457.0,South,groundnut,2020,7,29
+2020-07-17,425.0,Littoral,groundnut,2020,7,29
+2020-07-24,450.0,North West,groundnut,2020,7,30
+2020-07-24,516.0,South West,groundnut,2020,7,30
+2020-07-24,499.0,West,groundnut,2020,7,30
+2020-07-24,502.0,Adamawa,groundnut,2020,7,30
+2020-07-24,462.0,Far North,groundnut,2020,7,30
+2020-07-24,443.0,Centre,groundnut,2020,7,30
+2020-07-24,503.0,East,groundnut,2020,7,30
+2020-07-24,499.0,North,groundnut,2020,7,30
+2020-07-24,466.0,South,groundnut,2020,7,30
+2020-07-24,461.0,Littoral,groundnut,2020,7,30
+2020-07-31,475.0,North West,groundnut,2020,7,31
+2020-07-31,494.0,South West,groundnut,2020,7,31
+2020-07-31,558.0,West,groundnut,2020,7,31
+2020-07-31,530.0,Adamawa,groundnut,2020,7,31
+2020-07-31,541.0,Far North,groundnut,2020,7,31
+2020-07-31,496.0,Centre,groundnut,2020,7,31
+2020-07-31,499.0,East,groundnut,2020,7,31
+2020-07-31,456.0,North,groundnut,2020,7,31
+2020-07-31,524.0,South,groundnut,2020,7,31
+2020-07-31,485.0,Littoral,groundnut,2020,7,31
+2020-08-07,439.0,North West,groundnut,2020,8,32
+2020-08-07,447.0,South West,groundnut,2020,8,32
+2020-08-07,530.0,West,groundnut,2020,8,32
+2020-08-07,458.0,Adamawa,groundnut,2020,8,32
+2020-08-07,459.0,Far North,groundnut,2020,8,32
+2020-08-07,545.0,Centre,groundnut,2020,8,32
+2020-08-07,510.0,East,groundnut,2020,8,32
+2020-08-07,439.0,North,groundnut,2020,8,32
+2020-08-07,443.0,South,groundnut,2020,8,32
+2020-08-07,460.0,Littoral,groundnut,2020,8,32
+2020-08-14,530.0,North West,groundnut,2020,8,33
+2020-08-14,552.0,South West,groundnut,2020,8,33
+2020-08-14,486.0,West,groundnut,2020,8,33
+2020-08-14,568.0,Adamawa,groundnut,2020,8,33
+2020-08-14,464.0,Far North,groundnut,2020,8,33
+2020-08-14,477.0,Centre,groundnut,2020,8,33
+2020-08-14,582.0,East,groundnut,2020,8,33
+2020-08-14,467.0,North,groundnut,2020,8,33
+2020-08-14,571.0,South,groundnut,2020,8,33
+2020-08-14,546.0,Littoral,groundnut,2020,8,33
+2020-08-21,561.0,North West,groundnut,2020,8,34
+2020-08-21,623.0,South West,groundnut,2020,8,34
+2020-08-21,547.0,West,groundnut,2020,8,34
+2020-08-21,551.0,Adamawa,groundnut,2020,8,34
+2020-08-21,501.0,Far North,groundnut,2020,8,34
+2020-08-21,579.0,Centre,groundnut,2020,8,34
+2020-08-21,515.0,East,groundnut,2020,8,34
+2020-08-21,496.0,North,groundnut,2020,8,34
+2020-08-21,632.0,South,groundnut,2020,8,34
+2020-08-21,524.0,Littoral,groundnut,2020,8,34
+2020-08-28,480.0,North West,groundnut,2020,8,35
+2020-08-28,559.0,South West,groundnut,2020,8,35
+2020-08-28,576.0,West,groundnut,2020,8,35
+2020-08-28,469.0,Adamawa,groundnut,2020,8,35
+2020-08-28,475.0,Far North,groundnut,2020,8,35
+2020-08-28,473.0,Centre,groundnut,2020,8,35
+2020-08-28,467.0,East,groundnut,2020,8,35
+2020-08-28,553.0,North,groundnut,2020,8,35
+2020-08-28,543.0,South,groundnut,2020,8,35
+2020-08-28,554.0,Littoral,groundnut,2020,8,35
+2020-09-04,574.0,North West,groundnut,2020,9,36
+2020-09-04,630.0,South West,groundnut,2020,9,36
+2020-09-04,565.0,West,groundnut,2020,9,36
+2020-09-04,611.0,Adamawa,groundnut,2020,9,36
+2020-09-04,553.0,Far North,groundnut,2020,9,36
+2020-09-04,557.0,Centre,groundnut,2020,9,36
+2020-09-04,620.0,East,groundnut,2020,9,36
+2020-09-04,508.0,North,groundnut,2020,9,36
+2020-09-04,577.0,South,groundnut,2020,9,36
+2020-09-04,601.0,Littoral,groundnut,2020,9,36
+2020-09-11,590.0,North West,groundnut,2020,9,37
+2020-09-11,566.0,South West,groundnut,2020,9,37
+2020-09-11,545.0,West,groundnut,2020,9,37
+2020-09-11,518.0,Adamawa,groundnut,2020,9,37
+2020-09-11,613.0,Far North,groundnut,2020,9,37
+2020-09-11,534.0,Centre,groundnut,2020,9,37
+2020-09-11,597.0,East,groundnut,2020,9,37
+2020-09-11,484.0,North,groundnut,2020,9,37
+2020-09-11,513.0,South,groundnut,2020,9,37
+2020-09-11,530.0,Littoral,groundnut,2020,9,37
+2020-09-18,473.0,North West,groundnut,2020,9,38
+2020-09-18,492.0,South West,groundnut,2020,9,38
+2020-09-18,504.0,West,groundnut,2020,9,38
+2020-09-18,492.0,Adamawa,groundnut,2020,9,38
+2020-09-18,496.0,Far North,groundnut,2020,9,38
+2020-09-18,577.0,Centre,groundnut,2020,9,38
+2020-09-18,526.0,East,groundnut,2020,9,38
+2020-09-18,525.0,North,groundnut,2020,9,38
+2020-09-18,606.0,South,groundnut,2020,9,38
+2020-09-18,531.0,Littoral,groundnut,2020,9,38
+2020-09-25,634.0,North West,groundnut,2020,9,39
+2020-09-25,539.0,South West,groundnut,2020,9,39
+2020-09-25,554.0,West,groundnut,2020,9,39
+2020-09-25,554.0,Adamawa,groundnut,2020,9,39
+2020-09-25,577.0,Far North,groundnut,2020,9,39
+2020-09-25,582.0,Centre,groundnut,2020,9,39
+2020-09-25,531.0,East,groundnut,2020,9,39
+2020-09-25,614.0,North,groundnut,2020,9,39
+2020-09-25,569.0,South,groundnut,2020,9,39
+2020-09-25,495.0,Littoral,groundnut,2020,9,39
+2020-10-02,584.0,North West,groundnut,2020,10,40
+2020-10-02,549.0,South West,groundnut,2020,10,40
+2020-10-02,677.0,West,groundnut,2020,10,40
+2020-10-02,705.0,Adamawa,groundnut,2020,10,40
+2020-10-02,555.0,Far North,groundnut,2020,10,40
+2020-10-02,699.0,Centre,groundnut,2020,10,40
+2020-10-02,602.0,East,groundnut,2020,10,40
+2020-10-02,699.0,North,groundnut,2020,10,40
+2020-10-02,651.0,South,groundnut,2020,10,40
+2020-10-02,691.0,Littoral,groundnut,2020,10,40
+2020-10-09,696.0,North West,groundnut,2020,10,41
+2020-10-09,566.0,South West,groundnut,2020,10,41
+2020-10-09,572.0,West,groundnut,2020,10,41
+2020-10-09,651.0,Adamawa,groundnut,2020,10,41
+2020-10-09,583.0,Far North,groundnut,2020,10,41
+2020-10-09,640.0,Centre,groundnut,2020,10,41
+2020-10-09,725.0,East,groundnut,2020,10,41
+2020-10-09,612.0,North,groundnut,2020,10,41
+2020-10-09,645.0,South,groundnut,2020,10,41
+2020-10-09,627.0,Littoral,groundnut,2020,10,41
+2020-10-16,590.0,North West,groundnut,2020,10,42
+2020-10-16,690.0,South West,groundnut,2020,10,42
+2020-10-16,682.0,West,groundnut,2020,10,42
+2020-10-16,679.0,Adamawa,groundnut,2020,10,42
+2020-10-16,676.0,Far North,groundnut,2020,10,42
+2020-10-16,623.0,Centre,groundnut,2020,10,42
+2020-10-16,669.0,East,groundnut,2020,10,42
+2020-10-16,611.0,North,groundnut,2020,10,42
+2020-10-16,563.0,South,groundnut,2020,10,42
+2020-10-16,612.0,Littoral,groundnut,2020,10,42
+2020-10-23,593.0,North West,groundnut,2020,10,43
+2020-10-23,633.0,South West,groundnut,2020,10,43
+2020-10-23,617.0,West,groundnut,2020,10,43
+2020-10-23,669.0,Adamawa,groundnut,2020,10,43
+2020-10-23,628.0,Far North,groundnut,2020,10,43
+2020-10-23,688.0,Centre,groundnut,2020,10,43
+2020-10-23,654.0,East,groundnut,2020,10,43
+2020-10-23,725.0,North,groundnut,2020,10,43
+2020-10-23,581.0,South,groundnut,2020,10,43
+2020-10-23,685.0,Littoral,groundnut,2020,10,43
+2020-10-30,642.0,North West,groundnut,2020,10,44
+2020-10-30,630.0,South West,groundnut,2020,10,44
+2020-10-30,607.0,West,groundnut,2020,10,44
+2020-10-30,623.0,Adamawa,groundnut,2020,10,44
+2020-10-30,665.0,Far North,groundnut,2020,10,44
+2020-10-30,724.0,Centre,groundnut,2020,10,44
+2020-10-30,627.0,East,groundnut,2020,10,44
+2020-10-30,604.0,North,groundnut,2020,10,44
+2020-10-30,624.0,South,groundnut,2020,10,44
+2020-10-30,594.0,Littoral,groundnut,2020,10,44
+2020-11-06,777.0,North West,groundnut,2020,11,45
+2020-11-06,767.0,South West,groundnut,2020,11,45
+2020-11-06,662.0,West,groundnut,2020,11,45
+2020-11-06,651.0,Adamawa,groundnut,2020,11,45
+2020-11-06,773.0,Far North,groundnut,2020,11,45
+2020-11-06,605.0,Centre,groundnut,2020,11,45
+2020-11-06,716.0,East,groundnut,2020,11,45
+2020-11-06,775.0,North,groundnut,2020,11,45
+2020-11-06,699.0,South,groundnut,2020,11,45
+2020-11-06,606.0,Littoral,groundnut,2020,11,45
+2020-11-13,772.0,North West,groundnut,2020,11,46
+2020-11-13,781.0,South West,groundnut,2020,11,46
+2020-11-13,713.0,West,groundnut,2020,11,46
+2020-11-13,666.0,Adamawa,groundnut,2020,11,46
+2020-11-13,736.0,Far North,groundnut,2020,11,46
+2020-11-13,672.0,Centre,groundnut,2020,11,46
+2020-11-13,670.0,East,groundnut,2020,11,46
+2020-11-13,775.0,North,groundnut,2020,11,46
+2020-11-13,651.0,South,groundnut,2020,11,46
+2020-11-13,623.0,Littoral,groundnut,2020,11,46
+2020-11-20,695.0,North West,groundnut,2020,11,47
+2020-11-20,725.0,South West,groundnut,2020,11,47
+2020-11-20,766.0,West,groundnut,2020,11,47
+2020-11-20,781.0,Adamawa,groundnut,2020,11,47
+2020-11-20,758.0,Far North,groundnut,2020,11,47
+2020-11-20,751.0,Centre,groundnut,2020,11,47
+2020-11-20,759.0,East,groundnut,2020,11,47
+2020-11-20,682.0,North,groundnut,2020,11,47
+2020-11-20,704.0,South,groundnut,2020,11,47
+2020-11-20,749.0,Littoral,groundnut,2020,11,47
+2020-11-27,716.0,North West,groundnut,2020,11,48
+2020-11-27,741.0,South West,groundnut,2020,11,48
+2020-11-27,732.0,West,groundnut,2020,11,48
+2020-11-27,777.0,Adamawa,groundnut,2020,11,48
+2020-11-27,729.0,Far North,groundnut,2020,11,48
+2020-11-27,813.0,Centre,groundnut,2020,11,48
+2020-11-27,711.0,East,groundnut,2020,11,48
+2020-11-27,739.0,North,groundnut,2020,11,48
+2020-11-27,637.0,South,groundnut,2020,11,48
+2020-11-27,697.0,Littoral,groundnut,2020,11,48
+2020-12-04,829.0,North West,groundnut,2020,12,49
+2020-12-04,722.0,South West,groundnut,2020,12,49
+2020-12-04,706.0,West,groundnut,2020,12,49
+2020-12-04,764.0,Adamawa,groundnut,2020,12,49
+2020-12-04,671.0,Far North,groundnut,2020,12,49
+2020-12-04,762.0,Centre,groundnut,2020,12,49
+2020-12-04,716.0,East,groundnut,2020,12,49
+2020-12-04,732.0,North,groundnut,2020,12,49
+2020-12-04,814.0,South,groundnut,2020,12,49
+2020-12-04,788.0,Littoral,groundnut,2020,12,49
+2020-12-11,891.0,North West,groundnut,2020,12,50
+2020-12-11,887.0,South West,groundnut,2020,12,50
+2020-12-11,763.0,West,groundnut,2020,12,50
+2020-12-11,788.0,Adamawa,groundnut,2020,12,50
+2020-12-11,799.0,Far North,groundnut,2020,12,50
+2020-12-11,763.0,Centre,groundnut,2020,12,50
+2020-12-11,724.0,East,groundnut,2020,12,50
+2020-12-11,760.0,North,groundnut,2020,12,50
+2020-12-11,900.0,South,groundnut,2020,12,50
+2020-12-11,842.0,Littoral,groundnut,2020,12,50
+2020-12-18,763.0,North West,groundnut,2020,12,51
+2020-12-18,819.0,South West,groundnut,2020,12,51
+2020-12-18,847.0,West,groundnut,2020,12,51
+2020-12-18,765.0,Adamawa,groundnut,2020,12,51
+2020-12-18,789.0,Far North,groundnut,2020,12,51
+2020-12-18,704.0,Centre,groundnut,2020,12,51
+2020-12-18,817.0,East,groundnut,2020,12,51
+2020-12-18,766.0,North,groundnut,2020,12,51
+2020-12-18,782.0,South,groundnut,2020,12,51
+2020-12-18,780.0,Littoral,groundnut,2020,12,51
+2020-12-25,817.0,North West,groundnut,2020,12,52
+2020-12-25,727.0,South West,groundnut,2020,12,52
+2020-12-25,861.0,West,groundnut,2020,12,52
+2020-12-25,918.0,Adamawa,groundnut,2020,12,52
+2020-12-25,894.0,Far North,groundnut,2020,12,52
+2020-12-25,941.0,Centre,groundnut,2020,12,52
+2020-12-25,754.0,East,groundnut,2020,12,52
+2020-12-25,773.0,North,groundnut,2020,12,52
+2020-12-25,843.0,South,groundnut,2020,12,52
+2020-12-25,776.0,Littoral,groundnut,2020,12,52
+2021-01-01,781.0,North West,groundnut,2021,1,53
+2021-01-01,869.0,South West,groundnut,2021,1,53
+2021-01-01,841.0,West,groundnut,2021,1,53
+2021-01-01,836.0,Adamawa,groundnut,2021,1,53
+2021-01-01,999.0,Far North,groundnut,2021,1,53
+2021-01-01,830.0,Centre,groundnut,2021,1,53
+2021-01-01,804.0,East,groundnut,2021,1,53
+2021-01-01,803.0,North,groundnut,2021,1,53
+2021-01-01,965.0,South,groundnut,2021,1,53
+2021-01-01,943.0,Littoral,groundnut,2021,1,53
+2021-01-08,932.0,North West,groundnut,2021,1,1
+2021-01-08,822.0,South West,groundnut,2021,1,1
+2021-01-08,986.0,West,groundnut,2021,1,1
+2021-01-08,884.0,Adamawa,groundnut,2021,1,1
+2021-01-08,803.0,Far North,groundnut,2021,1,1
+2021-01-08,958.0,Centre,groundnut,2021,1,1
+2021-01-08,832.0,East,groundnut,2021,1,1
+2021-01-08,825.0,North,groundnut,2021,1,1
+2021-01-08,834.0,South,groundnut,2021,1,1
+2021-01-08,937.0,Littoral,groundnut,2021,1,1
+2021-01-15,785.0,North West,groundnut,2021,1,2
+2021-01-15,832.0,South West,groundnut,2021,1,2
+2021-01-15,752.0,West,groundnut,2021,1,2
+2021-01-15,934.0,Adamawa,groundnut,2021,1,2
+2021-01-15,823.0,Far North,groundnut,2021,1,2
+2021-01-15,802.0,Centre,groundnut,2021,1,2
+2021-01-15,878.0,East,groundnut,2021,1,2
+2021-01-15,906.0,North,groundnut,2021,1,2
+2021-01-15,931.0,South,groundnut,2021,1,2
+2021-01-15,824.0,Littoral,groundnut,2021,1,2
+2021-01-22,765.0,North West,groundnut,2021,1,3
+2021-01-22,935.0,South West,groundnut,2021,1,3
+2021-01-22,867.0,West,groundnut,2021,1,3
+2021-01-22,879.0,Adamawa,groundnut,2021,1,3
+2021-01-22,956.0,Far North,groundnut,2021,1,3
+2021-01-22,870.0,Centre,groundnut,2021,1,3
+2021-01-22,744.0,East,groundnut,2021,1,3
+2021-01-22,941.0,North,groundnut,2021,1,3
+2021-01-22,807.0,South,groundnut,2021,1,3
+2021-01-22,857.0,Littoral,groundnut,2021,1,3
+2021-01-29,823.0,North West,groundnut,2021,1,4
+2021-01-29,845.0,South West,groundnut,2021,1,4
+2021-01-29,937.0,West,groundnut,2021,1,4
+2021-01-29,876.0,Adamawa,groundnut,2021,1,4
+2021-01-29,923.0,Far North,groundnut,2021,1,4
+2021-01-29,970.0,Centre,groundnut,2021,1,4
+2021-01-29,855.0,East,groundnut,2021,1,4
+2021-01-29,909.0,North,groundnut,2021,1,4
+2021-01-29,959.0,South,groundnut,2021,1,4
+2021-01-29,944.0,Littoral,groundnut,2021,1,4
+2021-02-05,800.0,North West,groundnut,2021,2,5
+2021-02-05,805.0,South West,groundnut,2021,2,5
+2021-02-05,787.0,West,groundnut,2021,2,5
+2021-02-05,863.0,Adamawa,groundnut,2021,2,5
+2021-02-05,738.0,Far North,groundnut,2021,2,5
+2021-02-05,922.0,Centre,groundnut,2021,2,5
+2021-02-05,881.0,East,groundnut,2021,2,5
+2021-02-05,776.0,North,groundnut,2021,2,5
+2021-02-05,720.0,South,groundnut,2021,2,5
+2021-02-05,866.0,Littoral,groundnut,2021,2,5
+2021-02-12,897.0,North West,groundnut,2021,2,6
+2021-02-12,949.0,South West,groundnut,2021,2,6
+2021-02-12,789.0,West,groundnut,2021,2,6
+2021-02-12,751.0,Adamawa,groundnut,2021,2,6
+2021-02-12,938.0,Far North,groundnut,2021,2,6
+2021-02-12,790.0,Centre,groundnut,2021,2,6
+2021-02-12,894.0,East,groundnut,2021,2,6
+2021-02-12,746.0,North,groundnut,2021,2,6
+2021-02-12,903.0,South,groundnut,2021,2,6
+2021-02-12,761.0,Littoral,groundnut,2021,2,6
+2021-02-19,954.0,North West,groundnut,2021,2,7
+2021-02-19,746.0,South West,groundnut,2021,2,7
+2021-02-19,803.0,West,groundnut,2021,2,7
+2021-02-19,753.0,Adamawa,groundnut,2021,2,7
+2021-02-19,936.0,Far North,groundnut,2021,2,7
+2021-02-19,872.0,Centre,groundnut,2021,2,7
+2021-02-19,858.0,East,groundnut,2021,2,7
+2021-02-19,767.0,North,groundnut,2021,2,7
+2021-02-19,848.0,South,groundnut,2021,2,7
+2021-02-19,828.0,Littoral,groundnut,2021,2,7
+2021-02-26,851.0,North West,groundnut,2021,2,8
+2021-02-26,959.0,South West,groundnut,2021,2,8
+2021-02-26,790.0,West,groundnut,2021,2,8
+2021-02-26,929.0,Adamawa,groundnut,2021,2,8
+2021-02-26,971.0,Far North,groundnut,2021,2,8
+2021-02-26,991.0,Centre,groundnut,2021,2,8
+2021-02-26,953.0,East,groundnut,2021,2,8
+2021-02-26,843.0,North,groundnut,2021,2,8
+2021-02-26,918.0,South,groundnut,2021,2,8
+2021-02-26,809.0,Littoral,groundnut,2021,2,8
+2021-03-05,945.0,North West,groundnut,2021,3,9
+2021-03-05,765.0,South West,groundnut,2021,3,9
+2021-03-05,774.0,West,groundnut,2021,3,9
+2021-03-05,879.0,Adamawa,groundnut,2021,3,9
+2021-03-05,799.0,Far North,groundnut,2021,3,9
+2021-03-05,890.0,Centre,groundnut,2021,3,9
+2021-03-05,799.0,East,groundnut,2021,3,9
+2021-03-05,776.0,North,groundnut,2021,3,9
+2021-03-05,875.0,South,groundnut,2021,3,9
+2021-03-05,947.0,Littoral,groundnut,2021,3,9
+2021-03-12,856.0,North West,groundnut,2021,3,10
+2021-03-12,885.0,South West,groundnut,2021,3,10
+2021-03-12,765.0,West,groundnut,2021,3,10
+2021-03-12,900.0,Adamawa,groundnut,2021,3,10
+2021-03-12,789.0,Far North,groundnut,2021,3,10
+2021-03-12,893.0,Centre,groundnut,2021,3,10
+2021-03-12,810.0,East,groundnut,2021,3,10
+2021-03-12,766.0,North,groundnut,2021,3,10
+2021-03-12,764.0,South,groundnut,2021,3,10
+2021-03-12,831.0,Littoral,groundnut,2021,3,10
+2021-03-19,726.0,North West,groundnut,2021,3,11
+2021-03-19,679.0,South West,groundnut,2021,3,11
+2021-03-19,822.0,West,groundnut,2021,3,11
+2021-03-19,801.0,Adamawa,groundnut,2021,3,11
+2021-03-19,846.0,Far North,groundnut,2021,3,11
+2021-03-19,686.0,Centre,groundnut,2021,3,11
+2021-03-19,871.0,East,groundnut,2021,3,11
+2021-03-19,747.0,North,groundnut,2021,3,11
+2021-03-19,868.0,South,groundnut,2021,3,11
+2021-03-19,700.0,Littoral,groundnut,2021,3,11
+2021-03-26,799.0,North West,groundnut,2021,3,12
+2021-03-26,766.0,South West,groundnut,2021,3,12
+2021-03-26,722.0,West,groundnut,2021,3,12
+2021-03-26,666.0,Adamawa,groundnut,2021,3,12
+2021-03-26,771.0,Far North,groundnut,2021,3,12
+2021-03-26,655.0,Centre,groundnut,2021,3,12
+2021-03-26,750.0,East,groundnut,2021,3,12
+2021-03-26,771.0,North,groundnut,2021,3,12
+2021-03-26,796.0,South,groundnut,2021,3,12
+2021-03-26,848.0,Littoral,groundnut,2021,3,12
+2021-04-02,680.0,North West,groundnut,2021,4,13
+2021-04-02,754.0,South West,groundnut,2021,4,13
+2021-04-02,792.0,West,groundnut,2021,4,13
+2021-04-02,800.0,Adamawa,groundnut,2021,4,13
+2021-04-02,795.0,Far North,groundnut,2021,4,13
+2021-04-02,782.0,Centre,groundnut,2021,4,13
+2021-04-02,803.0,East,groundnut,2021,4,13
+2021-04-02,687.0,North,groundnut,2021,4,13
+2021-04-02,795.0,South,groundnut,2021,4,13
+2021-04-02,760.0,Littoral,groundnut,2021,4,13
+2021-04-09,617.0,North West,groundnut,2021,4,14
+2021-04-09,595.0,South West,groundnut,2021,4,14
+2021-04-09,625.0,West,groundnut,2021,4,14
+2021-04-09,727.0,Adamawa,groundnut,2021,4,14
+2021-04-09,700.0,Far North,groundnut,2021,4,14
+2021-04-09,627.0,Centre,groundnut,2021,4,14
+2021-04-09,720.0,East,groundnut,2021,4,14
+2021-04-09,612.0,North,groundnut,2021,4,14
+2021-04-09,735.0,South,groundnut,2021,4,14
+2021-04-09,730.0,Littoral,groundnut,2021,4,14
+2021-04-16,656.0,North West,groundnut,2021,4,15
+2021-04-16,666.0,South West,groundnut,2021,4,15
+2021-04-16,694.0,West,groundnut,2021,4,15
+2021-04-16,760.0,Adamawa,groundnut,2021,4,15
+2021-04-16,689.0,Far North,groundnut,2021,4,15
+2021-04-16,747.0,Centre,groundnut,2021,4,15
+2021-04-16,627.0,East,groundnut,2021,4,15
+2021-04-16,653.0,North,groundnut,2021,4,15
+2021-04-16,672.0,South,groundnut,2021,4,15
+2021-04-16,640.0,Littoral,groundnut,2021,4,15
+2021-04-23,774.0,North West,groundnut,2021,4,16
+2021-04-23,728.0,South West,groundnut,2021,4,16
+2021-04-23,683.0,West,groundnut,2021,4,16
+2021-04-23,733.0,Adamawa,groundnut,2021,4,16
+2021-04-23,681.0,Far North,groundnut,2021,4,16
+2021-04-23,599.0,Centre,groundnut,2021,4,16
+2021-04-23,695.0,East,groundnut,2021,4,16
+2021-04-23,710.0,North,groundnut,2021,4,16
+2021-04-23,775.0,South,groundnut,2021,4,16
+2021-04-23,603.0,Littoral,groundnut,2021,4,16
+2021-04-30,603.0,North West,groundnut,2021,4,17
+2021-04-30,684.0,South West,groundnut,2021,4,17
+2021-04-30,617.0,West,groundnut,2021,4,17
+2021-04-30,709.0,Adamawa,groundnut,2021,4,17
+2021-04-30,667.0,Far North,groundnut,2021,4,17
+2021-04-30,615.0,Centre,groundnut,2021,4,17
+2021-04-30,664.0,East,groundnut,2021,4,17
+2021-04-30,577.0,North,groundnut,2021,4,17
+2021-04-30,729.0,South,groundnut,2021,4,17
+2021-04-30,579.0,Littoral,groundnut,2021,4,17
+2021-05-07,557.0,North West,groundnut,2021,5,18
+2021-05-07,660.0,South West,groundnut,2021,5,18
+2021-05-07,721.0,West,groundnut,2021,5,18
+2021-05-07,701.0,Adamawa,groundnut,2021,5,18
+2021-05-07,598.0,Far North,groundnut,2021,5,18
+2021-05-07,589.0,Centre,groundnut,2021,5,18
+2021-05-07,662.0,East,groundnut,2021,5,18
+2021-05-07,696.0,North,groundnut,2021,5,18
+2021-05-07,617.0,South,groundnut,2021,5,18
+2021-05-07,629.0,Littoral,groundnut,2021,5,18
+2021-05-14,559.0,North West,groundnut,2021,5,19
+2021-05-14,564.0,South West,groundnut,2021,5,19
+2021-05-14,598.0,West,groundnut,2021,5,19
+2021-05-14,534.0,Adamawa,groundnut,2021,5,19
+2021-05-14,607.0,Far North,groundnut,2021,5,19
+2021-05-14,677.0,Centre,groundnut,2021,5,19
+2021-05-14,530.0,East,groundnut,2021,5,19
+2021-05-14,628.0,North,groundnut,2021,5,19
+2021-05-14,662.0,South,groundnut,2021,5,19
+2021-05-14,577.0,Littoral,groundnut,2021,5,19
+2021-05-21,544.0,North West,groundnut,2021,5,20
+2021-05-21,530.0,South West,groundnut,2021,5,20
+2021-05-21,626.0,West,groundnut,2021,5,20
+2021-05-21,611.0,Adamawa,groundnut,2021,5,20
+2021-05-21,559.0,Far North,groundnut,2021,5,20
+2021-05-21,656.0,Centre,groundnut,2021,5,20
+2021-05-21,640.0,East,groundnut,2021,5,20
+2021-05-21,567.0,North,groundnut,2021,5,20
+2021-05-21,643.0,South,groundnut,2021,5,20
+2021-05-21,562.0,Littoral,groundnut,2021,5,20
+2021-05-28,613.0,North West,groundnut,2021,5,21
+2021-05-28,543.0,South West,groundnut,2021,5,21
+2021-05-28,595.0,West,groundnut,2021,5,21
+2021-05-28,533.0,Adamawa,groundnut,2021,5,21
+2021-05-28,619.0,Far North,groundnut,2021,5,21
+2021-05-28,515.0,Centre,groundnut,2021,5,21
+2021-05-28,532.0,East,groundnut,2021,5,21
+2021-05-28,535.0,North,groundnut,2021,5,21
+2021-05-28,512.0,South,groundnut,2021,5,21
+2021-05-28,622.0,Littoral,groundnut,2021,5,21
+2021-06-04,641.0,North West,groundnut,2021,6,22
+2021-06-04,610.0,South West,groundnut,2021,6,22
+2021-06-04,622.0,West,groundnut,2021,6,22
+2021-06-04,493.0,Adamawa,groundnut,2021,6,22
+2021-06-04,510.0,Far North,groundnut,2021,6,22
+2021-06-04,577.0,Centre,groundnut,2021,6,22
+2021-06-04,640.0,East,groundnut,2021,6,22
+2021-06-04,592.0,North,groundnut,2021,6,22
+2021-06-04,549.0,South,groundnut,2021,6,22
+2021-06-04,515.0,Littoral,groundnut,2021,6,22
+2021-06-11,577.0,North West,groundnut,2021,6,23
+2021-06-11,478.0,South West,groundnut,2021,6,23
+2021-06-11,597.0,West,groundnut,2021,6,23
+2021-06-11,610.0,Adamawa,groundnut,2021,6,23
+2021-06-11,602.0,Far North,groundnut,2021,6,23
+2021-06-11,606.0,Centre,groundnut,2021,6,23
+2021-06-11,475.0,East,groundnut,2021,6,23
+2021-06-11,615.0,North,groundnut,2021,6,23
+2021-06-11,526.0,South,groundnut,2021,6,23
+2021-06-11,599.0,Littoral,groundnut,2021,6,23
+2021-06-18,477.0,North West,groundnut,2021,6,24
+2021-06-18,513.0,South West,groundnut,2021,6,24
+2021-06-18,458.0,West,groundnut,2021,6,24
+2021-06-18,457.0,Adamawa,groundnut,2021,6,24
+2021-06-18,582.0,Far North,groundnut,2021,6,24
+2021-06-18,564.0,Centre,groundnut,2021,6,24
+2021-06-18,525.0,East,groundnut,2021,6,24
+2021-06-18,524.0,North,groundnut,2021,6,24
+2021-06-18,555.0,South,groundnut,2021,6,24
+2021-06-18,499.0,Littoral,groundnut,2021,6,24
+2021-06-25,536.0,North West,groundnut,2021,6,25
+2021-06-25,581.0,South West,groundnut,2021,6,25
+2021-06-25,513.0,West,groundnut,2021,6,25
+2021-06-25,506.0,Adamawa,groundnut,2021,6,25
+2021-06-25,573.0,Far North,groundnut,2021,6,25
+2021-06-25,573.0,Centre,groundnut,2021,6,25
+2021-06-25,585.0,East,groundnut,2021,6,25
+2021-06-25,524.0,North,groundnut,2021,6,25
+2021-06-25,496.0,South,groundnut,2021,6,25
+2021-06-25,482.0,Littoral,groundnut,2021,6,25
+2021-07-02,466.0,North West,groundnut,2021,7,26
+2021-07-02,565.0,South West,groundnut,2021,7,26
+2021-07-02,495.0,West,groundnut,2021,7,26
+2021-07-02,548.0,Adamawa,groundnut,2021,7,26
+2021-07-02,591.0,Far North,groundnut,2021,7,26
+2021-07-02,596.0,Centre,groundnut,2021,7,26
+2021-07-02,462.0,East,groundnut,2021,7,26
+2021-07-02,507.0,North,groundnut,2021,7,26
+2021-07-02,580.0,South,groundnut,2021,7,26
+2021-07-02,538.0,Littoral,groundnut,2021,7,26
+2021-07-09,517.0,North West,groundnut,2021,7,27
+2021-07-09,505.0,South West,groundnut,2021,7,27
+2021-07-09,519.0,West,groundnut,2021,7,27
+2021-07-09,547.0,Adamawa,groundnut,2021,7,27
+2021-07-09,507.0,Far North,groundnut,2021,7,27
+2021-07-09,564.0,Centre,groundnut,2021,7,27
+2021-07-09,582.0,East,groundnut,2021,7,27
+2021-07-09,495.0,North,groundnut,2021,7,27
+2021-07-09,590.0,South,groundnut,2021,7,27
+2021-07-09,542.0,Littoral,groundnut,2021,7,27
+2021-07-16,572.0,North West,groundnut,2021,7,28
+2021-07-16,465.0,South West,groundnut,2021,7,28
+2021-07-16,485.0,West,groundnut,2021,7,28
+2021-07-16,495.0,Adamawa,groundnut,2021,7,28
+2021-07-16,492.0,Far North,groundnut,2021,7,28
+2021-07-16,474.0,Centre,groundnut,2021,7,28
+2021-07-16,570.0,East,groundnut,2021,7,28
+2021-07-16,508.0,North,groundnut,2021,7,28
+2021-07-16,583.0,South,groundnut,2021,7,28
+2021-07-16,531.0,Littoral,groundnut,2021,7,28
+2021-07-23,580.0,North West,groundnut,2021,7,29
+2021-07-23,521.0,South West,groundnut,2021,7,29
+2021-07-23,445.0,West,groundnut,2021,7,29
+2021-07-23,572.0,Adamawa,groundnut,2021,7,29
+2021-07-23,476.0,Far North,groundnut,2021,7,29
+2021-07-23,538.0,Centre,groundnut,2021,7,29
+2021-07-23,515.0,East,groundnut,2021,7,29
+2021-07-23,489.0,North,groundnut,2021,7,29
+2021-07-23,483.0,South,groundnut,2021,7,29
+2021-07-23,571.0,Littoral,groundnut,2021,7,29
+2021-07-30,543.0,North West,groundnut,2021,7,30
+2021-07-30,491.0,South West,groundnut,2021,7,30
+2021-07-30,458.0,West,groundnut,2021,7,30
+2021-07-30,438.0,Adamawa,groundnut,2021,7,30
+2021-07-30,445.0,Far North,groundnut,2021,7,30
+2021-07-30,492.0,Centre,groundnut,2021,7,30
+2021-07-30,464.0,East,groundnut,2021,7,30
+2021-07-30,430.0,North,groundnut,2021,7,30
+2021-07-30,484.0,South,groundnut,2021,7,30
+2021-07-30,521.0,Littoral,groundnut,2021,7,30
+2021-08-06,530.0,North West,groundnut,2021,8,31
+2021-08-06,482.0,South West,groundnut,2021,8,31
+2021-08-06,500.0,West,groundnut,2021,8,31
+2021-08-06,531.0,Adamawa,groundnut,2021,8,31
+2021-08-06,531.0,Far North,groundnut,2021,8,31
+2021-08-06,490.0,Centre,groundnut,2021,8,31
+2021-08-06,506.0,East,groundnut,2021,8,31
+2021-08-06,557.0,North,groundnut,2021,8,31
+2021-08-06,518.0,South,groundnut,2021,8,31
+2021-08-06,519.0,Littoral,groundnut,2021,8,31
+2021-08-13,558.0,North West,groundnut,2021,8,32
+2021-08-13,466.0,South West,groundnut,2021,8,32
+2021-08-13,522.0,West,groundnut,2021,8,32
+2021-08-13,583.0,Adamawa,groundnut,2021,8,32
+2021-08-13,500.0,Far North,groundnut,2021,8,32
+2021-08-13,491.0,Centre,groundnut,2021,8,32
+2021-08-13,533.0,East,groundnut,2021,8,32
+2021-08-13,481.0,North,groundnut,2021,8,32
+2021-08-13,527.0,South,groundnut,2021,8,32
+2021-08-13,472.0,Littoral,groundnut,2021,8,32
+2021-08-20,535.0,North West,groundnut,2021,8,33
+2021-08-20,530.0,South West,groundnut,2021,8,33
+2021-08-20,510.0,West,groundnut,2021,8,33
+2021-08-20,522.0,Adamawa,groundnut,2021,8,33
+2021-08-20,546.0,Far North,groundnut,2021,8,33
+2021-08-20,510.0,Centre,groundnut,2021,8,33
+2021-08-20,588.0,East,groundnut,2021,8,33
+2021-08-20,577.0,North,groundnut,2021,8,33
+2021-08-20,513.0,South,groundnut,2021,8,33
+2021-08-20,488.0,Littoral,groundnut,2021,8,33
+2021-08-27,485.0,North West,groundnut,2021,8,34
+2021-08-27,574.0,South West,groundnut,2021,8,34
+2021-08-27,517.0,West,groundnut,2021,8,34
+2021-08-27,487.0,Adamawa,groundnut,2021,8,34
+2021-08-27,539.0,Far North,groundnut,2021,8,34
+2021-08-27,628.0,Centre,groundnut,2021,8,34
+2021-08-27,588.0,East,groundnut,2021,8,34
+2021-08-27,613.0,North,groundnut,2021,8,34
+2021-08-27,507.0,South,groundnut,2021,8,34
+2021-08-27,496.0,Littoral,groundnut,2021,8,34
+2021-09-03,545.0,North West,groundnut,2021,9,35
+2021-09-03,595.0,South West,groundnut,2021,9,35
+2021-09-03,533.0,West,groundnut,2021,9,35
+2021-09-03,566.0,Adamawa,groundnut,2021,9,35
+2021-09-03,635.0,Far North,groundnut,2021,9,35
+2021-09-03,553.0,Centre,groundnut,2021,9,35
+2021-09-03,569.0,East,groundnut,2021,9,35
+2021-09-03,561.0,North,groundnut,2021,9,35
+2021-09-03,606.0,South,groundnut,2021,9,35
+2021-09-03,526.0,Littoral,groundnut,2021,9,35
+2021-09-10,489.0,North West,groundnut,2021,9,36
+2021-09-10,572.0,South West,groundnut,2021,9,36
+2021-09-10,524.0,West,groundnut,2021,9,36
+2021-09-10,595.0,Adamawa,groundnut,2021,9,36
+2021-09-10,556.0,Far North,groundnut,2021,9,36
+2021-09-10,545.0,Centre,groundnut,2021,9,36
+2021-09-10,475.0,East,groundnut,2021,9,36
+2021-09-10,569.0,North,groundnut,2021,9,36
+2021-09-10,562.0,South,groundnut,2021,9,36
+2021-09-10,556.0,Littoral,groundnut,2021,9,36
+2021-09-17,605.0,North West,groundnut,2021,9,37
+2021-09-17,571.0,South West,groundnut,2021,9,37
+2021-09-17,523.0,West,groundnut,2021,9,37
+2021-09-17,598.0,Adamawa,groundnut,2021,9,37
+2021-09-17,477.0,Far North,groundnut,2021,9,37
+2021-09-17,477.0,Centre,groundnut,2021,9,37
+2021-09-17,562.0,East,groundnut,2021,9,37
+2021-09-17,490.0,North,groundnut,2021,9,37
+2021-09-17,595.0,South,groundnut,2021,9,37
+2021-09-17,584.0,Littoral,groundnut,2021,9,37
+2021-09-24,515.0,North West,groundnut,2021,9,38
+2021-09-24,599.0,South West,groundnut,2021,9,38
+2021-09-24,477.0,West,groundnut,2021,9,38
+2021-09-24,550.0,Adamawa,groundnut,2021,9,38
+2021-09-24,606.0,Far North,groundnut,2021,9,38
+2021-09-24,594.0,Centre,groundnut,2021,9,38
+2021-09-24,522.0,East,groundnut,2021,9,38
+2021-09-24,497.0,North,groundnut,2021,9,38
+2021-09-24,501.0,South,groundnut,2021,9,38
+2021-09-24,545.0,Littoral,groundnut,2021,9,38
+2021-10-01,563.0,North West,groundnut,2021,10,39
+2021-10-01,627.0,South West,groundnut,2021,10,39
+2021-10-01,568.0,West,groundnut,2021,10,39
+2021-10-01,526.0,Adamawa,groundnut,2021,10,39
+2021-10-01,646.0,Far North,groundnut,2021,10,39
+2021-10-01,540.0,Centre,groundnut,2021,10,39
+2021-10-01,622.0,East,groundnut,2021,10,39
+2021-10-01,529.0,North,groundnut,2021,10,39
+2021-10-01,564.0,South,groundnut,2021,10,39
+2021-10-01,575.0,Littoral,groundnut,2021,10,39
+2021-10-08,610.0,North West,groundnut,2021,10,40
+2021-10-08,613.0,South West,groundnut,2021,10,40
+2021-10-08,565.0,West,groundnut,2021,10,40
+2021-10-08,613.0,Adamawa,groundnut,2021,10,40
+2021-10-08,607.0,Far North,groundnut,2021,10,40
+2021-10-08,563.0,Centre,groundnut,2021,10,40
+2021-10-08,689.0,East,groundnut,2021,10,40
+2021-10-08,669.0,North,groundnut,2021,10,40
+2021-10-08,673.0,South,groundnut,2021,10,40
+2021-10-08,640.0,Littoral,groundnut,2021,10,40
+2021-10-15,691.0,North West,groundnut,2021,10,41
+2021-10-15,559.0,South West,groundnut,2021,10,41
+2021-10-15,636.0,West,groundnut,2021,10,41
+2021-10-15,619.0,Adamawa,groundnut,2021,10,41
+2021-10-15,588.0,Far North,groundnut,2021,10,41
+2021-10-15,616.0,Centre,groundnut,2021,10,41
+2021-10-15,719.0,East,groundnut,2021,10,41
+2021-10-15,675.0,North,groundnut,2021,10,41
+2021-10-15,603.0,South,groundnut,2021,10,41
+2021-10-15,655.0,Littoral,groundnut,2021,10,41
+2021-10-22,584.0,North West,groundnut,2021,10,42
+2021-10-22,645.0,South West,groundnut,2021,10,42
+2021-10-22,693.0,West,groundnut,2021,10,42
+2021-10-22,636.0,Adamawa,groundnut,2021,10,42
+2021-10-22,665.0,Far North,groundnut,2021,10,42
+2021-10-22,619.0,Centre,groundnut,2021,10,42
+2021-10-22,631.0,East,groundnut,2021,10,42
+2021-10-22,659.0,North,groundnut,2021,10,42
+2021-10-22,679.0,South,groundnut,2021,10,42
+2021-10-22,653.0,Littoral,groundnut,2021,10,42
+2021-10-29,617.0,North West,groundnut,2021,10,43
+2021-10-29,643.0,South West,groundnut,2021,10,43
+2021-10-29,666.0,West,groundnut,2021,10,43
+2021-10-29,648.0,Adamawa,groundnut,2021,10,43
+2021-10-29,715.0,Far North,groundnut,2021,10,43
+2021-10-29,572.0,Centre,groundnut,2021,10,43
+2021-10-29,604.0,East,groundnut,2021,10,43
+2021-10-29,721.0,North,groundnut,2021,10,43
+2021-10-29,578.0,South,groundnut,2021,10,43
+2021-10-29,607.0,Littoral,groundnut,2021,10,43
+2021-11-05,675.0,North West,groundnut,2021,11,44
+2021-11-05,749.0,South West,groundnut,2021,11,44
+2021-11-05,714.0,West,groundnut,2021,11,44
+2021-11-05,788.0,Adamawa,groundnut,2021,11,44
+2021-11-05,652.0,Far North,groundnut,2021,11,44
+2021-11-05,772.0,Centre,groundnut,2021,11,44
+2021-11-05,662.0,East,groundnut,2021,11,44
+2021-11-05,655.0,North,groundnut,2021,11,44
+2021-11-05,702.0,South,groundnut,2021,11,44
+2021-11-05,622.0,Littoral,groundnut,2021,11,44
+2021-11-12,627.0,North West,groundnut,2021,11,45
+2021-11-12,756.0,South West,groundnut,2021,11,45
+2021-11-12,668.0,West,groundnut,2021,11,45
+2021-11-12,778.0,Adamawa,groundnut,2021,11,45
+2021-11-12,763.0,Far North,groundnut,2021,11,45
+2021-11-12,633.0,Centre,groundnut,2021,11,45
+2021-11-12,690.0,East,groundnut,2021,11,45
+2021-11-12,708.0,North,groundnut,2021,11,45
+2021-11-12,748.0,South,groundnut,2021,11,45
+2021-11-12,760.0,Littoral,groundnut,2021,11,45
+2021-11-19,710.0,North West,groundnut,2021,11,46
+2021-11-19,602.0,South West,groundnut,2021,11,46
+2021-11-19,684.0,West,groundnut,2021,11,46
+2021-11-19,758.0,Adamawa,groundnut,2021,11,46
+2021-11-19,727.0,Far North,groundnut,2021,11,46
+2021-11-19,755.0,Centre,groundnut,2021,11,46
+2021-11-19,719.0,East,groundnut,2021,11,46
+2021-11-19,604.0,North,groundnut,2021,11,46
+2021-11-19,773.0,South,groundnut,2021,11,46
+2021-11-19,764.0,Littoral,groundnut,2021,11,46
+2021-11-26,729.0,North West,groundnut,2021,11,47
+2021-11-26,680.0,South West,groundnut,2021,11,47
+2021-11-26,755.0,West,groundnut,2021,11,47
+2021-11-26,720.0,Adamawa,groundnut,2021,11,47
+2021-11-26,723.0,Far North,groundnut,2021,11,47
+2021-11-26,782.0,Centre,groundnut,2021,11,47
+2021-11-26,830.0,East,groundnut,2021,11,47
+2021-11-26,765.0,North,groundnut,2021,11,47
+2021-11-26,790.0,South,groundnut,2021,11,47
+2021-11-26,785.0,Littoral,groundnut,2021,11,47
+2021-12-03,799.0,North West,groundnut,2021,12,48
+2021-12-03,749.0,South West,groundnut,2021,12,48
+2021-12-03,763.0,West,groundnut,2021,12,48
+2021-12-03,750.0,Adamawa,groundnut,2021,12,48
+2021-12-03,876.0,Far North,groundnut,2021,12,48
+2021-12-03,857.0,Centre,groundnut,2021,12,48
+2021-12-03,805.0,East,groundnut,2021,12,48
+2021-12-03,875.0,North,groundnut,2021,12,48
+2021-12-03,870.0,South,groundnut,2021,12,48
+2021-12-03,878.0,Littoral,groundnut,2021,12,48
+2021-12-10,850.0,North West,groundnut,2021,12,49
+2021-12-10,877.0,South West,groundnut,2021,12,49
+2021-12-10,774.0,West,groundnut,2021,12,49
+2021-12-10,869.0,Adamawa,groundnut,2021,12,49
+2021-12-10,806.0,Far North,groundnut,2021,12,49
+2021-12-10,899.0,Centre,groundnut,2021,12,49
+2021-12-10,891.0,East,groundnut,2021,12,49
+2021-12-10,763.0,North,groundnut,2021,12,49
+2021-12-10,757.0,South,groundnut,2021,12,49
+2021-12-10,874.0,Littoral,groundnut,2021,12,49
+2021-12-17,821.0,North West,groundnut,2021,12,50
+2021-12-17,822.0,South West,groundnut,2021,12,50
+2021-12-17,864.0,West,groundnut,2021,12,50
+2021-12-17,886.0,Adamawa,groundnut,2021,12,50
+2021-12-17,754.0,Far North,groundnut,2021,12,50
+2021-12-17,822.0,Centre,groundnut,2021,12,50
+2021-12-17,881.0,East,groundnut,2021,12,50
+2021-12-17,890.0,North,groundnut,2021,12,50
+2021-12-17,764.0,South,groundnut,2021,12,50
+2021-12-17,725.0,Littoral,groundnut,2021,12,50
+2021-12-24,663.0,North West,groundnut,2021,12,51
+2021-12-24,671.0,South West,groundnut,2021,12,51
+2021-12-24,796.0,West,groundnut,2021,12,51
+2021-12-24,780.0,Adamawa,groundnut,2021,12,51
+2021-12-24,777.0,Far North,groundnut,2021,12,51
+2021-12-24,683.0,Centre,groundnut,2021,12,51
+2021-12-24,732.0,East,groundnut,2021,12,51
+2021-12-24,825.0,North,groundnut,2021,12,51
+2021-12-24,696.0,South,groundnut,2021,12,51
+2021-12-24,839.0,Littoral,groundnut,2021,12,51
+2021-12-31,684.0,North West,groundnut,2021,12,52
+2021-12-31,694.0,South West,groundnut,2021,12,52
+2021-12-31,756.0,West,groundnut,2021,12,52
+2021-12-31,851.0,Adamawa,groundnut,2021,12,52
+2021-12-31,726.0,Far North,groundnut,2021,12,52
+2021-12-31,793.0,Centre,groundnut,2021,12,52
+2021-12-31,779.0,East,groundnut,2021,12,52
+2021-12-31,690.0,North,groundnut,2021,12,52
+2021-12-31,710.0,South,groundnut,2021,12,52
+2021-12-31,848.0,Littoral,groundnut,2021,12,52
+2022-01-07,912.0,North West,groundnut,2022,1,1
+2022-01-07,729.0,South West,groundnut,2022,1,1
+2022-01-07,790.0,West,groundnut,2022,1,1
+2022-01-07,752.0,Adamawa,groundnut,2022,1,1
+2022-01-07,751.0,Far North,groundnut,2022,1,1
+2022-01-07,729.0,Centre,groundnut,2022,1,1
+2022-01-07,844.0,East,groundnut,2022,1,1
+2022-01-07,865.0,North,groundnut,2022,1,1
+2022-01-07,850.0,South,groundnut,2022,1,1
+2022-01-07,903.0,Littoral,groundnut,2022,1,1
+2022-01-14,731.0,North West,groundnut,2022,1,2
+2022-01-14,768.0,South West,groundnut,2022,1,2
+2022-01-14,774.0,West,groundnut,2022,1,2
+2022-01-14,750.0,Adamawa,groundnut,2022,1,2
+2022-01-14,730.0,Far North,groundnut,2022,1,2
+2022-01-14,804.0,Centre,groundnut,2022,1,2
+2022-01-14,879.0,East,groundnut,2022,1,2
+2022-01-14,905.0,North,groundnut,2022,1,2
+2022-01-14,728.0,South,groundnut,2022,1,2
+2022-01-14,876.0,Littoral,groundnut,2022,1,2
+2022-01-21,733.0,North West,groundnut,2022,1,3
+2022-01-21,925.0,South West,groundnut,2022,1,3
+2022-01-21,852.0,West,groundnut,2022,1,3
+2022-01-21,923.0,Adamawa,groundnut,2022,1,3
+2022-01-21,815.0,Far North,groundnut,2022,1,3
+2022-01-21,795.0,Centre,groundnut,2022,1,3
+2022-01-21,763.0,East,groundnut,2022,1,3
+2022-01-21,923.0,North,groundnut,2022,1,3
+2022-01-21,765.0,South,groundnut,2022,1,3
+2022-01-21,715.0,Littoral,groundnut,2022,1,3
+2022-01-28,870.0,North West,groundnut,2022,1,4
+2022-01-28,839.0,South West,groundnut,2022,1,4
+2022-01-28,812.0,West,groundnut,2022,1,4
+2022-01-28,898.0,Adamawa,groundnut,2022,1,4
+2022-01-28,836.0,Far North,groundnut,2022,1,4
+2022-01-28,845.0,Centre,groundnut,2022,1,4
+2022-01-28,757.0,East,groundnut,2022,1,4
+2022-01-28,888.0,North,groundnut,2022,1,4
+2022-01-28,780.0,South,groundnut,2022,1,4
+2022-01-28,801.0,Littoral,groundnut,2022,1,4
+2022-02-04,763.0,North West,groundnut,2022,2,5
+2022-02-04,856.0,South West,groundnut,2022,2,5
+2022-02-04,775.0,West,groundnut,2022,2,5
+2022-02-04,787.0,Adamawa,groundnut,2022,2,5
+2022-02-04,865.0,Far North,groundnut,2022,2,5
+2022-02-04,892.0,Centre,groundnut,2022,2,5
+2022-02-04,892.0,East,groundnut,2022,2,5
+2022-02-04,834.0,North,groundnut,2022,2,5
+2022-02-04,828.0,South,groundnut,2022,2,5
+2022-02-04,903.0,Littoral,groundnut,2022,2,5
+2022-02-11,801.0,North West,groundnut,2022,2,6
+2022-02-11,792.0,South West,groundnut,2022,2,6
+2022-02-11,910.0,West,groundnut,2022,2,6
+2022-02-11,851.0,Adamawa,groundnut,2022,2,6
+2022-02-11,921.0,Far North,groundnut,2022,2,6
+2022-02-11,816.0,Centre,groundnut,2022,2,6
+2022-02-11,832.0,East,groundnut,2022,2,6
+2022-02-11,964.0,North,groundnut,2022,2,6
+2022-02-11,854.0,South,groundnut,2022,2,6
+2022-02-11,893.0,Littoral,groundnut,2022,2,6
+2022-02-18,977.0,North West,groundnut,2022,2,7
+2022-02-18,951.0,South West,groundnut,2022,2,7
+2022-02-18,895.0,West,groundnut,2022,2,7
+2022-02-18,948.0,Adamawa,groundnut,2022,2,7
+2022-02-18,887.0,Far North,groundnut,2022,2,7
+2022-02-18,835.0,Centre,groundnut,2022,2,7
+2022-02-18,790.0,East,groundnut,2022,2,7
+2022-02-18,900.0,North,groundnut,2022,2,7
+2022-02-18,794.0,South,groundnut,2022,2,7
+2022-02-18,846.0,Littoral,groundnut,2022,2,7
+2022-02-25,923.0,North West,groundnut,2022,2,8
+2022-02-25,766.0,South West,groundnut,2022,2,8
+2022-02-25,766.0,West,groundnut,2022,2,8
+2022-02-25,787.0,Adamawa,groundnut,2022,2,8
+2022-02-25,861.0,Far North,groundnut,2022,2,8
+2022-02-25,793.0,Centre,groundnut,2022,2,8
+2022-02-25,850.0,East,groundnut,2022,2,8
+2022-02-25,805.0,North,groundnut,2022,2,8
+2022-02-25,851.0,South,groundnut,2022,2,8
+2022-02-25,799.0,Littoral,groundnut,2022,2,8
+2022-03-04,884.0,North West,groundnut,2022,3,9
+2022-03-04,874.0,South West,groundnut,2022,3,9
+2022-03-04,828.0,West,groundnut,2022,3,9
+2022-03-04,772.0,Adamawa,groundnut,2022,3,9
+2022-03-04,832.0,Far North,groundnut,2022,3,9
+2022-03-04,870.0,Centre,groundnut,2022,3,9
+2022-03-04,821.0,East,groundnut,2022,3,9
+2022-03-04,738.0,North,groundnut,2022,3,9
+2022-03-04,723.0,South,groundnut,2022,3,9
+2022-03-04,792.0,Littoral,groundnut,2022,3,9
+2022-03-11,749.0,North West,groundnut,2022,3,10
+2022-03-11,915.0,South West,groundnut,2022,3,10
+2022-03-11,755.0,West,groundnut,2022,3,10
+2022-03-11,803.0,Adamawa,groundnut,2022,3,10
+2022-03-11,873.0,Far North,groundnut,2022,3,10
+2022-03-11,895.0,Centre,groundnut,2022,3,10
+2022-03-11,821.0,East,groundnut,2022,3,10
+2022-03-11,756.0,North,groundnut,2022,3,10
+2022-03-11,776.0,South,groundnut,2022,3,10
+2022-03-11,808.0,Littoral,groundnut,2022,3,10
+2022-03-18,704.0,North West,groundnut,2022,3,11
+2022-03-18,866.0,South West,groundnut,2022,3,11
+2022-03-18,683.0,West,groundnut,2022,3,11
+2022-03-18,768.0,Adamawa,groundnut,2022,3,11
+2022-03-18,880.0,Far North,groundnut,2022,3,11
+2022-03-18,814.0,Centre,groundnut,2022,3,11
+2022-03-18,750.0,East,groundnut,2022,3,11
+2022-03-18,707.0,North,groundnut,2022,3,11
+2022-03-18,877.0,South,groundnut,2022,3,11
+2022-03-18,680.0,Littoral,groundnut,2022,3,11
+2022-03-25,789.0,North West,groundnut,2022,3,12
+2022-03-25,828.0,South West,groundnut,2022,3,12
+2022-03-25,657.0,West,groundnut,2022,3,12
+2022-03-25,797.0,Adamawa,groundnut,2022,3,12
+2022-03-25,852.0,Far North,groundnut,2022,3,12
+2022-03-25,780.0,Centre,groundnut,2022,3,12
+2022-03-25,735.0,East,groundnut,2022,3,12
+2022-03-25,827.0,North,groundnut,2022,3,12
+2022-03-25,763.0,South,groundnut,2022,3,12
+2022-03-25,802.0,Littoral,groundnut,2022,3,12
+2022-04-01,668.0,North West,groundnut,2022,4,13
+2022-04-01,642.0,South West,groundnut,2022,4,13
+2022-04-01,648.0,West,groundnut,2022,4,13
+2022-04-01,630.0,Adamawa,groundnut,2022,4,13
+2022-04-01,708.0,Far North,groundnut,2022,4,13
+2022-04-01,661.0,Centre,groundnut,2022,4,13
+2022-04-01,792.0,East,groundnut,2022,4,13
+2022-04-01,771.0,North,groundnut,2022,4,13
+2022-04-01,737.0,South,groundnut,2022,4,13
+2022-04-01,721.0,Littoral,groundnut,2022,4,13
+2022-04-08,669.0,North West,groundnut,2022,4,14
+2022-04-08,710.0,South West,groundnut,2022,4,14
+2022-04-08,742.0,West,groundnut,2022,4,14
+2022-04-08,769.0,Adamawa,groundnut,2022,4,14
+2022-04-08,636.0,Far North,groundnut,2022,4,14
+2022-04-08,755.0,Centre,groundnut,2022,4,14
+2022-04-08,761.0,East,groundnut,2022,4,14
+2022-04-08,726.0,North,groundnut,2022,4,14
+2022-04-08,661.0,South,groundnut,2022,4,14
+2022-04-08,723.0,Littoral,groundnut,2022,4,14
+2022-04-15,629.0,North West,groundnut,2022,4,15
+2022-04-15,570.0,South West,groundnut,2022,4,15
+2022-04-15,582.0,West,groundnut,2022,4,15
+2022-04-15,568.0,Adamawa,groundnut,2022,4,15
+2022-04-15,593.0,Far North,groundnut,2022,4,15
+2022-04-15,596.0,Centre,groundnut,2022,4,15
+2022-04-15,593.0,East,groundnut,2022,4,15
+2022-04-15,587.0,North,groundnut,2022,4,15
+2022-04-15,676.0,South,groundnut,2022,4,15
+2022-04-15,690.0,Littoral,groundnut,2022,4,15
+2022-04-22,630.0,North West,groundnut,2022,4,16
+2022-04-22,626.0,South West,groundnut,2022,4,16
+2022-04-22,721.0,West,groundnut,2022,4,16
+2022-04-22,682.0,Adamawa,groundnut,2022,4,16
+2022-04-22,624.0,Far North,groundnut,2022,4,16
+2022-04-22,698.0,Centre,groundnut,2022,4,16
+2022-04-22,633.0,East,groundnut,2022,4,16
+2022-04-22,676.0,North,groundnut,2022,4,16
+2022-04-22,747.0,South,groundnut,2022,4,16
+2022-04-22,625.0,Littoral,groundnut,2022,4,16
+2022-04-29,672.0,North West,groundnut,2022,4,17
+2022-04-29,658.0,South West,groundnut,2022,4,17
+2022-04-29,715.0,West,groundnut,2022,4,17
+2022-04-29,588.0,Adamawa,groundnut,2022,4,17
+2022-04-29,688.0,Far North,groundnut,2022,4,17
+2022-04-29,711.0,Centre,groundnut,2022,4,17
+2022-04-29,660.0,East,groundnut,2022,4,17
+2022-04-29,595.0,North,groundnut,2022,4,17
+2022-04-29,620.0,South,groundnut,2022,4,17
+2022-04-29,697.0,Littoral,groundnut,2022,4,17
+2022-05-06,721.0,North West,groundnut,2022,5,18
+2022-05-06,639.0,South West,groundnut,2022,5,18
+2022-05-06,663.0,West,groundnut,2022,5,18
+2022-05-06,605.0,Adamawa,groundnut,2022,5,18
+2022-05-06,637.0,Far North,groundnut,2022,5,18
+2022-05-06,624.0,Centre,groundnut,2022,5,18
+2022-05-06,680.0,East,groundnut,2022,5,18
+2022-05-06,737.0,North,groundnut,2022,5,18
+2022-05-06,707.0,South,groundnut,2022,5,18
+2022-05-06,599.0,Littoral,groundnut,2022,5,18
+2022-05-13,581.0,North West,groundnut,2022,5,19
+2022-05-13,568.0,South West,groundnut,2022,5,19
+2022-05-13,595.0,West,groundnut,2022,5,19
+2022-05-13,652.0,Adamawa,groundnut,2022,5,19
+2022-05-13,622.0,Far North,groundnut,2022,5,19
+2022-05-13,694.0,Centre,groundnut,2022,5,19
+2022-05-13,575.0,East,groundnut,2022,5,19
+2022-05-13,600.0,North,groundnut,2022,5,19
+2022-05-13,594.0,South,groundnut,2022,5,19
+2022-05-13,579.0,Littoral,groundnut,2022,5,19
+2022-05-20,697.0,North West,groundnut,2022,5,20
+2022-05-20,598.0,South West,groundnut,2022,5,20
+2022-05-20,689.0,West,groundnut,2022,5,20
+2022-05-20,598.0,Adamawa,groundnut,2022,5,20
+2022-05-20,568.0,Far North,groundnut,2022,5,20
+2022-05-20,554.0,Centre,groundnut,2022,5,20
+2022-05-20,675.0,East,groundnut,2022,5,20
+2022-05-20,540.0,North,groundnut,2022,5,20
+2022-05-20,693.0,South,groundnut,2022,5,20
+2022-05-20,603.0,Littoral,groundnut,2022,5,20
+2022-05-27,561.0,North West,groundnut,2022,5,21
+2022-05-27,551.0,South West,groundnut,2022,5,21
+2022-05-27,676.0,West,groundnut,2022,5,21
+2022-05-27,609.0,Adamawa,groundnut,2022,5,21
+2022-05-27,624.0,Far North,groundnut,2022,5,21
+2022-05-27,568.0,Centre,groundnut,2022,5,21
+2022-05-27,549.0,East,groundnut,2022,5,21
+2022-05-27,600.0,North,groundnut,2022,5,21
+2022-05-27,622.0,South,groundnut,2022,5,21
+2022-05-27,665.0,Littoral,groundnut,2022,5,21
+2022-06-03,571.0,North West,groundnut,2022,6,22
+2022-06-03,613.0,South West,groundnut,2022,6,22
+2022-06-03,512.0,West,groundnut,2022,6,22
+2022-06-03,504.0,Adamawa,groundnut,2022,6,22
+2022-06-03,519.0,Far North,groundnut,2022,6,22
+2022-06-03,612.0,Centre,groundnut,2022,6,22
+2022-06-03,610.0,East,groundnut,2022,6,22
+2022-06-03,516.0,North,groundnut,2022,6,22
+2022-06-03,499.0,South,groundnut,2022,6,22
+2022-06-03,599.0,Littoral,groundnut,2022,6,22
+2022-06-10,519.0,North West,groundnut,2022,6,23
+2022-06-10,576.0,South West,groundnut,2022,6,23
+2022-06-10,602.0,West,groundnut,2022,6,23
+2022-06-10,527.0,Adamawa,groundnut,2022,6,23
+2022-06-10,567.0,Far North,groundnut,2022,6,23
+2022-06-10,536.0,Centre,groundnut,2022,6,23
+2022-06-10,522.0,East,groundnut,2022,6,23
+2022-06-10,634.0,North,groundnut,2022,6,23
+2022-06-10,625.0,South,groundnut,2022,6,23
+2022-06-10,555.0,Littoral,groundnut,2022,6,23
+2022-06-17,507.0,North West,groundnut,2022,6,24
+2022-06-17,595.0,South West,groundnut,2022,6,24
+2022-06-17,525.0,West,groundnut,2022,6,24
+2022-06-17,512.0,Adamawa,groundnut,2022,6,24
+2022-06-17,543.0,Far North,groundnut,2022,6,24
+2022-06-17,566.0,Centre,groundnut,2022,6,24
+2022-06-17,501.0,East,groundnut,2022,6,24
+2022-06-17,572.0,North,groundnut,2022,6,24
+2022-06-17,489.0,South,groundnut,2022,6,24
+2022-06-17,620.0,Littoral,groundnut,2022,6,24
+2022-06-24,548.0,North West,groundnut,2022,6,25
+2022-06-24,517.0,South West,groundnut,2022,6,25
+2022-06-24,589.0,West,groundnut,2022,6,25
+2022-06-24,617.0,Adamawa,groundnut,2022,6,25
+2022-06-24,503.0,Far North,groundnut,2022,6,25
+2022-06-24,548.0,Centre,groundnut,2022,6,25
+2022-06-24,526.0,East,groundnut,2022,6,25
+2022-06-24,532.0,North,groundnut,2022,6,25
+2022-06-24,539.0,South,groundnut,2022,6,25
+2022-06-24,620.0,Littoral,groundnut,2022,6,25
+2022-07-01,507.0,North West,groundnut,2022,7,26
+2022-07-01,541.0,South West,groundnut,2022,7,26
+2022-07-01,607.0,West,groundnut,2022,7,26
+2022-07-01,539.0,Adamawa,groundnut,2022,7,26
+2022-07-01,594.0,Far North,groundnut,2022,7,26
+2022-07-01,478.0,Centre,groundnut,2022,7,26
+2022-07-01,607.0,East,groundnut,2022,7,26
+2022-07-01,497.0,North,groundnut,2022,7,26
+2022-07-01,611.0,South,groundnut,2022,7,26
+2022-07-01,495.0,Littoral,groundnut,2022,7,26
+2022-07-08,493.0,North West,groundnut,2022,7,27
+2022-07-08,468.0,South West,groundnut,2022,7,27
+2022-07-08,564.0,West,groundnut,2022,7,27
+2022-07-08,476.0,Adamawa,groundnut,2022,7,27
+2022-07-08,522.0,Far North,groundnut,2022,7,27
+2022-07-08,453.0,Centre,groundnut,2022,7,27
+2022-07-08,545.0,East,groundnut,2022,7,27
+2022-07-08,507.0,North,groundnut,2022,7,27
+2022-07-08,566.0,South,groundnut,2022,7,27
+2022-07-08,491.0,Littoral,groundnut,2022,7,27
+2022-07-15,453.0,North West,groundnut,2022,7,28
+2022-07-15,473.0,South West,groundnut,2022,7,28
+2022-07-15,524.0,West,groundnut,2022,7,28
+2022-07-15,514.0,Adamawa,groundnut,2022,7,28
+2022-07-15,529.0,Far North,groundnut,2022,7,28
+2022-07-15,437.0,Centre,groundnut,2022,7,28
+2022-07-15,503.0,East,groundnut,2022,7,28
+2022-07-15,550.0,North,groundnut,2022,7,28
+2022-07-15,441.0,South,groundnut,2022,7,28
+2022-07-15,440.0,Littoral,groundnut,2022,7,28
+2022-07-22,501.0,North West,groundnut,2022,7,29
+2022-07-22,486.0,South West,groundnut,2022,7,29
+2022-07-22,542.0,West,groundnut,2022,7,29
+2022-07-22,530.0,Adamawa,groundnut,2022,7,29
+2022-07-22,503.0,Far North,groundnut,2022,7,29
+2022-07-22,450.0,Centre,groundnut,2022,7,29
+2022-07-22,450.0,East,groundnut,2022,7,29
+2022-07-22,529.0,North,groundnut,2022,7,29
+2022-07-22,491.0,South,groundnut,2022,7,29
+2022-07-22,517.0,Littoral,groundnut,2022,7,29
+2022-07-29,496.0,North West,groundnut,2022,7,30
+2022-07-29,450.0,South West,groundnut,2022,7,30
+2022-07-29,481.0,West,groundnut,2022,7,30
+2022-07-29,458.0,Adamawa,groundnut,2022,7,30
+2022-07-29,541.0,Far North,groundnut,2022,7,30
+2022-07-29,530.0,Centre,groundnut,2022,7,30
+2022-07-29,448.0,East,groundnut,2022,7,30
+2022-07-29,519.0,North,groundnut,2022,7,30
+2022-07-29,553.0,South,groundnut,2022,7,30
+2022-07-29,530.0,Littoral,groundnut,2022,7,30
+2022-08-05,528.0,North West,groundnut,2022,8,31
+2022-08-05,469.0,South West,groundnut,2022,8,31
+2022-08-05,524.0,West,groundnut,2022,8,31
+2022-08-05,515.0,Adamawa,groundnut,2022,8,31
+2022-08-05,519.0,Far North,groundnut,2022,8,31
+2022-08-05,541.0,Centre,groundnut,2022,8,31
+2022-08-05,511.0,East,groundnut,2022,8,31
+2022-08-05,420.0,North,groundnut,2022,8,31
+2022-08-05,441.0,South,groundnut,2022,8,31
+2022-08-05,420.0,Littoral,groundnut,2022,8,31
+2022-08-12,454.0,North West,groundnut,2022,8,32
+2022-08-12,437.0,South West,groundnut,2022,8,32
+2022-08-12,495.0,West,groundnut,2022,8,32
+2022-08-12,433.0,Adamawa,groundnut,2022,8,32
+2022-08-12,491.0,Far North,groundnut,2022,8,32
+2022-08-12,547.0,Centre,groundnut,2022,8,32
+2022-08-12,528.0,East,groundnut,2022,8,32
+2022-08-12,553.0,North,groundnut,2022,8,32
+2022-08-12,459.0,South,groundnut,2022,8,32
+2022-08-12,499.0,Littoral,groundnut,2022,8,32
+2022-08-19,497.0,North West,groundnut,2022,8,33
+2022-08-19,429.0,South West,groundnut,2022,8,33
+2022-08-19,455.0,West,groundnut,2022,8,33
+2022-08-19,516.0,Adamawa,groundnut,2022,8,33
+2022-08-19,525.0,Far North,groundnut,2022,8,33
+2022-08-19,499.0,Centre,groundnut,2022,8,33
+2022-08-19,460.0,East,groundnut,2022,8,33
+2022-08-19,477.0,North,groundnut,2022,8,33
+2022-08-19,437.0,South,groundnut,2022,8,33
+2022-08-19,549.0,Littoral,groundnut,2022,8,33
+2022-08-26,515.0,North West,groundnut,2022,8,34
+2022-08-26,415.0,South West,groundnut,2022,8,34
+2022-08-26,427.0,West,groundnut,2022,8,34
+2022-08-26,479.0,Adamawa,groundnut,2022,8,34
+2022-08-26,436.0,Far North,groundnut,2022,8,34
+2022-08-26,523.0,Centre,groundnut,2022,8,34
+2022-08-26,501.0,East,groundnut,2022,8,34
+2022-08-26,441.0,North,groundnut,2022,8,34
+2022-08-26,407.0,South,groundnut,2022,8,34
+2022-08-26,506.0,Littoral,groundnut,2022,8,34
+2022-09-02,511.0,North West,groundnut,2022,9,35
+2022-09-02,490.0,South West,groundnut,2022,9,35
+2022-09-02,567.0,West,groundnut,2022,9,35
+2022-09-02,534.0,Adamawa,groundnut,2022,9,35
+2022-09-02,503.0,Far North,groundnut,2022,9,35
+2022-09-02,489.0,Centre,groundnut,2022,9,35
+2022-09-02,553.0,East,groundnut,2022,9,35
+2022-09-02,574.0,North,groundnut,2022,9,35
+2022-09-02,510.0,South,groundnut,2022,9,35
+2022-09-02,575.0,Littoral,groundnut,2022,9,35
+2022-09-09,495.0,North West,groundnut,2022,9,36
+2022-09-09,517.0,South West,groundnut,2022,9,36
+2022-09-09,576.0,West,groundnut,2022,9,36
+2022-09-09,563.0,Adamawa,groundnut,2022,9,36
+2022-09-09,507.0,Far North,groundnut,2022,9,36
+2022-09-09,486.0,Centre,groundnut,2022,9,36
+2022-09-09,475.0,East,groundnut,2022,9,36
+2022-09-09,589.0,North,groundnut,2022,9,36
+2022-09-09,479.0,South,groundnut,2022,9,36
+2022-09-09,485.0,Littoral,groundnut,2022,9,36
+2022-09-16,595.0,North West,groundnut,2022,9,37
+2022-09-16,515.0,South West,groundnut,2022,9,37
+2022-09-16,558.0,West,groundnut,2022,9,37
+2022-09-16,492.0,Adamawa,groundnut,2022,9,37
+2022-09-16,547.0,Far North,groundnut,2022,9,37
+2022-09-16,505.0,Centre,groundnut,2022,9,37
+2022-09-16,510.0,East,groundnut,2022,9,37
+2022-09-16,533.0,North,groundnut,2022,9,37
+2022-09-16,590.0,South,groundnut,2022,9,37
+2022-09-16,588.0,Littoral,groundnut,2022,9,37
+2022-09-23,526.0,North West,groundnut,2022,9,38
+2022-09-23,484.0,South West,groundnut,2022,9,38
+2022-09-23,507.0,West,groundnut,2022,9,38
+2022-09-23,539.0,Adamawa,groundnut,2022,9,38
+2022-09-23,591.0,Far North,groundnut,2022,9,38
+2022-09-23,605.0,Centre,groundnut,2022,9,38
+2022-09-23,558.0,East,groundnut,2022,9,38
+2022-09-23,517.0,North,groundnut,2022,9,38
+2022-09-23,566.0,South,groundnut,2022,9,38
+2022-09-23,515.0,Littoral,groundnut,2022,9,38
+2022-09-30,499.0,North West,groundnut,2022,9,39
+2022-09-30,472.0,South West,groundnut,2022,9,39
+2022-09-30,521.0,West,groundnut,2022,9,39
+2022-09-30,549.0,Adamawa,groundnut,2022,9,39
+2022-09-30,573.0,Far North,groundnut,2022,9,39
+2022-09-30,576.0,Centre,groundnut,2022,9,39
+2022-09-30,602.0,East,groundnut,2022,9,39
+2022-09-30,474.0,North,groundnut,2022,9,39
+2022-09-30,531.0,South,groundnut,2022,9,39
+2022-09-30,535.0,Littoral,groundnut,2022,9,39
+2022-10-07,644.0,North West,groundnut,2022,10,40
+2022-10-07,558.0,South West,groundnut,2022,10,40
+2022-10-07,527.0,West,groundnut,2022,10,40
+2022-10-07,566.0,Adamawa,groundnut,2022,10,40
+2022-10-07,672.0,Far North,groundnut,2022,10,40
+2022-10-07,659.0,Centre,groundnut,2022,10,40
+2022-10-07,579.0,East,groundnut,2022,10,40
+2022-10-07,655.0,North,groundnut,2022,10,40
+2022-10-07,521.0,South,groundnut,2022,10,40
+2022-10-07,566.0,Littoral,groundnut,2022,10,40
+2022-10-14,558.0,North West,groundnut,2022,10,41
+2022-10-14,666.0,South West,groundnut,2022,10,41
+2022-10-14,626.0,West,groundnut,2022,10,41
+2022-10-14,686.0,Adamawa,groundnut,2022,10,41
+2022-10-14,548.0,Far North,groundnut,2022,10,41
+2022-10-14,584.0,Centre,groundnut,2022,10,41
+2022-10-14,577.0,East,groundnut,2022,10,41
+2022-10-14,669.0,North,groundnut,2022,10,41
+2022-10-14,568.0,South,groundnut,2022,10,41
+2022-10-14,583.0,Littoral,groundnut,2022,10,41
+2022-10-21,588.0,North West,groundnut,2022,10,42
+2022-10-21,697.0,South West,groundnut,2022,10,42
+2022-10-21,604.0,West,groundnut,2022,10,42
+2022-10-21,575.0,Adamawa,groundnut,2022,10,42
+2022-10-21,638.0,Far North,groundnut,2022,10,42
+2022-10-21,631.0,Centre,groundnut,2022,10,42
+2022-10-21,594.0,East,groundnut,2022,10,42
+2022-10-21,586.0,North,groundnut,2022,10,42
+2022-10-21,718.0,South,groundnut,2022,10,42
+2022-10-21,575.0,Littoral,groundnut,2022,10,42
+2022-10-28,738.0,North West,groundnut,2022,10,43
+2022-10-28,586.0,South West,groundnut,2022,10,43
+2022-10-28,714.0,West,groundnut,2022,10,43
+2022-10-28,727.0,Adamawa,groundnut,2022,10,43
+2022-10-28,637.0,Far North,groundnut,2022,10,43
+2022-10-28,623.0,Centre,groundnut,2022,10,43
+2022-10-28,690.0,East,groundnut,2022,10,43
+2022-10-28,694.0,North,groundnut,2022,10,43
+2022-10-28,708.0,South,groundnut,2022,10,43
+2022-10-28,717.0,Littoral,groundnut,2022,10,43
+2022-11-04,648.0,North West,groundnut,2022,11,44
+2022-11-04,725.0,South West,groundnut,2022,11,44
+2022-11-04,623.0,West,groundnut,2022,11,44
+2022-11-04,693.0,Adamawa,groundnut,2022,11,44
+2022-11-04,711.0,Far North,groundnut,2022,11,44
+2022-11-04,628.0,Centre,groundnut,2022,11,44
+2022-11-04,613.0,East,groundnut,2022,11,44
+2022-11-04,634.0,North,groundnut,2022,11,44
+2022-11-04,676.0,South,groundnut,2022,11,44
+2022-11-04,762.0,Littoral,groundnut,2022,11,44
+2022-11-11,695.0,North West,groundnut,2022,11,45
+2022-11-11,682.0,South West,groundnut,2022,11,45
+2022-11-11,709.0,West,groundnut,2022,11,45
+2022-11-11,724.0,Adamawa,groundnut,2022,11,45
+2022-11-11,771.0,Far North,groundnut,2022,11,45
+2022-11-11,839.0,Centre,groundnut,2022,11,45
+2022-11-11,746.0,East,groundnut,2022,11,45
+2022-11-11,765.0,North,groundnut,2022,11,45
+2022-11-11,661.0,South,groundnut,2022,11,45
+2022-11-11,667.0,Littoral,groundnut,2022,11,45
+2022-11-18,691.0,North West,groundnut,2022,11,46
+2022-11-18,818.0,South West,groundnut,2022,11,46
+2022-11-18,774.0,West,groundnut,2022,11,46
+2022-11-18,713.0,Adamawa,groundnut,2022,11,46
+2022-11-18,796.0,Far North,groundnut,2022,11,46
+2022-11-18,786.0,Centre,groundnut,2022,11,46
+2022-11-18,692.0,East,groundnut,2022,11,46
+2022-11-18,806.0,North,groundnut,2022,11,46
+2022-11-18,832.0,South,groundnut,2022,11,46
+2022-11-18,733.0,Littoral,groundnut,2022,11,46
+2022-11-25,811.0,North West,groundnut,2022,11,47
+2022-11-25,842.0,South West,groundnut,2022,11,47
+2022-11-25,747.0,West,groundnut,2022,11,47
+2022-11-25,707.0,Adamawa,groundnut,2022,11,47
+2022-11-25,739.0,Far North,groundnut,2022,11,47
+2022-11-25,708.0,Centre,groundnut,2022,11,47
+2022-11-25,658.0,East,groundnut,2022,11,47
+2022-11-25,789.0,North,groundnut,2022,11,47
+2022-11-25,667.0,South,groundnut,2022,11,47
+2022-11-25,700.0,Littoral,groundnut,2022,11,47
+2022-12-02,839.0,North West,groundnut,2022,12,48
+2022-12-02,827.0,South West,groundnut,2022,12,48
+2022-12-02,702.0,West,groundnut,2022,12,48
+2022-12-02,826.0,Adamawa,groundnut,2022,12,48
+2022-12-02,883.0,Far North,groundnut,2022,12,48
+2022-12-02,703.0,Centre,groundnut,2022,12,48
+2022-12-02,774.0,East,groundnut,2022,12,48
+2022-12-02,841.0,North,groundnut,2022,12,48
+2022-12-02,828.0,South,groundnut,2022,12,48
+2022-12-02,735.0,Littoral,groundnut,2022,12,48
+2022-12-09,927.0,North West,groundnut,2022,12,49
+2022-12-09,886.0,South West,groundnut,2022,12,49
+2022-12-09,929.0,West,groundnut,2022,12,49
+2022-12-09,850.0,Adamawa,groundnut,2022,12,49
+2022-12-09,921.0,Far North,groundnut,2022,12,49
+2022-12-09,869.0,Centre,groundnut,2022,12,49
+2022-12-09,917.0,East,groundnut,2022,12,49
+2022-12-09,753.0,North,groundnut,2022,12,49
+2022-12-09,896.0,South,groundnut,2022,12,49
+2022-12-09,760.0,Littoral,groundnut,2022,12,49
+2022-12-16,722.0,North West,groundnut,2022,12,50
+2022-12-16,829.0,South West,groundnut,2022,12,50
+2022-12-16,786.0,West,groundnut,2022,12,50
+2022-12-16,725.0,Adamawa,groundnut,2022,12,50
+2022-12-16,931.0,Far North,groundnut,2022,12,50
+2022-12-16,862.0,Centre,groundnut,2022,12,50
+2022-12-16,914.0,East,groundnut,2022,12,50
+2022-12-16,935.0,North,groundnut,2022,12,50
+2022-12-16,802.0,South,groundnut,2022,12,50
+2022-12-16,772.0,Littoral,groundnut,2022,12,50
+2022-12-23,864.0,North West,groundnut,2022,12,51
+2022-12-23,834.0,South West,groundnut,2022,12,51
+2022-12-23,815.0,West,groundnut,2022,12,51
+2022-12-23,766.0,Adamawa,groundnut,2022,12,51
+2022-12-23,827.0,Far North,groundnut,2022,12,51
+2022-12-23,748.0,Centre,groundnut,2022,12,51
+2022-12-23,922.0,East,groundnut,2022,12,51
+2022-12-23,739.0,North,groundnut,2022,12,51
+2022-12-23,814.0,South,groundnut,2022,12,51
+2022-12-23,751.0,Littoral,groundnut,2022,12,51
+2022-12-30,873.0,North West,groundnut,2022,12,52
+2022-12-30,773.0,South West,groundnut,2022,12,52
+2022-12-30,730.0,West,groundnut,2022,12,52
+2022-12-30,821.0,Adamawa,groundnut,2022,12,52
+2022-12-30,904.0,Far North,groundnut,2022,12,52
+2022-12-30,902.0,Centre,groundnut,2022,12,52
+2022-12-30,760.0,East,groundnut,2022,12,52
+2022-12-30,861.0,North,groundnut,2022,12,52
+2022-12-30,712.0,South,groundnut,2022,12,52
+2022-12-30,734.0,Littoral,groundnut,2022,12,52
+2023-01-06,860.0,North West,groundnut,2023,1,1
+2023-01-06,888.0,South West,groundnut,2023,1,1
+2023-01-06,691.0,West,groundnut,2023,1,1
+2023-01-06,740.0,Adamawa,groundnut,2023,1,1
+2023-01-06,784.0,Far North,groundnut,2023,1,1
+2023-01-06,810.0,Centre,groundnut,2023,1,1
+2023-01-06,885.0,East,groundnut,2023,1,1
+2023-01-06,879.0,North,groundnut,2023,1,1
+2023-01-06,825.0,South,groundnut,2023,1,1
+2023-01-06,745.0,Littoral,groundnut,2023,1,1
+2023-01-13,889.0,North West,groundnut,2023,1,2
+2023-01-13,761.0,South West,groundnut,2023,1,2
+2023-01-13,929.0,West,groundnut,2023,1,2
+2023-01-13,718.0,Adamawa,groundnut,2023,1,2
+2023-01-13,842.0,Far North,groundnut,2023,1,2
+2023-01-13,736.0,Centre,groundnut,2023,1,2
+2023-01-13,806.0,East,groundnut,2023,1,2
+2023-01-13,856.0,North,groundnut,2023,1,2
+2023-01-13,868.0,South,groundnut,2023,1,2
+2023-01-13,889.0,Littoral,groundnut,2023,1,2
+2023-01-20,891.0,North West,groundnut,2023,1,3
+2023-01-20,874.0,South West,groundnut,2023,1,3
+2023-01-20,734.0,West,groundnut,2023,1,3
+2023-01-20,878.0,Adamawa,groundnut,2023,1,3
+2023-01-20,909.0,Far North,groundnut,2023,1,3
+2023-01-20,837.0,Centre,groundnut,2023,1,3
+2023-01-20,761.0,East,groundnut,2023,1,3
+2023-01-20,830.0,North,groundnut,2023,1,3
+2023-01-20,774.0,South,groundnut,2023,1,3
+2023-01-20,845.0,Littoral,groundnut,2023,1,3
+2023-01-27,859.0,North West,groundnut,2023,1,4
+2023-01-27,946.0,South West,groundnut,2023,1,4
+2023-01-27,876.0,West,groundnut,2023,1,4
+2023-01-27,785.0,Adamawa,groundnut,2023,1,4
+2023-01-27,900.0,Far North,groundnut,2023,1,4
+2023-01-27,804.0,Centre,groundnut,2023,1,4
+2023-01-27,798.0,East,groundnut,2023,1,4
+2023-01-27,825.0,North,groundnut,2023,1,4
+2023-01-27,739.0,South,groundnut,2023,1,4
+2023-01-27,955.0,Littoral,groundnut,2023,1,4
+2023-02-03,838.0,North West,groundnut,2023,2,5
+2023-02-03,955.0,South West,groundnut,2023,2,5
+2023-02-03,912.0,West,groundnut,2023,2,5
+2023-02-03,878.0,Adamawa,groundnut,2023,2,5
+2023-02-03,1008.0,Far North,groundnut,2023,2,5
+2023-02-03,895.0,Centre,groundnut,2023,2,5
+2023-02-03,934.0,East,groundnut,2023,2,5
+2023-02-03,780.0,North,groundnut,2023,2,5
+2023-02-03,849.0,South,groundnut,2023,2,5
+2023-02-03,989.0,Littoral,groundnut,2023,2,5
+2023-02-10,955.0,North West,groundnut,2023,2,6
+2023-02-10,902.0,South West,groundnut,2023,2,6
+2023-02-10,988.0,West,groundnut,2023,2,6
+2023-02-10,890.0,Adamawa,groundnut,2023,2,6
+2023-02-10,909.0,Far North,groundnut,2023,2,6
+2023-02-10,865.0,Centre,groundnut,2023,2,6
+2023-02-10,922.0,East,groundnut,2023,2,6
+2023-02-10,850.0,North,groundnut,2023,2,6
+2023-02-10,866.0,South,groundnut,2023,2,6
+2023-02-10,1004.0,Littoral,groundnut,2023,2,6
+2023-02-17,860.0,North West,groundnut,2023,2,7
+2023-02-17,789.0,South West,groundnut,2023,2,7
+2023-02-17,896.0,West,groundnut,2023,2,7
+2023-02-17,904.0,Adamawa,groundnut,2023,2,7
+2023-02-17,943.0,Far North,groundnut,2023,2,7
+2023-02-17,996.0,Centre,groundnut,2023,2,7
+2023-02-17,912.0,East,groundnut,2023,2,7
+2023-02-17,793.0,North,groundnut,2023,2,7
+2023-02-17,788.0,South,groundnut,2023,2,7
+2023-02-17,950.0,Littoral,groundnut,2023,2,7
+2023-02-24,909.0,North West,groundnut,2023,2,8
+2023-02-24,795.0,South West,groundnut,2023,2,8
+2023-02-24,817.0,West,groundnut,2023,2,8
+2023-02-24,932.0,Adamawa,groundnut,2023,2,8
+2023-02-24,889.0,Far North,groundnut,2023,2,8
+2023-02-24,894.0,Centre,groundnut,2023,2,8
+2023-02-24,807.0,East,groundnut,2023,2,8
+2023-02-24,904.0,North,groundnut,2023,2,8
+2023-02-24,937.0,South,groundnut,2023,2,8
+2023-02-24,964.0,Littoral,groundnut,2023,2,8
+2023-03-03,904.0,North West,groundnut,2023,3,9
+2023-03-03,861.0,South West,groundnut,2023,3,9
+2023-03-03,802.0,West,groundnut,2023,3,9
+2023-03-03,952.0,Adamawa,groundnut,2023,3,9
+2023-03-03,872.0,Far North,groundnut,2023,3,9
+2023-03-03,886.0,Centre,groundnut,2023,3,9
+2023-03-03,977.0,East,groundnut,2023,3,9
+2023-03-03,976.0,North,groundnut,2023,3,9
+2023-03-03,884.0,South,groundnut,2023,3,9
+2023-03-03,757.0,Littoral,groundnut,2023,3,9
+2023-03-10,859.0,North West,groundnut,2023,3,10
+2023-03-10,986.0,South West,groundnut,2023,3,10
+2023-03-10,834.0,West,groundnut,2023,3,10
+2023-03-10,1001.0,Adamawa,groundnut,2023,3,10
+2023-03-10,786.0,Far North,groundnut,2023,3,10
+2023-03-10,899.0,Centre,groundnut,2023,3,10
+2023-03-10,887.0,East,groundnut,2023,3,10
+2023-03-10,826.0,North,groundnut,2023,3,10
+2023-03-10,989.0,South,groundnut,2023,3,10
+2023-03-10,911.0,Littoral,groundnut,2023,3,10
+2023-03-17,895.0,North West,groundnut,2023,3,11
+2023-03-17,799.0,South West,groundnut,2023,3,11
+2023-03-17,930.0,West,groundnut,2023,3,11
+2023-03-17,770.0,Adamawa,groundnut,2023,3,11
+2023-03-17,792.0,Far North,groundnut,2023,3,11
+2023-03-17,765.0,Centre,groundnut,2023,3,11
+2023-03-17,756.0,East,groundnut,2023,3,11
+2023-03-17,800.0,North,groundnut,2023,3,11
+2023-03-17,957.0,South,groundnut,2023,3,11
+2023-03-17,754.0,Littoral,groundnut,2023,3,11
+2023-03-24,739.0,North West,groundnut,2023,3,12
+2023-03-24,751.0,South West,groundnut,2023,3,12
+2023-03-24,825.0,West,groundnut,2023,3,12
+2023-03-24,852.0,Adamawa,groundnut,2023,3,12
+2023-03-24,853.0,Far North,groundnut,2023,3,12
+2023-03-24,695.0,Centre,groundnut,2023,3,12
+2023-03-24,832.0,East,groundnut,2023,3,12
+2023-03-24,827.0,North,groundnut,2023,3,12
+2023-03-24,803.0,South,groundnut,2023,3,12
+2023-03-24,774.0,Littoral,groundnut,2023,3,12
+2023-03-31,730.0,North West,groundnut,2023,3,13
+2023-03-31,746.0,South West,groundnut,2023,3,13
+2023-03-31,774.0,West,groundnut,2023,3,13
+2023-03-31,726.0,Adamawa,groundnut,2023,3,13
+2023-03-31,809.0,Far North,groundnut,2023,3,13
+2023-03-31,867.0,Centre,groundnut,2023,3,13
+2023-03-31,806.0,East,groundnut,2023,3,13
+2023-03-31,775.0,North,groundnut,2023,3,13
+2023-03-31,848.0,South,groundnut,2023,3,13
+2023-03-31,838.0,Littoral,groundnut,2023,3,13
+2023-04-07,757.0,North West,groundnut,2023,4,14
+2023-04-07,807.0,South West,groundnut,2023,4,14
+2023-04-07,833.0,West,groundnut,2023,4,14
+2023-04-07,732.0,Adamawa,groundnut,2023,4,14
+2023-04-07,757.0,Far North,groundnut,2023,4,14
+2023-04-07,703.0,Centre,groundnut,2023,4,14
+2023-04-07,887.0,East,groundnut,2023,4,14
+2023-04-07,698.0,North,groundnut,2023,4,14
+2023-04-07,716.0,South,groundnut,2023,4,14
+2023-04-07,781.0,Littoral,groundnut,2023,4,14
+2023-04-14,807.0,North West,groundnut,2023,4,15
+2023-04-14,788.0,South West,groundnut,2023,4,15
+2023-04-14,781.0,West,groundnut,2023,4,15
+2023-04-14,822.0,Adamawa,groundnut,2023,4,15
+2023-04-14,656.0,Far North,groundnut,2023,4,15
+2023-04-14,839.0,Centre,groundnut,2023,4,15
+2023-04-14,819.0,East,groundnut,2023,4,15
+2023-04-14,841.0,North,groundnut,2023,4,15
+2023-04-14,812.0,South,groundnut,2023,4,15
+2023-04-14,829.0,Littoral,groundnut,2023,4,15
+2023-04-21,698.0,North West,groundnut,2023,4,16
+2023-04-21,721.0,South West,groundnut,2023,4,16
+2023-04-21,720.0,West,groundnut,2023,4,16
+2023-04-21,679.0,Adamawa,groundnut,2023,4,16
+2023-04-21,804.0,Far North,groundnut,2023,4,16
+2023-04-21,684.0,Centre,groundnut,2023,4,16
+2023-04-21,667.0,East,groundnut,2023,4,16
+2023-04-21,813.0,North,groundnut,2023,4,16
+2023-04-21,839.0,South,groundnut,2023,4,16
+2023-04-21,811.0,Littoral,groundnut,2023,4,16
+2023-04-28,826.0,North West,groundnut,2023,4,17
+2023-04-28,748.0,South West,groundnut,2023,4,17
+2023-04-28,846.0,West,groundnut,2023,4,17
+2023-04-28,670.0,Adamawa,groundnut,2023,4,17
+2023-04-28,811.0,Far North,groundnut,2023,4,17
+2023-04-28,777.0,Centre,groundnut,2023,4,17
+2023-04-28,765.0,East,groundnut,2023,4,17
+2023-04-28,794.0,North,groundnut,2023,4,17
+2023-04-28,817.0,South,groundnut,2023,4,17
+2023-04-28,821.0,Littoral,groundnut,2023,4,17
+2023-05-05,665.0,North West,groundnut,2023,5,18
+2023-05-05,669.0,South West,groundnut,2023,5,18
+2023-05-05,634.0,West,groundnut,2023,5,18
+2023-05-05,657.0,Adamawa,groundnut,2023,5,18
+2023-05-05,682.0,Far North,groundnut,2023,5,18
+2023-05-05,771.0,Centre,groundnut,2023,5,18
+2023-05-05,723.0,East,groundnut,2023,5,18
+2023-05-05,778.0,North,groundnut,2023,5,18
+2023-05-05,725.0,South,groundnut,2023,5,18
+2023-05-05,739.0,Littoral,groundnut,2023,5,18
+2023-05-12,744.0,North West,groundnut,2023,5,19
+2023-05-12,660.0,South West,groundnut,2023,5,19
+2023-05-12,664.0,West,groundnut,2023,5,19
+2023-05-12,644.0,Adamawa,groundnut,2023,5,19
+2023-05-12,754.0,Far North,groundnut,2023,5,19
+2023-05-12,742.0,Centre,groundnut,2023,5,19
+2023-05-12,716.0,East,groundnut,2023,5,19
+2023-05-12,648.0,North,groundnut,2023,5,19
+2023-05-12,635.0,South,groundnut,2023,5,19
+2023-05-12,613.0,Littoral,groundnut,2023,5,19
+2023-05-19,583.0,North West,groundnut,2023,5,20
+2023-05-19,608.0,South West,groundnut,2023,5,20
+2023-05-19,592.0,West,groundnut,2023,5,20
+2023-05-19,673.0,Adamawa,groundnut,2023,5,20
+2023-05-19,638.0,Far North,groundnut,2023,5,20
+2023-05-19,653.0,Centre,groundnut,2023,5,20
+2023-05-19,679.0,East,groundnut,2023,5,20
+2023-05-19,691.0,North,groundnut,2023,5,20
+2023-05-19,689.0,South,groundnut,2023,5,20
+2023-05-19,621.0,Littoral,groundnut,2023,5,20
+2023-05-26,706.0,North West,groundnut,2023,5,21
+2023-05-26,588.0,South West,groundnut,2023,5,21
+2023-05-26,696.0,West,groundnut,2023,5,21
+2023-05-26,563.0,Adamawa,groundnut,2023,5,21
+2023-05-26,595.0,Far North,groundnut,2023,5,21
+2023-05-26,715.0,Centre,groundnut,2023,5,21
+2023-05-26,590.0,East,groundnut,2023,5,21
+2023-05-26,573.0,North,groundnut,2023,5,21
+2023-05-26,696.0,South,groundnut,2023,5,21
+2023-05-26,571.0,Littoral,groundnut,2023,5,21
+2023-06-02,553.0,North West,groundnut,2023,6,22
+2023-06-02,591.0,South West,groundnut,2023,6,22
+2023-06-02,642.0,West,groundnut,2023,6,22
+2023-06-02,655.0,Adamawa,groundnut,2023,6,22
+2023-06-02,683.0,Far North,groundnut,2023,6,22
+2023-06-02,627.0,Centre,groundnut,2023,6,22
+2023-06-02,602.0,East,groundnut,2023,6,22
+2023-06-02,597.0,North,groundnut,2023,6,22
+2023-06-02,677.0,South,groundnut,2023,6,22
+2023-06-02,657.0,Littoral,groundnut,2023,6,22
+2023-06-09,620.0,North West,groundnut,2023,6,23
+2023-06-09,545.0,South West,groundnut,2023,6,23
+2023-06-09,528.0,West,groundnut,2023,6,23
+2023-06-09,657.0,Adamawa,groundnut,2023,6,23
+2023-06-09,604.0,Far North,groundnut,2023,6,23
+2023-06-09,610.0,Centre,groundnut,2023,6,23
+2023-06-09,608.0,East,groundnut,2023,6,23
+2023-06-09,639.0,North,groundnut,2023,6,23
+2023-06-09,542.0,South,groundnut,2023,6,23
+2023-06-09,617.0,Littoral,groundnut,2023,6,23
+2023-06-16,545.0,North West,groundnut,2023,6,24
+2023-06-16,607.0,South West,groundnut,2023,6,24
+2023-06-16,552.0,West,groundnut,2023,6,24
+2023-06-16,614.0,Adamawa,groundnut,2023,6,24
+2023-06-16,528.0,Far North,groundnut,2023,6,24
+2023-06-16,618.0,Centre,groundnut,2023,6,24
+2023-06-16,604.0,East,groundnut,2023,6,24
+2023-06-16,562.0,North,groundnut,2023,6,24
+2023-06-16,528.0,South,groundnut,2023,6,24
+2023-06-16,531.0,Littoral,groundnut,2023,6,24
+2023-06-23,538.0,North West,groundnut,2023,6,25
+2023-06-23,572.0,South West,groundnut,2023,6,25
+2023-06-23,586.0,West,groundnut,2023,6,25
+2023-06-23,482.0,Adamawa,groundnut,2023,6,25
+2023-06-23,492.0,Far North,groundnut,2023,6,25
+2023-06-23,492.0,Centre,groundnut,2023,6,25
+2023-06-23,513.0,East,groundnut,2023,6,25
+2023-06-23,541.0,North,groundnut,2023,6,25
+2023-06-23,597.0,South,groundnut,2023,6,25
+2023-06-23,530.0,Littoral,groundnut,2023,6,25
+2023-06-30,497.0,North West,groundnut,2023,6,26
+2023-06-30,568.0,South West,groundnut,2023,6,26
+2023-06-30,645.0,West,groundnut,2023,6,26
+2023-06-30,547.0,Adamawa,groundnut,2023,6,26
+2023-06-30,640.0,Far North,groundnut,2023,6,26
+2023-06-30,510.0,Centre,groundnut,2023,6,26
+2023-06-30,521.0,East,groundnut,2023,6,26
+2023-06-30,604.0,North,groundnut,2023,6,26
+2023-06-30,570.0,South,groundnut,2023,6,26
+2023-06-30,610.0,Littoral,groundnut,2023,6,26
+2023-07-07,572.0,North West,groundnut,2023,7,27
+2023-07-07,561.0,South West,groundnut,2023,7,27
+2023-07-07,598.0,West,groundnut,2023,7,27
+2023-07-07,536.0,Adamawa,groundnut,2023,7,27
+2023-07-07,481.0,Far North,groundnut,2023,7,27
+2023-07-07,556.0,Centre,groundnut,2023,7,27
+2023-07-07,612.0,East,groundnut,2023,7,27
+2023-07-07,475.0,North,groundnut,2023,7,27
+2023-07-07,508.0,South,groundnut,2023,7,27
+2023-07-07,519.0,Littoral,groundnut,2023,7,27
+2023-07-14,582.0,North West,groundnut,2023,7,28
+2023-07-14,518.0,South West,groundnut,2023,7,28
+2023-07-14,506.0,West,groundnut,2023,7,28
+2023-07-14,565.0,Adamawa,groundnut,2023,7,28
+2023-07-14,478.0,Far North,groundnut,2023,7,28
+2023-07-14,496.0,Centre,groundnut,2023,7,28
+2023-07-14,530.0,East,groundnut,2023,7,28
+2023-07-14,523.0,North,groundnut,2023,7,28
+2023-07-14,522.0,South,groundnut,2023,7,28
+2023-07-14,487.0,Littoral,groundnut,2023,7,28
+2023-07-21,539.0,North West,groundnut,2023,7,29
+2023-07-21,564.0,South West,groundnut,2023,7,29
+2023-07-21,502.0,West,groundnut,2023,7,29
+2023-07-21,488.0,Adamawa,groundnut,2023,7,29
+2023-07-21,607.0,Far North,groundnut,2023,7,29
+2023-07-21,527.0,Centre,groundnut,2023,7,29
+2023-07-21,529.0,East,groundnut,2023,7,29
+2023-07-21,607.0,North,groundnut,2023,7,29
+2023-07-21,582.0,South,groundnut,2023,7,29
+2023-07-21,589.0,Littoral,groundnut,2023,7,29
+2023-07-28,556.0,North West,groundnut,2023,7,30
+2023-07-28,475.0,South West,groundnut,2023,7,30
+2023-07-28,595.0,West,groundnut,2023,7,30
+2023-07-28,588.0,Adamawa,groundnut,2023,7,30
+2023-07-28,493.0,Far North,groundnut,2023,7,30
+2023-07-28,573.0,Centre,groundnut,2023,7,30
+2023-07-28,518.0,East,groundnut,2023,7,30
+2023-07-28,556.0,North,groundnut,2023,7,30
+2023-07-28,483.0,South,groundnut,2023,7,30
+2023-07-28,536.0,Littoral,groundnut,2023,7,30
+2023-08-04,498.0,North West,groundnut,2023,8,31
+2023-08-04,527.0,South West,groundnut,2023,8,31
+2023-08-04,558.0,West,groundnut,2023,8,31
+2023-08-04,587.0,Adamawa,groundnut,2023,8,31
+2023-08-04,486.0,Far North,groundnut,2023,8,31
+2023-08-04,590.0,Centre,groundnut,2023,8,31
+2023-08-04,518.0,East,groundnut,2023,8,31
+2023-08-04,583.0,North,groundnut,2023,8,31
+2023-08-04,536.0,South,groundnut,2023,8,31
+2023-08-04,585.0,Littoral,groundnut,2023,8,31
+2023-08-11,540.0,North West,groundnut,2023,8,32
+2023-08-11,519.0,South West,groundnut,2023,8,32
+2023-08-11,492.0,West,groundnut,2023,8,32
+2023-08-11,582.0,Adamawa,groundnut,2023,8,32
+2023-08-11,559.0,Far North,groundnut,2023,8,32
+2023-08-11,501.0,Centre,groundnut,2023,8,32
+2023-08-11,472.0,East,groundnut,2023,8,32
+2023-08-11,556.0,North,groundnut,2023,8,32
+2023-08-11,585.0,South,groundnut,2023,8,32
+2023-08-11,487.0,Littoral,groundnut,2023,8,32
+2023-08-18,521.0,North West,groundnut,2023,8,33
+2023-08-18,515.0,South West,groundnut,2023,8,33
+2023-08-18,558.0,West,groundnut,2023,8,33
+2023-08-18,538.0,Adamawa,groundnut,2023,8,33
+2023-08-18,508.0,Far North,groundnut,2023,8,33
+2023-08-18,559.0,Centre,groundnut,2023,8,33
+2023-08-18,515.0,East,groundnut,2023,8,33
+2023-08-18,549.0,North,groundnut,2023,8,33
+2023-08-18,548.0,South,groundnut,2023,8,33
+2023-08-18,558.0,Littoral,groundnut,2023,8,33
+2023-08-25,439.0,North West,groundnut,2023,8,34
+2023-08-25,507.0,South West,groundnut,2023,8,34
+2023-08-25,492.0,West,groundnut,2023,8,34
+2023-08-25,495.0,Adamawa,groundnut,2023,8,34
+2023-08-25,491.0,Far North,groundnut,2023,8,34
+2023-08-25,540.0,Centre,groundnut,2023,8,34
+2023-08-25,472.0,East,groundnut,2023,8,34
+2023-08-25,491.0,North,groundnut,2023,8,34
+2023-08-25,456.0,South,groundnut,2023,8,34
+2023-08-25,463.0,Littoral,groundnut,2023,8,34
+2023-09-01,473.0,North West,groundnut,2023,9,35
+2023-09-01,519.0,South West,groundnut,2023,9,35
+2023-09-01,453.0,West,groundnut,2023,9,35
+2023-09-01,464.0,Adamawa,groundnut,2023,9,35
+2023-09-01,565.0,Far North,groundnut,2023,9,35
+2023-09-01,563.0,Centre,groundnut,2023,9,35
+2023-09-01,495.0,East,groundnut,2023,9,35
+2023-09-01,495.0,North,groundnut,2023,9,35
+2023-09-01,575.0,South,groundnut,2023,9,35
+2023-09-01,451.0,Littoral,groundnut,2023,9,35
+2023-09-08,562.0,North West,groundnut,2023,9,36
+2023-09-08,564.0,South West,groundnut,2023,9,36
+2023-09-08,592.0,West,groundnut,2023,9,36
+2023-09-08,616.0,Adamawa,groundnut,2023,9,36
+2023-09-08,529.0,Far North,groundnut,2023,9,36
+2023-09-08,541.0,Centre,groundnut,2023,9,36
+2023-09-08,575.0,East,groundnut,2023,9,36
+2023-09-08,618.0,North,groundnut,2023,9,36
+2023-09-08,607.0,South,groundnut,2023,9,36
+2023-09-08,575.0,Littoral,groundnut,2023,9,36
+2023-09-15,636.0,North West,groundnut,2023,9,37
+2023-09-15,597.0,South West,groundnut,2023,9,37
+2023-09-15,602.0,West,groundnut,2023,9,37
+2023-09-15,516.0,Adamawa,groundnut,2023,9,37
+2023-09-15,602.0,Far North,groundnut,2023,9,37
+2023-09-15,569.0,Centre,groundnut,2023,9,37
+2023-09-15,600.0,East,groundnut,2023,9,37
+2023-09-15,550.0,North,groundnut,2023,9,37
+2023-09-15,589.0,South,groundnut,2023,9,37
+2023-09-15,565.0,Littoral,groundnut,2023,9,37
+2023-09-22,575.0,North West,groundnut,2023,9,38
+2023-09-22,513.0,South West,groundnut,2023,9,38
+2023-09-22,551.0,West,groundnut,2023,9,38
+2023-09-22,547.0,Adamawa,groundnut,2023,9,38
+2023-09-22,602.0,Far North,groundnut,2023,9,38
+2023-09-22,597.0,Centre,groundnut,2023,9,38
+2023-09-22,628.0,East,groundnut,2023,9,38
+2023-09-22,586.0,North,groundnut,2023,9,38
+2023-09-22,538.0,South,groundnut,2023,9,38
+2023-09-22,609.0,Littoral,groundnut,2023,9,38
+2023-09-29,618.0,North West,groundnut,2023,9,39
+2023-09-29,523.0,South West,groundnut,2023,9,39
+2023-09-29,530.0,West,groundnut,2023,9,39
+2023-09-29,620.0,Adamawa,groundnut,2023,9,39
+2023-09-29,621.0,Far North,groundnut,2023,9,39
+2023-09-29,625.0,Centre,groundnut,2023,9,39
+2023-09-29,548.0,East,groundnut,2023,9,39
+2023-09-29,636.0,North,groundnut,2023,9,39
+2023-09-29,614.0,South,groundnut,2023,9,39
+2023-09-29,631.0,Littoral,groundnut,2023,9,39
+2023-10-06,653.0,North West,groundnut,2023,10,40
+2023-10-06,632.0,South West,groundnut,2023,10,40
+2023-10-06,554.0,West,groundnut,2023,10,40
+2023-10-06,653.0,Adamawa,groundnut,2023,10,40
+2023-10-06,650.0,Far North,groundnut,2023,10,40
+2023-10-06,588.0,Centre,groundnut,2023,10,40
+2023-10-06,658.0,East,groundnut,2023,10,40
+2023-10-06,627.0,North,groundnut,2023,10,40
+2023-10-06,629.0,South,groundnut,2023,10,40
+2023-10-06,597.0,Littoral,groundnut,2023,10,40
+2023-10-13,687.0,North West,groundnut,2023,10,41
+2023-10-13,602.0,South West,groundnut,2023,10,41
+2023-10-13,556.0,West,groundnut,2023,10,41
+2023-10-13,726.0,Adamawa,groundnut,2023,10,41
+2023-10-13,591.0,Far North,groundnut,2023,10,41
+2023-10-13,667.0,Centre,groundnut,2023,10,41
+2023-10-13,714.0,East,groundnut,2023,10,41
+2023-10-13,658.0,North,groundnut,2023,10,41
+2023-10-13,692.0,South,groundnut,2023,10,41
+2023-10-13,722.0,Littoral,groundnut,2023,10,41
+2023-10-20,717.0,North West,groundnut,2023,10,42
+2023-10-20,664.0,South West,groundnut,2023,10,42
+2023-10-20,631.0,West,groundnut,2023,10,42
+2023-10-20,651.0,Adamawa,groundnut,2023,10,42
+2023-10-20,714.0,Far North,groundnut,2023,10,42
+2023-10-20,716.0,Centre,groundnut,2023,10,42
+2023-10-20,715.0,East,groundnut,2023,10,42
+2023-10-20,671.0,North,groundnut,2023,10,42
+2023-10-20,650.0,South,groundnut,2023,10,42
+2023-10-20,622.0,Littoral,groundnut,2023,10,42
+2023-10-27,711.0,North West,groundnut,2023,10,43
+2023-10-27,574.0,South West,groundnut,2023,10,43
+2023-10-27,726.0,West,groundnut,2023,10,43
+2023-10-27,565.0,Adamawa,groundnut,2023,10,43
+2023-10-27,728.0,Far North,groundnut,2023,10,43
+2023-10-27,644.0,Centre,groundnut,2023,10,43
+2023-10-27,583.0,East,groundnut,2023,10,43
+2023-10-27,682.0,North,groundnut,2023,10,43
+2023-10-27,720.0,South,groundnut,2023,10,43
+2023-10-27,641.0,Littoral,groundnut,2023,10,43
+2023-11-03,704.0,North West,groundnut,2023,11,44
+2023-11-03,756.0,South West,groundnut,2023,11,44
+2023-11-03,624.0,West,groundnut,2023,11,44
+2023-11-03,727.0,Adamawa,groundnut,2023,11,44
+2023-11-03,634.0,Far North,groundnut,2023,11,44
+2023-11-03,657.0,Centre,groundnut,2023,11,44
+2023-11-03,631.0,East,groundnut,2023,11,44
+2023-11-03,661.0,North,groundnut,2023,11,44
+2023-11-03,582.0,South,groundnut,2023,11,44
+2023-11-03,635.0,Littoral,groundnut,2023,11,44
+2023-11-10,791.0,North West,groundnut,2023,11,45
+2023-11-10,780.0,South West,groundnut,2023,11,45
+2023-11-10,721.0,West,groundnut,2023,11,45
+2023-11-10,854.0,Adamawa,groundnut,2023,11,45
+2023-11-10,741.0,Far North,groundnut,2023,11,45
+2023-11-10,705.0,Centre,groundnut,2023,11,45
+2023-11-10,774.0,East,groundnut,2023,11,45
+2023-11-10,813.0,North,groundnut,2023,11,45
+2023-11-10,664.0,South,groundnut,2023,11,45
+2023-11-10,718.0,Littoral,groundnut,2023,11,45
+2023-11-17,822.0,North West,groundnut,2023,11,46
+2023-11-17,758.0,South West,groundnut,2023,11,46
+2023-11-17,738.0,West,groundnut,2023,11,46
+2023-11-17,844.0,Adamawa,groundnut,2023,11,46
+2023-11-17,674.0,Far North,groundnut,2023,11,46
+2023-11-17,780.0,Centre,groundnut,2023,11,46
+2023-11-17,725.0,East,groundnut,2023,11,46
+2023-11-17,670.0,North,groundnut,2023,11,46
+2023-11-17,699.0,South,groundnut,2023,11,46
+2023-11-17,783.0,Littoral,groundnut,2023,11,46
+2023-11-24,869.0,North West,groundnut,2023,11,47
+2023-11-24,836.0,South West,groundnut,2023,11,47
+2023-11-24,743.0,West,groundnut,2023,11,47
+2023-11-24,701.0,Adamawa,groundnut,2023,11,47
+2023-11-24,768.0,Far North,groundnut,2023,11,47
+2023-11-24,753.0,Centre,groundnut,2023,11,47
+2023-11-24,873.0,East,groundnut,2023,11,47
+2023-11-24,876.0,North,groundnut,2023,11,47
+2023-11-24,757.0,South,groundnut,2023,11,47
+2023-11-24,703.0,Littoral,groundnut,2023,11,47
+2023-12-01,885.0,North West,groundnut,2023,12,48
+2023-12-01,860.0,South West,groundnut,2023,12,48
+2023-12-01,800.0,West,groundnut,2023,12,48
+2023-12-01,769.0,Adamawa,groundnut,2023,12,48
+2023-12-01,787.0,Far North,groundnut,2023,12,48
+2023-12-01,883.0,Centre,groundnut,2023,12,48
+2023-12-01,731.0,East,groundnut,2023,12,48
+2023-12-01,863.0,North,groundnut,2023,12,48
+2023-12-01,696.0,South,groundnut,2023,12,48
+2023-12-01,887.0,Littoral,groundnut,2023,12,48
+2023-12-08,679.0,North West,groundnut,2023,12,49
+2023-12-08,795.0,South West,groundnut,2023,12,49
+2023-12-08,730.0,West,groundnut,2023,12,49
+2023-12-08,810.0,Adamawa,groundnut,2023,12,49
+2023-12-08,737.0,Far North,groundnut,2023,12,49
+2023-12-08,697.0,Centre,groundnut,2023,12,49
+2023-12-08,784.0,East,groundnut,2023,12,49
+2023-12-08,796.0,North,groundnut,2023,12,49
+2023-12-08,773.0,South,groundnut,2023,12,49
+2023-12-08,774.0,Littoral,groundnut,2023,12,49
+2023-12-15,833.0,North West,groundnut,2023,12,50
+2023-12-15,820.0,South West,groundnut,2023,12,50
+2023-12-15,734.0,West,groundnut,2023,12,50
+2023-12-15,748.0,Adamawa,groundnut,2023,12,50
+2023-12-15,736.0,Far North,groundnut,2023,12,50
+2023-12-15,856.0,Centre,groundnut,2023,12,50
+2023-12-15,820.0,East,groundnut,2023,12,50
+2023-12-15,799.0,North,groundnut,2023,12,50
+2023-12-15,879.0,South,groundnut,2023,12,50
+2023-12-15,776.0,Littoral,groundnut,2023,12,50
