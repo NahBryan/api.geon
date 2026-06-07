@@ -163,7 +163,7 @@ if __name__ == "__main__":
     uvicorn.run(
         "app.main:app",
         host=settings.HOST,
-        port=settings.PORT,
+        port=settings.PORT or 8000,
         workers=1,          # Use 1 for development; set via env for production
         reload=settings.DEBUG,
         log_level=settings.LOG_LEVEL.lower(),
