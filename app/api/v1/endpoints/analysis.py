@@ -443,15 +443,14 @@ async def risk_score(
     current_user: User = Depends(get_current_user),
     db: AsyncSession = Depends(get_db),
 ):
+    print(5)
     tier = current_user.subscription_type.value
 
     req_hash = hash_risk_score(
         payload.crop,
-        payload.region,
         payload.land_size,
-        payload.soil_ph,
-        payload.rainfall,
-        payload.temperature,
+        payload.latitude,
+        payload.longitude,
         payload.market_access,
         tier,
     )
@@ -476,6 +475,7 @@ async def risk_score(
             "cached": True,
             "generated_at": db_result.created_at.isoformat(),
         }
+        print(6)
         await cache_set(req_hash, result, tier)
         await _log_request(
             current_user.id, req_hash, "risk_score", payload.model_dump(), True, db
@@ -484,11 +484,9 @@ async def risk_score(
 
     result = await run_risk_score(
         payload.crop,
-        payload.region,
         payload.land_size,
-        payload.soil_ph,
-        payload.rainfall,
-        payload.temperature,
+        payload.latitude,
+        payload.longitude,
         payload.market_access,
         tier,
     )
@@ -497,15 +495,17 @@ async def risk_score(
 
     risk_level_enum = RiskLevel(result["risk_level"])
 
+    env = result["environmental"]
+
     db.add(
         RiskScore(
             request_hash=req_hash,
             crop=payload.crop,
-            region=payload.region,
+            region=result["region"],
             land_size=payload.land_size,
-            soil_ph=payload.soil_ph,
-            rainfall=payload.rainfall,
-            temperature=payload.temperature,
+            soil_ph=env.get("soil_ph"),
+            rainfall=env.get("rainfall_mm"),
+            temperature=env.get("temperature_c"),
             market_access=payload.market_access,
             overall_risk_score=result["overall_risk_score"],
             risk_level=risk_level_enum,

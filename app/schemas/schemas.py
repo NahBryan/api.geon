@@ -124,7 +124,6 @@ class YieldPredictionRequest(BaseModel):
     land_size: float = Field(..., ge=0.1, le=10000, description="Land area in hectares", example=2.5)
     latitude: float = Field(..., ge=1.5, le=13.5, example=5.9631)
     longitude: float = Field(..., ge=8.0, le=16.2, example=10.1591)
-    elevation: float = Field(..., ge=0, le=4200, description="Elevation in meters", example=600)
     irrigation: bool = Field(default=False, description="Whether irrigation is used")
     fertilizer_type: Optional[str] = Field(
         default="none",
@@ -158,11 +157,9 @@ class YieldPredictionResponse(BaseModel):
 
 class RiskScoreRequest(BaseModel):
     crop: str = Field(..., example="maize")
-    region: str = Field(..., example="North West")
+    latitude: float = Field(..., ge=1.5, le=13.5, example=5.9631)
+    longitude: float = Field(..., ge=8.0, le=16.2, example=10.1591)
     land_size: float = Field(..., ge=0.1, le=10000, example=2.5)
-    soil_ph: float = Field(..., ge=3.0, le=9.0, example=6.2)
-    rainfall: float = Field(..., ge=0, le=5000, example=1800)
-    temperature: float = Field(..., ge=10, le=45, example=25)
     market_access: str = Field(
         ...,
         pattern="^(poor|moderate|good|excellent)$",
@@ -178,20 +175,11 @@ class RiskScoreRequest(BaseModel):
             raise ValueError(f"Unsupported crop '{v}'. Supported: {settings.SUPPORTED_CROPS}")
         return v.lower()
 
-    @field_validator("region")
-    @classmethod
-    def validate_region(cls, v: str) -> str:
-        from app.core.config import settings
-        valid = [r.lower() for r in settings.CAMEROON_REGIONS]
-        if v.lower() not in valid:
-            raise ValueError(f"Invalid region '{v}'. Valid regions: {settings.CAMEROON_REGIONS}")
-        return v
-
     class Config:
         json_schema_extra = {
             "example": {
-                "crop": "maize", "region": "North West", "land_size": 2.5,
-                "soil_ph": 6.2, "rainfall": 1800, "temperature": 25,
+                "latitude": 5.9631, "longitude": 10.1591,
+                "crop": "maize", "land_size": 2.5,
                 "market_access": "moderate"
             }
         }
@@ -200,6 +188,7 @@ class RiskScoreRequest(BaseModel):
 class RiskScoreResponse(BaseModel):
     overall_risk_score: float
     risk_level: str
+    region: str
     financial_risk: float
     climate_risk: float
     agronomic_risk: float

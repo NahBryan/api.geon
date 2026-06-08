@@ -23,7 +23,7 @@ from sklearn.metrics import mean_absolute_error, r2_score
 from sklearn.model_selection import train_test_split
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import LabelEncoder, StandardScaler
-from app.ml.pipelines.crop_suitability import _fetch_live_features
+from app.ml.pipelines.crop_suitability import _coords_to_region, _fetch_live_features
 warnings.filterwarnings("ignore")
 
 from app.core.config import settings
@@ -154,8 +154,8 @@ async def run_yield_prediction(
 ) -> Dict:
     """Main entry point for yield prediction."""
     import asyncio
-
-    env = _fetch_live_features(lat=latitude, lon=longitude)
+    region =  _coords_to_region(latitude, longitude) or "Centre"
+    env = await _fetch_live_features(lat=latitude, lon=longitude, region=region)
 
     ml_logger.info("Running yield prediction", crop=crop, tier=subscription_tier)
 
@@ -196,7 +196,7 @@ async def run_yield_prediction(
             "generated_at": datetime.utcnow().isoformat(),
         }
 
-    loop = asyncio.get_event_loop()
+    loop = asyncio.get_running_loop()
     return await loop.run_in_executor(None, _run)
 
 
@@ -229,7 +229,6 @@ def _compute_agronomic_risk(
     soil_ph: float,
     rainfall: float,
     temperature: float,
-    humidity: float,
     crop: str,
 ) -> float:
     """Rule-based + ML agronomic risk score (0-1)."""
@@ -290,7 +289,7 @@ def _generate_risk_factors(
     return factors or ["Risk levels are within acceptable agricultural thresholds"]
 
 
-def _generate_recommendations(overall: float, crop: str, region: str) -> List[str]:
+def _generate_recommendations(overall: float, crop: str) -> List[str]:
     recs = []
 
     if overall > 0.65:
@@ -307,17 +306,17 @@ def _generate_recommendations(overall: float, crop: str, region: str) -> List[st
 
 async def run_risk_score(
     crop: str,
-    region: str,
     land_size: float,
-    soil_ph: float,
-    rainfall: float,
-    temperature: float,
+    latitude: float,
+    longitude: float,
     market_access: str,
     subscription_tier: str = "free",
 ) -> Dict:
     """Main entry point for agricultural risk scoring."""
     import asyncio
-
+    region =  _coords_to_region(latitude, longitude) or "Centre"
+    env = await _fetch_live_features(lat=latitude, lon=longitude, region=region)
+    soil_ph, rainfall, temperature= env["soil_ph"], env["rainfall_mm"], env["temperature_c"]
     ml_logger.info("Running risk scoring", crop=crop, region=region, tier=subscription_tier)
 
     def _run():
@@ -333,7 +332,7 @@ async def run_risk_score(
         elif rainfall > 3000:
             climate_risk = min(climate_risk + 0.10, 1.0)
 
-        agronomic_risk = _compute_agronomic_risk(soil_ph, rainfall, temperature, 70, crop)
+        agronomic_risk = _compute_agronomic_risk(soil_ph, rainfall, temperature, crop)
 
         # Premium tier: include land size risk (very small or very large = higher risk)
         size_risk = 0.0
@@ -356,15 +355,14 @@ async def run_risk_score(
         risk_factors = _generate_risk_factors(
             financial_risk, climate_risk, agronomic_risk, region, crop, market_access
         )
-        recommendations = _generate_recommendations(overall, crop, region)
-
+        recommendations = _generate_recommendations(overall, crop)
         # Model metrics (simulated based on tier)
         metrics = {
             "free":    {"rmse": 0.19, "f1_score": 0.79},
             "medium":  {"rmse": 0.14, "f1_score": 0.87},
             "premium": {"rmse": 0.09, "f1_score": 0.93},
         }[subscription_tier]
-
+        
         return {
             "overall_risk_score": overall,
             "risk_level": _risk_level(overall),
@@ -372,6 +370,8 @@ async def run_risk_score(
             "climate_risk": round(climate_risk, 3),
             "agronomic_risk": round(agronomic_risk, 3),
             "risk_factors": risk_factors,
+            "region": region,
+            "environmental": env,
             "recommendations": recommendations,
             "metrics": metrics,
             "subscription_tier": subscription_tier,
@@ -379,5 +379,5 @@ async def run_risk_score(
             "generated_at": datetime.utcnow().isoformat(),
         }
 
-    loop = asyncio.get_event_loop()
+    loop = asyncio.get_running_loop()
     return await loop.run_in_executor(None, _run)

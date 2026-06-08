@@ -39,15 +39,15 @@ class RequestStatus(str, PyEnum):
 
 
 class ReportFormat(str, PyEnum):
-    JSON = "json"
-    PDF = "pdf"
+    json = "json"
+    pdf = "pdf"
 
 
 class RiskLevel(str, PyEnum):
-    LOW = "low"
-    MEDIUM = "medium"
-    HIGH = "high"
-    CRITICAL = "critical"
+    low = "low"
+    medium = "medium"
+    high = "high"
+    critical = "critical"
 
 
 # ─── User ─────────────────────────────────────────────────────────────────────
@@ -208,7 +208,7 @@ class RiskScore(Base):
     temperature = Column(Float, nullable=False)
     market_access = Column(String(50), nullable=False)
     overall_risk_score = Column(Float, nullable=False)
-    risk_level = Column(Enum(RiskLevel), nullable=False)
+    risk_level = Column(Enum(RiskLevel, name="risk_level"), nullable=False)
     financial_risk = Column(Float, nullable=False)
     climate_risk = Column(Float, nullable=False)
     agronomic_risk = Column(Float, nullable=False)
@@ -228,7 +228,7 @@ class Report(Base):
     user_id = Column(UUID(as_uuid=True), ForeignKey("users.id"), nullable=False)
     request_id = Column(UUID(as_uuid=True), nullable=False)
     report_type = Column(String(50), nullable=False)   # price_forecast | suitability | yield | risk
-    format = Column(Enum(ReportFormat), nullable=False)
+    format = Column(Enum(ReportFormat, name="report_format"), nullable=False)
     file_path = Column(String(500), nullable=True)
     file_size_bytes = Column(Integer, nullable=True)
     is_ready = Column(Boolean, default=False)

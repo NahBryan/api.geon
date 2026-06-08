@@ -121,11 +121,9 @@ def hash_yield_prediction(
 
 def hash_risk_score(
     crop: str,
-    region: str,
     land_size: float,
-    soil_ph: float,
-    rainfall: float,
-    temperature: float,
+    latitude: float,
+    longitude: float,
     market_access: str,
     subscription_tier: str,
 ) -> str:
@@ -133,11 +131,9 @@ def hash_risk_score(
         "risk_score",
         {
             "crop": crop,
-            "region": region,
             "land_size": land_size,
-            "soil_ph": soil_ph,
-            "rainfall": rainfall,
-            "temperature": temperature,
+            "latitude": latitude,
+            "longitude": longitude,
             "market_access": market_access,
         },
         subscription_tier,

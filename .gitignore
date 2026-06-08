@@ -33,7 +33,9 @@ coverage/
 .svelte-kit/
 .DS_Store
 Thumbs.db
-
+__pycache__/
+*.pyc
+.env
 
 .vscode/
 .idea/

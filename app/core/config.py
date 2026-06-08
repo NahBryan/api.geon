@@ -26,8 +26,8 @@ class Settings(BaseSettings):
     WORKERS: int = 4
 
     # ─── Database ─────────────────────────────────────────
-    DATABASE_URL: str = "postgresql+asyncpg://agri_user:agri_pass@localhost:5432/agri_risk_db"
-    DATABASE_URL_SYNC: str = "postgresql://agri_user:agri_pass@localhost:5432/agri_risk_db"
+    DATABASE_URL: str = "postgresql+asyncpg://postgresuser:bjS6iZJ2gB6JCSm1OCtb3TNLEMWywDWK@dpg-d8cbv6jtqb8s738e0ufg-a.oregon-postgres.render.com/postgresdb_j3yf"
+    DATABASE_URL_SYNC: str = "postgresql://postgresuser:bjS6iZJ2gB6JCSm1OCtb3TNLEMWywDWK@dpg-d8cbv6jtqb8s738e0ufg-a.oregon-postgres.render.com/postgresdb_j3yf"
     DB_POOL_SIZE: int = 10
     DB_MAX_OVERFLOW: int = 20
 
@@ -60,7 +60,7 @@ class Settings(BaseSettings):
     SENTRY_DSN: Optional[str] = None
 
     # ─── CORS ─────────────────────────────────────────────
-    CORS_ORIGINS: str = "http://localhost:3000,http://localhost:8080"
+    CORS_ORIGINS: str = "http://localhost:3000,http://localhost:8080,http://localhost:5173"
 
     @property
     def cors_origins_list(self) -> List[str]:

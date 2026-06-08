@@ -23,7 +23,8 @@ from app.core.config import settings
 from app.core.logging import ml_logger
 
 # ─── Data loading ─────────────────────────────────────────────────────────────
-PRICES_DIR = os.path.join(os.path.dirname(__file__), "..", "..", "data", "prices")
+BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..", ".."))
+PRICES_DIR = os.path.join(BASE_DIR, "data", "prices")
 MODEL_DIR  = os.path.join(os.path.dirname(__file__), "..", "..", "ml_models", "price")
 os.makedirs(MODEL_DIR, exist_ok=True)
 
@@ -106,22 +107,15 @@ def _arima_forecast(
     periods: int,
     freq: str,
 ) -> Tuple[List[Dict], Dict[str, float]]:
-    """
-    ARIMA/SARIMAX forecasting — used for FREE tier.
-    Generates gap + periods so that after trimming the caller
-    receives exactly `periods` future predictions from today.
-    """
     from statsmodels.tsa.statespace.sarimax import SARIMAX
     from statsmodels.tsa.stattools import adfuller
 
     series    = df["y"].values
     last_date = df["ds"].iloc[-1]
 
-    # Extra periods needed to reach today from end of training data
-    gap      = _gap_periods(last_date, freq)
-    total    = gap + periods
+    gap   = _gap_periods(last_date, freq)
+    total = gap + periods
 
-    # Stationarity check
     adf_stat = adfuller(series, autolag="AIC")
     d = 0 if adf_stat[1] < 0.05 else 1
 
@@ -139,28 +133,24 @@ def _arima_forecast(
 
     freq_delta = {"D": timedelta(days=1), "W": timedelta(weeks=1), "MS": timedelta(days=30)}[freq]
 
-    # Build full prediction list starting from the day after the last training date
     all_predictions = []
     for i in range(total):
         pred_date = last_date + freq_delta * (i + 1)
         all_predictions.append({
             "date":      pred_date.strftime("%Y-%m-%d"),
             "price_xaf": round(float(max(forecast_mean[i], 0)), 0),
-            "lower_ci":  round(float(max(conf_int.iloc[i, 0], 0)), 0),
-            "upper_ci":  round(float(conf_int.iloc[i, 1]), 0),
+            "lower_ci":  round(float(max(conf_int[i, 0], 0)), 0), # Fixed!
+            "upper_ci":  round(float(conf_int[i, 1]), 0),         # Fixed!
         })
 
-    # Discard past dates, keep only from today onwards
     future_predictions = _trim_to_future(all_predictions)[:periods]
 
-    # Evaluate on last 8 weeks of training data
-    in_sample  = fitted.fittedvalues[-8:]
-    actual_end = series[-8:]
-    metrics    = _evaluate_forecast(actual_end, in_sample)
+    fitted_values = np.asarray(fitted.fittedvalues)   # ensure it's a numpy array
+    in_sample     = fitted_values[-8:]
+    actual_end    = series[-8:]
+    metrics       = _evaluate_forecast(actual_end, in_sample)
 
     return future_predictions, metrics
-
-
 # ─── Prophet Forecaster ───────────────────────────────────────────────────────
 
 def _prophet_forecast(

@@ -184,7 +184,11 @@ def register_middleware(app: FastAPI) -> None:
     # CORS (must be outermost)
     app.add_middleware(
         CORSMiddleware,
-        allow_origins=settings.cors_origins_list,
+        # allow_origins=settings.cors_origins_list,
+        allow_origins=[
+            "http://localhost:5173",    # Vite dev server
+            "http://localhost:3000",    # React dev server (if used)
+        ],         
         allow_credentials=True,
         allow_methods=["*"],
         allow_headers=["*"],

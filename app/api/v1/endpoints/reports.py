@@ -291,7 +291,7 @@ async def download_report(
     # Increment download count
     report.download_count += 1
 
-    content_type = "application/pdf" if report.format == ReportFormat.PDF else "application/json"
+    content_type = "application/pdf" if report.format == ReportFormat.pdf else "application/json"
     return FileResponse(
         path=report.file_path,
         media_type=content_type,
