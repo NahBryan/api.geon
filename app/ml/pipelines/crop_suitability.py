@@ -370,7 +370,7 @@ async def run_crop_suitability(
 
         proba        = pipeline.predict_proba(features_array)[0]
         classes      = le.inverse_transform(np.arange(len(proba)))
-        scores       = {cls: float(p) for cls, p in zip(classes, proba)}
+        scores = {cls: round(float(prob), 3) for cls, prob in zip(classes, proba)}
         sorted_crops = sorted(scores.items(), key=lambda x: x[1], reverse=True)
 
         n_crops   = {"free": 3, "medium": 7, "premium": len(sorted_crops)}[subscription_tier]

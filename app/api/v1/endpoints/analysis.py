@@ -20,7 +20,7 @@ from typing import Optional
 from uuid import UUID
 
 from fastapi import APIRouter, Depends, HTTPException, Path, status
-from sqlalchemy import select
+from sqlalchemy import select, update
 from sqlalchemy.ext.asyncio import AsyncSession
 
 from app.core.config import settings
@@ -75,6 +75,14 @@ async def _check_db_cache(
     return result.scalar_one_or_none()
 
 
+type_map = {
+    "price_forecast": PriceForecast,
+    "crop_suitability": SuitabilityResult,
+    "yield_prediction": YieldPrediction,
+    "risk_score": RiskScore,
+}
+
+
 async def _log_request(
     user_id,
     request_hash: str,
@@ -89,10 +97,38 @@ async def _log_request(
         request_hash=request_hash,
         endpoint=endpoint,
         parameters=parameters,
+        result_table=type_map.get(endpoint).__tablename__,
         status=RequestStatus.completed,
         is_cached=is_cached,
     )
     db.add(log)
+    await db.flush()
+    TargetModel = type_map.get(endpoint)
+    if TargetModel is not None:
+        # Build the update expression programmatically
+        result = await db.execute(
+            select(TargetModel.id)
+            .where(TargetModel.request_hash == request_hash)
+            .limit(1)
+        )
+
+        result_id = result.scalar_one_or_none()
+        stmt = (
+            update(RequestLog)
+            .where(RequestLog.request_hash == request_hash)
+            .where(RequestLog.endpoint == endpoint)
+            .where(RequestLog.result_id == None)
+            .values(
+                result_id=result_id,
+            )
+        )
+
+        result = await db.execute(stmt)
+        await db.commit()
+        api_logger.info(
+            f"Backfilled request logs for endpoint '{endpoint}'",
+            updated_rows=result.rowcount,
+        )
     return log
 
 
@@ -443,7 +479,6 @@ async def risk_score(
     current_user: User = Depends(get_current_user),
     db: AsyncSession = Depends(get_db),
 ):
-    print(5)
     tier = current_user.subscription_type.value
 
     req_hash = hash_risk_score(
@@ -475,7 +510,7 @@ async def risk_score(
             "cached": True,
             "generated_at": db_result.created_at.isoformat(),
         }
-        print(6)
+
         await cache_set(req_hash, result, tier)
         await _log_request(
             current_user.id, req_hash, "risk_score", payload.model_dump(), True, db

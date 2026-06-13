@@ -186,7 +186,8 @@ def register_middleware(app: FastAPI) -> None:
         CORSMiddleware,
         # allow_origins=settings.cors_origins_list,
         allow_origins=[
-            "http://localhost:5173",    # Vite dev server
+            "http://localhost:5173", 
+            "http://127.0.0.1:5173",   # Vite dev server
             "http://localhost:3000",    # React dev server (if used)
         ],         
         allow_credentials=True,

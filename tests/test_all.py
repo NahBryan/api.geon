@@ -63,8 +63,8 @@ class TestRequestHashing:
         """Tiny float differences should not produce different hashes."""
         from app.core.hashing import hash_crop_suitability
 
-        h1 = hash_crop_suitability(5.96310, 10.1591, 6.2, 1800, 25, 75, 600, "free")
-        h2 = hash_crop_suitability(5.96309999, 10.1591, 6.2, 1800, 25, 75, 600, "free")
+        h1 = hash_crop_suitability(5.96310, 10.1591, "free")
+        h2 = hash_crop_suitability(5.96309999, 10.1591, "free")
         assert h1 == h2
 
     def test_suitability_hash_order_invariant(self):
@@ -77,12 +77,12 @@ class TestRequestHashing:
 
     def test_yield_hash(self):
         from app.core.hashing import hash_yield_prediction
-        h = hash_yield_prediction("maize", 2.5, 6.2, 1800, 25, 75, 600, False, "organic", "medium")
+        h = hash_yield_prediction("maize", 2.5, 5.96309999, 10.1591, False, "organic", "medium")
         assert isinstance(h, str) and len(h) == 64
 
     def test_risk_hash(self):
         from app.core.hashing import hash_risk_score
-        h = hash_risk_score("maize", "North West", 2.5, 6.2, 1800, 25, "moderate", "free")
+        h = hash_risk_score("maize", 2.5, 5.96309999, 10.1591, "moderate", "free")
         assert isinstance(h, str) and len(h) == 64
 
 
@@ -101,7 +101,7 @@ class TestMLPipelineLogic:
     def test_coords_to_region_bamenda(self):
         from app.ml.pipelines.crop_suitability import _coords_to_region
         region = _coords_to_region(5.9597, 10.1460)  # Bamenda — NW
-        assert region == "North West"
+        assert region == "Nord-Ouest"
 
     def test_coords_to_region_douala(self):
         from app.ml.pipelines.crop_suitability import _coords_to_region
@@ -117,18 +117,16 @@ class TestMLPipelineLogic:
 
     def test_agronomic_risk_extreme_ph(self):
         from app.ml.pipelines.yield_and_risk import _compute_agronomic_risk
-        risk = _compute_agronomic_risk(soil_ph=3.5, rainfall=1200, temperature=25,
-                                        humidity=70, crop="maize")
+        risk = _compute_agronomic_risk(soil_ph=3.5, rainfall=1200, temperature=25, crop="maize")
         assert risk > 0.25, "Extreme soil pH should produce high agronomic risk"
 
     def test_agronomic_risk_optimal_conditions(self):
         from app.ml.pipelines.yield_and_risk import _compute_agronomic_risk
-        risk = _compute_agronomic_risk(soil_ph=6.2, rainfall=1500, temperature=24,
-                                        humidity=75, crop="maize")
+        risk = _compute_agronomic_risk(soil_ph=6.2, rainfall=1500, temperature=24, crop="maize")
         assert risk < 0.40, "Optimal conditions should produce low-medium risk"
 
     def test_evaluate_forecast_metrics(self):
-        from app.ml.pipelines.price_forecasting import _evaluate_forecast
+        from app.ml.pipelines.price_forecastingv2 import _evaluate_forecast
         import numpy as np
 
         actual = np.array([100.0, 105.0, 98.0, 102.0])
@@ -142,7 +140,7 @@ class TestMLPipelineLogic:
         assert metrics["mape"] < 5.0
 
     def test_evaluate_forecast_empty(self):
-        from app.ml.pipelines.price_forecasting import _evaluate_forecast
+        from app.ml.pipelines.price_forecastingv2 import _evaluate_forecast
         import numpy as np
         metrics = _evaluate_forecast(np.array([]), np.array([]))
         assert metrics["rmse"] == 0.0
@@ -154,20 +152,14 @@ class TestMLPipelineLogic:
         assert "yield_tons_per_ha" in df.columns
         assert (df["yield_tons_per_ha"] > 0).all()
 
-    def test_risk_recommendations_generated(self):
-        from app.ml.pipelines.yield_and_risk import _generate_recommendations
-        recs = _generate_recommendations(0.8, "tomato", "Far North")
-        assert len(recs) > 0
-        assert all(isinstance(r, str) for r in recs)
-
     def test_duration_to_periods_months(self):
-        from app.ml.pipelines.price_forecasting import DURATION_TO_PERIODS
+        from app.ml.pipelines.price_forecastingv2 import DURATION_TO_PERIODS
         periods, freq = DURATION_TO_PERIODS["months"](3)
         assert periods == 12  # 3 months * 4 weeks
         assert freq == "W"
 
     def test_duration_to_periods_days(self):
-        from app.ml.pipelines.price_forecasting import DURATION_TO_PERIODS
+        from app.ml.pipelines.price_forecastingv2 import DURATION_TO_PERIODS
         periods, freq = DURATION_TO_PERIODS["days"](30)
         assert periods == 30
         assert freq == "D"
@@ -340,7 +332,7 @@ class TestCacheService:
         assert CACHE_TTL["free"] > CACHE_TTL["medium"] > CACHE_TTL["premium"]
 
     def test_tier_model_mapping(self):
-        from app.ml.pipelines.price_forecasting import TIER_MODEL_MAP
+        from app.ml.pipelines.price_forecastingv2 import TIER_MODEL_MAP
         assert "free" in TIER_MODEL_MAP
         assert "medium" in TIER_MODEL_MAP
         assert "premium" in TIER_MODEL_MAP

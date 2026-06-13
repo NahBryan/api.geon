@@ -154,7 +154,7 @@ async def run_yield_prediction(
 ) -> Dict:
     """Main entry point for yield prediction."""
     import asyncio
-    region =  _coords_to_region(latitude, longitude) or "Centre"
+    region =  _coords_to_region(latitude, longitude)
     env = await _fetch_live_features(lat=latitude, lon=longitude, region=region)
 
     ml_logger.info("Running yield prediction", crop=crop, tier=subscription_tier)
@@ -314,7 +314,7 @@ async def run_risk_score(
 ) -> Dict:
     """Main entry point for agricultural risk scoring."""
     import asyncio
-    region =  _coords_to_region(latitude, longitude) or "Centre"
+    region =  _coords_to_region(latitude, longitude)
     env = await _fetch_live_features(lat=latitude, lon=longitude, region=region)
     soil_ph, rainfall, temperature= env["soil_ph"], env["rainfall_mm"], env["temperature_c"]
     ml_logger.info("Running risk scoring", crop=crop, region=region, tier=subscription_tier)

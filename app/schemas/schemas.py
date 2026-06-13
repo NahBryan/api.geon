@@ -219,6 +219,10 @@ class ReportStatusResponse(BaseModel):
     download_url: Optional[str] = None
     created_at: datetime
 
+class HistoryResponse(BaseModel):
+    user_id: UUID
+    total_activities: int
+    history: List[Dict[str, Any]]
 
 # ─── General Schemas ──────────────────────────────────────────────────────────
 

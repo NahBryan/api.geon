@@ -26,6 +26,7 @@ out/
 tmp/
 .cache/
 coverage/
+.coverage
 .next/
 .nuxt/
 .vite/
@@ -34,9 +35,11 @@ coverage/
 .DS_Store
 Thumbs.db
 __pycache__/
+.pytest_cache__/
+outputs/
 *.pyc
 .env
-
+htmlcov/
 .vscode/
 .idea/
 *.swp
